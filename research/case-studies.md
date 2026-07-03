@@ -51,6 +51,30 @@ Questions pour Horizon :
 - Quels mécanismes évitent que les ménages pauvres supportent une part disproportionnée de l'effort ?
 - À partir de quel seuil une restriction individuelle devient-elle légitime ?
 
+### Crises climatiques récentes et risques composés
+
+Tester la capacité du modèle à traiter des crises qui ne restent pas isolées : chaleur, eau, alimentation, santé, logement, biodiversité, énergie, assurances, migrations et infrastructures peuvent se dégrader en chaîne.
+
+Note méthodologique : le terme "exponentiel" doit être utilisé avec prudence. Certains indicateurs climatiques évoluent par accélération, par accumulation ou par franchissement de seuils ; chaque cas doit donc distinguer tendance de fond, variabilité naturelle, attribution climatique et vulnérabilité sociale.
+
+Situations réelles à étudier :
+
+- **Température mondiale, 2024.** Copernicus indique que 2024 est l'année la plus chaude jamais enregistrée au niveau mondial et la première année civile à dépasser 1,5 °C au-dessus du niveau préindustriel ; le même communiqué précise que cela ne signifie pas, à lui seul, un dépassement juridique de l'objectif de l'Accord de Paris, qui se juge sur une moyenne de long terme ([Copernicus](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level)).
+- **Dôme de chaleur du Pacifique nord-ouest, 2021.** World Weather Attribution estime que l'épisode de chaleur extrême observé autour de Seattle, Portland et Vancouver aurait été virtuellement impossible sans changement climatique d'origine humaine ; l'analyse note aussi que Lytton, au Canada, a atteint 49,6 °C avant d'être largement détruite par un incendie ([World Weather Attribution](https://www.worldweatherattribution.org/western-north-american-extreme-heat-virtually-impossible-without-human-caused-climate-change/)).
+- **Inondations au Pakistan, 2022.** La Banque mondiale estime que les inondations ont touché 33 millions de personnes, causé plus de 1 730 décès, produit plus de 30 milliards de dollars de dommages et pertes économiques, et nécessité au moins 16,3 milliards de dollars pour la réhabilitation et la reconstruction résiliente ([Banque mondiale](https://www.worldbank.org/en/news/press-release/2022/10/28/pakistan-flood-damages-and-economic-losses-over-usd-30-billion-and-reconstruction-needs-over-usd-16-billion-new-assessme)).
+- **Sécheresse dans la Corne de l'Afrique, 2020-2023.** Axios rapporte une analyse de World Weather Attribution selon laquelle cinq saisons des pluies consécutivement déficitaires ont produit une sécheresse exceptionnelle en Somalie, en Éthiopie et au Kenya, et que le changement climatique d'origine humaine a fortement aggravé l'événement par hausse des températures et évapotranspiration accrue ([Axios](https://www.axios.com/2023/04/27/drought-horn-africa-climate-change-role)).
+- **Incendies au Canada et fumées transfrontalières, 2023.** NASA Earth Observatory a documenté le transport de fumées issues des incendies canadiens jusqu'à l'Europe en juin 2023, montrant qu'une crise climatique locale peut devenir un problème sanitaire, diplomatique et opérationnel à très longue distance ([NASA Earth Observatory](https://earthobservatory.nasa.gov/images/151511/canadian-smoke-reaches-europe)).
+- **Blanchissement corallien mondial, 2024.** La NOAA a confirmé en avril 2024 le quatrième épisode mondial de blanchissement corallien, le deuxième en dix ans, sous l'effet du stress thermique marin dans l'Atlantique, le Pacifique et l'océan Indien ([NOAA](https://www.noaa.gov/news-release/noaa-confirms-4th-global-coral-bleaching-event)).
+
+Questions pour Horizon :
+
+- Quels indicateurs déclenchent un statut de crise avant que les systèmes vitaux ne soient déjà dégradés ?
+- Comment arbitrer lorsque plusieurs droits du socle vital entrent simultanément sous tension : eau, logement, santé, alimentation, énergie et mobilité ?
+- Qui décide des relocalisations, interdictions de construire, restrictions d'usage ou investissements d'adaptation lorsque les données sont robustes mais socialement douloureuses ?
+- Comment répartir le coût de l'adaptation entre État, entreprises, propriétaires, assurances, ménages et coopération internationale ?
+- Comment empêcher que les ménages pauvres, les territoires vulnérables ou les pays peu responsables des émissions historiques supportent l'essentiel du coût ?
+- Comment communiquer l'accélération des risques sans basculer dans la propagande, la panique ou le déni ?
+
 ### Chômage technologique massif
 
 Tester le socle vital, la fiscalité de l'automatisation, la réduction du temps de travail et la stabilité sociale.
