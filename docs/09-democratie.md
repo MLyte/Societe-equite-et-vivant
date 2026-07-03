@@ -40,6 +40,8 @@ Le modèle démocratique doit :
 
 Les citoyens choisissent entre des modèles validés scientifiquement.
 
+Cette validation ne remplace pas la démocratie. Elle fixe le périmètre des trajectoires compatibles avec les contraintes établies.
+
 Ils participent notamment aux arbitrages portant sur :
 
 - la justice sociale ;
@@ -48,6 +50,18 @@ Ils participent notamment aux arbitrages portant sur :
 - les seuils de dignité du socle vital ;
 - la répartition de l'effort entre groupes sociaux ;
 - les limites acceptables à certaines consommations non essentielles.
+
+### Mécanismes démocratiques retenus
+
+Le modèle retient plusieurs mécanismes complémentaires :
+
+- assemblées citoyennes de révision sur les priorités sociales ;
+- droit de recours individuel et collectif contre les décisions fondées sur un modèle validé ;
+- publication des hypothèses, incertitudes et alternatives rejetées ;
+- contrôle parlementaire des usages d'urgence ;
+- contre-propositions citoyennes ou territoriales lorsqu'elles restent compatibles avec les contraintes physiques.
+
+Les plans sectoriels, par exemple sur l'énergie, le logement, la mobilité ou l'alimentation, doivent donc être traités comme des outils techniques soumis à arbitrage démocratique.
 
 ---
 
@@ -81,15 +95,16 @@ Peut être efficace à court terme, mais risque de perdre la légitimité et d'e
 - Les modèles validés peuvent être présentés de manière biaisée.
 - La participation citoyenne peut devenir symbolique.
 - Les institutions peuvent être trop complexes pour être contrôlées.
+- Les plans sectoriels peuvent transférer des coûts importants vers certains territoires ou professions.
 
 ---
 
 ## Questions ouvertes
 
-- Quelle place pour le tirage au sort ?
-- Quelle place pour les référendums ?
-- Comment informer les citoyens sans propagande institutionnelle ?
-- Comment gérer une opposition populaire à un modèle scientifiquement robuste ?
+- Place exacte du tirage au sort dans les assemblées citoyennes.
+- Conditions d'usage des référendums.
+- Format d'information publique permettant d'éviter la propagande institutionnelle.
+- Procédure à suivre lorsqu'une majorité refuse une trajectoire scientifiquement robuste mais socialement contestée.
 
 ---
 

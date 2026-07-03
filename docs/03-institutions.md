@@ -55,6 +55,20 @@ Il doit être :
 - auditable ;
 - protégé des conflits d'intérêts.
 
+Il ne décide pas seul des priorités collectives. Il établit les contraintes, les incertitudes et les trajectoires compatibles.
+
+### Autorité d'audit scientifique et algorithmique
+
+Une autorité séparée du consortium contrôle les modèles, les données, les conflits d'intérêts et les systèmes d'IA utilisés.
+
+Elle doit pouvoir :
+
+- publier des audits indépendants ;
+- signaler les désaccords minoritaires ;
+- vérifier les financements et affiliations ;
+- protéger les lanceurs d'alerte ;
+- demander la suspension d'un modèle en cas de défaut grave.
+
 ### IA publique d'analyse
 
 Une infrastructure IA publique assiste le consortium.
@@ -68,6 +82,8 @@ Elle sert à :
 - rendre visibles les arbitrages.
 
 Elle ne décide pas.
+
+Elle ne peut pas produire seule une décision souveraine, ni remplacer une justification humaine.
 
 ### Responsables politiques
 
@@ -96,6 +112,8 @@ Ils participent au choix entre des modèles validés, notamment sur :
 - les priorités budgétaires ;
 - les limites acceptables à certaines libertés de consommation.
 
+Ils doivent aussi pouvoir proposer des contre-propositions compatibles avec les contraintes physiques établies.
+
 ### Justice et contre-pouvoirs
 
 Une justice indépendante doit pouvoir bloquer une politique qui viole :
@@ -104,6 +122,21 @@ Une justice indépendante doit pouvoir bloquer une politique qui viole :
 - les règles de transparence ;
 - les objectifs constitutionnels ;
 - les procédures de validation scientifique.
+
+Les recours doivent être possibles de manière individuelle et collective lorsqu'une décision publique s'appuie sur un modèle validé.
+
+### Lisibilité institutionnelle
+
+Chaque décision importante doit indiquer :
+
+- qui propose ;
+- qui valide ;
+- qui applique ;
+- qui contrôle ;
+- qui peut contester ;
+- qui peut annuler.
+
+Cette cartographie des responsabilités est une condition de contrôle démocratique, pas un simple outil pédagogique.
 
 ---
 
@@ -135,20 +168,20 @@ Peut améliorer la cohérence technique, mais affaiblit la légitimité démocra
 
 ## Critiques
 
-- Qui nomme les scientifiques ?
-- Comment éviter un consensus artificiel ?
-- Que faire si deux modèles scientifiques sont également robustes ?
-- Comment empêcher les institutions scientifiques d'être capturées ?
-- Comment rendre tout cela compréhensible sans simplification trompeuse ?
+- La nomination des scientifiques peut devenir un point de capture.
+- Un consensus artificiel peut masquer des désaccords légitimes.
+- Deux modèles robustes peuvent mener à des choix sociaux différents.
+- La complexité peut rendre le contrôle citoyen difficile.
+- Les usages d'urgence peuvent élargir excessivement le pouvoir exécutif.
 
 ---
 
 ## Questions ouvertes
 
-- Quelle durée de mandat pour les membres du consortium ?
-- Faut-il un tirage au sort partiel des panels citoyens ?
-- Quel niveau de contrainte juridique donner aux recommandations scientifiques ?
-- Comment arbitrer entre urgence et délibération ?
+- Durée exacte des mandats scientifiques.
+- Modalités de tirage au sort ou de sélection des panels citoyens.
+- Seuils permettant de déclencher une procédure d'urgence.
+- Pouvoirs précis de sanction de l'autorité d'audit.
 
 ---
 

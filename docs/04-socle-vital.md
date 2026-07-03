@@ -49,6 +49,18 @@ Il ne fournit pas nécessairement tout gratuitement et de manière uniforme. Il 
 
 Au-delà de ce socle, chacun peut consommer davantage, à condition d'en assumer les coûts économiques et écologiques.
 
+Le socle vital doit être conçu comme un droit opposable, non comme une aide discrétionnaire. Une personne ou un territoire doit pouvoir contester une insuffisance d'accès.
+
+### Garde-fous de dignité
+
+Le socle vital doit respecter plusieurs limites :
+
+- seuils minimaux publics et révisables pour chaque composante ;
+- procédure de recours en cas d'accès insuffisant ;
+- révision périodique par expertise, délibération citoyenne et contrôle des droits fondamentaux ;
+- interdiction d'utiliser le socle comme sanction morale ou outil de discipline sociale ;
+- distinction explicite entre sobriété écologique et pauvreté imposée.
+
 ---
 
 ## Justification
@@ -84,6 +96,7 @@ Moins coûteuses, mais plus complexes, stigmatisantes et sensibles aux effets de
 - Comment empêcher les prix privés d'absorber les aides publiques ?
 - Comment financer durablement le socle ?
 - Comment éviter les abus sans créer une surveillance excessive ?
+- Comment garantir le socle sans humilier ou infantiliser les bénéficiaires ?
 
 ---
 
@@ -93,6 +106,7 @@ Moins coûteuses, mais plus complexes, stigmatisantes et sensibles aux effets de
 - Faut-il des quotas écologiques individuels ?
 - Quelle part du socle doit être locale ?
 - Comment traiter les préférences alimentaires, culturelles ou familiales ?
+- Quels seuils chiffrés retenir pour chaque composante sans figer le modèle ?
 
 ---
 
