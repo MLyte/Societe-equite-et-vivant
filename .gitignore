@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Generated outputs
+/dist/
+/build/
+/site/
+
+# Local notes
+.local/
+notes-private/
