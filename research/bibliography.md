@@ -25,8 +25,8 @@ Les références doivent être ajoutées avec prudence. Ne pas utiliser ce fichi
   Usage : scénarios énergétiques mondiaux, sécurité d'approvisionnement, émissions, investissements et politiques publiques.
 - International Energy Agency, 2023, [*Net Zero Roadmap: A Global Pathway to Keep the 1.5 °C Goal in Reach*](https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-c-goal-in-reach).
   Usage : trajectoire normative de décarbonation compatible avec l'objectif de 1,5 °C.
-- The Shift Project, *Le Plan de transformation de l'économie française*. `[source à vérifier]`
-  Usage : hypothèses françaises sur sobriété, électrification, dépendance aux énergies fossiles et transformation sectorielle.
+- The Shift Project, [*Le Plan de transformation de l'économie française*](https://ilnousfautunplan.fr/).
+  Usage : exemple français de planification sectorielle bas-carbone ; le site présente une trajectoire visant une baisse des émissions de gaz à effet de serre de 5 % par an, structurée en 15 secteurs, avec des propositions sur énergie, emploi, industrie, logement, agriculture, mobilité, santé, administration publique, numérique, territoires et finance.
 - UNECE, 2022, *Life Cycle Assessment of Electricity Generation Options*. `[source à vérifier]`
   Usage : comparaison des impacts de cycle de vie des options de production électrique, à utiliser avec prudence sur les hypothèses nationales.
 

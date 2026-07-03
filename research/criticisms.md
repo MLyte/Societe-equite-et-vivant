@@ -73,3 +73,19 @@ La documentation, les tableaux de bord publics et les procédures simples sont e
 ### Statut
 
 Question ouverte.
+
+---
+
+## Critique 6 — La planification sectorielle peut devenir descendante
+
+Un plan sectoriel peut être rigoureux sur les flux physiques et économiques, tout en restant insuffisant sur la légitimité démocratique des arbitrages.
+
+Le Plan de transformation de l'économie française du Shift Project est un exemple utile de structuration sectorielle : il présente une trajectoire de baisse des émissions de gaz à effet de serre de 5 % par an et organise ses propositions autour de 15 secteurs ([source](https://ilnousfautunplan.fr/)). Mais ce type d'approche ne règle pas, à lui seul, la question de savoir qui arbitre les pertes, les contraintes, les priorités territoriales et les conflits de valeurs.
+
+### Réponse provisoire
+
+Project Horizon peut s'inspirer de cette méthode pour documenter les contraintes par secteur, mais doit ajouter des mécanismes démocratiques explicites : délibération citoyenne, recours, contrôle des droits fondamentaux, transparence des hypothèses et révision périodique.
+
+### Statut
+
+À intégrer dans l'architecture institutionnelle.
