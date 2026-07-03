@@ -38,6 +38,12 @@
   - [Information, médias et manipulation](docs/12-information-medias.md)
   - [Droit, justice et État de droit](docs/13-droit-justice.md)
   - [Santé et éducation](docs/14-sante-education.md)
+- Conditions matérielles
+  - [Finance, dette et investissement](docs/15-finance-dette-investissement.md)
+  - [Logement, foncier et urbanisme](docs/16-logement-foncier-urbanisme.md)
+  - [Alimentation, eau et sols](docs/17-alimentation-eau-sols.md)
+  - [Indicateurs, audits et mesure des résultats](docs/18-indicateurs-audits.md)
+  - [Sécurité civile et gestion de crise](docs/19-securite-civile-crises.md)
 - Références internes
   - [Glossaire](docs/glossary.md)
   - [FAQ](docs/faq.md)
@@ -139,6 +145,11 @@ Le projet utilise quatre niveaux de certitude :
 │   ├── 12-information-medias.md
 │   ├── 13-droit-justice.md
 │   ├── 14-sante-education.md
+│   ├── 15-finance-dette-investissement.md
+│   ├── 16-logement-foncier-urbanisme.md
+│   ├── 17-alimentation-eau-sols.md
+│   ├── 18-indicateurs-audits.md
+│   ├── 19-securite-civile-crises.md
 │   ├── _template.md
 │   ├── glossary.md
 │   └── faq.md

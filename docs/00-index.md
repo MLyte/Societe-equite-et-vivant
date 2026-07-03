@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.3"
+version: "0.4"
 last_updated: "2026-07-03"
 confidence: "draft"
 ---
@@ -27,6 +27,11 @@ Ce fichier sert de carte d'entrée pour Project Horizon.
 - `12-information-medias.md` : traite de l'information, des médias, des plateformes et des risques de manipulation.
 - `13-droit-justice.md` : précise la continuité juridique, les garanties judiciaires et les révisions du droit systémique.
 - `14-sante-education.md` : relie santé publique, bioéthique, éducation et culture scientifique.
+- `15-finance-dette-investissement.md` : définit le financement du socle, de la transition et des investissements longs.
+- `16-logement-foncier-urbanisme.md` : traite du logement, du foncier, de la rénovation et de l'urbanisme.
+- `17-alimentation-eau-sols.md` : relie alimentation, eau, sols, agriculture et résilience alimentaire.
+- `18-indicateurs-audits.md` : définit les indicateurs, audits et mécanismes de correction.
+- `19-securite-civile-crises.md` : traite de la sécurité civile, des crises et de la continuité du socle vital.
 - `glossary.md` : centralise les définitions.
 - `faq.md` : répond aux objections courantes.
 
@@ -45,6 +50,8 @@ Pour comprendre l'état actuel du modèle, lire d'abord :
 Les autres chapitres déclinent ensuite ces choix dans les domaines sociaux, économiques, énergétiques, environnementaux, internationaux et transitoires.
 
 Les chapitres `12`, `13` et `14` complètent les angles morts prioritaires : information publique, État de droit, santé et formation des citoyens.
+
+Les chapitres `15` à `19` ajoutent les conditions matérielles et opérationnelles : financement, logement, alimentation, mesure des résultats et continuité civile en crise.
 
 ---
 
