@@ -4,6 +4,8 @@
 
 La langue principale est le français.
 
+Les documents rédigés en français doivent utiliser les accents, apostrophes et signes typographiques français usuels. Ne pas produire de texte volontairement désaccentué, sauf pour les noms de fichiers, identifiants techniques, commandes, URLs ou contraintes explicites de compatibilité.
+
 Les noms de fichiers restent simples, en minuscules, sans accents lorsque c'est préférable pour la compatibilité.
 
 ---

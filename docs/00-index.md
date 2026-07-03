@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "draft"
 ---
@@ -24,6 +24,9 @@ Ce fichier sert de carte d'entrée pour Project Horizon.
 - `09-democratie.md` : décrit la légitimité démocratique et la participation citoyenne.
 - `10-international.md` : traite de la coopération mondiale, de la relocalisation et des dépendances critiques.
 - `11-transition.md` : propose une trajectoire progressive de mise en œuvre.
+- `12-information-medias.md` : traite de l'information, des médias, des plateformes et des risques de manipulation.
+- `13-droit-justice.md` : précise la continuité juridique, les garanties judiciaires et les révisions du droit systémique.
+- `14-sante-education.md` : relie santé publique, bioéthique, éducation et culture scientifique.
 - `glossary.md` : centralise les définitions.
 - `faq.md` : répond aux objections courantes.
 
@@ -40,6 +43,8 @@ Pour comprendre l'état actuel du modèle, lire d'abord :
 5. `08-ia.md`.
 
 Les autres chapitres déclinent ensuite ces choix dans les domaines sociaux, économiques, énergétiques, environnementaux, internationaux et transitoires.
+
+Les chapitres `12`, `13` et `14` complètent les angles morts prioritaires : information publique, État de droit, santé et formation des citoyens.
 
 ---
 

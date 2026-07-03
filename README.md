@@ -1,3 +1,5 @@
+![Project Horizon](assets/projet-horizon-visual.png)
+
 # Project Horizon
 
 **Project Horizon** est un projet de conception institutionnelle.
