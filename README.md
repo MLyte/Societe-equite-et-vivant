@@ -1,4 +1,6 @@
-<img src="assets/projet-horizon-visual.png" alt="Project Horizon" width="500">
+<p align="center">
+  <img src="assets/projet-horizon-visual.png" alt="Project Horizon" width="500">
+</p>
 
 # Project Horizon
 
@@ -141,3 +143,17 @@ Voir `LICENSE` pour plus de détails.
 Project Horizon est actuellement un **working draft**.
 
 La priorité n'est pas encore de publier, convaincre ou fédérer. La priorité est de construire un modèle assez clair pour pouvoir être critiqué sérieusement.
+
+---
+
+## Pourquoi ce projet ?
+
+J'ai eu envie de créer Project Horizon parce que beaucoup de débats publics donnent l'impression de choisir entre des étiquettes déjà connues : socialisme, capitalisme, technocratie, autoritarisme, décroissance ou solution miracle.
+
+Or les problèmes réels ne se rangent pas proprement dans ces cases. Le climat, l'énergie, l'IA, la santé, le logement, l'information, le droit et la stabilité sociale touchent d'abord à des besoins humains concrets, à des limites physiques et à des choix collectifs difficiles.
+
+L'idée de départ est donc de chercher un cadre qui parte moins des doctrines et davantage des conditions de vie : garantir la dignité, préserver les libertés, empêcher la capture par les lobbies, rendre les décisions vérifiables, et éviter qu'un parti, un marché, une IA ou une élite fermée puisse décider seul.
+
+Le projet est open source parce qu'un tel modèle ne devrait pas dépendre d'une intuition privée ou d'un cercle restreint. Il doit pouvoir être lu, critiqué, corrigé, sourcé et contredit par des personnes qui ne partagent pas forcément les mêmes hypothèses de départ.
+
+Project Horizon n'est donc pas une réponse définitive. C'est une tentative de construire un espace de travail rigoureux autour d'une question simple : comment organiser une société qui serve d'abord les besoins humains, sans nier le réel, sans abandonner les libertés, et sans laisser les décisions longues aux seuls intérêts de court terme ?
