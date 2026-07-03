@@ -103,3 +103,23 @@ Le dépôt reste sous licence Creative Commons Attribution 4.0 pour cette phase.
 ### Raison
 
 Licence simple, lisible et suffisante pour un projet principalement documentaire.
+
+---
+
+## Decision 0009 — Les critiques majeures reçoivent des garde-fous institutionnels
+
+Date : 2026-07-03
+
+Pour la v0.1, les critiques principales ne doivent pas rester de simples objections ouvertes. Le modèle retient les réponses institutionnelles suivantes :
+
+- séparation des rôles entre science, politique, citoyens, justice et audit ;
+- recours individuel et collectif contre les décisions fondées sur un modèle validé ;
+- autorité d'audit scientifique et algorithmique séparée du consortium scientifique ;
+- IA publique limitée à l'analyse, la simulation et la comparaison ;
+- socle vital conçu comme droit opposable ;
+- lisibilité institutionnelle comme contrainte de conception ;
+- plans sectoriels soumis à arbitrage citoyen, recours et révision.
+
+### Raison
+
+Un modèle qui reconnaît les risques sans choisir de mécanismes de contrôle reste trop théorique. Ces garde-fous donnent une direction vérifiable sans transformer Project Horizon en technocratie ou en gouvernement par IA.
