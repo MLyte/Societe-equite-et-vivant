@@ -1,4 +1,4 @@
-![Project Horizon](assets/projet-horizon-visual.png)
+<img src="assets/projet-horizon-visual.png" alt="Project Horizon" width="500">
 
 # Project Horizon
 
