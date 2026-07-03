@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
