@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.5"
+version: "0.8"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -42,6 +42,22 @@ Le modèle institutionnel doit :
 
 ## Proposition
 
+### Architecture en couches
+
+Le modèle Horizon doit être compris comme une architecture en couches, et non comme un transfert global du pouvoir vers les scientifiques ou l'IA.
+
+Les couches retenues sont les suivantes :
+
+1. les droits fondamentaux, la justice indépendante et les garanties constitutionnelles ;
+2. les citoyens, le Parlement et les assemblées citoyennes, qui fixent le mandat, les priorités, les seuils sociaux et les limites acceptables ;
+3. le consortium scientifique, qui établit les contraintes, modèles, scénarios, incertitudes et désaccords ;
+4. l'autorité d'audit scientifique et algorithmique, qui contrôle les données, méthodes, conflits d'intérêts et systèmes d'IA ;
+5. le gouvernement, qui coordonne la mise en œuvre, assume la responsabilité publique et propose les budgets ;
+6. les administrations et niveaux territoriaux, qui exécutent les politiques au plus près du terrain ;
+7. les citoyens, juridictions, médias, chercheurs et contre-pouvoirs, qui peuvent contester, corriger ou faire annuler une décision.
+
+Cette séparation permet d'éviter deux confusions : croire que les experts gouvernent seuls, ou croire que les élus peuvent réécrire les contraintes du réel.
+
 ### Consortium scientifique international
 
 Un consortium scientifique indépendant construit les modèles de politiques publiques compatibles avec les contraintes physiques, sanitaires, économiques et sociales.
@@ -51,11 +67,50 @@ Il doit être :
 - international ;
 - multidisciplinaire ;
 - transparent ;
-- renouvelé régulièrement ;
+- renouvelé par rotation échelonnée ;
 - auditable ;
 - protégé des conflits d'intérêts.
 
 Il ne décide pas seul des priorités collectives. Il établit les contraintes, les incertitudes et les trajectoires compatibles.
+
+### Sélection et mandat des scientifiques
+
+La sélection des scientifiques ne doit pas supposer qu'une personne est neutre par nature. Elle doit construire une neutralité de procédure : compétence vérifiée, pluralisme, transparence, contradiction, audit et possibilité de révocation.
+
+La compétence vérifiée est une condition nécessaire, mais elle ne doit pas se réduire au diplôme, au statut académique ou à la réputation institutionnelle. Elle doit être évaluée par des éléments observables : formation, travaux vérifiables, expérience utile, qualité méthodologique, capacité à traiter l'incertitude, capacité à rendre un raisonnement contestable et absence de conflit d'intérêts bloquant.
+
+Le modèle retient des mandats de durée moyenne, généralement quatre à six ans selon le domaine. Cette durée est assez longue pour permettre un travail sérieux, mais assez courte pour éviter l'installation permanente d'une caste. Les mandats sont échelonnés : seule une partie des membres est renouvelée chaque année.
+
+La sélection suit plusieurs étapes :
+
+- appel public à candidatures ou propositions par institutions scientifiques reconnues ;
+- vérification des compétences par travaux, expériences, données produites et capacité à expliciter les incertitudes ;
+- déclaration publique des financements, affiliations, conseils rémunérés, brevets, participations, conflits d'intérêts et liens industriels ;
+- évaluation par un jury tournant, pluraliste et partiellement international ;
+- tirage au sort partiel parmi les profils qualifiés lorsque plusieurs candidats présentent un niveau comparable ;
+- obligation de publier méthodes, hypothèses, désaccords et limites des modèles proposés.
+
+Un scientifique ou organisme d'expertise ne doit pas être révoqué parce que ses conclusions déplaisent. La révocation doit viser des fautes procédurales ou scientifiques documentées : conflit d'intérêts dissimulé, fraude, manipulation de données, refus injustifié de publier les méthodes, dépendance financière incompatible ou manquement grave à l'obligation de contradiction.
+
+Pour éviter la démotivation, le mandat doit donner du temps, des moyens, une reconnaissance publique, une protection contre les pressions politiques ou économiques et une liberté de publier les désaccords minoritaires. Pour éviter la mollesse institutionnelle, il doit rester non propriétaire, audité et non renouvelable immédiatement sauf justification exceptionnelle.
+
+### Conditions matérielles des mandats scientifiques
+
+Un mandat scientifique ou d'audit ne doit pas dépendre du bénévolat, d'une faveur privée ou d'une carrière parallèle financée par les acteurs concernés.
+
+Dans le modèle Horizon, les scientifiques vivent d'abord comme les autres citoyens : le socle vital garantit les besoins fondamentaux. Leur mandat public ajoute une rémunération transparente, suffisante et plafonnée, justifiée par le temps de travail, la responsabilité, la rareté des compétences et les contraintes d'indépendance.
+
+Cette rémunération doit respecter plusieurs règles :
+
+- financement public ou mutualisé par une contribution affectée, jamais par un acteur directement concerné par la décision ;
+- barème publié, sans prime liée au sens des conclusions ;
+- prise en charge des moyens de travail nécessaires : données, équipe, documentation, déplacement, sécurité, traduction, accès aux infrastructures ;
+- déclaration publique du patrimoine pertinent, des revenus externes, des cadeaux, invitations, contrats, conseils rémunérés et liens familiaux ou professionnels significatifs ;
+- interdiction temporaire des rémunérations, postes, conseils ou avantages provenant d'un acteur concerné par le domaine traité ;
+- délai de carence après mandat avant de rejoindre une entreprise, fondation, cabinet ou organisme directement affecté par les décisions prises ;
+- protection contre les représailles politiques, économiques ou médiatiques lorsqu'un désaccord minoritaire est publié de bonne foi.
+
+L'attrait pécuniaire n'est pas supprimé, mais il doit être rendu moins décisif que dans un système où logement, crédit, santé ou sécurité matérielle dépendent fortement de la carrière. Le but n'est pas de demander aux experts d'être moralement purs. Le but est de réduire les situations où une pression financière privée peut modifier une conclusion publique.
 
 ### Autorité d'audit scientifique et algorithmique
 
@@ -85,6 +140,8 @@ Un domaine peut relever d'une compétence technique renforcée lorsqu'il présen
 Dans ces domaines, les paramètres techniques sont établis par expertise publique contradictoire et auditée.
 
 Cette règle ne supprime pas le contrôle démocratique. Les citoyens et représentants conservent le pouvoir sur le mandat, les valeurs, les priorités sociales, les compensations, les recours et la révision des institutions.
+
+La validation des compétences ne doit pas être utilisée pour filtrer les droits politiques ordinaires. Elle s'applique aux rôles techniques, médicaux, scientifiques, judiciaires, d'audit ou de sûreté qui peuvent produire des dommages importants en cas d'incompétence. Le citoyen conserve ses droits démocratiques sans certification préalable ; l'éducation publique doit lui donner les moyens réels de comprendre et contester les décisions.
 
 ### IA publique d'analyse
 
@@ -116,6 +173,43 @@ Leur rôle porte sur :
 - le financement ;
 - la communication publique ;
 - la responsabilité devant les citoyens.
+
+### Protection des décideurs contre l'influence privée
+
+Les lobbies ne doivent pas seulement être empêchés d'influencer le consortium scientifique. Ils peuvent déplacer leur effort vers les ministres, cabinets, parlementaires, administrations, auditeurs, consultants, médias, plateformes, proches, anciens collègues ou fournisseurs de données.
+
+Le modèle retient donc un périmètre anticapture fonctionnel : toute personne ou organisation capable d'altérer une décision publique, une norme, un budget, un audit, un modèle, une donnée ou une priorisation entre dans les obligations de transparence lorsqu'elle agit sur un sujet d'intérêt public.
+
+Les règles minimales sont :
+
+- interdiction des rendez-vous privés non tracés sur un dossier actif ;
+- registre public des contacts d'influence pour les ministres, cabinets, parlementaires, hauts fonctionnaires, auditeurs, experts mandatés et responsables de plateformes publiques ;
+- publication de l'empreinte décisionnelle : acteurs entendus, contributions reçues, arguments retenus, arguments écartés, conflits déclarés ;
+- décisions sensibles prises par collèges pluriels plutôt que par une personne seule ;
+- séparation entre instruction technique, arbitrage politique, audit et recours ;
+- tirage au sort ou affectation aléatoire partielle des rapporteurs lorsque cela réduit la capture ciblée ;
+- obligation de déclarer cadeaux, invitations, financements indirects, promesses d'emploi, avantages familiaux et soutiens médiatiques rémunérés ;
+- contrôle des portes tournantes avant, pendant et après les fonctions sensibles ;
+- sanction personnelle et institutionnelle en cas d'influence dissimulée ;
+- protection forte des lanceurs d'alerte internes.
+
+L'objectif réaliste n'est pas de rendre les décideurs impossibles à influencer. C'est de rendre l'influence visible, contradictoire, limitée, sanctionnable et moins utile qu'une contribution publique argumentée.
+
+### Simplification d'un État institutionnellement complexe
+
+Dans un État très fragmenté, par exemple un État fédéral comme la Belgique, le modèle Horizon ne doit pas conserver une couche institutionnelle uniquement parce qu'elle existe historiquement. Il doit attribuer chaque fonction publique à un niveau responsable clair.
+
+Décision provisoire :
+
+- le chef de l'État, ou le roi dans une monarchie constitutionnelle, n'a aucun rôle dans la validation scientifique, l'arbitrage technique, l'IA publique ou les décisions d'urgence ; sa fonction est soit symbolique et constitutionnelle, soit supprimable si elle complique la responsabilité démocratique ;
+- le Premier ministre coordonne l'exécutif, arbitre la mise en œuvre entre ministères et répond devant le Parlement ;
+- les ministres appliquent les trajectoires compatibles dans leur domaine, mais ne modifient pas les paramètres techniques validés ;
+- le Parlement fixe le mandat, vote les lois, contrôle le gouvernement, autorise les budgets et peut déclencher des commissions d'enquête ;
+- les régions, communautés, provinces ou communes ne sont conservées comme niveaux de décision que lorsqu'elles ajoutent une proximité démocratique ou opérationnelle réelle ;
+- pour les secteurs vitaux, chaque droit du socle doit avoir une autorité responsable unique, un budget lisible et une voie de recours identifiable ;
+- les compétences dupliquées doivent être fusionnées ou coordonnées par contrat public opposable lorsque leur fragmentation empêche l'accès au socle, la planification écologique, la santé publique ou la résilience.
+
+Le citoyen ne doit pas porter le coût administratif de la complexité institutionnelle. S'il existe plusieurs niveaux derrière une politique, ils doivent être lisibles depuis l'extérieur : un guichet responsable, une autorité de contrôle, un budget publié et une procédure de contestation.
 
 ### Citoyens
 
@@ -226,17 +320,25 @@ Peut améliorer la cohérence technique, mais affaiblit la légitimité démocra
 - Les usages d'urgence peuvent élargir excessivement le pouvoir exécutif.
 - Les domaines à compétence renforcée peuvent créer une caste d'expertise s'ils ne sont pas limités, audités et révocables.
 - Le classement juridique des mesures peut devenir un outil politique s'il n'est pas contrôlé par une justice indépendante et des procédures contradictoires.
+- Les mandats de durée moyenne peuvent rester trop courts pour certains travaux longs ou trop longs si l'audit est faible.
+- La simplification institutionnelle peut devenir centralisatrice si elle supprime des niveaux utiles de proximité démocratique.
+- La validation des compétences peut dériver vers un corporatisme diplômé si elle mesure le statut plutôt que la capacité réelle, ou vers un filtre social si elle est appliquée aux droits citoyens.
+- Une rémunération publique trop basse rendrait les mandats dépendants de revenus externes ; une rémunération trop haute pourrait créer une caste intéressée par la conservation de ses positions.
+- Les lobbies peuvent déplacer leur influence vers des acteurs périphériques si le périmètre anticapture ne suit pas la fonction réelle d'influence.
 
 ---
 
 ## Questions ouvertes
 
-- Durée exacte des mandats scientifiques.
+- Durée exacte des mandats scientifiques par domaine, dans la fourchette de quatre à six ans.
 - Modalités de tirage au sort ou de sélection des panels citoyens.
 - Seuils permettant de déclencher une procédure d'urgence.
 - Pouvoirs précis de sanction de l'autorité d'audit.
 - Procédure permettant de sortir un domaine du régime de compétence renforcée.
 - Autorité compétente pour réaliser l'audit de compatibilité juridique initial.
+- Critères permettant de fusionner, maintenir ou coordonner les niveaux institutionnels dans un État fédéral.
+- Méthodes permettant de valider les compétences sans créer une caste fermée ni exclure les parcours non académiques sérieux.
+- Barèmes exacts, incompatibilités et délais de carence applicables aux mandats scientifiques et d'audit.
 
 ---
 

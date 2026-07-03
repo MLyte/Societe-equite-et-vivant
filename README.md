@@ -44,6 +44,8 @@
   - [Alimentation, eau et sols](docs/17-alimentation-eau-sols.md)
   - [Indicateurs, audits et mesure des résultats](docs/18-indicateurs-audits.md)
   - [Sécurité civile et gestion de crise](docs/19-securite-civile-crises.md)
+- Synthèses transversales
+  - [Questions structurantes](docs/20-questions-structurantes.md)
 - Références internes
   - [Glossaire](docs/glossary.md)
   - [FAQ](docs/faq.md)
@@ -96,6 +98,8 @@ Le dépôt doit progressivement répondre à des questions comme :
 - Comment organiser une **économie moins dépendante de la croissance matérielle** ?
 - Comment relocaliser les **secteurs critiques** sans tomber dans l'autarcie ?
 - Comment préserver la **démocratie** sans laisser les faits scientifiques devenir négociables ?
+
+Une première réponse synthétique à ces questions est proposée dans [`docs/20-questions-structurantes.md`](docs/20-questions-structurantes.md).
 
 ---
 
@@ -150,6 +154,7 @@ Le projet utilise quatre niveaux de certitude :
 │   ├── 17-alimentation-eau-sols.md
 │   ├── 18-indicateurs-audits.md
 │   ├── 19-securite-civile-crises.md
+│   ├── 20-questions-structurantes.md
 │   ├── _template.md
 │   ├── glossary.md
 │   └── faq.md

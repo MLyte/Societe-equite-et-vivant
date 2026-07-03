@@ -228,3 +228,55 @@ L'IA publique et le consortium scientifique peuvent instruire, simuler et signal
 ### Raison
 
 Un modèle qui prétend tout remplacer immédiatement crée un risque d'arbitraire et de vide juridique. Une continuité juridique par défaut permet de conserver les protections utiles tout en concentrant les réformes sur les règles qui produisent des effets systémiques incompatibles avec les objectifs du modèle.
+
+---
+
+## Decision 0015 — Architecture en couches et mandats scientifiques échelonnés
+
+Date : 2026-07-03
+
+Project Horizon retient une architecture en couches : droits fondamentaux et justice, citoyens et Parlement, consortium scientifique, autorité d'audit, gouvernement, administrations territoriales, puis recours et contre-pouvoirs.
+
+Le modèle ne recherche pas des scientifiques supposés neutres par nature. Il construit une neutralité de procédure : compétence vérifiable, pluralisme, contradiction, transparence, audit séparé, publication des désaccords et révocation possible pour faute documentée.
+
+Les scientifiques disposent de mandats de durée moyenne, généralement quatre à six ans selon le domaine, avec rotation échelonnée et absence de renouvellement immédiat sauf justification publique et auditée.
+
+Dans un État institutionnellement complexe, notamment un État fédéral, chaque droit du socle et chaque politique vitale doivent avoir une autorité responsable claire, un budget lisible, un contrôle identifié et une voie de recours. Les niveaux institutionnels ne sont conservés comme lieux de décision que lorsqu'ils apportent une compétence réelle, une proximité démocratique ou une efficacité opérationnelle.
+
+### Raison
+
+Des mandats trop courts peuvent démotiver ou empêcher le travail sérieux. Des nominations longues ou renouvelables sans contrôle peuvent créer une caste molle, capturable ou protectrice de ses positions. La réponse retenue combine stabilité de travail, rotation, contrôle externe et lisibilité institutionnelle.
+
+---
+
+## Decision 0016 — Éducation et validation des compétences
+
+Date : 2026-07-03
+
+Project Horizon retient l'éducation comme condition matérielle de la démocratie d'arbitrage. L'école, la formation continue et la culture scientifique doivent donner aux citoyens les moyens de comprendre, contester et contrôler les décisions publiques.
+
+Le modèle retient aussi la validation des compétences comme règle logique pour les fonctions techniques ou sensibles : santé, sûreté, énergie, justice, audit, infrastructures critiques, IA publique, données sensibles et expertise scientifique.
+
+Cette validation ne doit pas se réduire au diplôme ou au statut. Elle doit pouvoir reconnaître la formation, l'expérience documentée, les travaux vérifiables, l'évaluation pratique, le contrôle par les pairs, la capacité à expliciter les limites de son savoir et l'absence de conflit d'intérêts incompatible.
+
+La validation des compétences ne doit jamais devenir une condition d'accès aux droits politiques, à la dignité ou au socle vital.
+
+### Raison
+
+Un modèle qui ignore les compétences réelles devient vulnérable à l'amateurisme, à la manipulation et aux erreurs systémiques. Un modèle qui confond compétence et statut crée une caste fermée. La position retenue protège les responsabilités techniques sans transformer l'éducation en hiérarchie civique.
+
+---
+
+## Decision 0017 — Mandats publics rémunérés et anticapture fonctionnelle
+
+Date : 2026-07-03
+
+Project Horizon retient que les mandats scientifiques, d'audit et d'expertise sont des fonctions publiques rémunérées. Le socle vital réduit la dépendance matérielle de base, mais ne remplace pas la rémunération du travail, du temps, de la responsabilité et des compétences.
+
+La rémunération doit être publique, transparente, suffisante, plafonnée et indépendante du sens des conclusions. Les revenus externes, avantages, cadeaux, promesses d'emploi, liens économiques ou familiaux significatifs et conflits d'intérêts doivent être déclarés. Les acteurs directement concernés par une décision ne peuvent pas financer les personnes qui l'instruisent, l'auditent ou l'appliquent.
+
+Le modèle retient aussi une anticapture fonctionnelle : les obligations de transparence ne visent pas seulement les lobbyistes officiellement déclarés. Elles suivent toute personne ou organisation capable d'altérer une décision publique, un modèle, une donnée, un audit, une norme, un budget ou une perception collective d'intérêt public.
+
+### Raison
+
+Si les experts ne sont pas correctement rémunérés, ils restent vulnérables aux revenus privés. S'ils sont trop installés ou trop bien protégés, ils peuvent devenir une caste. Si les lobbies sont seulement contrôlés dans leurs formes officielles, ils déplacent leur influence vers cabinets, auditeurs, médias, plateformes, proches, assistants ou producteurs de données. La réponse retenue combine socle vital, rémunération publique transparente, incompatibilités, traçabilité et sanctions.

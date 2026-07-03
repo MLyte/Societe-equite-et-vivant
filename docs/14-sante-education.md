@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -43,6 +43,7 @@ Le modèle Horizon retient les objectifs suivants :
 - encadrer l'usage de l'IA médicale par des droits, des audits et des recours ;
 - traiter la bioéthique comme un domaine à compétence technique renforcée, mais soumis aux droits fondamentaux ;
 - faire de l'éducation une capacité civique, scientifique et pratique ;
+- reconnaître la validation des compétences comme règle logique pour les fonctions techniques, sans la transformer en hiérarchie sociale générale ;
 - organiser une formation continue réelle face à l'automatisation ;
 - éviter que l'expertise médicale, pédagogique ou algorithmique remplace la décision démocratique.
 
@@ -156,6 +157,28 @@ Le modèle retient un tronc commun fort :
 
 L'école publique doit rester pluraliste et non doctrinale. Elle transmet des connaissances, des méthodes et des droits ; elle ne doit pas imposer une adhésion idéologique au modèle Horizon.
 
+### Validation des compétences
+
+Project Horizon doit distinguer trois choses :
+
+- l'éducation générale, qui donne à chaque citoyen les moyens de comprendre le monde commun ;
+- la formation spécialisée, qui prépare à des rôles techniques ou professionnels ;
+- la validation des compétences, qui vérifie qu'une personne ou une organisation peut exercer une responsabilité donnée sans créer de risque excessif.
+
+La validation des compétences est nécessaire pour les domaines où l'erreur peut produire des dommages importants : santé, sûreté industrielle, énergie, justice, audit, infrastructures critiques, données sensibles, IA publique, enseignement spécialisé et expertise scientifique.
+
+Elle doit toutefois mesurer une capacité réelle, pas seulement un statut. Le modèle retient donc plusieurs preuves possibles :
+
+- formation reconnue ;
+- expérience documentée ;
+- travaux vérifiables ;
+- évaluation pratique ;
+- contrôle par les pairs ;
+- capacité à expliquer les limites de son propre savoir ;
+- absence de conflit d'intérêts incompatible.
+
+Cette validation ne doit pas devenir un permis de citoyenneté. Les droits politiques, la dignité et l'accès au socle vital ne dépendent pas d'un niveau d'étude. L'éducation sert à rendre la démocratie plus capable, pas à réserver la décision publique à une population diplômée.
+
 ### Formation continue et reconversion IA
 
 L'automatisation par l'IA impose de traiter la formation comme un droit continu, non comme une correction tardive après exclusion du marché du travail.
@@ -193,6 +216,7 @@ Les indicateurs suivis doivent inclure au minimum :
 - maîtrise des savoirs fondamentaux ;
 - capacité à comprendre les institutions, les médias et les modèles publics ;
 - accès effectif à la formation continue ;
+- accès effectif à la validation ou reconnaissance des compétences ;
 - erreurs, biais et recours liés aux outils numériques ou algorithmiques.
 
 ---
@@ -236,6 +260,7 @@ Cette option peut encourager certains comportements préventifs, mais elle devie
 - L'IA médicale peut renforcer des biais ou rendre des décisions opaques.
 - La bioéthique peut être capturée par des groupes militants, religieux, industriels ou technocratiques.
 - L'éducation à l'esprit critique peut devenir propagande si elle n'est pas pluraliste et contestable.
+- La validation des compétences peut devenir corporatiste si elle protège des statuts plutôt que des capacités réelles.
 - La formation continue peut masquer une précarisation si elle remplace des droits sociaux solides.
 - Les territoires peuvent rester inégaux malgré des objectifs nationaux.
 

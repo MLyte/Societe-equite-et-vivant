@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.4"
+version: "0.5"
 last_updated: "2026-07-03"
 confidence: "draft"
 ---
@@ -32,6 +32,7 @@ Ce fichier sert de carte d'entrée pour Project Horizon.
 - `17-alimentation-eau-sols.md` : relie alimentation, eau, sols, agriculture et résilience alimentaire.
 - `18-indicateurs-audits.md` : définit les indicateurs, audits et mécanismes de correction.
 - `19-securite-civile-crises.md` : traite de la sécurité civile, des crises et de la continuité du socle vital.
+- `20-questions-structurantes.md` : répond provisoirement aux questions transversales du README.
 - `glossary.md` : centralise les définitions.
 - `faq.md` : répond aux objections courantes.
 
@@ -44,14 +45,17 @@ Pour comprendre l'état actuel du modèle, lire d'abord :
 1. `01-vision.md` ;
 2. `02-principes.md` ;
 3. `03-institutions.md` ;
-4. `09-democratie.md` ;
-5. `08-ia.md`.
+4. `20-questions-structurantes.md` ;
+5. `09-democratie.md` ;
+6. `08-ia.md`.
 
 Les autres chapitres déclinent ensuite ces choix dans les domaines sociaux, économiques, énergétiques, environnementaux, internationaux et transitoires.
 
 Les chapitres `12`, `13` et `14` complètent les angles morts prioritaires : information publique, État de droit, santé et formation des citoyens.
 
 Les chapitres `15` à `19` ajoutent les conditions matérielles et opérationnelles : financement, logement, alimentation, mesure des résultats et continuité civile en crise.
+
+Le chapitre `20` consolide les réponses provisoires aux questions structurantes : expertise, lobbies, IA, socle vital, économie, relocalisation et démocratie sous contrainte de réalité.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -28,6 +28,7 @@ Plusieurs risques doivent être traités comme structurels :
 - recommandations algorithmiques optimisées pour l'attention plus que pour la qualité du débat ;
 - publicités politiques ciblées et difficilement auditables ;
 - financement opaque de campagnes d'influence ;
+- déplacement des stratégies d'influence vers les cabinets, experts, auditeurs, proches, médias, plateformes ou producteurs de données ;
 - comptes automatisés, faux réseaux de soutien et opérations coordonnées ;
 - confusion entre information, divertissement, communication politique et propagande ;
 - contenus générés ou modifiés par IA sans signalement clair lorsqu'ils imitent des personnes ou des faits publics.
@@ -46,6 +47,7 @@ Le modèle doit :
 - limiter la concentration excessive des médias d'intérêt public ;
 - rendre auditables les grandes plateformes qui structurent l'accès à l'information ;
 - encadrer la publicité politique et l'influence rémunérée ;
+- empêcher l'influence privée de se déplacer vers des intermédiaires moins visibles ;
 - protéger les lanceurs d'alerte, les sources journalistiques et l'investigation d'intérêt public ;
 - donner aux citoyens des moyens de comprendre pourquoi une information leur est montrée ;
 - sanctionner les manipulations organisées sans sanctionner une opinion en tant que telle.
@@ -111,6 +113,22 @@ Le microciblage politique fondé sur des données sensibles, des profils psychol
 
 Les campagnes d'influence rémunérées doivent être inscrites dans un registre public lorsqu'elles cherchent à modifier une décision publique, une élection, une consultation, une norme technique ou un arbitrage sectoriel.
 
+### Influence indirecte et cibles déplacées
+
+Une stratégie d'influence ne vise pas toujours le responsable officiel. Elle peut viser un conseiller, un cabinet, un expert, un auditeur, un fournisseur de données, un média, une plateforme, une association relais, une fondation, un institut de recherche ou un proche.
+
+Le modèle retient donc une définition fonctionnelle de l'influence : toute action financée, organisée ou répétée qui cherche à modifier une décision publique, un arbitrage technique, une norme, un budget, un audit ou une perception collective d'intérêt public doit être déclarée lorsqu'elle dépasse l'expression ordinaire d'une opinion.
+
+Les obligations s'appliquent notamment à :
+
+- la commande d'études, sondages, tribunes, contenus ou campagnes dont le financeur réel est masqué ;
+- le financement d'associations, think tanks, fondations, influenceurs ou médias qui interviennent sur un dossier public actif ;
+- les invitations, voyages, formations, prix, bourses, contrats ou promesses d'emploi liés à une fonction sensible ;
+- les opérations d'influence ciblant les assistants, cabinets, rapporteurs, auditeurs ou producteurs de données ;
+- les campagnes visant à fabriquer artificiellement une pression populaire ou scientifique.
+
+Cette règle ne doit pas empêcher le plaidoyer public d'une association, d'un syndicat, d'une entreprise ou d'un collectif citoyen. Elle impose que l'influence organisée soit identifiable, traçable, contestable et sanctionnable si elle est dissimulée.
+
 ### Manipulation organisée
 
 Le modèle distingue l'erreur, l'opinion et la manipulation organisée.
@@ -140,6 +158,7 @@ Ses pouvoirs doivent être limités à :
 - contrôler les registres de publicité politique ;
 - protéger l'accès des chercheurs et auditeurs aux données nécessaires ;
 - sanctionner l'opacité, les faux financeurs, les conflits d'intérêts cachés et les manipulations coordonnées ;
+- enquêter sur les chaînes d'influence indirecte lorsqu'un financeur, un intermédiaire ou un bénéficiaire réel est masqué ;
 - publier des rapports publics sur les risques informationnels.
 
 Elle ne doit pas :
@@ -204,6 +223,7 @@ L'anonymat ou le pseudonymat peuvent protéger les lanceurs d'alerte, les opposa
 - Les obligations d'audit peuvent favoriser les grandes plateformes si les petites ne peuvent pas suivre.
 - Le marquage des contenus générés par IA peut être techniquement imparfait.
 - Une information publique trop institutionnelle peut être perçue comme de la propagande, même lorsqu'elle publie ses sources et incertitudes.
+- Les obligations sur l'influence indirecte peuvent devenir disproportionnées si elles ne distinguent pas clairement plaidoyer public, recherche indépendante et campagne financée masquée.
 
 ---
 
