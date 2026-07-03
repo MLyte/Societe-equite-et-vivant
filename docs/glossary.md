@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "draft"
 ---
@@ -17,7 +17,7 @@ Nom provisoire du modèle de gouvernance exploré par le projet.
 
 ## Socle vital
 
-Ensemble des besoins fondamentaux garantis à chaque personne : logement, alimentation de base, eau, énergie, santé, médicaments essentiels, internet et mobilité minimale. Dans la v0.2, il est conçu comme un droit opposable.
+Ensemble des besoins fondamentaux garantis à chaque personne : logement, alimentation de base, eau, énergie, santé, médicaments essentiels, internet et mobilité minimale. Il est conçu comme un droit opposable.
 
 ## Contrainte scientifique
 
@@ -37,7 +37,7 @@ Infrastructure d'intelligence artificielle développée, auditée ou contrôlée
 
 ## Démocratie d'arbitrage
 
-Forme démocratique où les citoyens choisissent entre des trajectoires compatibles avec les contraintes scientifiques, plutôt que de voter sur les faits eux-mêmes.
+Forme démocratique où les citoyens arbitrent les finalités, priorités, compensations et effets sociaux de trajectoires compatibles avec les contraintes établies, plutôt que de voter sur les faits eux-mêmes.
 
 ## Commun stratégique
 
@@ -70,3 +70,19 @@ Exigence selon laquelle chaque décision importante doit rendre identifiable qui
 ## Budget écologique
 
 Limite quantitative ou qualitative appliquée à une pression environnementale, par exemple carbone, eau, sols, matériaux, pollution ou biodiversité.
+
+## Compétence technique renforcée
+
+Régime appliqué à des domaines complexes, systémiques ou risqués, où les paramètres techniques doivent être établis par une expertise publique pluraliste, contradictoire, auditée et révocable.
+
+## Activité utile
+
+Contribution sociale reconnue hors emploi classique, par exemple soin, réparation, formation, communs numériques, adaptation écologique, médiation, culture ou participation démocratique.
+
+## Résilience civile
+
+Capacité d'une société à maintenir le socle vital et les infrastructures essentielles face à une crise, une rupture d'approvisionnement, une pression étrangère ou une défaillance systémique, sans définir une doctrine militaire ou policière.
+
+## Mondialisation ralentie et sélective
+
+Organisation des échanges qui raccourcit et sécurise les chaînes vitales, tout en maintenant la coopération scientifique, climatique et les échanges non critiques.

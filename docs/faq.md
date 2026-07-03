@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.4"
+version: "0.5"
 last_updated: "2026-07-03"
 confidence: "draft"
 ---
@@ -61,7 +61,7 @@ Les citoyens ne sont pas exclus : ils fixent le mandat, les valeurs, les priorit
 
 ## Qui choisit les scientifiques ?
 
-La v0.2 retient une réponse institutionnelle provisoire.
+Le modèle retient une réponse institutionnelle provisoire.
 
 Le consortium scientifique doit être composé selon des procédures combinant compétence, transparence, rotation, pluralité disciplinaire et déclaration publique des conflits d'intérêts.
 

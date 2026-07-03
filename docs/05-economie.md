@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.3"
+version: "0.4"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -50,7 +50,7 @@ Les secteurs essentiels sont traités comme des communs stratégiques ou forteme
 
 Les gains issus de l'automatisation, de l'IA, des infrastructures numériques et des rentes de capital doivent contribuer au financement du socle vital.
 
-La v0.2 retient une option mixte :
+La version actuelle retient une option mixte :
 
 - socle vital garanti en accès effectif pour les besoins fondamentaux ;
 - garantie de revenu complémentaire lorsque l'accès direct ne suffit pas ;

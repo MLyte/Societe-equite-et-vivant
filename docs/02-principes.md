@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -135,17 +135,47 @@ Un plan peut être techniquement robuste tout en produisant des effets sociaux i
 
 Les plans sectoriels doivent donc être accompagnés d'une délibération sur leurs conséquences territoriales, professionnelles et sociales.
 
+Les citoyens ne doivent pas remplacer l'expertise sur les paramètres techniques complexes. Ils doivent contrôler le mandat, les valeurs, les priorités, les compensations, les recours et les effets sociaux.
+
+---
+
+## Principe 11 — Certains domaines exigent une compétence technique renforcée
+
+Les sujets combinant forte complexité, risque irréversible, asymétrie d'information ou exposition aux manipulations ne doivent pas être décidés par vote direct.
+
+Ils doivent relever d'une expertise publique pluraliste, contradictoire, auditée et révocable.
+
+Cette compétence renforcée ne supprime pas la démocratie : elle déplace le contrôle démocratique vers le mandat, les valeurs, la transparence, les recours et la révocation.
+
+---
+
+## Principe 12 — La résilience civile prime sur l'optimisation maximale
+
+Le coût immédiat le plus bas ne doit pas être le seul critère d'organisation économique.
+
+Pour les secteurs vitaux, le modèle préfère des chaînes plus robustes, réparables, diversifiées et moins dépendantes d'acteurs capables de bloquer le socle vital.
+
+---
+
+## Principe 13 — L'activité utile dépasse l'emploi classique
+
+Si l'IA réduit durablement une partie de l'emploi salarié, la société doit reconnaître d'autres formes de contribution : soin, réparation, formation, communs, adaptation écologique, médiation, culture et participation démocratique.
+
+Ces activités peuvent ouvrir des droits, mais ne doivent pas devenir une condition punitive d'accès au socle vital.
+
 ---
 
 ## Hiérarchie provisoire
 
-En cas de conflit entre principes, la v0.2 retient l'ordre suivant :
+En cas de conflit entre principes, la version actuelle retient l'ordre suivant :
 
 1. droits fondamentaux et dignité humaine ;
 2. contraintes physiques et sanitaires établies ;
 3. maintien du socle vital ;
-4. arbitrage démocratique entre trajectoires compatibles ;
-5. efficacité économique et innovation.
+4. intégrité des institutions, recours et contrôle des pouvoirs ;
+5. arbitrage démocratique entre trajectoires compatibles ;
+6. résilience des secteurs vitaux ;
+7. efficacité économique et innovation.
 
 Cette hiérarchie est une hypothèse de conception, pas une doctrine définitive.
 

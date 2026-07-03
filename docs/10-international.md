@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.3"
+version: "0.4"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -47,7 +47,7 @@ La règle générale est :
 
 > Relocaliser le vital, coopérer mondialement sur la connaissance, échanger prudemment le non vital.
 
-La v0.2 retient une échelle par défaut :
+La version actuelle retient une échelle par défaut :
 
 - local ou national pour les stocks d'urgence, services essentiels et infrastructures de continuité ;
 - régional ou européen pour l'énergie, les médicaments critiques, semi-conducteurs, infrastructures numériques et matériaux stratégiques ;
@@ -75,7 +75,7 @@ Cette résilience ne vise pas l'autarcie. Elle vise à empêcher qu'un État, un
 
 ### Mondialisation ralentie et sélective
 
-La v0.3 retient un ralentissement sélectif de la mondialisation.
+Le modèle retient un ralentissement sélectif de la mondialisation.
 
 Cela signifie :
 

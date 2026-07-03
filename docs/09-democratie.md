@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.4"
+version: "0.5"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -38,7 +38,7 @@ Le modèle démocratique doit :
 
 ## Proposition
 
-Les citoyens choisissent entre des modèles validés scientifiquement.
+Les citoyens choisissent entre des trajectoires politiques compatibles avec des modèles validés scientifiquement.
 
 Cette validation ne remplace pas la démocratie. Elle fixe le périmètre des trajectoires compatibles avec les contraintes établies.
 

@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -44,7 +44,9 @@ Project Horizon cherche à concevoir un modèle de gouvernance capable de :
 - rendre les décisions publiques vérifiables ;
 - garantir des recours individuels et collectifs contre les décisions fondées sur un modèle validé ;
 - favoriser une économie utile, sobre et innovante ;
-- organiser les gains de productivité liés à l'automatisation au bénéfice de tous.
+- organiser les gains de productivité liés à l'automatisation au bénéfice de tous ;
+- protéger les secteurs vitaux contre les dépendances coercitives ;
+- reconnaître des activités utiles hors emploi classique lorsque l'IA réduit le volume de travail disponible.
 
 ---
 
@@ -60,14 +62,17 @@ Les scientifiques construisent des modèles compatibles avec ces contraintes.
 
 Les responsables politiques appliquent uniquement des modèles validés, sans modifier leurs paramètres fondamentaux pour des raisons électorales, idéologiques ou privées.
 
-Les citoyens conservent le pouvoir sur les valeurs, la dignité, la justice sociale, les priorités collectives et le contrôle des institutions.
+Les citoyens conservent le pouvoir sur les valeurs, la dignité, la justice sociale, les priorités collectives, les compensations, les recours et le contrôle des institutions.
 
-La version actuelle du modèle ajoute quatre garde-fous :
+La version actuelle du modèle ajoute plusieurs garde-fous structurants :
 
 - une autorité d'audit scientifique et algorithmique séparée du consortium scientifique ;
 - un droit de recours contre les décisions fondées sur un modèle validé ;
 - un socle vital conçu comme droit opposable ;
-- des plans sectoriels soumis à arbitrage démocratique, justification publique et révision.
+- des plans sectoriels soumis à expertise auditée, contrôle démocratique sur leurs effets sociaux et révision ;
+- des domaines à compétence technique renforcée lorsque le vote direct serait trop vulnérable à l'asymétrie d'information ou à la manipulation ;
+- une mondialisation ralentie et sélective pour les secteurs vitaux ;
+- un droit à l'activité utile lorsque l'automatisation réduit une partie de l'emploi classique.
 
 ---
 
@@ -122,6 +127,7 @@ Ces critiques ne sont pas traitées comme des objections extérieures au modèle
 - Procédure à suivre lorsque deux modèles validés défendent des trajectoires sociales différentes.
 - Format d'information publique permettant une compréhension réelle sans simplification trompeuse.
 - Échelle pertinente selon les domaines : locale, nationale, européenne ou mondiale.
+- Frontière précise entre expertise technique renforcée et arbitrage démocratique.
 
 ---
 

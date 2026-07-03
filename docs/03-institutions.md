@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.3"
+version: "0.4"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -121,7 +121,7 @@ Leur rôle porte sur :
 
 Les citoyens ne votent pas les contraintes physiques.
 
-Ils participent au choix entre des modèles validés, notamment sur :
+Ils participent au choix des finalités, priorités et effets sociaux des modèles validés, notamment sur :
 
 - la justice sociale ;
 - la répartition de l'effort ;
@@ -129,7 +129,7 @@ Ils participent au choix entre des modèles validés, notamment sur :
 - les priorités budgétaires ;
 - les limites acceptables à certaines libertés de consommation.
 
-Ils doivent aussi pouvoir proposer des contre-propositions compatibles avec les contraintes physiques établies.
+Ils doivent aussi pouvoir proposer des contre-propositions compatibles avec les contraintes physiques établies, sans modifier eux-mêmes les paramètres techniques complexes.
 
 ### Justice et contre-pouvoirs
 
