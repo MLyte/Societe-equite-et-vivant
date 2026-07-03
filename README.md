@@ -148,11 +148,15 @@ La priorité n'est pas encore de publier, convaincre ou fédérer. La priorité 
 
 ## Pourquoi ce projet ?
 
-J'ai eu envie de créer Project Horizon parce que beaucoup de débats publics donnent l'impression de choisir entre des étiquettes déjà connues : socialisme, capitalisme, technocratie, autoritarisme, décroissance ou solution miracle.
+J'ai eu envie de créer Project Horizon parce que je ne me reconnais pas vraiment dans l'offre politique actuelle, notamment en Belgique, lorsqu'il s'agit de penser le court, le moyen et le long terme ensemble.
 
-Or les problèmes réels ne se rangent pas proprement dans ces cases. Le climat, l'énergie, l'IA, la santé, le logement, l'information, le droit et la stabilité sociale touchent d'abord à des besoins humains concrets, à des limites physiques et à des choix collectifs difficiles.
+J'ai souvent le sentiment que les décisions publiques restent enfermées dans l'horizon d'une législature : gagner les prochaines élections, préserver une image, éviter une mesure impopulaire, répondre au conflit immédiat. Cette logique peut faire passer le calcul électoral avant les besoins humains, alors que les problèmes les plus importants dépassent largement un mandat.
 
-L'idée de départ est donc de chercher un cadre qui parte moins des doctrines et davantage des conditions de vie : garantir la dignité, préserver les libertés, empêcher la capture par les lobbies, rendre les décisions vérifiables, et éviter qu'un parti, un marché, une IA ou une élite fermée puisse décider seul.
+Une autre motivation vient du sentiment que la parole scientifique est trop facilement relativisée ou ignorée lorsque ses conclusions dérangent. La période récente a montré, dans plusieurs pays, combien une culture politique de post-vérité pouvait fragiliser la santé publique, le climat, les institutions et la confiance collective.
+
+Je ne pars pas non plus d'un rejet total du marché, mais d'une inquiétude face à un capitalisme insuffisamment borné. Lorsqu'il accepte des inégalités très dures, externalise les coûts écologiques ou dépend trop fortement des lobbies, il ne sert plus durablement l'ensemble des personnes. Les lobbies posent ici un problème particulier : ils peuvent nourrir les décisions publiques avec les intérêts du capital plutôt qu'avec les besoins humains, les limites physiques et l'intérêt général.
+
+Project Horizon vient de cette insatisfaction. Le projet cherche un cadre qui parte moins des doctrines et davantage des conditions de vie : garantir la dignité, préserver les libertés, écouter les sciences sans leur donner tout le pouvoir, empêcher la capture des institutions, rendre les décisions vérifiables, et éviter qu'un parti, un marché, une IA ou une élite fermée puisse décider seul.
 
 Le projet est open source parce qu'un tel modèle ne devrait pas dépendre d'une intuition privée ou d'un cercle restreint. Il doit pouvoir être lu, critiqué, corrigé, sourcé et contredit par des personnes qui ne partagent pas forcément les mêmes hypothèses de départ.
 
