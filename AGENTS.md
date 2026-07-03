@@ -30,6 +30,8 @@ If the task targets a specific chapter, read only the relevant chapter and the f
 - Never invent sources. If a source is needed but unavailable, write `[source à vérifier]`.
 - Do not present AI as intrinsically neutral.
 - Do not present technocracy as a replacement for rights, justice or democratic control.
+- When substantively editing a Markdown file with frontmatter `version`, increment that file's version in the same change.
+- Do not bump versions for purely typographical fixes unless explicitly requested.
 
 ## Project doctrine
 

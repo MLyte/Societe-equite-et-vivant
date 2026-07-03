@@ -44,6 +44,8 @@ Pour chaque tâche :
 - Préserver les décisions déjà prises dans `.blueprint/decisions.md`.
 - Signaler les contradictions plutôt que les masquer.
 - Marquer les points non résolus comme questions ouvertes.
+- Lorsqu'un fichier Markdown avec frontmatter `version` est modifié sur le fond, incrémenter sa version dans le même changement.
+- Ne pas incrémenter la version pour une correction purement typographique, sauf si le propriétaire du projet le demande.
 
 ---
 
