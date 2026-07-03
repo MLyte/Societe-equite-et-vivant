@@ -2,6 +2,49 @@
   <img src="assets/projet-horizon-visual.png" alt="Project Horizon" width="500">
 </p>
 
+<details>
+<summary><strong>Menu du README</strong></summary>
+
+- [Project Horizon](#project-horizon)
+- [Hypothèse centrale](#hypothèse-centrale)
+- [Ce que le projet cherche à produire](#ce-que-le-projet-cherche-à-produire)
+- [Méthode](#méthode)
+- [Structure du dépôt](#structure-du-dépôt)
+- [Dossier `.blueprint`](#dossier-blueprint)
+- [Licence](#licence)
+- [Statut](#statut)
+- [Pourquoi ce projet ?](#pourquoi-ce-projet-)
+
+</details>
+
+<details>
+<summary><strong>Pages du dossier <code>docs/</code></strong></summary>
+
+- Fondations
+  - [Index](docs/00-index.md)
+  - [Vision](docs/01-vision.md)
+  - [Principes](docs/02-principes.md)
+  - [Institutions](docs/03-institutions.md)
+- Garanties et domaines
+  - [Socle vital](docs/04-socle-vital.md)
+  - [Économie](docs/05-economie.md)
+  - [Énergie](docs/06-energie.md)
+  - [Environnement](docs/07-environnement.md)
+  - [Intelligence artificielle](docs/08-ia.md)
+  - [Démocratie](docs/09-democratie.md)
+- Extension du modèle
+  - [International](docs/10-international.md)
+  - [Transition](docs/11-transition.md)
+  - [Information, médias et manipulation](docs/12-information-medias.md)
+  - [Droit, justice et État de droit](docs/13-droit-justice.md)
+  - [Santé et éducation](docs/14-sante-education.md)
+- Références internes
+  - [Glossaire](docs/glossary.md)
+  - [FAQ](docs/faq.md)
+  - [Template de chapitre](docs/_template.md)
+
+</details>
+
 # Project Horizon
 
 **Project Horizon** est un **projet de conception institutionnelle**.
@@ -93,6 +136,9 @@ Le projet utilise quatre niveaux de certitude :
 │   ├── 09-democratie.md
 │   ├── 10-international.md
 │   ├── 11-transition.md
+│   ├── 12-information-medias.md
+│   ├── 13-droit-justice.md
+│   ├── 14-sante-education.md
 │   ├── _template.md
 │   ├── glossary.md
 │   └── faq.md
