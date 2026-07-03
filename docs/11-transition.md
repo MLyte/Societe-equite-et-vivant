@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -52,6 +52,16 @@ Appliquer le modèle à des cas fictifs ou historiques : crise énergétique, pa
 
 Tester des éléments limités : quartiers bas-carbone, socle énergétique, panels citoyens, audits publics des décisions.
 
+Le premier cas d'usage retenu pour avancer est un pilote local combinant :
+
+- socle énergétique minimal ;
+- tableau public des responsabilités ;
+- panel citoyen de révision ;
+- audit indépendant des hypothèses ;
+- procédure de recours simple.
+
+Ce choix est limité mais structurant : il teste en même temps le socle vital, l'énergie, la lisibilité institutionnelle, la démocratie d'arbitrage et l'audit.
+
 ### Phase 4 — Institutions pilotes
 
 Créer des organismes indépendants de modélisation et d'évaluation, sans leur donner immédiatement un pouvoir contraignant total.
@@ -59,6 +69,8 @@ Créer des organismes indépendants de modélisation et d'évaluation, sans leur
 ### Phase 5 — Constitutionalisation partielle
 
 Inscrire progressivement certains objectifs de long terme dans le droit.
+
+Les pilotes ne doivent devenir contraignants qu'après évaluation publique, correction des effets sociaux injustes et validation démocratique.
 
 ---
 
@@ -92,14 +104,16 @@ Plus lente, mais plus compatible avec la confiance démocratique.
 - Les expérimentations locales peuvent être récupérées politiquement.
 - Les institutions existantes peuvent bloquer le changement.
 - La population peut se désintéresser du modèle s'il reste trop abstrait.
+- Un pilote mal conçu peut produire une défiance durable envers le modèle.
 
 ---
 
 ## Questions ouvertes
 
-- Quel premier cas d'usage tester ?
-- Faut-il commencer par l'énergie, le logement ou la transparence institutionnelle ?
-- Comment mesurer la réussite d'une expérimentation ?
+- Territoire et échelle du premier pilote.
+- Indicateurs de réussite du socle énergétique.
+- Conditions d'arrêt ou de correction d'une expérimentation.
+- Niveau de contrainte juridique acceptable pour une institution pilote.
 
 ---
 

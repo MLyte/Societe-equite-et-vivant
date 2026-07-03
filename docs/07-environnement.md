@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -52,6 +52,18 @@ Ces budgets peuvent concerner :
 
 Une politique qui dépasse ces budgets doit être corrigée ou refusée, sauf procédure d'exception strictement encadrée.
 
+La v0.2 retient cinq indicateurs prioritaires pour les décisions majeures :
+
+1. climat ;
+2. biodiversité ;
+3. eau ;
+4. sols ;
+5. santé publique.
+
+Ces indicateurs doivent être accompagnés d'une analyse sociale : effets par territoire, revenu, âge, profession et exposition aux risques lorsque les données le permettent.
+
+Les exceptions doivent être limitées dans le temps, justifiées publiquement, contrôlées par une autorité indépendante et ouvertes au recours.
+
 ---
 
 ## Justification
@@ -84,14 +96,16 @@ Efficaces sur certains usages, mais insuffisantes sans trajectoire globale.
 - Les arbitrages entre biodiversité, énergie et logement peuvent être difficiles.
 - Un budget écologique mal conçu peut renforcer les inégalités.
 - Les données peuvent être utilisées pour justifier des mesures intrusives.
+- Une contrainte écologique peut être instrumentalisée pour imposer des sacrifices socialement asymétriques.
 
 ---
 
 ## Questions ouvertes
 
-- Quels indicateurs doivent être constitutionnels ?
-- Comment gérer les incertitudes scientifiques ?
-- Comment répartir les budgets écologiques entre territoires et classes sociales ?
+- Seuils exacts des budgets écologiques.
+- Méthode de répartition des budgets entre territoires et groupes sociaux.
+- Procédure de révision lorsque les indicateurs évoluent.
+- Niveau de preuve requis pour déclencher le principe de précaution.
 
 ---
 

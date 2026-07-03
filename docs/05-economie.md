@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -49,6 +49,15 @@ Les secteurs essentiels sont traités comme des communs stratégiques ou forteme
 
 Les gains issus de l'automatisation, de l'IA, des infrastructures numériques et des rentes de capital doivent contribuer au financement du socle vital.
 
+La v0.2 retient une option mixte :
+
+- socle vital garanti en accès effectif pour les besoins fondamentaux ;
+- garantie de revenu complémentaire lorsque l'accès direct ne suffit pas ;
+- réduction progressive du temps de travail lorsque les gains de productivité sont vérifiés ;
+- fiscalité spécifique sur les rentes liées aux données, infrastructures numériques, positions dominantes et automatisation.
+
+Cette redistribution ne doit pas justifier une surveillance individuelle généralisée. Elle doit passer par des règles publiques, auditables et contestables.
+
 ---
 
 ## Justification
@@ -88,14 +97,16 @@ Plus équilibrée, mais parfois insuffisamment adaptée aux contraintes écologi
 - Comment contrôler les prix essentiels sans créer des pénuries ?
 - Comment préserver la liberté entrepreneuriale ?
 - Comment éviter une administration économique trop lourde ?
+- Comment empêcher les communs stratégiques d'être capturés par l'État, des monopoles ou des lobbies ?
 
 ---
 
 ## Questions ouvertes
 
-- Faut-il un revenu de base, une garantie de revenu ou une réduction massive du temps de travail ?
-- Quelle fiscalité pour les plateformes, données, modèles IA et infrastructures cloud ?
-- Comment mesurer la richesse utile au-delà du PIB ?
+- Niveau exact de garantie de revenu complémentaire.
+- Barème de contribution des rentes IA, plateformes, données, modèles et infrastructures cloud.
+- Indicateurs de richesse utile au-delà du PIB.
+- Procédure de contrôle des prix essentiels en période de tension.
 
 ---
 

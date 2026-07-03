@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -93,6 +93,8 @@ Il doit rendre visibles :
 - les conflits d'intérêts ;
 - les résultats réels des politiques.
 
+Une décision publique importante doit aussi indiquer qui propose, qui valide, qui applique, qui contrôle, qui peut contester et qui peut annuler.
+
 ---
 
 ## Principe 7 — Aucun acteur ne doit concentrer le pouvoir
@@ -119,6 +121,36 @@ Project Horizon doit rester un modèle vivant.
 
 ---
 
+## Principe 9 — Les recours font partie du modèle
+
+Un garde-fou n'est pas suffisant s'il ne donne aucun pouvoir concret aux personnes concernées.
+
+Les décisions publiques fondées sur un modèle validé doivent donc pouvoir faire l'objet de recours individuels et collectifs.
+
+---
+
+## Principe 10 — La planification sectorielle ne suffit pas à légitimer
+
+Un plan peut être techniquement robuste tout en produisant des effets sociaux injustes.
+
+Les plans sectoriels doivent donc être accompagnés d'une délibération sur leurs conséquences territoriales, professionnelles et sociales.
+
+---
+
+## Hiérarchie provisoire
+
+En cas de conflit entre principes, la v0.2 retient l'ordre suivant :
+
+1. droits fondamentaux et dignité humaine ;
+2. contraintes physiques et sanitaires établies ;
+3. maintien du socle vital ;
+4. arbitrage démocratique entre trajectoires compatibles ;
+5. efficacité économique et innovation.
+
+Cette hiérarchie est une hypothèse de conception, pas une doctrine définitive.
+
+---
+
 ## Critiques
 
 Ces principes peuvent entrer en tension.
@@ -131,9 +163,9 @@ Le projet doit documenter ces tensions au lieu de les masquer.
 
 ## Questions ouvertes
 
-- Quels principes doivent devenir constitutionnels ?
-- Quels principes doivent rester adaptables ?
-- Comment hiérarchiser les principes en cas de conflit ?
+- Quels principes doivent être constitutionnalisés en premier ?
+- Quels principes doivent rester adaptables par procédure démocratique ordinaire ?
+- Quelle institution arbitre lorsqu'un principe est invoqué abusivement ?
 
 ---
 

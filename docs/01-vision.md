@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -42,6 +42,7 @@ Project Horizon cherche à concevoir un modèle de gouvernance capable de :
 - utiliser l'intelligence artificielle comme outil d'analyse et non comme souverain ;
 - réduire l'influence des lobbies sur les choix publics ;
 - rendre les décisions publiques vérifiables ;
+- garantir des recours individuels et collectifs contre les décisions fondées sur un modèle validé ;
 - favoriser une économie utile, sobre et innovante ;
 - organiser les gains de productivité liés à l'automatisation au bénéfice de tous.
 
@@ -60,6 +61,13 @@ Les scientifiques construisent des modèles compatibles avec ces contraintes.
 Les responsables politiques appliquent uniquement des modèles validés, sans modifier leurs paramètres fondamentaux pour des raisons électorales, idéologiques ou privées.
 
 Les citoyens conservent le pouvoir sur les valeurs, la dignité, la justice sociale, les priorités collectives et le contrôle des institutions.
+
+La version actuelle du modèle ajoute quatre garde-fous :
+
+- une autorité d'audit scientifique et algorithmique séparée du consortium scientifique ;
+- un droit de recours contre les décisions fondées sur un modèle validé ;
+- un socle vital conçu comme droit opposable ;
+- des plans sectoriels soumis à arbitrage démocratique, justification publique et révision.
 
 ---
 
@@ -104,15 +112,16 @@ Les critiques principales sont :
 - risque de réduction excessive de la liberté individuelle ;
 - complexité institutionnelle.
 
+Ces critiques ne sont pas traitées comme des objections extérieures au modèle. Elles deviennent des contraintes de conception.
+
 ---
 
 ## Questions ouvertes
 
-- Qui contrôle les contrôleurs ?
-- Comment traiter les désaccords scientifiques profonds ?
-- Comment garantir que les citoyens comprennent et acceptent le modèle ?
-- Comment éviter qu'un socle vital devienne une forme de rationnement humiliant ?
-- Quelle échelle est pertinente : locale, nationale, européenne, mondiale ?
+- Modalités exactes de nomination et révocation des auditeurs.
+- Procédure à suivre lorsque deux modèles validés défendent des trajectoires sociales différentes.
+- Format d'information publique permettant une compréhension réelle sans simplification trompeuse.
+- Échelle pertinente selon les domaines : locale, nationale, européenne ou mondiale.
 
 ---
 

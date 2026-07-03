@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "draft"
 ---
@@ -26,6 +26,20 @@ Ce fichier sert de carte d'entrée pour Project Horizon.
 - `11-transition.md` : propose une trajectoire progressive de mise en œuvre.
 - `glossary.md` : centralise les définitions.
 - `faq.md` : répond aux objections courantes.
+
+---
+
+## Lecture recommandée
+
+Pour comprendre l'état actuel du modèle, lire d'abord :
+
+1. `01-vision.md` ;
+2. `02-principes.md` ;
+3. `03-institutions.md` ;
+4. `09-democratie.md` ;
+5. `08-ia.md`.
+
+Les autres chapitres déclinent ensuite ces choix dans les domaines sociaux, économiques, énergétiques, environnementaux, internationaux et transitoires.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -55,6 +55,18 @@ La stratégie initiale repose sur cinq piliers :
 
 Cette proposition n'est pas dogmatique. Elle doit être révisée si une alternative démontre une meilleure combinaison de sécurité, coût, empreinte carbone, pilotabilité et acceptabilité.
 
+L'énergie est traitée comme un plan sectoriel soumis à arbitrage démocratique.
+
+Les priorités d'allocation retenues sont :
+
+1. besoins du socle vital ;
+2. santé, eau, alimentation, sécurité civile et infrastructures critiques ;
+3. décarbonation du logement, de l'industrie et des mobilités essentielles ;
+4. recherche, services publics et usages numériques justifiés ;
+5. usages non essentiels, modulables selon les budgets énergétiques.
+
+Les usages énergétiques de l'IA et des data centers doivent être intégrés à cette hiérarchie. Ils ne sont justifiables que si leur utilité sociale, scientifique ou écologique dépasse leur coût énergétique et matériel.
+
 ---
 
 ## Justification
@@ -85,15 +97,16 @@ Indispensable, mais insuffisante si elle n'est pas accompagnée d'une production
 - Les coûts et délais de construction peuvent être élevés.
 - Les déchets restent un sujet de gouvernance long terme.
 - La sobriété peut être socialement inégalitaire si elle est mal conçue.
+- La hiérarchie des usages énergétiques peut être contestée si elle est décidée sans débat public.
 
 ---
 
 ## Questions ouvertes
 
-- Quel mix énergétique optimal selon les pays ?
-- Quelle gouvernance pour le nucléaire civil ?
-- Comment concilier data centers, IA et sobriété énergétique ?
-- Comment répartir l'énergie disponible entre usages essentiels et non essentiels ?
+- Mix énergétique optimal selon les pays et ressources disponibles.
+- Gouvernance du nucléaire civil, des déchets et de la sûreté.
+- Seuils d'utilité sociale pour les usages numériques énergivores.
+- Modalités de recours lorsqu'un territoire conteste une priorité énergétique.
 
 ---
 

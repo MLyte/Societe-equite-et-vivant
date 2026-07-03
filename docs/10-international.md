@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -46,6 +46,16 @@ La règle générale est :
 
 > Relocaliser le vital, coopérer mondialement sur la connaissance, échanger prudemment le non vital.
 
+La v0.2 retient une échelle par défaut :
+
+- local ou national pour les stocks d'urgence, services essentiels et infrastructures de continuité ;
+- régional ou européen pour l'énergie, les médicaments critiques, semi-conducteurs, infrastructures numériques et matériaux stratégiques ;
+- mondial pour la science ouverte, les standards, les alertes sanitaires, le climat et les connaissances bas-carbone.
+
+Une dépendance est considérée comme critique lorsqu'une rupture peut menacer le socle vital, la sécurité énergétique, la santé publique, l'autonomie numérique ou la capacité démocratique de décider.
+
+Les technologies bas-carbone utiles aux pays moins riches doivent être traitées comme un domaine de coopération prioritaire, sous réserve de sûreté, de transparence et d'adaptation locale.
+
 ---
 
 ## Justification
@@ -78,14 +88,15 @@ Option intermédiaire, potentiellement plus robuste.
 - Tous les pays ne disposent pas des mêmes ressources.
 - Les politiques industrielles peuvent être capturées par des intérêts nationaux.
 - La coopération internationale peut être lente et instable.
+- La sécurisation des secteurs vitaux peut servir de prétexte à un protectionnisme inefficace ou injuste.
 
 ---
 
 ## Questions ouvertes
 
-- Quels secteurs sont réellement critiques ?
-- Quelle échelle est optimale pour la souveraineté : commune, région, État, Europe, monde ?
-- Comment partager les technologies bas-carbone avec les pays moins riches ?
+- Liste précise des secteurs critiques par territoire.
+- Mécanismes de partage des technologies bas-carbone avec les pays moins riches.
+- Règles empêchant la relocalisation stratégique de devenir une rente protégée.
 
 ---
 
