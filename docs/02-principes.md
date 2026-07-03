@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.5"
+version: "0.6"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -184,6 +184,20 @@ Aucune religion, philosophie ou conviction privée ne doit pouvoir :
 - obtenir un privilège institutionnel.
 
 L'intervention publique n'est justifiée que lorsqu'une pratique ou organisation porte atteinte aux droits fondamentaux, à la liberté de conscience, à l'intégrité des personnes, à la transparence financière ou à l'égalité civile.
+
+---
+
+## Principe 15 — La continuité du droit est le point de départ
+
+Project Horizon ne part pas d'une table rase juridique.
+
+Le droit existant reste applicable par défaut, en particulier lorsqu'il protège directement les personnes, les biens, la sécurité publique, les contrats ordinaires, la responsabilité civile, les garanties judiciaires et les droits de la défense.
+
+Les infractions comme l'homicide, les violences, la fraude, la corruption, l'abus de confiance, la mise en danger d'autrui ou les comportements routiers dangereux ne sont pas remises en cause par le modèle.
+
+La révision doit viser en priorité les règles qui produisent des effets systémiques incompatibles avec les objectifs du modèle : capture institutionnelle, rente excessive, externalisation écologique, manipulation de masse, irresponsabilité économique, atteinte au socle vital ou impossibilité de respecter des contraintes physiques établies.
+
+Une règle ancienne n'est donc pas suspecte parce qu'elle est ancienne. Elle devient révisable lorsqu'elle empêche clairement la dignité, la soutenabilité, la justice procédurale ou la résilience des secteurs vitaux.
 
 ---
 

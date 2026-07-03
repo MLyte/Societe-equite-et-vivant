@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.3"
+version: "0.4"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -40,9 +40,28 @@ La transition doit :
 
 La transition pourrait se dérouler en plusieurs phases.
 
+### Principe de transition juridique
+
+La transition ne doit pas créer de vide juridique.
+
+Le droit existant reste valide par défaut. Les règles qui protègent directement les personnes, sanctionnent les abus concrets et garantissent les recours sont conservées pendant la transition.
+
+La première tâche juridique consiste à établir une cartographie de compatibilité :
+
+- droit conservé en l'état ;
+- droit conservé avec adaptation ciblée ;
+- droit à réviser car il produit des effets systémiques incompatibles avec le modèle ;
+- droit impossible à modifier sans révision constitutionnelle, renégociation internationale ou abandon de la mesure.
+
+Cette cartographie doit distinguer les règles de protection directe, comme les infractions contre les personnes, les fraudes, les abus, la sécurité routière ou les garanties judiciaires, des règles systémiques qui organisent la propriété, le financement, les marchés, les plateformes, les secteurs vitaux ou les rapports entre entreprises et puissance publique.
+
+Les institutions pilotes ne doivent pas recevoir de pouvoir juridique contraignant tant que cette compatibilité n'a pas été instruite publiquement et ouverte au recours.
+
 ### Phase 1 — Recherche
 
 Rédiger, critiquer, sourcer et tester le modèle.
+
+Inclure dès cette phase un audit juridique initial afin d'identifier les points compatibles, adaptables, incompatibles ou impossibles dans le cadre actuel.
 
 ### Phase 2 — Simulations
 
@@ -91,6 +110,8 @@ Inscrire progressivement certains objectifs de long terme dans le droit.
 
 Les pilotes ne doivent devenir contraignants qu'après évaluation publique, correction des effets sociaux injustes et validation démocratique.
 
+La constitutionalisation ne doit pas servir à contourner les garanties judiciaires existantes. Elle doit préciser les droits, les limites et les recours nécessaires pour rendre le modèle compatible avec un État de droit.
+
 ---
 
 ## Justification
@@ -126,6 +147,7 @@ Plus lente, mais plus compatible avec la confiance démocratique.
 - Un pilote mal conçu peut produire une défiance durable envers le modèle.
 - Les activités utiles peuvent être perçues comme une mise au travail déguisée si elles conditionnent le socle vital.
 - Les pilotes de résilience peuvent être récupérés par une logique sécuritaire si leur périmètre n'est pas civil et limité.
+- La cartographie juridique peut ralentir la transition ou devenir un filtre politique si elle n'est pas contradictoire, publique et contestable.
 
 ---
 
@@ -137,6 +159,7 @@ Plus lente, mais plus compatible avec la confiance démocratique.
 - Niveau de contrainte juridique acceptable pour une institution pilote.
 - Indicateurs de dignité et de liberté pour les activités utiles.
 - Seuil de transparence acceptable sur les dépendances critiques.
+- Méthode de classement des incompatibilités juridiques et autorité chargée de les contrôler.
 
 ---
 

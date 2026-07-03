@@ -206,3 +206,25 @@ L'intervention publique n'est justifiée que lorsqu'une pratique ou organisation
 ### Raison
 
 Un modèle qui ignore les convictions réelles des citoyens devient socialement aveugle. Un modèle qui organise politiquement les religions ou laisse une conviction particulière gouverner les institutions devient incompatible avec le pluralisme, les droits fondamentaux et la méthode scientifique.
+
+---
+
+## Decision 0014 — Continuité du droit et révision ciblée
+
+Date : 2026-07-03
+
+Project Horizon ne remplace pas automatiquement le droit en vigueur.
+
+Le droit existant reste valide par défaut, notamment lorsqu'il protège directement les personnes, sanctionne les abus concrets, garantit les recours, organise la responsabilité civile ou protège les droits de la défense.
+
+Les règles relatives aux homicides, violences, fraudes, abus de confiance, corruption, mise en danger d'autrui, sécurité routière, responsabilité civile, contrats ordinaires et garanties judiciaires sont présumées conservées.
+
+La révision doit viser en priorité les règles à effet systémique qui permettent la capture institutionnelle, la rente excessive, l'externalisation écologique, la manipulation de masse, l'irresponsabilité économique, l'atteinte au socle vital ou l'impossibilité de respecter des contraintes physiques établies.
+
+Toute incompatibilité doit être classée : compatible, compatible avec adaptation, incompatible en l'état, ou impossible sans révision constitutionnelle, renégociation internationale ou abandon de la mesure.
+
+L'IA publique et le consortium scientifique peuvent instruire, simuler et signaler les incohérences, mais ils ne produisent pas directement le droit.
+
+### Raison
+
+Un modèle qui prétend tout remplacer immédiatement crée un risque d'arbitraire et de vide juridique. Une continuité juridique par défaut permet de conserver les protections utiles tout en concentrant les réformes sur les règles qui produisent des effets systémiques incompatibles avec les objectifs du modèle.

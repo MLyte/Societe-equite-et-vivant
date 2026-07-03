@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.4"
+version: "0.5"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -142,6 +142,40 @@ Une justice indépendante doit pouvoir bloquer une politique qui viole :
 
 Les recours doivent être possibles de manière individuelle et collective lorsqu'une décision publique s'appuie sur un modèle validé.
 
+### Continuité juridique et révision ciblée
+
+Project Horizon ne suspend pas le droit en vigueur par principe.
+
+Le droit civil, pénal, administratif et judiciaire reste le cadre de départ. Les règles qui protègent directement les personnes, sanctionnent les abus concrets ou garantissent un procès équitable doivent être conservées, sauf contradiction documentée avec les droits fondamentaux.
+
+Sont donc présumés conservés :
+
+- les interdictions d'homicide, de violence, d'agression, de fraude, de corruption, de mise en danger d'autrui et d'abus de confiance ;
+- les règles ordinaires de responsabilité civile, de réparation des dommages, de contrats et de protection des personnes vulnérables ;
+- les garanties judiciaires : présomption d'innocence, droits de la défense, juge indépendant, recours, proportionnalité et non-rétroactivité pénale ;
+- les règles de sécurité publique proportionnées, par exemple la sécurité routière, la sécurité au travail et la prévention des risques immédiats.
+
+Les révisions doivent viser d'abord les règles à effet systémique :
+
+- droit des sociétés lorsque la recherche de profit permet d'externaliser durablement les coûts sociaux ou écologiques ;
+- fiscalité, niches, optimisation agressive, rente foncière ou spéculation ;
+- propriété lorsqu'elle bloque l'accès aux besoins vitaux ou organise l'accaparement ;
+- droit du travail et protection sociale face à l'automatisation par l'IA ;
+- marchés publics lorsque le coût immédiat efface la résilience, la réparabilité ou l'impact écologique ;
+- lobbying, financement politique, conflits d'intérêts et portes tournantes ;
+- données, IA et décisions automatisées non explicables ou non contestables ;
+- secteurs vitaux comme l'eau, l'énergie, la santé, l'alimentation, le logement et les infrastructures critiques ;
+- règles commerciales ou médiatiques favorisant la dépendance stratégique, la manipulation de masse ou la capture de l'information.
+
+Chaque incompatibilité juridique doit être classée explicitement :
+
+- compatible : règle conservée ;
+- compatible avec adaptation : correction ciblée ;
+- incompatible en l'état : réforme législative ou réglementaire ;
+- incompatible avec une norme supérieure : révision constitutionnelle, renégociation internationale ou abandon de la mesure.
+
+Ni le consortium scientifique ni l'IA publique ne produisent directement du droit. Ils peuvent signaler les incohérences, simuler les effets et documenter les options, mais la norme juridique reste adoptée par une procédure démocratique et contrôlée par une justice indépendante.
+
 ### Lisibilité institutionnelle
 
 Chaque décision importante doit indiquer :
@@ -191,6 +225,7 @@ Peut améliorer la cohérence technique, mais affaiblit la légitimité démocra
 - La complexité peut rendre le contrôle citoyen difficile.
 - Les usages d'urgence peuvent élargir excessivement le pouvoir exécutif.
 - Les domaines à compétence renforcée peuvent créer une caste d'expertise s'ils ne sont pas limités, audités et révocables.
+- Le classement juridique des mesures peut devenir un outil politique s'il n'est pas contrôlé par une justice indépendante et des procédures contradictoires.
 
 ---
 
@@ -201,6 +236,7 @@ Peut améliorer la cohérence technique, mais affaiblit la légitimité démocra
 - Seuils permettant de déclencher une procédure d'urgence.
 - Pouvoirs précis de sanction de l'autorité d'audit.
 - Procédure permettant de sortir un domaine du régime de compétence renforcée.
+- Autorité compétente pour réaliser l'audit de compatibilité juridique initial.
 
 ---
 
