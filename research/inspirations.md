@@ -32,6 +32,11 @@ Une inspiration n'est pas une adhésion totale.
 - Assemblées citoyennes tirées au sort.
 - Démocratie délibérative.
 - Contrôle constitutionnel des droits fondamentaux.
+- Taïwan : démocratie numérique, outils de consensus et consultation ouverte. Inspiration partielle pour faire émerger les points d'accord plutôt que seulement compter les camps opposés.
+- Japon : Future Design, où des citoyens délibèrent explicitement comme représentants des générations futures. Inspiration forte pour tester les décisions contre l'intérêt long terme.
+- Pays de Galles : commissaire aux générations futures et obligation publique de tenir compte du bien-être à long terme. Inspiration possible pour un contre-pouvoir institutionnel dédié au futur.
+- Porto Alegre et budgets participatifs : inspiration locale pour réserver une part du budget à des arbitrages citoyens concrets, visibles et évaluables.
+- Fédéralisme expérimental américain : inspiration pour tester certaines politiques à l'échelle territoriale avant généralisation, avec évaluation publique des effets.
 
 ---
 
@@ -50,3 +55,23 @@ Une inspiration n'est pas une adhésion totale.
 - Auditabilité des systèmes critiques.
 - Logiciels open source.
 - Infrastructures numériques publiques.
+- Estonie : État plateforme, identité numérique, interopérabilité administrative et principe de non-redemande des informations déjà fournies. Inspiration à encadrer fortement par la protection de la vie privée et l'auditabilité.
+
+---
+
+## Inspirations de planification et prospective
+
+- Singapour : prospective stratégique, scénarios et continuité administrative. Inspiration partielle pour mieux anticiper les risques, sans reprendre un modèle politique peu pluraliste.
+- Chine : planification longue, objectifs industriels et suivi d'exécution. Inspiration limitée à la méthode de projection et de coordination, sans adhésion au modèle autoritaire.
+
+---
+
+## Principe d'importation
+
+Project Horizon ne doit pas copier un pays ou une doctrine.
+
+Chaque inspiration étrangère doit être traduite en brique institutionnelle testable : problème traité, mécanisme utile, garde-fous nécessaires, risques de capture, conditions d'abandon.
+
+La bonne question n'est donc pas : « Quel pays a raison ? »
+
+La bonne question est : « Quelle fonction institutionnelle manque à notre modèle, et quel exemple réel permet de la tester sans en importer les angles morts ? »
