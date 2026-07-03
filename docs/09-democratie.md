@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.7"
-last_updated: "2026-07-03"
+version: "0.8"
+last_updated: "2026-07-04"
 confidence: "hypothesis"
 ---
 
@@ -73,6 +73,20 @@ Les citoyens ne tranchent pas directement les paramètres techniques complexes, 
 
 En revanche, les citoyens et leurs représentants arbitrent les valeurs publiques qui encadrent ces choix : niveau de risque acceptable, protection des territoires, rythme de transition, redistribution, priorité aux usages essentiels, compensation des perdants et limites imposées aux consommations non essentielles.
 
+### Mécanismes comparatifs à tester
+
+Project Horizon peut s'inspirer de modèles étrangers sans les importer comme blocs idéologiques.
+
+Les pistes à tester sont des fonctions démocratiques précises :
+
+- **Consensus numérique** : utiliser des plateformes de délibération pour identifier les zones d'accord, les désaccords structurants et les formulations acceptables par plusieurs groupes, plutôt que seulement mesurer un rapport de force immédiat.
+- **Représentation des générations futures** : intégrer, dans certaines assemblées citoyennes, un rôle explicite de représentation des personnes futures afin de tester l'effet long terme d'une décision.
+- **Contre-pouvoir du long terme** : créer une autorité indépendante chargée de vérifier si les lois, budgets et plans sectoriels restent compatibles avec les droits fondamentaux, le socle vital, les limites physiques et les générations futures.
+- **Budget participatif local** : réserver une part limitée mais réelle du budget territorial à des choix citoyens concrets, visibles et évalués après mise en œuvre.
+- **Expérimentation territoriale** : tester certaines politiques sur des territoires volontaires ou comparables avant généralisation, avec indicateurs publics, clause de révision et possibilité d'abandon.
+
+Ces mécanismes ne doivent pas ajouter de la participation décorative. Ils doivent résoudre un problème précis : court-termisme, défiance, complexité, capture, manque d'évaluation ou distance entre décision publique et conditions de vie réelles.
+
 ### Domaines à compétence technique renforcée
 
 Certains domaines ne doivent pas être décidés par vote direct lorsqu'ils combinent forte complexité, risque irréversible, dépendance à des données spécialisées et vulnérabilité aux campagnes médiatiques ou informationnelles.
@@ -143,6 +157,8 @@ On ne vote pas la gravité, le climat ou les limites biologiques.
 
 Mais on peut légitimement voter sur la manière de répartir les efforts à l'intérieur de ces limites.
 
+Les exemples étrangers ne doivent pas être utilisés pour légitimer une imitation politique. Ils servent à isoler des mécanismes institutionnels testables : délibérer mieux, protéger le long terme, expérimenter localement, rendre l'État plus lisible et mesurer les effets réels.
+
 ---
 
 ## Alternatives étudiées
@@ -159,6 +175,10 @@ Simple et connue, mais insuffisante face aux enjeux de long terme.
 
 Peut être efficace à court terme, mais risque de perdre la légitimité et d'encourager la contestation radicale.
 
+### Importation d'un modèle étranger complet
+
+Peut donner des exemples concrets, mais risque de copier aussi les angles morts du pays concerné : culture politique, centralisation, autoritarisme, dépendance numérique, faiblesse des contre-pouvoirs ou contexte historique non transférable.
+
 ---
 
 ## Critiques
@@ -171,6 +191,9 @@ Peut être efficace à court terme, mais risque de perdre la légitimité et d'e
 - Le contrôle de compatibilité des programmes peut dériver vers un filtrage politique s'il n'est pas strictement limité aux mesures.
 - Les domaines à compétence renforcée peuvent devenir opaques si les experts, audits et procédures de recours ne sont pas réellement indépendants.
 - La liberté religieuse peut être instrumentalisée pour contourner les droits fondamentaux, ou inversement être restreinte sous prétexte de neutralité.
+- Les outils numériques de participation peuvent favoriser les personnes déjà politisées, disponibles ou à l'aise avec l'écrit.
+- La représentation des générations futures peut être instrumentalisée pour imposer une vision morale du futur sans contrôle démocratique suffisant.
+- L'expérimentation territoriale peut créer des inégalités temporaires entre citoyens selon leur lieu de vie.
 
 ---
 
@@ -183,6 +206,9 @@ Peut être efficace à court terme, mais risque de perdre la légitimité et d'e
 - Procédure d'appel lorsqu'un parti conteste le classement d'une mesure comme incompatible.
 - Critères précis permettant de classer un sujet en domaine à compétence technique renforcée.
 - Frontière pratique entre expression convictionnelle légitime et capture institutionnelle.
+- Part exacte du budget pouvant relever d'une décision participative locale.
+- Conditions de représentativité minimales pour une consultation numérique.
+- Statut juridique d'une autorité chargée de représenter le long terme.
 
 ---
 
