@@ -96,6 +96,35 @@ Questions pour Horizon :
 - Qui peut déclencher un audit externe, suspendre une autorité scientifique ou réouvrir un dossier ?
 - Comment protéger les avis minoritaires sans donner le même poids à une hypothèse faible et à un consensus robuste ?
 
+### Influence indirecte et industrie de la santé
+
+Tester la capacité du modèle à suivre l'influence au-delà des lobbyistes officiels : médecins, logiciels, données de prescription, cabinets de conseil, fondations, médias et intermédiaires économiques.
+
+Situation réelle à étudier :
+
+- **Purdue Pharma, opioïdes et intermédiaires de prescription.** Le Department of Justice des États-Unis a annoncé en 2020 une résolution pénale et civile avec Purdue Pharma. Dans cette annonce, le DOJ indique que Purdue a accepté de plaider coupable à une conspiration visant à frauder les États-Unis et à deux conspirations de violation du Federal Anti-Kickback Statute ; l'annonce mentionne aussi des paiements à des médecins via un programme d'interventions et des paiements à Practice Fusion, fournisseur de dossiers médicaux électroniques, en lien avec la recommandation ou l'organisation de commandes d'opioïdes ([DOJ](https://www.justice.gov/archives/opa/pr/justice-department-announces-global-resolution-criminal-and-civil-investigations-opioid)).
+
+Questions pour Horizon :
+
+- Comment détecter une influence qui passe par des prescripteurs, logiciels, données ou consultants plutôt que par un lobbyiste déclaré ?
+- Qui audite les liens entre producteurs de données, experts, autorités sanitaires, entreprises et décideurs publics ?
+- Quels revenus externes, cadeaux, contrats, invitations ou promesses d'emploi doivent déclencher une incompatibilité ?
+- Comment sanctionner l'influence dissimulée sans empêcher la recherche médicale, l'innovation ou le plaidoyer public transparent ?
+
+### Protection d'une politique publique contre une industrie concernée
+
+Tester les pare-feux sectoriels lorsque l'intérêt économique d'une industrie entre directement en tension avec un objectif de santé publique, d'environnement ou de sécurité.
+
+Situation réelle à étudier :
+
+- **Convention-cadre de l'OMS pour la lutte antitabac, article 5.3.** Les lignes directrices associées à l'article 5.3 sont à étudier comme exemple de protection des politiques publiques de santé contre l'influence de l'industrie du tabac `[source à vérifier]`.
+
+Questions pour Horizon :
+
+- Dans quels secteurs Horizon doit-il prévoir un pare-feu spécifique entre industrie concernée et décision publique ?
+- Comment distinguer information technique utile et influence intéressée ?
+- Quel niveau d'interaction reste acceptable lorsqu'une industrie détient des données ou compétences nécessaires ?
+
 ### Désaccord scientifique majeur
 
 Tester la manière dont le modèle gère l'incertitude et les avis minoritaires.

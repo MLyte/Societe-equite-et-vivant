@@ -152,3 +152,50 @@ Project Horizon retient la planification sectorielle comme méthode de diagnosti
 ### Statut
 
 Partiellement corrigée par choix démocratique. La v0.1 retient le plan sectoriel comme outil technique soumis à arbitrage citoyen, recours et révision.
+
+---
+
+## Critique 7 — Les mandats scientifiques peuvent créer une dépendance matérielle ou une caste
+
+Si les scientifiques, auditeurs ou experts mandatés ne sont pas rémunérés correctement, ils peuvent rester dépendants de revenus externes, de contrats privés, de carrières parallèles ou de promesses d'emploi. À l'inverse, si les mandats deviennent trop confortables, renouvelables ou socialement protégés, ils peuvent créer une caste défensive et peu contestable.
+
+### Décision retenue pour v0.1
+
+Le modèle retient des mandats publics rémunérés, transparents, suffisants et plafonnés. Le socle vital réduit la dépendance matérielle de base, mais ne remplace pas la rémunération du travail, du temps, des responsabilités et des compétences.
+
+### Mécanismes retenus
+
+- Rémunération publique ou mutualisée, jamais financée par un acteur directement concerné.
+- Barème publié et indépendant du sens des conclusions.
+- Déclaration des revenus externes, avantages, cadeaux, invitations, promesses d'emploi et liens significatifs.
+- Incompatibilités temporaires avec les acteurs concernés par le domaine traité.
+- Délais de carence après mandat.
+- Protection des désaccords minoritaires publiés de bonne foi.
+
+### Statut
+
+Partiellement corrigée par choix institutionnel. Les principes sont posés ; les barèmes exacts, seuils d'incompatibilité et délais de carence restent à formaliser.
+
+---
+
+## Critique 8 — Les lobbies peuvent simplement changer de cible
+
+Si le modèle encadre seulement les lobbyistes officiels, les acteurs privés peuvent déplacer leur influence vers des cibles moins visibles : cabinets ministériels, assistants parlementaires, auditeurs, producteurs de données, médias, plateformes, fondations, think tanks, consultants, proches ou anciens collègues.
+
+### Décision retenue pour v0.1
+
+Le modèle retient une anticapture fonctionnelle. Les obligations ne suivent pas seulement le statut déclaré de lobbyiste, mais la capacité réelle à altérer une décision publique, un modèle, une donnée, un audit, une norme, un budget ou une perception collective d'intérêt public.
+
+### Mécanismes retenus
+
+- Registre public des contacts d'influence sur les dossiers actifs.
+- Empreinte décisionnelle : acteurs entendus, contributions reçues, arguments retenus ou écartés, conflits déclarés.
+- Obligation de déclarer cadeaux, invitations, financements indirects, promesses d'emploi et soutiens médiatiques rémunérés.
+- Séparation entre instruction technique, arbitrage politique, audit et recours.
+- Collèges pluriels pour les décisions sensibles.
+- Sanctions personnelles et institutionnelles en cas d'influence dissimulée.
+- Protection des lanceurs d'alerte internes.
+
+### Statut
+
+Partiellement corrigée par choix institutionnel. Le périmètre est défini, mais les seuils pratiques distinguant plaidoyer public, recherche indépendante et influence organisée masquée devront être précisés.

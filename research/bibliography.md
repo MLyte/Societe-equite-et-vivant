@@ -38,8 +38,16 @@ Les références doivent être ajoutées avec prudence. Ne pas utiliser ce fichi
   Usage : cadre institutionnel sur intégrité publique, conflits d'intérêts, responsabilité et contrôle.
 - OECD, 2010, [*Recommendation on Principles for Transparency and Integrity in Lobbying*](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0379).
   Usage : principes de transparence et d'intégrité applicables au lobbying.
+- Union européenne, 2021, [*Accord interinstitutionnel sur un registre de transparence obligatoire*](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021Q0611(01)).
+  Usage : exemple de registre institutionnel d'influence ; utile pour comparer registre déclaratif, champ d'application, limites et sanctions.
+- OECD, 2005, *Managing Conflict of Interest in the Public Sector: A Toolkit*. `[source à vérifier]`
+  Usage : méthodes de déclaration, prévention et traitement des conflits d'intérêts dans les fonctions publiques sensibles.
+- WHO Framework Convention on Tobacco Control, 2008, *Guidelines for implementation of Article 5.3*. `[source à vérifier]`
+  Usage : exemple sectoriel de protection des politiques publiques contre l'influence d'une industrie directement concernée.
 - Stigler, G. J., 1971, [*The Theory of Economic Regulation*](https://doi.org/10.2307/3003160), *The Bell Journal of Economics and Management Science*.
   Usage : texte classique sur la capture réglementaire ; à compléter par des travaux plus récents et moins exclusivement économiques.
+- U.S. Department of Justice, 2020, [*Justice Department Announces Global Resolution of Criminal and Civil Investigations with Opioid Manufacturer Purdue Pharma*](https://www.justice.gov/archives/opa/pr/justice-department-announces-global-resolution-criminal-and-civil-investigations-opioid).
+  Usage : cas d'étude sur industrie pharmaceutique, incitations financières, intermédiaires médicaux, données de prescription et limites des dispositifs de contrôle.
 
 ### IA et gouvernance
 
