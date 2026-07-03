@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.5"
+version: "0.7"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -45,6 +45,8 @@ Cette validation ne remplace pas la démocratie. Elle fixe le périmètre des tr
 Project Horizon protège le pluralisme politique. Les institutions ne valident pas les idéologies des partis ; elles contrôlent la compatibilité des mesures proposées avec les droits fondamentaux, le socle vital, les contraintes physiques, la transparence et les procédures de recours.
 
 Un parti peut donc défendre une orientation plus libérale, sociale, locale, centralisée, sobre ou industrialiste, à condition que ses mesures restent dans ce corridor commun.
+
+Le pluralisme inclut la liberté religieuse, spirituelle, philosophique, agnostique et athée. Les convictions peuvent nourrir le débat public, mais elles ne peuvent pas remplacer les justifications communes attendues d'une décision publique.
 
 Ils participent notamment aux arbitrages portant sur :
 
@@ -111,6 +113,28 @@ Un parti élu conserve sa légitimité politique, mais il ne peut appliquer que 
 
 Les lobbies ne doivent pas participer à la validation des contraintes, modèles ou arbitrages techniques. Ils peuvent être entendus publiquement comme parties prenantes, mais leurs contributions, financements, intérêts et échanges doivent être tracés.
 
+### Religions et convictions
+
+Project Horizon protège la liberté de conscience.
+
+Les religions et convictions relèvent d'abord de la vie privée, associative et communautaire volontaire.
+
+Les organisations religieuses, philosophiques ou convictionnelles peuvent s'exprimer dans l'espace public, mais elles ne disposent d'aucun rôle institutionnel particulier dans la production des normes publiques.
+
+Les règles retenues sont :
+
+- aucune religion d'État ;
+- aucun privilège institutionnel pour une conviction particulière ;
+- aucune représentation religieuse officielle dans la validation des politiques publiques ;
+- liberté de culte, de non-croyance, de critique et de changement de conviction ;
+- interdiction d'utiliser une conviction pour réduire les droits fondamentaux d'autrui ;
+- décisions publiques justifiées par des raisons partageables et vérifiables ;
+- transparence des financements et influences lorsqu'une organisation cherche à influencer une décision publique.
+
+L'État ne cherche pas à organiser l'accord entre doctrines religieuses. Il intervient seulement par le droit commun lorsque des pratiques portent atteinte aux droits fondamentaux, à la liberté de conscience, à l'intégrité des personnes, à l'égalité civile ou à la transparence financière.
+
+L'enseignement public doit distinguer l'éducation scientifique, l'histoire des religions et des philosophies, et l'endoctrinement. Le modèle retient l'éducation scientifique et culturelle, mais refuse l'endoctrinement public.
+
 ---
 
 ## Justification
@@ -146,6 +170,7 @@ Peut être efficace à court terme, mais risque de perdre la légitimité et d'e
 - Les plans sectoriels peuvent transférer des coûts importants vers certains territoires ou professions.
 - Le contrôle de compatibilité des programmes peut dériver vers un filtrage politique s'il n'est pas strictement limité aux mesures.
 - Les domaines à compétence renforcée peuvent devenir opaques si les experts, audits et procédures de recours ne sont pas réellement indépendants.
+- La liberté religieuse peut être instrumentalisée pour contourner les droits fondamentaux, ou inversement être restreinte sous prétexte de neutralité.
 
 ---
 
@@ -157,6 +182,7 @@ Peut être efficace à court terme, mais risque de perdre la légitimité et d'e
 - Procédure à suivre lorsqu'une majorité refuse une trajectoire scientifiquement robuste mais socialement contestée.
 - Procédure d'appel lorsqu'un parti conteste le classement d'une mesure comme incompatible.
 - Critères précis permettant de classer un sujet en domaine à compétence technique renforcée.
+- Frontière pratique entre expression convictionnelle légitime et capture institutionnelle.
 
 ---
 

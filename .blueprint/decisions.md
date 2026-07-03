@@ -184,3 +184,25 @@ Le socle vital ne doit pas être conditionné à ces activités.
 ### Raison
 
 Un modèle dépendant de chaînes mondiales fragiles ou d'États hostiles peut perdre sa capacité d'agir sans guerre ouverte. Un modèle où l'IA réduit l'emploi sans proposer d'activités dignes risque l'isolement social, la perte de sens et la défiance. La réponse retenue combine autonomie vitale, coopération sélective et reconnaissance du travail utile hors emploi classique.
+
+---
+
+## Decision 0013 — Liberté de conscience et laïcité de méthode
+
+Date : 2026-07-03
+
+Project Horizon ne tranche pas les questions religieuses, spirituelles ou métaphysiques.
+
+Le modèle protège la liberté de croire, de ne pas croire, de douter, de changer de conviction ou de n'en revendiquer aucune.
+
+Les institutions publiques doivent toutefois décider à partir de raisons partageables, vérifiables et compatibles avec les droits fondamentaux.
+
+Aucune religion, philosophie ou conviction privée ne peut définir les contraintes scientifiques, remplacer les droits fondamentaux, imposer une norme morale à toute la société ou obtenir un privilège institutionnel.
+
+L'État n'a pas à organiser, arbitrer ou reconnaître la coexistence doctrinale des religions. Les pratiques religieuses relèvent de la vie privée, associative et communautaire volontaire, dans le cadre du droit commun.
+
+L'intervention publique n'est justifiée que lorsqu'une pratique ou organisation porte atteinte aux droits fondamentaux, à la liberté de conscience, à l'intégrité des personnes, à l'égalité civile, à la transparence financière ou cherche à capturer une institution.
+
+### Raison
+
+Un modèle qui ignore les convictions réelles des citoyens devient socialement aveugle. Un modèle qui organise politiquement les religions ou laisse une conviction particulière gouverner les institutions devient incompatible avec le pluralisme, les droits fondamentaux et la méthode scientifique.

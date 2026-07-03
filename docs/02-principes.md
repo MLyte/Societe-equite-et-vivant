@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.3"
+version: "0.5"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -162,6 +162,28 @@ Pour les secteurs vitaux, le modèle préfère des chaînes plus robustes, répa
 Si l'IA réduit durablement une partie de l'emploi salarié, la société doit reconnaître d'autres formes de contribution : soin, réparation, formation, communs, adaptation écologique, médiation, culture et participation démocratique.
 
 Ces activités peuvent ouvrir des droits, mais ne doivent pas devenir une condition punitive d'accès au socle vital.
+
+---
+
+## Principe 14 — La liberté de conscience est protégée
+
+Le modèle ne tranche pas les questions religieuses, spirituelles ou métaphysiques.
+
+Chaque personne doit pouvoir croire, ne pas croire, douter, changer de conviction ou n'en revendiquer aucune.
+
+Les institutions publiques doivent cependant appliquer une laïcité de méthode : elles décident à partir de raisons partageables, vérifiables et compatibles avec les droits fondamentaux.
+
+L'État n'a pas à organiser, arbitrer ou reconnaître la coexistence doctrinale des religions. Il protège les personnes et applique le droit commun.
+
+Aucune religion, philosophie ou conviction privée ne doit pouvoir :
+
+- définir les contraintes scientifiques ;
+- remplacer les droits fondamentaux ;
+- imposer une norme morale à toute la société ;
+- justifier une discrimination ;
+- obtenir un privilège institutionnel.
+
+L'intervention publique n'est justifiée que lorsqu'une pratique ou organisation porte atteinte aux droits fondamentaux, à la liberté de conscience, à l'intégrité des personnes, à la transparence financière ou à l'égalité civile.
 
 ---
 

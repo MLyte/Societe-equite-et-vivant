@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.5"
+version: "0.7"
 last_updated: "2026-07-03"
 confidence: "draft"
 ---
@@ -42,6 +42,16 @@ Toute décision publique appuyée par une sortie d'IA doit être assumée par un
 Pas au sens historique ou économique classique.
 
 Le modèle ne supprime pas le marché ni la propriété privée. Il garantit un socle vital et encadre les secteurs essentiels à l'intérieur de limites écologiques.
+
+## Quelle place pour les religions ?
+
+Project Horizon protège la liberté de conscience : croire, ne pas croire, douter, changer de conviction ou n'en revendiquer aucune.
+
+Le modèle ne donne cependant aucun pouvoir institutionnel aux religions. Les décisions publiques doivent être justifiées par des raisons partageables, vérifiables et compatibles avec les droits fondamentaux.
+
+L'État n'a pas à organiser la coexistence des doctrines religieuses. Les personnes et groupes pratiquent librement dans le cadre du droit commun.
+
+L'intervention publique n'est justifiée qu'en cas d'atteinte aux droits, de coercition, d'abus, de discrimination, d'opacité financière ou de tentative de capture institutionnelle.
 
 ## Pourquoi ne pas laisser les citoyens décider de tout ?
 
