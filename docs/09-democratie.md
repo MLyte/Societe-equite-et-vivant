@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.4"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -42,6 +42,10 @@ Les citoyens choisissent entre des modèles validés scientifiquement.
 
 Cette validation ne remplace pas la démocratie. Elle fixe le périmètre des trajectoires compatibles avec les contraintes établies.
 
+Project Horizon protège le pluralisme politique. Les institutions ne valident pas les idéologies des partis ; elles contrôlent la compatibilité des mesures proposées avec les droits fondamentaux, le socle vital, les contraintes physiques, la transparence et les procédures de recours.
+
+Un parti peut donc défendre une orientation plus libérale, sociale, locale, centralisée, sobre ou industrialiste, à condition que ses mesures restent dans ce corridor commun.
+
 Ils participent notamment aux arbitrages portant sur :
 
 - la justice sociale ;
@@ -61,7 +65,51 @@ Le modèle retient plusieurs mécanismes complémentaires :
 - contrôle parlementaire des usages d'urgence ;
 - contre-propositions citoyennes ou territoriales lorsqu'elles restent compatibles avec les contraintes physiques.
 
-Les plans sectoriels, par exemple sur l'énergie, le logement, la mobilité ou l'alimentation, doivent donc être traités comme des outils techniques soumis à arbitrage démocratique.
+Les plans sectoriels, par exemple sur l'énergie, le logement, la mobilité ou l'alimentation, doivent donc être traités comme des outils techniques soumis à contrôle démocratique sur leurs effets sociaux, territoriaux et professionnels.
+
+Les citoyens ne tranchent pas directement les paramètres techniques complexes, comme un mix électrique détaillé, une sûreté nucléaire ou une architecture de réseau. Ces paramètres relèvent d'une expertise publique, contradictoire et auditée.
+
+En revanche, les citoyens et leurs représentants arbitrent les valeurs publiques qui encadrent ces choix : niveau de risque acceptable, protection des territoires, rythme de transition, redistribution, priorité aux usages essentiels, compensation des perdants et limites imposées aux consommations non essentielles.
+
+### Domaines à compétence technique renforcée
+
+Certains domaines ne doivent pas être décidés par vote direct lorsqu'ils combinent forte complexité, risque irréversible, dépendance à des données spécialisées et vulnérabilité aux campagnes médiatiques ou informationnelles.
+
+Cela concerne notamment :
+
+- énergie et réseaux ;
+- santé publique, médicaments et protocoles sanitaires ;
+- eau, alimentation et sécurité sanitaire ;
+- climat, biodiversité et budgets écologiques ;
+- cybersécurité et infrastructures numériques critiques ;
+- sûreté nucléaire, industrielle, ferroviaire, aérienne ou hospitalière ;
+- stabilité financière systémique ;
+- normes de construction, d'urbanisme et de sécurité.
+
+Dans ces domaines, la décision technique doit relever d'une expertise publique pluraliste, contradictoire, auditée et révocable.
+
+La démocratie intervient autrement :
+
+- elle fixe le mandat ;
+- elle choisit les valeurs et seuils de risque acceptables ;
+- elle contrôle la transparence ;
+- elle arbitre la répartition des coûts et compensations ;
+- elle peut contester, réviser ou suspendre une décision par des procédures prévues.
+
+### Contrôle des partis et des programmes
+
+Le contrôle porte sur les mesures, pas sur l'existence des partis.
+
+Une autorité électorale indépendante, une expertise publique et une justice constitutionnelle doivent distinguer :
+
+- les mesures compatibles ;
+- les mesures compatibles avec réserves ;
+- les mesures incompatibles en l'état ;
+- les mesures contraires aux droits fondamentaux.
+
+Un parti élu conserve sa légitimité politique, mais il ne peut appliquer que des mesures compatibles ou corrigées.
+
+Les lobbies ne doivent pas participer à la validation des contraintes, modèles ou arbitrages techniques. Ils peuvent être entendus publiquement comme parties prenantes, mais leurs contributions, financements, intérêts et échanges doivent être tracés.
 
 ---
 
@@ -96,6 +144,8 @@ Peut être efficace à court terme, mais risque de perdre la légitimité et d'e
 - La participation citoyenne peut devenir symbolique.
 - Les institutions peuvent être trop complexes pour être contrôlées.
 - Les plans sectoriels peuvent transférer des coûts importants vers certains territoires ou professions.
+- Le contrôle de compatibilité des programmes peut dériver vers un filtrage politique s'il n'est pas strictement limité aux mesures.
+- Les domaines à compétence renforcée peuvent devenir opaques si les experts, audits et procédures de recours ne sont pas réellement indépendants.
 
 ---
 
@@ -105,6 +155,8 @@ Peut être efficace à court terme, mais risque de perdre la légitimité et d'e
 - Conditions d'usage des référendums.
 - Format d'information publique permettant d'éviter la propagande institutionnelle.
 - Procédure à suivre lorsqu'une majorité refuse une trajectoire scientifiquement robuste mais socialement contestée.
+- Procédure d'appel lorsqu'un parti conteste le classement d'une mesure comme incompatible.
+- Critères précis permettant de classer un sujet en domaine à compétence technique renforcée.
 
 ---
 

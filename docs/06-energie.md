@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -55,7 +55,9 @@ La stratégie initiale repose sur cinq piliers :
 
 Cette proposition n'est pas dogmatique. Elle doit être révisée si une alternative démontre une meilleure combinaison de sécurité, coût, empreinte carbone, pilotabilité et acceptabilité.
 
-L'énergie est traitée comme un plan sectoriel soumis à arbitrage démocratique.
+L'énergie est traitée comme un plan sectoriel technique, validé par expertise publique contradictoire et soumis à contrôle démocratique sur ses conséquences sociales.
+
+Le choix détaillé entre nucléaire, renouvelables, stockage, réseaux, sobriété et pilotage de la demande ne doit pas être décidé par sondage, par lobbying industriel ou par promesse partisane isolée. Il doit résulter de modèles publiés, audités et comparés selon la sécurité d'approvisionnement, les émissions, les coûts, les risques, les délais, les matériaux, les déchets, la résilience et l'acceptabilité.
 
 Les priorités d'allocation retenues sont :
 
@@ -66,6 +68,8 @@ Les priorités d'allocation retenues sont :
 5. usages non essentiels, modulables selon les budgets énergétiques.
 
 Les usages énergétiques de l'IA et des data centers doivent être intégrés à cette hiérarchie. Ils ne sont justifiables que si leur utilité sociale, scientifique ou écologique dépasse leur coût énergétique et matériel.
+
+Les acteurs industriels, énergétiques ou financiers peuvent fournir des données et être auditionnés publiquement, mais ils ne doivent pas fixer les hypothèses, écrire les trajectoires ou arbitrer les priorités. Toute contribution d'intérêt privé doit être déclarée, tracée et auditée.
 
 ---
 
@@ -98,6 +102,7 @@ Indispensable, mais insuffisante si elle n'est pas accompagnée d'une production
 - Les déchets restent un sujet de gouvernance long terme.
 - La sobriété peut être socialement inégalitaire si elle est mal conçue.
 - La hiérarchie des usages énergétiques peut être contestée si elle est décidée sans débat public.
+- Les choix techniques peuvent être capturés par des intérêts industriels si les données, hypothèses et auditions ne sont pas publiques.
 
 ---
 
@@ -107,6 +112,7 @@ Indispensable, mais insuffisante si elle n'est pas accompagnée d'une production
 - Gouvernance du nucléaire civil, des déchets et de la sûreté.
 - Seuils d'utilité sociale pour les usages numériques énergivores.
 - Modalités de recours lorsqu'un territoire conteste une priorité énergétique.
+- Seuil de transparence imposé aux contributions des acteurs privés du secteur énergétique.
 
 ---
 

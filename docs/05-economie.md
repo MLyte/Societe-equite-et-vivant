@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -37,7 +37,8 @@ Le modèle économique doit :
 - redistribuer une partie des gains de productivité liés à l'IA ;
 - empêcher les monopoles critiques ;
 - limiter l'inflation des biens essentiels ;
-- relocaliser les secteurs vitaux.
+- relocaliser les secteurs vitaux ;
+- organiser des activités socialement utiles lorsque l'IA réduit le volume d'emplois classiques.
 
 ---
 
@@ -57,6 +58,26 @@ La v0.2 retient une option mixte :
 - fiscalité spécifique sur les rentes liées aux données, infrastructures numériques, positions dominantes et automatisation.
 
 Cette redistribution ne doit pas justifier une surveillance individuelle généralisée. Elle doit passer par des règles publiques, auditables et contestables.
+
+### Activité utile après automatisation
+
+Le modèle ne doit pas traiter les personnes seulement comme des travailleurs salariés ou des consommateurs.
+
+Si l'IA réduit durablement une partie de l'emploi classique, la réponse retenue est un droit à l'activité utile, non une obligation punitive.
+
+Ces activités peuvent inclure :
+
+- soin, accompagnement, médiation et éducation ;
+- réparation, réemploi, maintenance locale et sobriété matérielle ;
+- restauration écologique, adaptation climatique et prévention des risques ;
+- production locale de biens vitaux lorsque c'est pertinent ;
+- contribution à des communs numériques publics ;
+- participation à des jurys, panels citoyens, audits d'usage et dispositifs de recours ;
+- culture, sport, transmission et vie associative.
+
+Ces activités doivent pouvoir être reconnues par du temps, des droits sociaux, de la formation, une rémunération ou une garantie de revenu complémentaire.
+
+Elles ne doivent pas devenir une condition humiliante d'accès au socle vital.
 
 ---
 
@@ -98,6 +119,7 @@ Plus équilibrée, mais parfois insuffisamment adaptée aux contraintes écologi
 - Comment préserver la liberté entrepreneuriale ?
 - Comment éviter une administration économique trop lourde ?
 - Comment empêcher les communs stratégiques d'être capturés par l'État, des monopoles ou des lobbies ?
+- Comment éviter que les activités utiles deviennent du travail obligatoire déguisé ?
 
 ---
 
@@ -107,6 +129,7 @@ Plus équilibrée, mais parfois insuffisamment adaptée aux contraintes écologi
 - Barème de contribution des rentes IA, plateformes, données, modèles et infrastructures cloud.
 - Indicateurs de richesse utile au-delà du PIB.
 - Procédure de contrôle des prix essentiels en période de tension.
+- Statut juridique des activités utiles hors emploi classique.
 
 ---
 

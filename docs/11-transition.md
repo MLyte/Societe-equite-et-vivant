@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -48,6 +48,11 @@ Rédiger, critiquer, sourcer et tester le modèle.
 
 Appliquer le modèle à des cas fictifs ou historiques : crise énergétique, pandémie, sécheresse, chômage technologique, inflation des logements.
 
+Ajouter deux simulations prioritaires :
+
+- rupture volontaire d'approvisionnement par un État ou fournisseur stratégique ;
+- baisse rapide de l'emploi dans un secteur automatisé par l'IA.
+
 ### Phase 3 — Expérimentations locales
 
 Tester des éléments limités : quartiers bas-carbone, socle énergétique, panels citoyens, audits publics des décisions.
@@ -61,6 +66,20 @@ Le premier cas d'usage retenu pour avancer est un pilote local combinant :
 - procédure de recours simple.
 
 Ce choix est limité mais structurant : il teste en même temps le socle vital, l'énergie, la lisibilité institutionnelle, la démocratie d'arbitrage et l'audit.
+
+Un second pilote doit tester la réponse sociale à l'automatisation :
+
+- garantie de revenu complémentaire ;
+- formation courte vers activités utiles locales ;
+- reconnaissance du temps consacré à la réparation, au soin, aux communs, à l'adaptation écologique ou à la participation démocratique ;
+- absence de condition punitive pour accéder au socle vital.
+
+Un troisième pilote doit tester la résilience civile :
+
+- cartographie des dépendances critiques ;
+- stocks locaux ou régionaux sur quelques biens vitaux ;
+- protocoles de substitution en cas de rupture d'approvisionnement ;
+- transparence publique sur les vulnérabilités sans divulguer les points exploitables.
 
 ### Phase 4 — Institutions pilotes
 
@@ -105,6 +124,8 @@ Plus lente, mais plus compatible avec la confiance démocratique.
 - Les institutions existantes peuvent bloquer le changement.
 - La population peut se désintéresser du modèle s'il reste trop abstrait.
 - Un pilote mal conçu peut produire une défiance durable envers le modèle.
+- Les activités utiles peuvent être perçues comme une mise au travail déguisée si elles conditionnent le socle vital.
+- Les pilotes de résilience peuvent être récupérés par une logique sécuritaire si leur périmètre n'est pas civil et limité.
 
 ---
 
@@ -114,6 +135,8 @@ Plus lente, mais plus compatible avec la confiance démocratique.
 - Indicateurs de réussite du socle énergétique.
 - Conditions d'arrêt ou de correction d'une expérimentation.
 - Niveau de contrainte juridique acceptable pour une institution pilote.
+- Indicateurs de dignité et de liberté pour les activités utiles.
+- Seuil de transparence acceptable sur les dépendances critiques.
 
 ---
 

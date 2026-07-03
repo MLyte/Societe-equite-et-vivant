@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.4"
 last_updated: "2026-07-03"
 confidence: "draft"
 ---
@@ -12,6 +12,14 @@ confidence: "draft"
 Non.
 
 Project Horizon est un projet de recherche et de conception institutionnelle. Il peut inspirer des acteurs politiques, mais il n'est pas conçu comme un parti.
+
+## Est-ce un parti unique ?
+
+Non.
+
+Le modèle doit protéger le pluralisme politique. Il ne valide pas les idéologies des partis ; il contrôle seulement que les mesures proposées respectent les droits fondamentaux, le socle vital, les contraintes physiques, la transparence et les recours.
+
+Un parti peut défendre des arbitrages sociaux, fiscaux, territoriaux ou culturels différents. Il ne peut pas gouverner contre les droits, contre les contraintes établies ou sous influence opaque de lobbies.
 
 ## Est-ce une technocratie pure ?
 
@@ -40,6 +48,16 @@ Le modèle ne supprime pas le marché ni la propriété privée. Il garantit un 
 Parce que certaines contraintes ne sont pas des préférences.
 
 On ne vote pas la quantité de carbone compatible avec un climat stable. En revanche, on peut voter sur la manière de répartir les efforts nécessaires.
+
+De la même manière, les citoyens ne doivent pas décider directement d'un mix énergétique technique. Ils doivent arbitrer les valeurs qui l'encadrent : sûreté, coût social, redistribution, protection des territoires, vitesse de transition et priorité aux usages essentiels.
+
+## Qui décide des sujets très techniques ?
+
+Les paramètres techniques doivent être établis par une expertise publique, pluraliste, contradictoire, auditée et révocable.
+
+Cela vaut pour l'énergie, la santé publique, l'eau, les infrastructures critiques, la cybersécurité, la sûreté industrielle, les budgets écologiques ou les risques systémiques.
+
+Les citoyens ne sont pas exclus : ils fixent le mandat, les valeurs, les priorités sociales, les seuils de risque acceptables, les compensations et les recours. Ils ne remplacent pas l'expertise sur des paramètres qui exigent des connaissances spécialisées.
 
 ## Qui choisit les scientifiques ?
 

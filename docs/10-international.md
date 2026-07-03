@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -30,7 +30,8 @@ Le modèle international doit :
 - éviter l'autarcie ;
 - réduire les dépendances géopolitiques dangereuses ;
 - rendre les chaînes de valeur plus résilientes ;
-- partager les connaissances utiles à la transition écologique.
+- partager les connaissances utiles à la transition écologique ;
+- protéger la société contre les pressions d'États hostiles sans basculer dans une logique militaire généralisée.
 
 ---
 
@@ -55,6 +56,37 @@ La v0.2 retient une échelle par défaut :
 Une dépendance est considérée comme critique lorsqu'une rupture peut menacer le socle vital, la sécurité énergétique, la santé publique, l'autonomie numérique ou la capacité démocratique de décider.
 
 Les technologies bas-carbone utiles aux pays moins riches doivent être traitées comme un domaine de coopération prioritaire, sous réserve de sûreté, de transparence et d'adaptation locale.
+
+### Résilience face aux États hostiles
+
+Le modèle ne suppose pas que tous les États ou partenaires commerciaux agissent de bonne foi.
+
+La protection civile du modèle repose sur :
+
+- diversification des fournisseurs critiques ;
+- stocks stratégiques pour médicaments, énergie, eau, alimentation, composants numériques et pièces de maintenance ;
+- capacité minimale de production régionale pour les biens vitaux ;
+- infrastructures numériques et énergétiques auditables, réparables et non dépendantes d'un fournisseur unique ;
+- clauses de sortie pour les contrats critiques ;
+- traçabilité publique des dépendances stratégiques ;
+- coopération scientifique ouverte, mais contrôle renforcé sur les usages critiques pouvant fragiliser le socle vital.
+
+Cette résilience ne vise pas l'autarcie. Elle vise à empêcher qu'un État, une entreprise ou une coalition d'intérêts puisse bloquer l'accès aux besoins fondamentaux.
+
+### Mondialisation ralentie et sélective
+
+La v0.3 retient un ralentissement sélectif de la mondialisation.
+
+Cela signifie :
+
+- chaînes plus courtes pour les biens vitaux ;
+- moins de dépendance au flux tendu ;
+- priorité à la réparabilité, aux stocks et à la redondance ;
+- commerce maintenu pour les biens non critiques ;
+- coopération scientifique et climatique préservée ;
+- évaluation écologique et sociale des échanges avant expansion.
+
+Le critère principal n'est plus seulement le coût immédiat, mais la robustesse du socle vital en cas de crise.
 
 ---
 
@@ -89,6 +121,7 @@ Option intermédiaire, potentiellement plus robuste.
 - Les politiques industrielles peuvent être capturées par des intérêts nationaux.
 - La coopération internationale peut être lente et instable.
 - La sécurisation des secteurs vitaux peut servir de prétexte à un protectionnisme inefficace ou injuste.
+- La méfiance envers les États hostiles peut dériver vers une fermeture excessive ou une suspicion généralisée.
 
 ---
 
@@ -97,6 +130,8 @@ Option intermédiaire, potentiellement plus robuste.
 - Liste précise des secteurs critiques par territoire.
 - Mécanismes de partage des technologies bas-carbone avec les pays moins riches.
 - Règles empêchant la relocalisation stratégique de devenir une rente protégée.
+- Niveau minimal de stocks stratégiques pour chaque secteur vital.
+- Critères permettant d'identifier une dépendance géopolitique inacceptable.
 
 ---
 

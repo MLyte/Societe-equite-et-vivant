@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.2"
+version: "0.3"
 last_updated: "2026-07-03"
 confidence: "hypothesis"
 ---
@@ -68,6 +68,23 @@ Elle doit pouvoir :
 - vérifier les financements et affiliations ;
 - protéger les lanceurs d'alerte ;
 - demander la suspension d'un modèle en cas de défaut grave.
+
+### Domaines à compétence technique renforcée
+
+Certains domaines doivent être protégés des décisions immédiates sous pression électorale, médiatique ou lobbyiste.
+
+Un domaine peut relever d'une compétence technique renforcée lorsqu'il présente au moins plusieurs de ces critères :
+
+- complexité élevée ;
+- risque de dommage irréversible ;
+- forte dépendance à des données spécialisées ;
+- effets systémiques ;
+- asymétrie d'information entre public, experts et intérêts privés ;
+- exposition élevée à la capture économique ou médiatique.
+
+Dans ces domaines, les paramètres techniques sont établis par expertise publique contradictoire et auditée.
+
+Cette règle ne supprime pas le contrôle démocratique. Les citoyens et représentants conservent le pouvoir sur le mandat, les valeurs, les priorités sociales, les compensations, les recours et la révision des institutions.
 
 ### IA publique d'analyse
 
@@ -173,6 +190,7 @@ Peut améliorer la cohérence technique, mais affaiblit la légitimité démocra
 - Deux modèles robustes peuvent mener à des choix sociaux différents.
 - La complexité peut rendre le contrôle citoyen difficile.
 - Les usages d'urgence peuvent élargir excessivement le pouvoir exécutif.
+- Les domaines à compétence renforcée peuvent créer une caste d'expertise s'ils ne sont pas limités, audités et révocables.
 
 ---
 
@@ -182,6 +200,7 @@ Peut améliorer la cohérence technique, mais affaiblit la légitimité démocra
 - Modalités de tirage au sort ou de sélection des panels citoyens.
 - Seuils permettant de déclencher une procédure d'urgence.
 - Pouvoirs précis de sanction de l'autorité d'audit.
+- Procédure permettant de sortir un domaine du régime de compétence renforcée.
 
 ---
 

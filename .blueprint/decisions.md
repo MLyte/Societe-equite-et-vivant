@@ -123,3 +123,64 @@ Pour la v0.1, les critiques principales ne doivent pas rester de simples objecti
 ### Raison
 
 Un modèle qui reconnaît les risques sans choisir de mécanismes de contrôle reste trop théorique. Ces garde-fous donnent une direction vérifiable sans transformer Project Horizon en technocratie ou en gouvernement par IA.
+
+---
+
+## Decision 0010 — Le pluralisme politique est protégé dans un corridor de compatibilité
+
+Date : 2026-07-03
+
+Project Horizon ne supprime pas les partis politiques et ne valide pas les idéologies.
+
+Le modèle contrôle la compatibilité des mesures proposées avec :
+
+- les droits fondamentaux ;
+- le socle vital ;
+- les contraintes physiques et sanitaires établies ;
+- la transparence des hypothèses ;
+- les procédures de recours ;
+- l'absence de capture par des lobbies.
+
+Les citoyens arbitrent les valeurs publiques et les effets sociaux des trajectoires. Les paramètres techniques complexes, par exemple le mix énergétique détaillé, relèvent d'une expertise publique, contradictoire et auditée.
+
+### Raison
+
+Sans pluralisme, le modèle dériverait vers un parti unique. Sans contrôle de compatibilité, il redeviendrait possible de gouverner contre les contraintes du réel ou sous influence opaque d'intérêts privés.
+
+---
+
+## Decision 0011 — Certains domaines relèvent d'une compétence technique renforcée
+
+Date : 2026-07-03
+
+Project Horizon distingue les arbitrages démocratiques des paramètres techniques complexes.
+
+Les domaines présentant une forte complexité, un risque irréversible, des effets systémiques, une forte asymétrie d'information ou un risque élevé de capture doivent relever d'une expertise publique pluraliste, contradictoire, auditée et révocable.
+
+Cela peut concerner notamment l'énergie, la santé publique, l'eau, l'alimentation, les infrastructures critiques, la cybersécurité, la sûreté industrielle, les budgets écologiques et les risques financiers systémiques.
+
+Les citoyens et représentants conservent le pouvoir sur le mandat, les valeurs, les seuils de risque acceptables, les priorités sociales, les compensations, les recours et la révision des institutions.
+
+### Raison
+
+Un vote direct sur des paramètres techniques complexes peut être vulnérable à la manipulation médiatique, aux intérêts privés et à l'asymétrie d'information. Mais une expertise sans contrôle démocratique deviendrait technocratique. Le modèle retient donc une séparation contrôlée : expertise pour les paramètres, démocratie pour les finalités et les garde-fous.
+
+---
+
+## Decision 0012 — Résilience civile, mondialisation ralentie et activité utile
+
+Date : 2026-07-03
+
+Project Horizon retient une mondialisation ralentie et sélective pour les secteurs vitaux.
+
+Les chaînes critiques doivent être plus courtes, diversifiées, réparables, stockées et moins dépendantes d'États, entreprises ou coalitions d'intérêts capables de bloquer le socle vital.
+
+Cette résilience reste civile : elle concerne l'eau, l'énergie, l'alimentation, les médicaments, les composants critiques, les infrastructures numériques, la maintenance et les capacités de substitution. Elle ne définit pas une doctrine militaire ou policière.
+
+Face à l'automatisation par l'IA, le modèle retient un droit à l'activité utile : soin, réparation, formation, communs numériques, adaptation écologique, médiation, participation démocratique, culture et vie associative peuvent être reconnus socialement et économiquement.
+
+Le socle vital ne doit pas être conditionné à ces activités.
+
+### Raison
+
+Un modèle dépendant de chaînes mondiales fragiles ou d'États hostiles peut perdre sa capacité d'agir sans guerre ouverte. Un modèle où l'IA réduit l'emploi sans proposer d'activités dignes risque l'isolement social, la perte de sens et la défiance. La réponse retenue combine autonomie vitale, coopération sélective et reconnaissance du travail utile hors emploi classique.
