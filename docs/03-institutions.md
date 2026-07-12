@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.8"
-last_updated: "2026-07-03"
+version: "0.9"
+last_updated: "2026-07-12"
 confidence: "hypothesis"
 ---
 
@@ -57,6 +57,18 @@ Les couches retenues sont les suivantes :
 7. les citoyens, juridictions, médias, chercheurs et contre-pouvoirs, qui peuvent contester, corriger ou faire annuler une décision.
 
 Cette séparation permet d'éviter deux confusions : croire que les experts gouvernent seuls, ou croire que les élus peuvent réécrire les contraintes du réel.
+
+### Fonction distribuée de protection du long terme
+
+**Hypothèse** : la protection du long terme ne doit pas être confiée par défaut à une nouvelle autorité souveraine. Elle doit être répartie entre les institutions existantes afin de séparer l'expertise, l'audit, l'arbitrage démocratique et le recours.
+
+- le consortium scientifique documente les effets différés, les irréversibilités, les incertitudes et les groupes exposés ;
+- l'autorité d'audit vérifie les données, les méthodes, les conflits d'intérêts et la présentation des désaccords ;
+- le gouvernement et le Parlement motivent publiquement leurs arbitrages, notamment lorsqu'ils s'écartent d'un avis de long terme ;
+- une assemblée citoyenne peut demander un réexamen motivé d'une loi, d'un budget ou d'un plan sectoriel ;
+- la justice indépendante contrôle le respect des droits fondamentaux, des compétences et des procédures.
+
+Les avis produits dans ce cadre sont publics et doivent recevoir une réponse motivée. Ils ne créent pas, par eux-mêmes, un droit de veto général sur la décision démocratique. La représentation des générations futures constitue un mandat méthodologique : rendre visibles les coûts transférés et les choix irréversibles, sans prétendre parler moralement au nom de personnes qui ne peuvent ni mandater ni révoquer leurs représentants.
 
 ### Consortium scientifique international
 
@@ -325,6 +337,8 @@ Peut améliorer la cohérence technique, mais affaiblit la légitimité démocra
 - La validation des compétences peut dériver vers un corporatisme diplômé si elle mesure le statut plutôt que la capacité réelle, ou vers un filtre social si elle est appliquée aux droits citoyens.
 - Une rémunération publique trop basse rendrait les mandats dépendants de revenus externes ; une rémunération trop haute pourrait créer une caste intéressée par la conservation de ses positions.
 - Les lobbies peuvent déplacer leur influence vers des acteurs périphériques si le périmètre anticapture ne suit pas la fonction réelle d'influence.
+- La fonction de protection du long terme peut devenir un veto indirect si ses avis acquièrent une autorité politique sans base juridique claire.
+- La répartition de cette fonction entre plusieurs institutions peut diluer la responsabilité si chaque avis ne précise pas qui instruit, arbitre, contrôle et répond.
 
 ---
 
@@ -339,6 +353,7 @@ Peut améliorer la cohérence technique, mais affaiblit la légitimité démocra
 - Critères permettant de fusionner, maintenir ou coordonner les niveaux institutionnels dans un État fédéral.
 - Méthodes permettant de valider les compétences sans créer une caste fermée ni exclure les parcours non académiques sérieux.
 - Barèmes exacts, incompatibilités et délais de carence applicables aux mandats scientifiques et d'audit.
+- Effet juridique exact des avis de long terme et critères permettant de déclencher un réexamen citoyen.
 
 ---
 

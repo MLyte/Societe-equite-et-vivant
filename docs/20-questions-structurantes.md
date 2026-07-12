@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.2"
-last_updated: "2026-07-03"
+version: "0.3"
+last_updated: "2026-07-12"
 confidence: "hypothesis"
 ---
 
@@ -237,3 +237,292 @@ Chaque réponse doit être répercutée dans les chapitres spécialisés lorsque
 - `04-socle-vital.md` et `05-economie.md` pour le socle, les libertés et la croissance matérielle ;
 - `10-international.md` pour l'autonomie vitale ouverte ;
 - `12-information-medias.md` pour l'influence, la manipulation et la transparence.
+
+---
+
+## Questionnaire d'arbitrage institutionnel
+
+Les questions suivantes doivent aider à transformer les questions ouvertes en décisions de conception. Les options marquées « recommandée » constituent des **hypothèses de travail** cohérentes avec les décisions actuelles du projet ; elles ne sont ni des conclusions scientifiques ni des choix démocratiques déjà acquis.
+
+Les sources proposées éclairent les mécanismes, leurs conditions de fonctionnement et leurs risques. Elles ne valident pas automatiquement une option et doivent être complétées par une analyse juridique du territoire où le modèle serait appliqué.
+
+### Protection du long terme
+
+#### 1. Quel effet donner aux avis de long terme ?
+
+- **A — Avis obligatoire avec réponse motivée — recommandée.** Le Parlement peut s'en écarter, mais doit expliquer publiquement pourquoi.
+- **B — Effet suspensif.** Un avis négatif suspend temporairement la décision et impose une seconde délibération.
+- **C — Droit de veto.** Une décision incompatible ne peut pas entrer en vigueur.
+
+Sources pour éclairer le choix :
+
+- [Well-being of Future Generations (Wales) Act 2015 — Law Wales](https://law.gov.wales/well-being-future-generations-wales-act-2015-0), pour un exemple de devoirs publics de long terme et de commissaire consultatif ;
+- [Driving Policy Coherence for Sustainable Development — OCDE](https://www.oecd.org/en/publications/driving-policy-coherence-for-sustainable-development_a6cb4aa1-en.html), sur l'intégration du long terme dans le cycle des politiques publiques.
+
+#### 2. Comment déclencher un réexamen citoyen ?
+
+- **A — Seuil de signatures publiques.** Le réexamen dépend d'une pétition atteignant un seuil défini.
+- **B — Décision d'une assemblée citoyenne représentative — recommandée.** Une majorité qualifiée du panel peut demander le réexamen.
+- **C — Déclenchement multiple.** Le réexamen peut être demandé par une assemblée citoyenne, une pétition ou plusieurs collectivités territoriales.
+
+Sources pour éclairer le choix :
+
+- [OECD Guidelines for Citizen Participation Processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html), sur le choix des publics, les méthodes participatives et la réponse de l'autorité publique ;
+- [Convention d'Aarhus — CEE-ONU](https://unece.org/environment-policy/public-participation/aarhus-convention/content), sur l'accès à l'information, la participation et les recours en matière environnementale.
+
+#### 3. Que faire lorsqu'une majorité refuse une trajectoire scientifiquement robuste ?
+
+- **A — Nouvelle délibération entre plusieurs trajectoires compatibles — recommandée.** La majorité peut refuser une solution, mais doit pouvoir choisir une autre solution respectant les contraintes établies.
+- **B — Application provisoire de la trajectoire compatible la moins contraignante.**
+- **C — Arbitrage juridictionnel.** Une juridiction décide si le refus démocratique peut être maintenu.
+
+Sources pour éclairer le choix :
+
+- [Policy Coherence for Sustainable Development 2019 — OCDE](https://www.oecd.org/en/publications/policy-coherence-for-sustainable-development-2019_a90f851f-en/full-report/component-6.html), sur les arbitrages entre priorités immédiates et effets de long terme ;
+- [OECD Guidelines for Citizen Participation Processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html), sur la formulation de la question, la délibération et le traitement des contributions citoyennes.
+
+### Compatibilité des politiques publiques
+
+#### 4. Qui tranche l'appel d'un parti contre le classement d'une mesure ?
+
+- **A — Juridiction indépendante spécialisée — recommandée.** La procédure est publique, contradictoire et susceptible d'un recours limité.
+- **B — Second collège scientifique.** Une nouvelle expertise confirme ou infirme le classement.
+- **C — Parlement.** Une majorité qualifiée peut renverser le classement.
+
+Sources pour éclairer le choix :
+
+- [Recommandation du Conseil sur la politique et la gouvernance réglementaires — OCDE](https://legalinstruments.oecd.org/public/doc/273/26c0733a-b832-43c6-8d1a-1296171e4e4d.html), notamment sur le contrôle de légalité, l'équité procédurale et le droit d'appel ;
+- [Accès à la justice dans la Convention d'Aarhus — CEE-ONU](https://unece.org/environment-policy/public-participation/access-to-justice), pour un exemple de contrôle indépendant des décisions et procédures publiques.
+
+#### 5. Comment faire entrer un domaine dans le régime de compétence renforcée ?
+
+- **A — Critères cumulatifs et vote parlementaire — recommandée.** Une expertise contradictoire et un audit public précèdent la décision démocratique.
+- **B — Décision du consortium scientifique.** L'entrée dépend principalement de l'évaluation technique.
+- **C — Liste constitutionnelle fermée.** Les domaines sont déterminés à l'avance et rarement modifiables.
+
+Sources pour éclairer le choix :
+
+- [Impact assessments — Commission européenne](https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/impact-assessments_en), sur l'analyse préalable des problèmes, options, effets et parties concernées ;
+- [Recommandation du Conseil sur la politique et la gouvernance réglementaires — OCDE](https://legalinstruments.oecd.org/public/doc/273/26c0733a-b832-43c6-8d1a-1296171e4e4d.html), sur l'évaluation des risques, la consultation et la supervision réglementaire.
+
+#### 6. Comment sortir un domaine de ce régime ?
+
+- **A — Révision périodique obligatoire — recommandée.** Le maintien doit être justifié à intervalles réguliers.
+- **B — Vote parlementaire à la majorité simple.**
+- **C — Avis conforme du consortium scientifique.**
+
+Sources pour éclairer le choix :
+
+- [Evaluating laws — Commission européenne](https://commission.europa.eu/law/law-making-process/evaluating-and-improving-existing-laws/evaluating-laws_en), sur l'évaluation ex post de l'efficacité, de la pertinence et de la cohérence ;
+- [OECD Regulatory Policy Outlook 2021 — OCDE](https://www.oecd.org/en/publications/2021/10/oecd-regulatory-policy-outlook-2021_c5274577/full-report/regulatory-oversight_99cdcbab.html), sur la supervision et la révision des dispositifs réglementaires.
+
+### Pouvoirs d'urgence et audit
+
+#### 7. Comment déclencher une procédure d'urgence ?
+
+- **A — Critères objectifs, durée courte et confirmation parlementaire — recommandée.**
+- **B — Décision immédiate de l'exécutif, contrôlée après coup.**
+- **C — Autorisation judiciaire préalable, sauf danger immédiat.**
+
+Sources pour éclairer le choix :
+
+- [Observation générale no 29 sur l'article 4 du Pacte international relatif aux droits civils et politiques — Comité des droits de l'homme de l'ONU](https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=mfZsPx4Eii1JqOh3liZiSn3tXKS6m1fVCjvqrpwtz532756lkSm64q2t4Ll8m7MIhLJ4NvYtWK3wey67hBhJ178khuT%2FhBAxl13vvSa9kuM%3D), sur le caractère exceptionnel, temporaire, nécessaire et proportionné des dérogations ;
+- [Respect for democracy, human rights and the rule of law during states of emergency — Commission de Venise](https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL%282020%29020-e), sur les contrôles applicables aux pouvoirs d'urgence.
+
+#### 8. Quelle durée initiale donner aux mesures d'urgence ?
+
+- **A — Quelques jours, puis confirmation parlementaire.**
+- **B — Trente jours maximum — recommandée.**
+- **C — Trois mois, avec contrôle mensuel.**
+
+La durée exacte reste une **question ouverte** dépendant du droit applicable et de la nature du risque.
+
+Sources pour éclairer le choix :
+
+- [Observation générale no 29 — Comité des droits de l'homme de l'ONU](https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=mfZsPx4Eii1JqOh3liZiSn3tXKS6m1fVCjvqrpwtz532756lkSm64q2t4Ll8m7MIhLJ4NvYtWK3wey67hBhJ178khuT%2FhBAxl13vvSa9kuM%3D), sur la limitation temporelle et le retour à la normalité ;
+- [Compilation of Venice Commission opinions and reports on states of emergency](https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL%282020%29020-e), pour comparer les garde-fous institutionnels examinés par la Commission de Venise.
+
+#### 9. Quels pouvoirs donner à l'autorité d'audit ?
+
+- **A — Publication, injonction corrective et demande de suspension — recommandée.** Les sanctions contraignantes restent prononcées par une juridiction.
+- **B — Pouvoir direct de suspendre et de sanctionner.**
+- **C — Pouvoir exclusivement consultatif.**
+
+Sources pour éclairer le choix :
+
+- [Déclarations de Lima et de Mexico — INTOSAI](https://www.intosai.org/documents.html), sur les conditions d'indépendance et d'efficacité du contrôle public externe ;
+- [Being an Independent Regulator — OCDE](https://www.oecd.org/en/publications/being-an-independent-regulator_9789264255401-en.html), sur l'indépendance, la responsabilité et les risques d'influence indue.
+
+#### 10. Qui réalise l'audit initial de compatibilité juridique ?
+
+- **A — Service juridique indépendant rattaché au Parlement — recommandée.**
+- **B — Gouvernement, avec contrôle judiciaire ultérieur.**
+- **C — Autorité d'audit scientifique et algorithmique.**
+
+Sources pour éclairer le choix :
+
+- [Regulatory Scrutiny Board — Commission européenne](https://commission.europa.eu/law/law-making-process/regulatory-scrutiny-board_en), pour un exemple de contrôle de qualité distinct de la décision politique finale ;
+- [Defining and contextualising regulatory oversight and co-ordination — OCDE](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/05/defining-and-contextualising-regulatory-oversight-and-co-ordination_41d22cf3/a4225b62-en.pdf), sur les différents mandats et degrés d'indépendance des organismes de supervision.
+
+### Participation citoyenne
+
+#### 11. Comment composer les assemblées citoyennes ?
+
+- **A — Tirage au sort stratifié et participation indemnisée — recommandée.**
+- **B — Volontariat ouvert à tous.**
+- **C — Composition mixte : citoyens tirés au sort, associations et experts.**
+
+Dans l'option A, les experts et parties prenantes peuvent être auditionnés sans devenir membres votants.
+
+Sources pour éclairer le choix :
+
+- [OECD Guidelines for Citizen Participation Processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html), sur la loterie civique, l'inclusion et le choix de la méthode ;
+- [Resources and guidance on representative deliberative processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541/full-report/component-8.html), sur le recrutement, l'information pluraliste et la facilitation.
+
+#### 12. Quel rôle donner aux référendums ?
+
+- **A — Arbitrer les valeurs et les trajectoires compatibles — recommandée.** Un contrôle préalable porte uniquement sur les droits et les contraintes établies.
+- **B — Permettre un vote sur toute question publique.**
+- **C — Réserver les référendums aux révisions constitutionnelles.**
+
+Sources pour éclairer le choix :
+
+- [Revised Code of Good Practice on Referendums — Commission de Venise](https://www.venice.coe.int/webforms/documents/?pdf=CDL-AD%282022%29015-e), sur la clarté des questions, l'égalité des chances et les garanties procédurales ;
+- [OECD Guidelines for Citizen Participation Processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html), pour situer le référendum parmi d'autres mécanismes de participation et de délibération.
+
+#### 13. Comment préparer l'information avant une consultation ?
+
+- **A — Dossier contradictoire indépendant — recommandée.** Il expose faits établis, incertitudes, arguments opposés, effets distributifs et sources.
+- **B — Synthèse produite par le gouvernement.**
+- **C — Contributions libres des partis, associations et groupes concernés, sans synthèse institutionnelle.**
+
+Sources pour éclairer le choix :
+
+- [OECD Guidelines for Citizen Participation Processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html), sur l'information compréhensible, la communication et la préparation d'un dossier équilibré ;
+- [Accès à l'information — Convention d'Aarhus, CEE-ONU](https://unece.org/environment-policy/public-participation/access-to-information), sur la disponibilité, l'actualisation et la diffusion active des informations publiques.
+
+#### 14. Comment mesurer la représentativité numérique ?
+
+- **A — Participation volontaire complétée par un échantillon représentatif et des dispositifs hors ligne — recommandée.**
+- **B — Seuil minimal de participants, indépendamment de leur profil.**
+- **C — Consultation ouverte sans prétention de représentativité.**
+
+L'option C peut recueillir des propositions, mais elle ne permet pas d'attribuer une préférence à l'ensemble de la population.
+
+Sources pour éclairer le choix :
+
+- [OECD Guidelines for Citizen Participation Processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html), notamment sur la fracture numérique, la transparence des outils et la complémentarité avec les méthodes en présence ;
+- [Task Force on Access to Information — CEE-ONU](https://unece.org/env/pp/aarhus-convention/tfai), sur l'accès électronique à l'information, à la participation et à la justice.
+
+#### 15. Quand supprimer un mécanisme participatif ?
+
+- **A — Révision tous les quatre ans avec clause d'expiration — recommandée.**
+- **B — Évaluation annuelle sans expiration automatique.**
+- **C — Maintien permanent, sauf suppression par une nouvelle loi.**
+
+Sources pour éclairer le choix :
+
+- [OECD Guidelines for Citizen Participation Processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html), sur l'évaluation des processus participatifs et la fermeture de la boucle de retour ;
+- [Evaluating laws — Commission européenne](https://commission.europa.eu/law/law-making-process/evaluating-and-improving-existing-laws/evaluating-laws_en), sur l'évaluation ex post comme base d'une révision ou d'un abandon.
+
+#### 16. Quelle part du budget territorial rendre participative ?
+
+- **A — Expérimentation prudente entre 1 % et 3 % — recommandée.**
+- **B — Part plus importante, entre 5 % et 10 %.**
+- **C — Pourcentage déterminé localement, dans un plafond national.**
+
+Ces fourchettes sont des **hypothèses à tester**. Elles ne sont pas présentées comme des seuils optimaux.
+
+Sources pour éclairer le choix :
+
+- [OECD Guidelines for Citizen Participation Processes — OCDE](https://www.oecd.org/en/publications/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541.html), qui traite le budget participatif comme une méthode distincte dont l'objectif, le public et l'effet attendu doivent être définis ;
+- [The World Bank Participation Sourcebook — Banque mondiale](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/289471468741587739), pour des méthodes et retours d'expérience plus généraux sur la participation aux décisions publiques.
+
+### Expertise publique
+
+#### 17. Quelle durée retenir pour les mandats scientifiques ?
+
+- **A — Quatre ans, non renouvelables immédiatement.**
+- **B — Cinq ans, avec rotation échelonnée — recommandée.**
+- **C — Six ans, avec évaluation intermédiaire.**
+
+Des durées différentes peuvent être nécessaires lorsque la continuité d'un travail scientifique le justifie. Leur effet doit être évalué au regard de l'indépendance, de la mémoire institutionnelle et du risque d'installation d'une caste.
+
+Sources pour éclairer le choix :
+
+- [Scientific Advice for Policy Making — OCDE](https://www.oecd.org/content/dam/oecd/en/publications/reports/2015/04/scientific-advice-for-policy-making_g17a262a/5js33l1jcpwb-en.pdf), sur la sélection, l'indépendance et la responsabilité des organes d'expertise ;
+- [Regulatory delivery — OCDE](https://www.oecd.org/en/topics/sub-issues/regulatory-delivery.html), sur les mandats, ressources, compétences et restrictions postérieures applicables aux régulateurs indépendants.
+
+#### 18. Comment valider les compétences ?
+
+- **A — Faisceau de preuves — recommandée.** Formation, expérience documentée, travaux vérifiables, exercice pratique, examen par les pairs et conflits d'intérêts.
+- **B — Diplôme ou titre professionnel reconnu.**
+- **C — Nomination politique après audition publique.**
+
+Sources pour éclairer le choix :
+
+- [Scientific Advice for Policy Making — OCDE](https://www.oecd.org/content/dam/oecd/en/publications/reports/2015/04/scientific-advice-for-policy-making_g17a262a/5js33l1jcpwb-en.pdf), sur la diversité des expertises pertinentes, la sélection transparente et l'ouverture aux compétences extérieures aux structures académiques établies ;
+- [Being an Independent Regulator — OCDE](https://www.oecd.org/en/publications/being-an-independent-regulator_9789264255401-en.html), sur les compétences, la composition et les conditions d'indépendance des organes publics spécialisés.
+
+#### 19. Quel régime appliquer aux rémunérations et conflits d'intérêts ?
+
+- **A — Barème public, revenus externes déclarés et délai de carence proportionné — recommandée.**
+- **B — Alignement strict sur la fonction publique générale.**
+- **C — Rémunération négociée individuellement selon le marché.**
+
+Sources pour éclairer le choix :
+
+- [Conflict of interest — OCDE](https://www.oecd.org/en/topics/conflict-of-interest.html), sur la déclaration, la prévention et la gestion des conflits réels, apparents ou potentiels ;
+- [Post-Public Employment: Good Practices for Preventing Conflict of Interest — OCDE](https://www.oecd.org/en/publications/2010/08/post-public-employment_g1gh9fe8.html), sur les risques de portes tournantes et les restrictions après mandat.
+
+### Organisation territoriale
+
+#### 20. Comment répartir les compétences dans un État fédéral ?
+
+- **A — Subsidiarité vérifiable et responsabilité unique — recommandée.** Chaque fonction va au niveau le plus proche capable de l'exercer, avec un responsable et un recours identifiables.
+- **B — Maintien des compétences actuelles avec coordination renforcée.**
+- **C — Centralisation des secteurs vitaux.**
+
+Sources pour éclairer le choix :
+
+- [Article 5 du traité sur l'Union européenne — EUR-Lex](https://eur-lex.europa.eu/eli/treaty/teu_2016/art_5/oj), pour la formulation des principes de subsidiarité et de proportionnalité ;
+- [Fiscal Federalism 2022 — OCDE](https://www.oecd.org/en/publications/fiscal-federalism-2022_201c75b6-en/full-report/component-4.html), sur la délimitation des responsabilités et les risques de fragmentation entre niveaux de pouvoir.
+
+#### 21. Comment traiter les compétences actuellement dupliquées ?
+
+- **A — Fusion lorsqu'elles produisent une responsabilité illisible.**
+- **B — Contrat public opposable entre institutions — recommandée.** Il fixe responsable, budget, délai et recours sans imposer immédiatement une fusion.
+- **C — Maintien de la duplication avec un guichet citoyen commun.**
+
+Sources pour éclairer le choix :
+
+- [Fiscal Federalism 2022 — OCDE](https://www.oecd.org/en/publications/fiscal-federalism-2022_201c75b6-en/full-report/component-4.html), sur la clarification des fonctions de financement, réglementation, planification, mise en œuvre et contrôle ;
+- [Implementation Toolkit: OECD Recommendation on Regional Development Policy](https://www.oecd.org/en/about/projects/implementing-the-oecd-recommendation-on-regional-development-policy-toolkit.html), sur les instruments de coordination verticale, horizontale et interterritoriale.
+
+### Liberté de conscience et capture
+
+#### 22. Où placer la frontière entre expression convictionnelle et capture ?
+
+- **A — Selon les actes et les effets — recommandée.** Le même droit commun s'applique à tous : transparence du financement, absence de coercition, respect des droits et traçabilité de l'influence.
+- **B — Selon le statut de l'organisation.** Des règles particulières s'appliquent aux organisations religieuses ou convictionnelles reconnues.
+- **C — Appréciation au cas par cas par l'administration.**
+
+Sources pour éclairer le choix :
+
+- [Article 9 de la Convention européenne des droits de l'homme — Guide de la CEDH](https://ks.echr.coe.int/fr/web/echr-ks/article-9), sur la liberté de pensée, de conscience, de religion et ses limites juridiques ;
+- [Freedom of Religion or Belief — OSCE/ODIHR](https://odihr.osce.org/odihr/freedom-of-religion-or-belief), sur la protection égale des convictions religieuses, non religieuses et de l'absence de conviction ;
+- [Recommandation sur la gestion des conflits d'intérêts dans le service public — OCDE](https://legalinstruments.oecd.org/public/doc/130/body-text.en.html), pour distinguer l'expression légitime d'intérêts de leur influence indue sur une décision publique.
+
+---
+
+## Utilisation des réponses
+
+Les réponses peuvent être consignées sous la forme `1A, 2C, 3A…`, accompagnées d'une justification lorsque le choix dépend d'une condition ou combine plusieurs options.
+
+Avant de transformer une réponse en décision structurante, il faut vérifier :
+
+- sa compatibilité avec les droits fondamentaux et les décisions déjà inscrites dans `.blueprint/decisions.md` ;
+- la séparation entre expertise, décision démocratique, exécution, audit et recours ;
+- les risques institutionnels, sociaux, économiques, de capture et d'atteinte aux libertés ;
+- les éléments qui nécessitent une source complémentaire ou une analyse juridique locale ;
+- les conditions d'évaluation, de révision et, si nécessaire, d'abandon.

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.8"
-last_updated: "2026-07-04"
+version: "0.9"
+last_updated: "2026-07-12"
 confidence: "hypothesis"
 ---
 
@@ -79,13 +79,46 @@ Project Horizon peut s'inspirer de modèles étrangers sans les importer comme b
 
 Les pistes à tester sont des fonctions démocratiques précises :
 
-- **Consensus numérique** : utiliser des plateformes de délibération pour identifier les zones d'accord, les désaccords structurants et les formulations acceptables par plusieurs groupes, plutôt que seulement mesurer un rapport de force immédiat.
-- **Représentation des générations futures** : intégrer, dans certaines assemblées citoyennes, un rôle explicite de représentation des personnes futures afin de tester l'effet long terme d'une décision.
-- **Contre-pouvoir du long terme** : créer une autorité indépendante chargée de vérifier si les lois, budgets et plans sectoriels restent compatibles avec les droits fondamentaux, le socle vital, les limites physiques et les générations futures.
+- **Consensus numérique** : utiliser une infrastructure publique de délibération pour identifier les zones d'accord, les désaccords structurants et les formulations acceptables par plusieurs groupes, plutôt que seulement mesurer un rapport de force immédiat.
+- **Représentation du long terme** : intégrer, dans certaines assemblées citoyennes, un mandat méthodologique chargé d'identifier les coûts différés, les irréversibilités et les risques transférés aux générations futures.
+- **Contrôle distribué du long terme** : répartir l'expertise, l'audit, l'arbitrage et le recours entre le consortium scientifique, l'autorité d'audit, le Parlement, les assemblées citoyennes et la justice, sans créer par défaut une autorité souveraine supplémentaire.
 - **Budget participatif local** : réserver une part limitée mais réelle du budget territorial à des choix citoyens concrets, visibles et évalués après mise en œuvre.
 - **Expérimentation territoriale** : tester certaines politiques sur des territoires volontaires ou comparables avant généralisation, avec indicateurs publics, clause de révision et possibilité d'abandon.
 
 Ces mécanismes ne doivent pas ajouter de la participation décorative. Ils doivent résoudre un problème précis : court-termisme, défiance, complexité, capture, manque d'évaluation ou distance entre décision publique et conditions de vie réelles.
+
+#### Garanties du consensus numérique
+
+L'outil numérique éclaire la délibération mais ne produit pas automatiquement une décision publique. Son code, ses règles de classement, ses méthodes de modération et ses usages éventuels de l'IA doivent être documentés, auditables et contestables.
+
+Le dispositif doit aussi prévoir :
+
+- une participation non numérique de portée comparable ;
+- une protection des données et une durée de conservation limitée ;
+- un recours humain contre la modération ou la reformulation d'une contribution ;
+- la publication des désaccords persistants, et pas seulement des convergences ;
+- un échantillon représentatif en complément de la participation volontaire lorsque la consultation prétend éclairer l'ensemble de la population.
+
+Une IA peut assister la synthèse, mais elle ne doit ni déterminer seule ce qui constitue un consensus, ni masquer les opinions minoritaires, ni remplacer une justification humaine publique.
+
+#### Accessibilité et représentativité
+
+La participation doit être matériellement accessible. Selon le mécanisme, cela peut inclure l'indemnisation du temps, la prise en charge des déplacements ou de la garde d'enfants, des documents compréhensibles, des formats écrits et oraux, ainsi qu'un tirage au sort stratifié parmi des personnes volontaires.
+
+Le nombre de contributions ne suffit pas à établir la représentativité. Chaque consultation doit publier les groupes présents, les groupes sous-représentés, les modalités de recrutement et les limites de l'échantillon.
+
+#### Expérimentation, évaluation et révision
+
+Toute expérimentation territoriale ou numérique doit définir avant son lancement :
+
+- un objectif précis et une durée limitée ;
+- des indicateurs publics, incluant les effets sur les libertés et les inégalités ;
+- un groupe ou territoire de comparaison lorsque cela est possible et proportionné ;
+- une responsabilité d'audit indépendante de l'équipe chargée de la mise en œuvre ;
+- une clause d'arrêt et des conditions explicites d'abandon ;
+- une nouvelle décision démocratique avant toute généralisation.
+
+Une absence de résultat probant ne justifie pas une prolongation automatique. Les mécanismes conservés doivent faire l'objet d'une révision périodique portant sur leur représentativité, leur influence réelle, leur coût administratif, leur compréhension par les citoyens, les recours déposés et les risques de capture constatés.
 
 ### Domaines à compétence technique renforcée
 
@@ -194,6 +227,9 @@ Peut donner des exemples concrets, mais risque de copier aussi les angles morts 
 - Les outils numériques de participation peuvent favoriser les personnes déjà politisées, disponibles ou à l'aise avec l'écrit.
 - La représentation des générations futures peut être instrumentalisée pour imposer une vision morale du futur sans contrôle démocratique suffisant.
 - L'expérimentation territoriale peut créer des inégalités temporaires entre citoyens selon leur lieu de vie.
+- Une infrastructure publique de participation peut rester capturable par ses administrateurs, ses prestataires, ses règles de classement ou ses données d'entraînement.
+- L'indemnisation et l'évaluation régulière de la participation ont un coût qui peut devenir disproportionné si le mécanisme n'influence pas réellement la décision.
+- La collecte d'informations destinées à mesurer la représentativité peut porter atteinte à la vie privée si elle devient trop détaillée ou insuffisamment protégée.
 
 ---
 
@@ -208,7 +244,8 @@ Peut donner des exemples concrets, mais risque de copier aussi les angles morts 
 - Frontière pratique entre expression convictionnelle légitime et capture institutionnelle.
 - Part exacte du budget pouvant relever d'une décision participative locale.
 - Conditions de représentativité minimales pour une consultation numérique.
-- Statut juridique d'une autorité chargée de représenter le long terme.
+- Effet juridique exact des avis de long terme et seuil permettant à une assemblée citoyenne de demander un réexamen.
+- Périodicité et critères de suppression des mécanismes participatifs devenus inefficaces ou décoratifs.
 
 ---
 
