@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.1"
+version: "0.2"
 last_updated: "2026-09-06"
 confidence: "hypothesis"
 ---
@@ -345,15 +345,45 @@ Si le consortium pouvait choisir seul les options admissibles, retarder indéfin
 
 **Limite de cette recherche.** Il s'agit d'une synthèse d'orientation, pas d'une revue systématique. Plusieurs sources institutionnelles décrivent leur propre action ; les analyses du FMI et de la Banque mondiale doivent notamment être confrontées aux travaux historiques et aux expériences des populations concernées. Une référence établissant un événement ne prouve pas toute l'interprétation de la fiche. Les échecs des expériences autogestionnaires et les trajectoires non européennes méritent des études plus détaillées.
 
-## Questions ouvertes
+## Pour aller plus loin
 
-1. Qui peut contester une exclusion du corridor de compatibilité et dans quel délai ?
-2. Comment séparer dans chaque modèle les contraintes établies, les hypothèses et les arbitrages de valeur ?
-3. Quel financement et quelles capacités garantissent le socle vital pendant une crise prolongée ?
-4. Quelle marge locale conserver sans créer des droits différents selon le lieu de résidence ?
-5. Comment protéger les personnes extérieures au dispositif : migrants, non-membres d'un commun, populations étrangères affectées ?
-6. Comment éviter que la résilience civile devienne fermeture économique ou dépendance à de nouveaux monopoles ?
-7. Quels cas comparables permettraient de départager les hypothèses, en tenant compte des contraintes écologiques et des effets importés ?
+Les pistes suivantes constituent une base de travail pour prolonger la comparaison historique. Ce sont des hypothèses de conception à tester, dont les modalités restent à préciser.
+
+### Un pouvoir de validation toujours contestable
+
+Toute personne ou organisation affectée devrait pouvoir contester une exclusion du corridor de compatibilité auprès d'une instance indépendante, sans devoir obtenir l'accord du consortium scientifique. Une procédure urgente devrait permettre une protection provisoire lorsqu'un dommage grave menace ; les délais précis demandent une étude des capacités nécessaires.
+
+### Des modèles qui rendent leurs choix visibles
+
+Chaque modèle devrait distinguer connaissances établies, incertitudes, hypothèses de calcul et choix de valeur. Les citoyens doivent pouvoir comprendre quelles autres options restent possibles, avec leurs conséquences. Un désaccord sur la répartition des efforts ne doit pas être disqualifié comme une erreur scientifique.
+
+### Un socle vital garanti matériellement
+
+Il faut prévoir ensemble financement, personnel, infrastructures, stocks et approvisionnements de remplacement. Pendant une pénurie réelle, une promesse financière ne suffit pas : les règles de priorité doivent être connues, fondées sur les besoins et contestables, avec une protection accrue des personnes vulnérables.
+
+### Des garanties communes, des moyens adaptés localement
+
+Le lieu de résidence ne devrait pas déterminer le niveau de protection. Les territoires pourraient choisir leurs méthodes, avec une redistribution des moyens et une intervention de secours lorsqu'un territoire ne parvient plus à assurer un service essentiel.
+
+### Une responsabilité qui dépasse les membres du système
+
+La protection immédiate de la vie et de la dignité devrait concerner toute personne présente, y compris les migrants et les non-membres d'un commun. Les populations étrangères affectées par les décisions du modèle devraient disposer de moyens de représentation et de plainte. Les modalités d'accès durable aux différentes prestations resteraient à construire explicitement.
+
+### Une résilience fondée sur la diversification
+
+Réduire les dépendances dangereuses par plusieurs fournisseurs, la réparation, des réserves et la coopération internationale. Une production locale ne devrait pas bénéficier d'une protection permanente sans contrôle de ses coûts, de son empreinte écologique et de son pouvoir de marché.
+
+### Des expérimentations capables de nous donner tort
+
+Comparer les propositions aux dispositifs existants, publier aussi les mauvais résultats et mesurer les effets sur les populations moins représentées. Inclure les dommages écologiques importés et prévoir des conditions d'arrêt avant de généraliser.
+
+### Représenter les générations futures et le vivant non humain
+
+Les humains futurs et le vivant non humain devraient avoir une représentation institutionnelle réelle, capable de demander un examen, de contester une décision et de déclencher un recours. Cette représentation devrait elle-même être pluraliste et contrôlée.
+
+### Principe directeur
+
+Garantir les conditions d'une vie digne, préserver les écosystèmes dont elle dépend et maintenir la capacité de corriger les décisions sans sacrifier les personnes qui les subissent. Cette orientation donne à Horizon une direction exigeante, tout en laissant les moyens ouverts à la preuve et à la révision.
 
 ## Ce qui pourrait nous faire changer d'avis
 

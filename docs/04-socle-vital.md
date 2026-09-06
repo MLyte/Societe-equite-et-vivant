@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.2"
-last_updated: "2026-07-03"
+version: "0.3"
+last_updated: "2026-09-06"
 confidence: "hypothesis"
 ---
 
@@ -46,6 +46,16 @@ Le socle vital doit garantir à chaque personne :
 Le socle vital est garanti par l'État ou par des institutions publiques mandatées.
 
 Il ne fournit pas nécessairement tout gratuitement et de manière uniforme. Il garantit plutôt un accès effectif, stable et abordable aux besoins fondamentaux.
+
+Cette garantie vaut quel que soit l'emploi ou le non-emploi, y compris en l'absence de revenu professionnel. Lorsqu'une participation financière est prévue, elle ne doit jamais empêcher cet accès : les services garantis et les compléments de revenu doivent couvrir les besoins essentiels effectivement non satisfaits.
+
+### Un socle assuré, un travail qui améliore le niveau de vie
+
+Le socle vital doit permettre une vie digne et une participation à la société, au-delà de la seule survie biologique. Son accès ne dépend ni de la recherche d'un emploi, ni de l'acceptation d'un travail, ni d'une activité imposée en contrepartie.
+
+La rémunération du travail permet davantage de confort, de loisirs, de projets personnels et de choix au-delà du socle. Elle améliore le niveau de vie sans créer une différence de dignité ou de droits fondamentaux entre les personnes qui travaillent et celles qui ne travaillent pas.
+
+L'accès universel aux besoins ne signifie pas que chacun reçoit une allocation monétaire identique. Les modalités de financement peuvent tenir compte des ressources, mais l'articulation des impôts, des aides et des frais liés au travail doit préserver un gain disponible réel lors d'une prise ou d'une reprise d'activité rémunérée, sans retrait brutal des protections.
 
 Au-delà de ce socle, chacun peut consommer davantage, à condition d'en assumer les coûts économiques et écologiques.
 

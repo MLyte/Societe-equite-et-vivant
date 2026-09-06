@@ -280,3 +280,53 @@ Le modèle retient aussi une anticapture fonctionnelle : les obligations de tran
 ### Raison
 
 Si les experts ne sont pas correctement rémunérés, ils restent vulnérables aux revenus privés. S'ils sont trop installés ou trop bien protégés, ils peuvent devenir une caste. Si les lobbies sont seulement contrôlés dans leurs formes officielles, ils déplacent leur influence vers cabinets, auditeurs, médias, plateformes, proches, assistants ou producteurs de données. La réponse retenue combine socle vital, rémunération publique transparente, incompatibilités, traçabilité et sanctions.
+
+---
+
+## Decision 0018 — L'IA doit proposer des arbitrages motivés
+
+Date : 2026-09-06
+
+Project Horizon attend de l'IA des recommandations concrètes fondées sur ses engagements explicites : dignité, droits fondamentaux, protection des humains et du vivant, réduction des souffrances et équité. L'incertitude doit conduire à une hypothèse de travail argumentée et révisable, plutôt qu'à un renvoi systématique des choix au propriétaire du projet.
+
+Le modèle explore une boucle entre savoirs scientifiques, propositions de l'IA, expérimentation humaine et correction à partir des résultats. La capacité à générer une solution ne vaut pas validation de ses effets.
+
+Cette décision précise la décision 0005 : l'IA analyse, compare et recommande ; l'autorité humaine reste responsable de la décision publique. L'IA n'est ni intrinsèquement neutre ni souveraine.
+
+### Raison
+
+Un outil qui se limite à poser des questions ne remplit pas la fonction de conception attendue. Une obligation de recommandation permet d'avancer sans transformer les hypothèses en certitudes ni supprimer le contrôle démocratique.
+
+---
+
+## Decision 0019 — Partage obligatoire des richesses et transition économique
+
+Date : 2026-09-06
+
+Project Horizon fait du partage des richesses une obligation institutionnelle, indépendante de la philanthropie. Revenus, patrimoines et gains économiques, scientifiques et technologiques doivent contribuer au socle vital et à la préservation du vivant. Les différences de rémunération et de patrimoine restent possibles dans des limites empêchant la domination institutionnelle et la privation de ressources essentielles.
+
+La piste économique associe fiscalité progressive, contribution des rentes, participation des travailleurs aux bénéfices et aux décisions, formes publiques ou coopératives pertinentes et contrôle des monopoles. Les modalités et barèmes restent des hypothèses à évaluer.
+
+L'accès au socle vital ne dépend pas du maintien d'un emploi. Les gains de productivité vérifiés doivent contribuer à la sécurité matérielle, à la réduction du temps de travail et à la transition écologique. Le financement doit rester viable dans un scénario de gains d'IA faibles ou tardifs.
+
+Cette orientation transforme les règles de propriété, de répartition et de production, sans imposer une suppression générale des marchés. Elle précise les décisions 0007 et 0012.
+
+### Raison
+
+L'automatisation peut améliorer les capacités de production sans améliorer équitablement les conditions de vie. Le modèle organise la distribution des bénéfices et protège les personnes pendant la transition, sans présumer une abondance future.
+
+---
+
+## Decision 0020 — Relocalisation sélective et responsabilité écologique des échanges
+
+Date : 2026-09-06
+
+La mondialisation ralentie et sélective de la décision 0012 doit être évaluée par ses effets : empreinte écologique complète, dépendances critiques, continuité des services et conséquences pour les populations locales et étrangères.
+
+La proximité géographique n'est pas un critère suffisant. Le modèle compare les conditions de production, l'énergie, les transports, le stockage et la durée de vie avant de choisir une relocalisation. Il conserve les coopérations utiles et rend explicites les éventuels arbitrages entre sécurité d'approvisionnement et empreinte écologique.
+
+Les protections et capacités de remplacement doivent être organisées avant le retrait des revenus ou approvisionnements nécessaires aux personnes. Les protections économiques locales sont contrôlées et révisables pour prévenir de nouveaux monopoles.
+
+### Raison
+
+Réduire les échanges sans examiner leurs effets peut déplacer les dommages ou fragiliser le socle vital. La résilience doit servir la dignité et la soutenabilité, sans devenir une fermeture économique en soi.

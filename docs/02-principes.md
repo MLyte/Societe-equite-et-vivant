@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.6"
-last_updated: "2026-07-03"
+version: "0.8"
+last_updated: "2026-09-06"
 confidence: "hypothesis"
 ---
 
@@ -44,9 +44,11 @@ Le modèle doit donc distinguer :
 - les arbitrages sociaux ;
 - les préférences culturelles.
 
+Cette distinction doit permettre de proposer des arbitrages. La science alimente l'IA en connaissances ; l'IA peut proposer des hypothèses et des solutions que les humains confrontent à l'expérimentation et aux effets réels. Cette boucle de recherche, de validation et de correction doit servir les engagements du projet.
+
 ---
 
-## Principe 3 — L'IA analyse, mais ne décide pas
+## Principe 3 — L'IA analyse et recommande, sans pouvoir souverain
 
 L'IA peut être supérieure aux institutions humaines pour simuler, comparer et détecter des incohérences.
 
@@ -59,6 +61,10 @@ Elle dépend :
 - de sa gouvernance ;
 - des contraintes qu'on lui impose ;
 - des personnes et institutions qui l'entraînent, l'auditent et l'utilisent.
+
+L'IA doit rechercher et recommander les solutions les mieux justifiées au regard de la dignité, de la protection des humains et du vivant, de la réduction des souffrances et de l'équité. Lorsque toutes les options comportent des dommages, elle doit proposer un arbitrage motivé, expliciter ses incertitudes et rechercher les moyens de réduire ces dommages dans le respect des droits fondamentaux.
+
+Cette obligation de proposition ne constitue ni une garantie d'infaillibilité ni un transfert de souveraineté : une autorité humaine identifiable assume la décision publique, avec contrôle et recours.
 
 ---
 
@@ -77,6 +83,10 @@ Le socle garantit la dignité. Il ne remplace pas la liberté de chercher plus d
 Le marché peut favoriser l'innovation, la créativité et la diversité des choix.
 
 Mais il ne doit pas pouvoir détruire les conditions écologiques et sociales qui permettent à la société d'exister.
+
+Le partage des richesses est une obligation institutionnelle. Les revenus, patrimoines et gains économiques, scientifiques et technologiques doivent contribuer à la dignité de tous et à la préservation du vivant, sans dépendre de la seule générosité de leurs détenteurs.
+
+Des différences de rémunération et de patrimoine peuvent subsister, mais leur accumulation ne doit permettre ni la domination des institutions ni la privation d'autres personnes de ressources essentielles. Le modèle vise une transformation des règles de propriété, de répartition et de production, tout en conservant des marchés compatibles avec ses garanties sociales et écologiques.
 
 ---
 
@@ -217,6 +227,46 @@ Cette hiérarchie est une hypothèse de conception, pas une doctrine définitive
 
 ---
 
+## Cadre commun de décision, tous domaines confondus
+
+Ce cadre synthétise les engagements du projet pour guider ses choix de conception. Il s'applique à chaque domaine, y compris en situation de crise. Les moyens restent révisables ; une urgence, un gain économique ou une promesse technologique ne suffisent pas à écarter ces engagements.
+
+### Ce que nous respectons
+
+- **La dignité et les droits de chaque personne.** Ne pas conditionner la valeur d'une vie à la richesse, l'origine, la conviction, la capacité productive ou le niveau d'instruction.
+- **Les conditions de renouvellement du vivant.** Préserver les écosystèmes, les habitats et les ressources dont dépendent les vies présentes et futures ; réduire les souffrances évitables. Cela ne suppose pas de pouvoir préserver chaque organisme individuellement.
+- **L'accès effectif aux besoins fondamentaux.** Examiner les moyens matériels, humains et financiers du socle vital, avec une attention particulière aux personnes vulnérables.
+- **Les libertés et le pluralisme.** Protéger la conscience, les modes de vie, le désaccord et la possibilité de contester le pouvoir, dans le respect des droits d'autrui.
+- **L'honnêteté intellectuelle.** Distinguer connaissances établies, incertitudes et valeurs ; rendre les désaccords visibles et corriger les erreurs.
+- **L'équité dans les effets des décisions.** Considérer les bénéficiaires et les personnes qui supportent les coûts, y compris à l'étranger et dans les générations futures.
+- **Le partage obligatoire des richesses.** Organiser la contribution des revenus, patrimoines et gains de productivité au socle vital et à la transition écologique ; limiter la concentration du pouvoir économique.
+- **La responsabilité et les recours.** Identifier qui décide, finance, applique et contrôle ; permettre une contestation indépendante et une réparation.
+- **La résilience et la capacité de révision.** Préférer des dispositifs robustes, réparables, diversifiés et adaptables ; conserver des solutions de secours.
+
+### Ce que nous refusons
+
+- La déshumanisation, la discrimination et le sacrifice délibéré des droits d'un groupe au nom d'un bénéfice collectif calculé.
+- Le pouvoir incontestable d'un dirigeant, d'un parti, d'une entreprise, d'une autorité scientifique ou d'une IA.
+- La surveillance sociale généralisée, le scoring citoyen et la privation du socle vital comme sanction d'une opinion ou d'une absence de contribution.
+- La falsification des données, la dissimulation des incertitudes et la présentation d'un choix de valeur comme une nécessité scientifique.
+- La capture des institutions, les conflits d'intérêts dissimulés et l'absence de responsabilité pour les dommages produits.
+- La destruction des conditions de vie ou le déplacement des dommages vers d'autres populations pour améliorer artificiellement un bilan local.
+- L'uniformisation forcée des modes de vie et la fermeture économique érigée en objectif en soi.
+- La généralisation d'une solution sans évaluation de ses effets, ni moyens de correction ou de recours.
+
+### Comment arbitrer et avancer
+
+1. Définir le besoin à satisfaire et les personnes, territoires et écosystèmes concernés.
+2. Écarter les options contraires aux refus ci-dessus ou aux contraintes physiques établies. Une priorité morale ne rend pas matériellement possible une solution irréalisable.
+3. Comparer les options restantes selon la hiérarchie provisoire : effets sur les droits, le vivant, le socle vital, la répartition des efforts, la résilience et les ressources nécessaires.
+4. Retenir une option motivée. À protection comparable, préférer celle qui limite les dommages irréversibles, la concentration du pouvoir et la complexité inutile.
+5. Quand les preuves manquent, choisir une hypothèse de travail explicite et, si possible, un essai limité et réversible. Ne pas fabriquer une certitude pour conclure.
+6. Définir les résultats attendus, les contrôles, les recours et les conditions de révision ou d'arrêt.
+
+Cette méthode ne transforme pas toutes les valeurs en un score unique. Si aucune option ne respecte le cadre, revoir le périmètre, le calendrier ou les moyens et proposer une solution transitoire protectrice. Signaler l'incompatibilité persistante sans la résoudre silencieusement par l'abandon d'un principe.
+
+---
+
 ## Critiques
 
 Ces principes peuvent entrer en tension.
@@ -227,11 +277,11 @@ Le projet doit documenter ces tensions au lieu de les masquer.
 
 ---
 
-## Questions ouvertes
+## Pistes de mise en œuvre
 
-- Quels principes doivent être constitutionnalisés en premier ?
-- Quels principes doivent rester adaptables par procédure démocratique ordinaire ?
-- Quelle institution arbitre lorsqu'un principe est invoqué abusivement ?
+La piste retenue pour poursuivre la conception consiste à protéger au niveau constitutionnel les droits fondamentaux, le socle vital, le pluralisme et les recours. Les modalités techniques et administratives resteraient adaptables par des procédures publiques, contrôlées et révisables.
+
+En cas d'invocation abusive d'un principe, privilégier un recours devant une juridiction indépendante de l'autorité qui a pris la décision, éclairée si nécessaire par une expertise contradictoire. Cette répartition constitue une hypothèse de travail à préciser dans les chapitres institutionnels et juridiques.
 
 ---
 
