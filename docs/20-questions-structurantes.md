@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.4"
+version: "0.5"
 last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 Ce document répond provisoirement aux questions que Société, équité et vivant doit résoudre pour devenir un modèle de gouvernance cohérent.
 
-Il ne remplace pas les chapitres spécialisés. Il sert de synthèse : chaque réponse devra ensuite être testée, sourcée et précisée dans les documents concernés.
+Il rassemble les réponses de travail aux questions des chapitres, sans remplacer leurs développements. Les rubriques « Questions ouvertes » encore présentes dans ces chapitres sont à lire avec les réponses ci-dessous et la [carte de correspondance](#correspondance-avec-les-chapitres). Une réponse proposée n'est pas une validation empirique ni une règle juridique déjà applicable.
 
 ---
 
@@ -111,7 +111,7 @@ Décision provisoire :
 
 - chaque résultat important produit par IA doit indiquer l'objectif, les données principales, la version du modèle, les hypothèses, les incertitudes, les limites connues et les alternatives comparées ;
 - les politiques publiques appuyées par IA doivent publier une fiche de lisibilité : résultat, options écartées, risques, indicateurs, seuils, autorité responsable et voies de recours ;
-- l'IA doit produire plusieurs scénarios plutôt qu'une réponse unique ;
+- l'IA doit comparer plusieurs scénarios et recommander une option motivée selon les engagements du projet, en explicitant les limites et conditions de révision ;
 - les modèles doivent être audités par une autorité distincte du pouvoir exécutif et du consortium scientifique qui les utilise ;
 - toute décision fondée sur une analyse algorithmique doit être assumée par une institution humaine ;
 - les citoyens, journalistes, chercheurs, juges et contre-pouvoirs doivent pouvoir contester les données, hypothèses, biais, conflits d'intérêts ou opacités.
@@ -227,9 +227,9 @@ Risques à surveiller :
 
 ---
 
-## Prochaine étape
+## Articulation avec les chapitres
 
-Chaque réponse doit être répercutée dans les chapitres spécialisés lorsque cela améliore la cohérence du modèle :
+Les réponses détaillées ci-dessous complètent les chapitres spécialisés, qui conservent le contexte et les développements propres à chaque domaine :
 
 - `03-institutions.md` pour l'expertise, les audits et les responsabilités ;
 - `08-ia.md` pour le rôle exact de l'IA ;
@@ -240,9 +240,9 @@ Chaque réponse doit être répercutée dans les chapitres spécialisés lorsque
 
 ---
 
-## Questionnaire d'arbitrage institutionnel
+## Réponses d'arbitrage institutionnel
 
-Les questions suivantes doivent aider à transformer les questions ouvertes en décisions de conception. Les options marquées « recommandée » constituent des **hypothèses de travail** cohérentes avec les décisions actuelles du projet ; elles ne sont ni des conclusions scientifiques ni des choix démocratiques déjà acquis.
+Les vingt-deux réponses suivantes retiennent une option argumentée au lieu de solliciter un choix du propriétaire. Elles constituent des **hypothèses de travail**, compatibles avec les décisions existantes, et non des conclusions scientifiques ou des décisions publiques déjà adoptées. Les délais et pourcentages proposés sont des paramètres d'essai à évaluer.
 
 Les sources proposées éclairent les mécanismes, leurs conditions de fonctionnement et leurs risques. Elles ne valident pas automatiquement une option et doivent être complétées par une analyse juridique du territoire où le modèle serait appliqué.
 
@@ -250,9 +250,9 @@ Les sources proposées éclairent les mécanismes, leurs conditions de fonctionn
 
 #### 1. Quel effet donner aux avis de long terme ?
 
-- **A — Avis obligatoire avec réponse motivée — recommandée.** Le Parlement peut s'en écarter, mais doit expliquer publiquement pourquoi.
-- **B — Effet suspensif.** Un avis négatif suspend temporairement la décision et impose une seconde délibération.
-- **C — Droit de veto.** Une décision incompatible ne peut pas entrer en vigueur.
+**Réponse de travail.** Retenir un avis obligatoire avant les lois, budgets et plans à effets durables, accompagné d'une réponse publique du Parlement ou du gouvernement avant adoption. L'avis expose les dommages différés et les alternatives ; il ne crée pas de veto scientifique. L'absence de réponse peut être contestée devant le juge compétent.
+
+**Alternative, limites et révision.** Un effet suspensif général donnerait un pouvoir de blocage trop large à l'expertise. Réviser le dispositif si les réponses deviennent formelles ou arrivent après les décisions irréversibles.
 
 Sources pour éclairer le choix :
 
@@ -261,9 +261,9 @@ Sources pour éclairer le choix :
 
 #### 2. Comment déclencher un réexamen citoyen ?
 
-- **A — Seuil de signatures publiques.** Le réexamen dépend d'une pétition atteignant un seuil défini.
-- **B — Décision d'une assemblée citoyenne représentative — recommandée.** Une majorité qualifiée du panel peut demander le réexamen.
-- **C — Déclenchement multiple.** Le réexamen peut être demandé par une assemblée citoyenne, une pétition ou plusieurs collectivités territoriales.
+**Réponse de travail.** Retenir une demande motivée par une assemblée citoyenne représentative, adoptée aux trois cinquièmes de ses membres. Les citoyens peuvent saisir ce panel par une pétition ou un signalement documenté, sans seuil conditionnant les recours individuels. L'autorité visée répond sous soixante jours, en annonçant les corrections ou les raisons du maintien.
+
+**Alternative, limites et révision.** Le seuil et le délai sont des paramètres d'essai : le premier recherche un accord dépassant une majorité étroite, le second limite l'attente. Réviser s'ils bloquent les alertes minoritaires ou saturent l'instruction ; une atteinte urgente aux droits relève directement du juge.
 
 Sources pour éclairer le choix :
 
@@ -272,9 +272,9 @@ Sources pour éclairer le choix :
 
 #### 3. Que faire lorsqu'une majorité refuse une trajectoire scientifiquement robuste ?
 
-- **A — Nouvelle délibération entre plusieurs trajectoires compatibles — recommandée.** La majorité peut refuser une solution, mais doit pouvoir choisir une autre solution respectant les contraintes établies.
-- **B — Application provisoire de la trajectoire compatible la moins contraignante.**
-- **C — Arbitrage juridictionnel.** Une juridiction décide si le refus démocratique peut être maintenu.
+**Réponse de travail.** Réouvrir l'arbitrage sur les moyens, le calendrier et les compensations, avec plusieurs trajectoires compatibles. Deux modèles validés peuvent servir des priorités sociales différentes : les représentants, éclairés par la délibération citoyenne, choisissent et motivent ce choix. Le consortium doit distinguer impossibilité physique, incertitude et préférence de valeur.
+
+**Alternative, limites et révision.** Une validation technique ne suffit pas à imposer la trajectoire rejetée. Pendant le réexamen, maintenir les protections existantes ; si aucune trajectoire n'est réalisable, documenter l'incompatibilité et revoir les moyens. La procédure d'urgence ne s'applique qu'en présence de ses propres critères.
 
 Sources pour éclairer le choix :
 
@@ -285,9 +285,9 @@ Sources pour éclairer le choix :
 
 #### 4. Qui tranche l'appel d'un parti contre le classement d'une mesure ?
 
-- **A — Juridiction indépendante spécialisée — recommandée.** La procédure est publique, contradictoire et susceptible d'un recours limité.
-- **B — Second collège scientifique.** Une nouvelle expertise confirme ou infirme le classement.
-- **C — Parlement.** Une majorité qualifiée peut renverser le classement.
+**Réponse de travail.** Confier l'appel à une formation spécialisée d'une juridiction indépendante, en privilégiant les juridictions existantes. Elle peut ordonner une contre-expertise, suspendre les effets du classement et imposer une nouvelle instruction ; elle contrôle les droits, la procédure et les motifs sans décréter une vérité scientifique. Le recours est ouvert aux personnes et organisations affectées, pas seulement aux partis.
+
+**Alternative, limites et révision.** Un second collège scientifique seul ne protège pas suffisamment les droits. Prévoir une voie urgente en cas de dommage grave et publier les délais ; renforcer les moyens si le coût ou l'attente rendent le recours inaccessible.
 
 Sources pour éclairer le choix :
 
@@ -296,9 +296,9 @@ Sources pour éclairer le choix :
 
 #### 5. Comment faire entrer un domaine dans le régime de compétence renforcée ?
 
-- **A — Critères cumulatifs et vote parlementaire — recommandée.** Une expertise contradictoire et un audit public précèdent la décision démocratique.
-- **B — Décision du consortium scientifique.** L'entrée dépend principalement de l'évaluation technique.
-- **C — Liste constitutionnelle fermée.** Les domaines sont déterminés à l'avance et rarement modifiables.
+**Réponse de travail.** Exiger conjointement une dépendance importante à une expertise spécialisée, un risque grave ou systémique documenté et l'insuffisance des procédures ordinaires. Le Parlement délimite par la loi les seuls paramètres techniques concernés, après expertise contradictoire et audit. Le mandat précise durée, budget, recours et décisions de valeur qui restent démocratiques.
+
+**Alternative, limites et révision.** Une inscription décidée par le consortium lui-même favoriserait l'extension de son pouvoir. Réviser ou réduire le périmètre si des préférences politiques y sont traitées comme des contraintes scientifiques.
 
 Sources pour éclairer le choix :
 
@@ -307,9 +307,9 @@ Sources pour éclairer le choix :
 
 #### 6. Comment sortir un domaine de ce régime ?
 
-- **A — Révision périodique obligatoire — recommandée.** Le maintien doit être justifié à intervalles réguliers.
-- **B — Vote parlementaire à la majorité simple.**
-- **C — Avis conforme du consortium scientifique.**
+**Réponse de travail.** Retenir un réexamen tous les quatre ans. Le gouvernement justifie le maintien devant le Parlement sur la base d'une évaluation indépendante des risques, coûts et effets sur les droits. Faute de renouvellement motivé, la compétence renforcée expire ; les normes de sûreté, obligations ordinaires et recours restent applicables.
+
+**Alternative, limites et révision.** Le consortium peut être entendu mais ne possède pas de veto sur sa propre compétence. Adapter cette périodicité d'essai si elle produit une instabilité préjudiciable ou laisse perdurer un dispositif sans utilité démontrée.
 
 Sources pour éclairer le choix :
 
@@ -320,9 +320,9 @@ Sources pour éclairer le choix :
 
 #### 7. Comment déclencher une procédure d'urgence ?
 
-- **A — Critères objectifs, durée courte et confirmation parlementaire — recommandée.**
-- **B — Décision immédiate de l'exécutif, contrôlée après coup.**
-- **C — Autorisation judiciaire préalable, sauf danger immédiat.**
+**Réponse de travail.** L'exécutif doit documenter un danger grave et imminent pour une fonction vitale, l'insuffisance des pouvoirs ordinaires et la nécessité de chaque mesure exceptionnelle. Les seuils sectoriels combinent gravité, population exposée, capacité restante et délai avant dommage ; ils sont publiés à l'avance. Un indice global ne déclenche pas automatiquement des restrictions.
+
+**Alternative, limites et révision.** Prévoir une confirmation parlementaire sous sept jours, avec recours judiciaire immédiat et motivation publique des données manquantes. Ce délai est une hypothèse de conception. L'alerte et la mobilisation des secours ordinaires n'attendent pas une déclaration d'urgence.
 
 Sources pour éclairer le choix :
 
@@ -331,11 +331,9 @@ Sources pour éclairer le choix :
 
 #### 8. Quelle durée initiale donner aux mesures d'urgence ?
 
-- **A — Quelques jours, puis confirmation parlementaire.**
-- **B — Trente jours maximum — recommandée.**
-- **C — Trois mois, avec contrôle mensuel.**
+**Réponse de travail.** Retenir trente jours au maximum pour une mesure exceptionnelle confirmée par le Parlement, avec une durée plus courte lorsque le besoin le permet. Sans confirmation sous sept jours, les pouvoirs exceptionnels expirent. Toute prolongation exige un vote, un bilan public et une nouvelle date de fin ; le suivi de nécessité est hebdomadaire.
 
-La durée exacte reste une **question ouverte** dépendant du droit applicable et de la nature du risque.
+**Alternative, limites et révision.** Sept et trente jours sont des plafonds provisoires proposés, pas des délais juridiques existants. Vérifier leur compatibilité locale avant application. Réviser si les renouvellements deviennent automatiques ; maintenir les secours ordinaires et les droits non dérogeables.
 
 Sources pour éclairer le choix :
 
@@ -344,9 +342,9 @@ Sources pour éclairer le choix :
 
 #### 9. Quels pouvoirs donner à l'autorité d'audit ?
 
-- **A — Publication, injonction corrective et demande de suspension — recommandée.** Les sanctions contraignantes restent prononcées par une juridiction.
-- **B — Pouvoir direct de suspendre et de sanctionner.**
-- **C — Pouvoir exclusivement consultatif.**
+**Réponse de travail.** Donner à l'autorité d'audit accès aux pièces nécessaires, pouvoir de publication et d'injonction corrective avec délai et recours. En cas de défaut grave, elle saisit le juge pour une suspension ou une sanction ; l'administration peut arrêter volontairement l'usage du modèle et activer un fonctionnement de secours. La saisine ne suspend pas automatiquement l'accès au socle.
+
+**Alternative, limites et révision.** L'audit exclusivement consultatif serait trop faible ; le cumul de l'enquête et des sanctions définitives concentrerait le pouvoir. Mesurer les corrections effectives, les délais et les décisions annulées ; réviser si l'injonction devient un moyen de diriger les politiques.
 
 Sources pour éclairer le choix :
 
@@ -355,9 +353,9 @@ Sources pour éclairer le choix :
 
 #### 10. Qui réalise l'audit initial de compatibilité juridique ?
 
-- **A — Service juridique indépendant rattaché au Parlement — recommandée.**
-- **B — Gouvernement, avec contrôle judiciaire ultérieur.**
-- **C — Autorité d'audit scientifique et algorithmique.**
+**Réponse de travail.** Confier l'audit initial à un service juridique indépendant auprès du Parlement, avec expertise territoriale et contradictoire. Pour chaque mesure, publier norme concernée, autorité compétente, droits affectés, voie d'adoption et classement : compatible, adaptable, incompatible en l'état, ou impossible sans modification d'une norme supérieure. Le juge conserve le contrôle final.
+
+**Alternative, limites et révision.** L'audit scientifique ne remplace pas l'analyse juridique. Une institution pilote reste dans les pouvoirs que le droit lui donne déjà ; une incompatibilité entraîne adaptation, procédure légale de réforme ou abandon. Réviser le service si sa dépendance politique ou ses délais bloquent l'examen loyal.
 
 Sources pour éclairer le choix :
 
@@ -368,11 +366,9 @@ Sources pour éclairer le choix :
 
 #### 11. Comment composer les assemblées citoyennes ?
 
-- **A — Tirage au sort stratifié et participation indemnisée — recommandée.**
-- **B — Volontariat ouvert à tous.**
-- **C — Composition mixte : citoyens tirés au sort, associations et experts.**
+**Réponse de travail.** Retenir un tirage au sort en deux étapes : invitations aléatoires, puis sélection stratifiée parmi les personnes acceptant librement. Corriger la non-réponse par des invitations supplémentaires et des moyens d'accès : indemnisation, transport, garde, handicap, traduction et formats oraux. Les experts et intérêts organisés sont auditionnés sans voter dans le panel.
 
-Dans l'option A, les experts et parties prenantes peuvent être auditionnés sans devenir membres votants.
+**Alternative, limites et révision.** Le volontariat seul peut surreprésenter les personnes disponibles. Publier la méthode et les écarts de composition sans données personnelles identifiantes. Réviser le recrutement si des groupes restent absents ; le panel ne se substitue ni au suffrage ni aux recours.
 
 Sources pour éclairer le choix :
 
@@ -381,9 +377,9 @@ Sources pour éclairer le choix :
 
 #### 12. Quel rôle donner aux référendums ?
 
-- **A — Arbitrer les valeurs et les trajectoires compatibles — recommandée.** Un contrôle préalable porte uniquement sur les droits et les contraintes établies.
-- **B — Permettre un vote sur toute question publique.**
-- **C — Réserver les référendums aux révisions constitutionnelles.**
+**Réponse de travail.** Réserver le référendum aux choix de valeurs et de trajectoires compatibles, lorsque le droit du territoire le permet. Exiger une question claire, une information contradictoire, la transparence des campagnes et un contrôle préalable contestable des droits et contraintes invoquées. Une incertitude scientifique doit apparaître comme telle dans le dossier.
+
+**Alternative, limites et révision.** Ni une majorité ni un consortium ne peuvent retirer arbitrairement les droits d'un groupe. L'appel décrit en réponse 4 protège contre un filtrage politique. Réviser les modalités si le cadrage de la question ou les financements empêchent un choix éclairé.
 
 Sources pour éclairer le choix :
 
@@ -392,9 +388,9 @@ Sources pour éclairer le choix :
 
 #### 13. Comment préparer l'information avant une consultation ?
 
-- **A — Dossier contradictoire indépendant — recommandée.** Il expose faits établis, incertitudes, arguments opposés, effets distributifs et sources.
-- **B — Synthèse produite par le gouvernement.**
-- **C — Contributions libres des partis, associations et groupes concernés, sans synthèse institutionnelle.**
+**Réponse de travail.** Publier un dossier à deux niveaux : une synthèse accessible présentant options, effets et désaccords, puis les données et méthodes détaillées. Une équipe éditoriale indépendante de l'exécutif, recrutée avec les garanties de l'audit, prépare le dossier ; un panel de lecteurs vérifie sa compréhension. Les parties entendues disposent d'un droit de rectification et leurs financements sont visibles.
+
+**Alternative, limites et révision.** Une brochure gouvernementale seule expose à la propagande ; une juxtaposition de contributions ne garantit pas la compréhension. Réviser lorsque les tests de lecture révèlent des contresens ou que des critiques documentées sont écartées. Une hypothèse faible n'obtient pas artificiellement le poids d'un résultat robuste.
 
 Sources pour éclairer le choix :
 
@@ -403,11 +399,9 @@ Sources pour éclairer le choix :
 
 #### 14. Comment mesurer la représentativité numérique ?
 
-- **A — Participation volontaire complétée par un échantillon représentatif et des dispositifs hors ligne — recommandée.**
-- **B — Seuil minimal de participants, indépendamment de leur profil.**
-- **C — Consultation ouverte sans prétention de représentativité.**
+**Réponse de travail.** Combiner contributions ouvertes, recrutement aléatoire stratifié et participation hors ligne. Définir avant la consultation la population visée et les écarts de composition acceptables ; publier participation, non-réponse et limites des éventuelles pondérations. Une consultation volontaire ou un panel délibératif ne mesure pas automatiquement l'opinion de toute la population.
 
-L'option C peut recueillir des propositions, mais elle ne permet pas d'attribuer une préférence à l'ensemble de la population.
+**Alternative, limites et révision.** Un nombre minimal de clics ne démontre aucune représentativité. Si un groupe pertinent manque ou si les données ne permettent pas l'inférence, présenter les résultats comme exploratoires et compléter le recrutement. Réviser la méthode plutôt que collecter des profils individuels toujours plus détaillés.
 
 Sources pour éclairer le choix :
 
@@ -416,9 +410,9 @@ Sources pour éclairer le choix :
 
 #### 15. Quand supprimer un mécanisme participatif ?
 
-- **A — Révision tous les quatre ans avec clause d'expiration — recommandée.**
-- **B — Évaluation annuelle sans expiration automatique.**
-- **C — Maintien permanent, sauf suppression par une nouvelle loi.**
+**Réponse de travail.** Retenir une évaluation annuelle légère et une décision de renouvellement tous les quatre ans. Examiner les réponses reçues, modifications réellement obtenues, groupes inclus, coût et compréhension. Un mécanisme expérimental sans effet démontrable expire ou est remplacé ; les droits de participation et de recours continuent par une voie accessible.
+
+**Alternative, limites et révision.** La suppression ne doit pas sanctionner des conclusions gênantes. Une évaluation indépendante et contradictoire doit établir l'échec du dispositif. Réviser le délai si quatre ans empêchent de voir les résultats ou maintiennent trop longtemps une participation décorative.
 
 Sources pour éclairer le choix :
 
@@ -427,11 +421,9 @@ Sources pour éclairer le choix :
 
 #### 16. Quelle part du budget territorial rendre participative ?
 
-- **A — Expérimentation prudente entre 1 % et 3 % — recommandée.**
-- **B — Part plus importante, entre 5 % et 10 %.**
-- **C — Pourcentage déterminé localement, dans un plafond national.**
+**Réponse de travail.** Tester une enveloppe comprise entre 1 % et 3 % des dépenses annuelles d'investissement effectivement arbitrables du territoire, après obligations légales et continuité des services. Publier aussi sa part du budget total pour éviter une présentation trompeuse. Financer l'accompagnement et l'entretien des projets, avec correction des écarts entre quartiers.
 
-Ces fourchettes sont des **hypothèses à tester**. Elles ne sont pas présentées comme des seuils optimaux.
+**Alternative, limites et révision.** Cette assiette précise la fourchette déjà proposée ; elle n'est pas un optimum démontré. Une part plus élevée attend des résultats sur l'inclusion, la réalisation et les coûts complets. Revoir l'enveloppe si elle prive le socle de moyens ou reste trop faible pour permettre des choix réels.
 
 Sources pour éclairer le choix :
 
@@ -442,11 +434,9 @@ Sources pour éclairer le choix :
 
 #### 17. Quelle durée retenir pour les mandats scientifiques ?
 
-- **A — Quatre ans, non renouvelables immédiatement.**
-- **B — Cinq ans, avec rotation échelonnée — recommandée.**
-- **C — Six ans, avec évaluation intermédiaire.**
+**Réponse de travail.** Retenir cinq ans par défaut, avec renouvellement d'un cinquième du collège chaque année et absence de renouvellement immédiat. Une durée de quatre ou six ans reste possible par justification publique liée au domaine, auditée avant nomination. Les archives et équipes d'appui assurent la continuité ; une évaluation intermédiaire porte sur les méthodes et obligations.
 
-Des durées différentes peuvent être nécessaires lorsque la continuité d'un travail scientifique le justifie. Leur effet doit être évalué au regard de l'indépendance, de la mémoire institutionnelle et du risque d'installation d'une caste.
+**Alternative, limites et révision.** Une durée uniforme simplifie la règle mais ne convient pas nécessairement à toutes les recherches. Réviser si la rotation détruit la mémoire ou si les mêmes réseaux gardent le contrôle. Une conclusion impopulaire ne constitue jamais un motif de révocation.
 
 Sources pour éclairer le choix :
 
@@ -455,9 +445,9 @@ Sources pour éclairer le choix :
 
 #### 18. Comment valider les compétences ?
 
-- **A — Faisceau de preuves — recommandée.** Formation, expérience documentée, travaux vérifiables, exercice pratique, examen par les pairs et conflits d'intérêts.
-- **B — Diplôme ou titre professionnel reconnu.**
-- **C — Nomination politique après audition publique.**
+**Réponse de travail.** Évaluer un dossier de travaux et d'expérience, une mise en situation pertinente et la capacité à expliciter les limites du raisonnement, par un jury pluraliste tournant. Rendre les critères publics, limiter les frais et ouvrir un recours. Les voies non académiques sont recevables lorsque la fonction le permet ; les qualifications professionnelles légalement obligatoires demeurent applicables.
+
+**Alternative, limites et révision.** Le diplôme seul écarterait des compétences utiles ; une nomination politique seule ne les établit pas. Vérifier diversité des parcours et qualité réelle du travail, sans certification des droits citoyens. Réviser les épreuves si elles mesurent surtout les moyens sociaux des candidats.
 
 Sources pour éclairer le choix :
 
@@ -466,9 +456,9 @@ Sources pour éclairer le choix :
 
 #### 19. Quel régime appliquer aux rémunérations et conflits d'intérêts ?
 
-- **A — Barème public, revenus externes déclarés et délai de carence proportionné — recommandée.**
-- **B — Alignement strict sur la fonction publique générale.**
-- **C — Rémunération négociée individuellement selon le marché.**
+**Réponse de travail.** Retenir une grille publique par responsabilité et temps de travail, adossée aux fonctions publiques comparables du territoire, avec plafond commun et aucune prime au résultat scientifique. Déclarer les intérêts pertinents ; interdire les avantages des acteurs concernés et imposer la récusation. Proposer deux ans de carence pour rejoindre un acteur directement affecté par les dossiers traités, avec contrôle indépendant et compensation proportionnée si nécessaire.
+
+**Alternative, limites et révision.** Le montant exige des données salariales et budgétaires locales ; il sera fixé avant recrutement. Deux ans est une hypothèse révisable, pas une norme universelle. Réviser si le recrutement échoue, si les restrictions deviennent excessives ou si l'influence se déplace vers des intermédiaires.
 
 Sources pour éclairer le choix :
 
@@ -479,9 +469,9 @@ Sources pour éclairer le choix :
 
 #### 20. Comment répartir les compétences dans un État fédéral ?
 
-- **A — Subsidiarité vérifiable et responsabilité unique — recommandée.** Chaque fonction va au niveau le plus proche capable de l'exercer, avec un responsable et un recours identifiables.
-- **B — Maintien des compétences actuelles avec coordination renforcée.**
-- **C — Centralisation des secteurs vitaux.**
+**Réponse de travail.** Attribuer chaque fonction au niveau le plus proche capable de garantir qualité, égalité d'accès et continuité. Organiser localement la délivrance des services ; mutualiser régionalement ou nationalement les réseaux, financements et stocks ; coordonner au niveau européen les dépendances partagées et mondialement les connaissances. Publier pour chaque fonction un responsable, un budget et un recours, avec financement compensant les inégalités territoriales.
+
+**Alternative, limites et révision.** Ni proximité ni centralisation ne suffisent en elles-mêmes. Respecter les compétences constitutionnelles existantes jusqu'à leur éventuelle révision régulière. Revoir l'attribution lorsque les délais, coûts ou écarts d'accès augmentent.
 
 Sources pour éclairer le choix :
 
@@ -490,9 +480,9 @@ Sources pour éclairer le choix :
 
 #### 21. Comment traiter les compétences actuellement dupliquées ?
 
-- **A — Fusion lorsqu'elles produisent une responsabilité illisible.**
-- **B — Contrat public opposable entre institutions — recommandée.** Il fixe responsable, budget, délai et recours sans imposer immédiatement une fusion.
-- **C — Maintien de la duplication avec un guichet citoyen commun.**
+**Réponse de travail.** Commencer par un contrat public entre institutions : autorité responsable envers l'usager, contributeurs, financement, délais, contrôle et recours dans le droit applicable. Maintenir les niveaux apportant une compétence ou une proximité vérifiable. Proposer une fusion ciblée seulement si cette coordination échoue et si son évaluation démontre un bénéfice d'accès ou de responsabilité.
+
+**Alternative, limites et révision.** Un guichet commun seul peut masquer la fragmentation ; une fusion générale peut détruire la proximité. Le contrat ne redistribue pas de lui-même les compétences légales. Réviser sur la base des résultats et du coût complet, y compris la transition et les garanties linguistiques ou territoriales.
 
 Sources pour éclairer le choix :
 
@@ -503,9 +493,9 @@ Sources pour éclairer le choix :
 
 #### 22. Où placer la frontière entre expression convictionnelle et capture ?
 
-- **A — Selon les actes et les effets — recommandée.** Le même droit commun s'applique à tous : transparence du financement, absence de coercition, respect des droits et traçabilité de l'influence.
-- **B — Selon le statut de l'organisation.** Des règles particulières s'appliquent aux organisations religieuses ou convictionnelles reconnues.
-- **C — Appréciation au cas par cas par l'administration.**
+**Réponse de travail.** Retenir les actes et effets : coercition, discrimination, financement dissimulé, privilège institutionnel ou influence non traçable sur un dossier public. Une conviction exprimée librement, y compris religieuse ou critique du projet, n'est pas un motif de restriction. Appliquer les mêmes obligations fonctionnelles de transparence aux acteurs comparables, avec recours indépendant.
+
+**Alternative, limites et révision.** Un statut spécial selon la doctrine ou une appréciation discrétionnaire de l'administration exposerait à la discrimination. Réviser les contrôles s'ils deviennent une surveillance des croyances ; ne collecter que les informations nécessaires à un conflit concret.
 
 Sources pour éclairer le choix :
 
@@ -515,14 +505,198 @@ Sources pour éclairer le choix :
 
 ---
 
+## Réponses aux questions sectorielles
+
+Les propositions ci-dessous appliquent le [cadre commun de décision](02-principes.md#cadre-commun-de-décision-tous-domaines-confondus) et les décisions 0018 à 0020. Elles recherchent la protection des personnes et du vivant, l'équité, les libertés et une responsabilité identifiable. Les alternatives sont comparées selon ces objectifs ; aucun bénéfice annoncé n'est tenu pour démontré avant évaluation.
+
+### Expertise et contrôle
+
+**Nomination et révocation des auditeurs.** Retenir un appel public, un jury de qualification pluraliste distinct du consortium et une nomination parlementaire motivée aux trois cinquièmes, parmi les candidatures recevables. Publier les compétences et intérêts pertinents ; appliquer les mandats de cinq ans échelonnés et les incompatibilités des réponses 17 à 19. Le collège réunit compétences scientifiques, statistiques, numériques, juridiques et d'évaluation sociale. Les usagers peuvent le saisir et être entendus. Sa révocation relève d'une procédure juridictionnelle contradictoire pour faute documentée, jamais du désaccord avec ses conclusions. En cas de blocage de nomination, réouvrir l'appel avec un nouveau jury plutôt que prolonger indéfiniment les sortants.
+
+**Limiter le pouvoir de validation.** Chaque modèle sépare faits, hypothèses techniques et choix de valeur. Proposer un délai d'instruction annoncé dès réception et une première réponse motivée sous soixante jours : validation, demande précise de compléments ou calendrier justifié. Le silence n'autorise pas une mesure dangereuse ; il ouvre un recours pour carence. Une nouvelle expertise doit pouvoir être ordonnée sans l'accord de l'équipe contestée. Le pouvoir de validation demeure celui prévu par la décision 0006, mais son exercice devient contrôlable.
+
+**Risques et révision.** Contrôler le blocage des nominations, l'accès socialement inégal aux recours, le coût des audits, la cooptation entre réseaux et la répression du désaccord. Réviser procédure ou moyens si ces risques se matérialisent ; ne pas supprimer l'indépendance pour gagner du temps.
+
+### Socle vital
+
+**Forme de fourniture.** Retenir un socle mixte : services et offre régulée pour les réseaux, soins et logement ; compléments monétaires pour les besoins essentiels restant effectivement non couverts. Le montant tient compte des ressources disponibles et du coût local du panier essentiel, sans compter deux fois les services déjà fournis. Préserver un gain disponible réel lors d'une reprise d'activité. Un revenu uniforme seul ne répond pas à une pénurie de logements ou de soignants ; des prestations exclusivement en nature limiteraient inutilement le choix.
+
+**Définition du minimum et seuils chiffrés.** Le consortium propose des références de santé, d'accessibilité et de ressources ; les citoyens et le Parlement fixent le niveau de protection et financent sa réalisation. Retenir un examen annuel, avec correction anticipée si prix, besoins ou accès se dégradent. L'administration doit documenter, avant tout pilote, les mesures suivantes :
+
+| Composante | Base de calcul du minimum |
+| --- | --- |
+| Logement | Salubrité, composition du ménage, handicap, accès aux services |
+| Alimentation | Besoins nutritionnels, régimes nécessaires, prix locaux |
+| Eau | Boisson, hygiène, santé, climat, continuité |
+| Énergie | Confort thermique, équipements essentiels, état du logement |
+| Soins et médicaments | Besoin médical, disponibilité, délais d'accès |
+| Internet | Accès effectif aux services, équipement, accessibilité |
+| Mobilité | Trajets essentiels, fréquence, distance, handicap |
+| Accès administratif | Accueil humain, coût, délais, voies de recours |
+
+Les quantités et prix locaux restent à établir : `[source à vérifier]`. Une valeur universelle inventée masquerait les besoins ; le choix retenu est un panier adapté et opposable, avec méthode, date et organisme responsable publiés. Une enveloppe insuffisante doit déclencher un plan de capacités ou de financement, pas une baisse silencieuse de la définition du besoin.
+
+**Quotas écologiques individuels.** Ne pas instaurer de compte écologique personnel général. Préférer normes de production, plafonds sectoriels, infrastructures sobres et tarification protégeant l'usage vital. En pénurie démontrée, des limites temporaires par usage peuvent être nécessaires, avec adaptations sanitaires ou familiales, recours et données minimales. Elles ne deviennent ni score citoyen ni sanction d'un mode de vie.
+
+**Part locale et préférences.** Garantir les droits par financement mutualisé et organiser l'accès au plus près des personnes. Aucun pourcentage uniforme de production locale : comparer résilience, coût complet et empreinte importée. Proposer plusieurs paniers ou prestataires compatibles avec les exigences sanitaires et écologiques, avec adaptations alimentaires, culturelles et familiales. Une préférence coûteuse n'ouvre pas un droit illimité, mais une option réellement utilisable doit rester disponible.
+
+**Prix, abus et dignité.** Associer aides et développement de l'offre, transparence des marges, contrôle des concentrations et régulation ciblée des prix en zone de tension. Automatiser l'ouverture des droits seulement avec une base légale et une possibilité de correction humaine ; maintenir un accueil sans numérique. Contrôler prioritairement fournisseurs, facturation et fraudes documentées, avec vérifications proportionnées et contradictoires. Aucun suivi permanent des achats ni retrait automatique du socle. Le financement est précisé dans la réponse « Finance et investissement » ci-dessous.
+
+**Risques et révision.** Suivre lourdeur administrative, non-recours et stigmatisation, inflation ou insuffisance d'offre, captation des aides et intrusion dans la vie privée. Corriger le mode de fourniture si l'accès réel se dégrade, sans faire dépendre la dignité de l'emploi ou de la conformité comportementale.
+
+### Énergie
+
+**Mix par territoire.** Conserver la position provisoire du chapitre 06 : sobriété, efficacité, électrification, nucléaire et renouvelables. Ne pas fixer une part universelle : comparer des scénarios horaires pluriannuels incluant froid, canicule, sécheresse, indisponibilité de centrales et importations réduites. Comparer aussi une alternative avec moins de nucléaire. Retenir la trajectoire compatible la plus robuste selon émissions complètes, sécurité, coûts du système, délais, matériaux, eau et effets sociaux. Les données de réseau, coûts et capacités locales sont à vérifier avant chiffrage : `[source à vérifier]`.
+
+**Nucléaire, déchets et sûreté.** Séparer exploitant, autorité de sûreté et contrôle financier ; isoler les provisions de démantèlement et de gestion des déchets, auditer leur financement et publier les responsabilités de long terme. La sûreté ne dépend pas de l'objectif de production. Toute implantation comporte alternatives, consultation territoriale et recours. Un stockage ou un financement annoncé n'est pas réputé résolu sans démonstration technique et contrôle.
+
+**Usages numériques.** Exiger pour les grands projets une comparaison avec une solution moins consommatrice, les besoins d'électricité, d'eau et de matériaux, et les engagements de réduction en période de tension. L'accès aux capacités rares dépend d'une utilité documentée et du respect des budgets, sans jugement administratif sur la valeur des opinions ou des loisirs. Le seuil pertinent est la capacité résiduelle après garantie des usages vitaux, pas un score universel d'utilité sociale.
+
+**Recours territoriaux et transparence privée.** Une collectivité ou personne affectée peut contester l'allocation, ses effets ou la méthode devant le juge compétent, avec contre-expertise et protection provisoire en cas de dommage grave. Publier toute contribution privée utilisée, son financement, les hypothèses reprises et les motifs d'exclusion ; aucun seuil financier n'exempte une contribution décisive. Protéger seulement les détails sensibles justifiés, accessibles à l'audit indépendant.
+
+**Risques et révision.** Examiner verrouillage technologique, précarité ou dommages territoriaux, dépassements de coût, capture industrielle et restrictions d'usage disproportionnées. Réviser le mix ou suspendre le projet si les capacités, coûts, risques ou bénéfices observés invalident son dossier ; garantir entre-temps la continuité énergétique.
+
+### Budgets écologiques et précaution
+
+**Seuils et répartition.** Distinguer contraintes physiques, objectifs politiques et budgets opérationnels. Le consortium documente les enveloppes et leur incertitude ; le Parlement choisit les objectifs et la répartition entre trajectoires compatibles. Calculer le carbone sur une trajectoire temporelle et inclure l'empreinte importée ; gérer eau, sols, habitats et pollutions à leurs échelles propres. Une amélioration du carbone ne compense pas automatiquement une destruction irréversible d'habitat.
+
+Réserver les besoins fondamentaux compatibles avec le maintien des écosystèmes ; répartir ensuite l'effort selon responsabilités, capacité contributive, vulnérabilité et possibilités réelles de substitution. Ne pas figer les droits à polluer à partir des consommations historiques. Publier les coûts supportés à l'étranger et par les générations futures. Les budgets territoriaux nécessitent inventaires, scénarios et critères d'équité explicites : `[source à vérifier]` ; le GIEC éclaire les risques climatiques, sans déterminer une répartition locale juste ([GIEC, synthèse AR6](https://www.ipcc.ch/report/ar6/syr/longer-report/)).
+
+**Révision.** Retenir un suivi annuel, une révision de trajectoire tous les cinq ans et un réexamen anticipé après découverte majeure ou dépassement. Toute hausse d'enveloppe doit expliquer sa base scientifique et ses conséquences ; modifier l'indicateur ne fait pas disparaître un dommage. Protéger immédiatement les personnes exposées pendant l'instruction.
+
+**Précaution.** Agir avant certitude complète lorsqu'un dommage grave ou irréversible est étayé par un mécanisme plausible et des éléments vérifiables, et que l'attente accroîtrait le risque. Comparer les dommages de l'action, de l'inaction et des substituts. Préférer une mesure limitée et réversible ; une interdiction forte exige une justification renforcée de nécessité et de proportionnalité, une base juridique et un recours. Fixer une date de réexamen et financer la collecte des données manquantes.
+
+**Risques et révision.** Surveiller rigidité des budgets, répartition injuste de l'effort, pénuries de substitution, sélection intéressée des données et surveillance des modes de vie. Réviser la mesure si le risque se réduit ou si une alternative protège mieux ; l'incertitude n'autorise ni l'inaction systématique ni toute restriction.
+
+### IA publique et données
+
+**Ouverture.** Publier objectifs, code développé sur fonds publics, méthodes d'évaluation, versions, résultats et limites ; ouvrir paramètres du modèle et jeux de données lorsque les droits et la sûreté le permettent. Chaque restriction doit être motivée, limitée et contrôlée. Les auditeurs habilités accèdent aux éléments nécessaires, y compris sous confidentialité justifiée. Un outil dont les effets critiques ne sont pas auditables n'entre pas dans la chaîne de décision correspondante.
+
+**Fournisseurs.** Exiger formats exportables, interfaces documentées, clauses de sortie, capacité de reprise et essais de migration vers un autre prestataire. Mutualiser les compétences publiques et privilégier les composants ouverts maîtrisables. Prévoir un fonctionnement humain de secours ; multiplier les fournisseurs sans tester leur indépendance réelle ne suffit pas.
+
+**Données sensibles.** Limiter chaque traitement à une finalité et une base légale identifiées ; fixer durée de conservation, accès par fonction, traçabilité et sécurité. Éviter la centralisation générale ; préférer données agrégées ou calcul au plus près de leur source lorsque possible. La pseudonymisation ne rend pas les données anonymes. Les articles 5, 9, 25 et 35 du [RGPD](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=fr) encadrent notamment principes, données sensibles, protection dès la conception et analyses d'impact ; leur application doit être instruite pour chaque traitement.
+
+**Audit externe.** Utiliser le collège indépendant défini plus haut, avec équipes techniques distinctes des fournisseurs et utilisateurs. Tester erreurs, biais, robustesse, consommation de ressources et effets sur les droits avant usage, après modification importante et périodiquement selon le risque. L'audit peut imposer une correction et demander au juge une suspension. Une sortie d'IA doit rester une recommandation assumée par une autorité humaine ; l'explication générée par le modèle ne vaut pas preuve de fiabilité.
+
+**Risques et révision.** Rechercher dilution de responsabilité, exclusion de publics mal représentés, coût d'infrastructure, dépendance aux prestataires et atteintes à la vie privée. Réduire ou arrêter l'usage si les erreurs, l'opacité ou les ressources nécessaires dépassent les bénéfices démontrés ; maintenir un accès humain aux droits.
+
+### Coopération et dépendances critiques
+
+**Liste et dépendance inacceptable.** Partir des fonctions déjà retenues : eau et assainissement, alimentation, énergie, soins et médicaments, communications, logistique et maintenance. Pour chaque territoire, recenser les intrants nécessaires, leur substituabilité, les délais de remplacement et les dépendances communes des fournisseurs. Classer une dépendance comme inacceptable lorsqu'une rupture crédible interromprait le socle avant qu'un secours testé soit disponible. Deux fournisseurs dépendant du même intrant ne constituent pas deux secours indépendants.
+
+**Partage technologique.** Retenir licences ouvertes pour les résultats publics pertinents, licences négociées pour les autres, partenariats de recherche, formation, maintenance et financement de capacités locales. Associer les populations et institutions destinataires aux choix. La seule livraison d'équipements ne garantit pas leur usage ; évaluer coût d'entretien, adaptation locale et autonomie acquise. Toute limitation de propriété intellectuelle doit suivre le droit applicable, sans présumer qu'elle existe déjà.
+
+**Prévenir les rentes.** Conditionner les protections et aides à des obligations de capacité, prix, transparence et performance écologique, avec échéance et mise en concurrence lorsque possible. Comparer coûts complets et effets sur les partenaires étrangers avant retrait d'un approvisionnement. Une préférence locale permanente serait trop peu contrôlable ; la décision 0020 impose la comparaison écologique et sociale.
+
+**Stocks.** Retenir la méthode commune de la section « Continuité civile » ; mutualiser les biens nécessitant une gestion régionale ou européenne, avec réserves accessibles localement. La liste précise et les quantités restent à vérifier par inventaire et exercices territoriaux : `[source à vérifier]`.
+
+**Risques et révision.** Examiner fragmentation de responsabilité, pertes de revenus ici et ailleurs, surcoûts, rentes protégées et extension abusive du secret. Réviser aides, fournisseurs ou localisation si la continuité testée ne s'améliore pas ou si les dommages sont seulement déplacés.
+
+### Pilotes et transition
+
+**Territoire et échelle.** Retenir d'abord une simulation sur données publiques d'une commune ou intercommunalité, puis un pilote de socle énergétique sur un quartier mêlant types de logement et situations sociales. Prévoir un territoire comparable et une observation couvrant au moins un hiver et un été. Sélectionner le site par besoins, compétences légales, capacités de fourniture, budget et possibilité d'audit ; aucun partenariat local n'est tenu pour acquis. Une ville précise et un effectif sans ces données donneraient une précision fictive.
+
+**Réussite.** Mesurer avant et pendant le pilote accès réel à l'énergie, interruptions, confort thermique, impayés, coût public, consommation corrigée des conditions météorologiques, émissions, non-recours et recours. Comparer les résultats entre situations sociales et avec le territoire témoin sans retirer de protections à ce dernier. Dimensionner l'échantillon d'après l'effet que l'évaluation veut détecter et les données disponibles : `[source à vérifier]`.
+
+**Arrêt et contrainte juridique.** Suspendre immédiatement le mécanisme en cause lors d'une atteinte grave aux droits ou d'un danger documenté ; assurer une solution de continuité. Corriger en cours d'essai les inégalités ou coûts imprévus. Une extension exige un bénéfice d'accès observé, l'absence de dégradation grave pour un groupe, un financement soutenable et une décision publique. Les institutions pilotes n'ont que leurs pouvoirs légaux existants ; le classement et le contrôle juridiques suivent la réponse 10.
+
+**Activités utiles.** Évaluer libre adhésion, possibilité effective de quitter l'activité, rémunération lorsqu'il s'agit d'un travail, qualité des conditions, accès au socle après refus et sentiment d'utilité déclaré volontairement. Ne pas noter les personnes ni substituer du bénévolat contraint à un emploi. Les indicateurs agrégés et les entretiens confidentiels servent à corriger le dispositif.
+
+**Transparence des dépendances.** Publier fonctions fragiles, responsables, capacité de secours et calendrier de correction. Réserver aux équipes habilitées les localisations et détails techniquement exploitables, avec audit indépendant des exclusions et date de réexamen. Le secret ne doit pas masquer le financement ou l'absence de préparation.
+
+**Risques et révision.** Tester récupération politique du pilote, biais de sélection et inégalités, coût de généralisation, dépendance aux prestataires et participation forcée. Un résultat local n'est pas une preuve de transférabilité ; comparer un second contexte avant extension et conserver l'aide essentielle pendant toute sortie.
+
+### Finance et investissement
+
+**Évaluation budgétaire indépendante.** Retenir une fonction indépendante d'évaluation auprès d'une institution de contrôle budgétaire existante, avec moyens propres et publication contradictoire ; créer un nouvel organisme seulement si aucun ne peut l'assumer. Elle examine soutenabilité, capacités matérielles et alternatives, sans veto général sur les priorités votées. L'appellation « dette utile » ne dispense ni de remboursement ni d'analyse du risque.
+
+**Financement et priorité constitutionnelle.** Retenir la protection constitutionnelle du socle et des obligations de préservation du vivant, avec obligations de réalisation et recours ; laisser les montants et instruments aux budgets démocratiquement adoptés. Financer le fonctionnement récurrent par des recettes récurrentes diversifiées et l'investissement par une combinaison de recettes et dette soutenable. Chiffrer coûts, personnel et infrastructures ; tester faible croissance, gains d'IA nuls ou tardifs, hausse des taux et recettes inférieures aux prévisions. Ne pas compter deux fois une même rente dans plusieurs impôts, ni une recette écologique appelée à disparaître comme financement permanent garanti. Les données nécessaires au chiffrage territorial restent à réunir : `[source à vérifier]`.
+
+**Aides et optimisation fiscale.** Refuser ou récupérer les aides discrétionnaires lorsqu'un bénéficiaire ne respecte pas des conditions fiscales publiées et légalement fondées, après instruction contradictoire et recours. Définir les pratiques visées par des critères vérifiables ; l'étiquette « agressive » ne suffit pas. En secteur vital, préparer un opérateur ou financement de remplacement pour protéger salariés et usagers, sans offrir une immunité aux dirigeants. Privilégier une transition contrôlée plutôt qu'une coupure de service.
+
+**Risques et révision.** Contrôler veto technocratique de fait, austérité supportée par les plus fragiles, recettes surestimées, aides capturées et sanctions arbitraires. Réviser les instruments si investissement utile ou accès au socle se dégradent ; ne pas transformer une contrainte budgétaire en abandon silencieux des droits.
+
+### Logement et foncier
+
+**Nombre maximal de logements.** Ne pas retenir de plafond uniforme de détention : un nombre seul ne distingue pas bailleur responsable et rétention spéculative. Privilégier contrôle des bénéficiaires effectifs, fiscalité progressive de la rente et de la vacance injustifiée, entretien obligatoire et contrôle de concentration dans les marchés locaux tendus. Une limite ciblée peut être envisagée si ces instruments échouent, après évaluation de l'offre et contrôle de proportionnalité.
+
+**Offices fonciers.** Retenir des offices publics ou coopératifs dans les zones où le diagnostic montre une tension durable. Mobiliser d'abord les outils existants ; acquérir ou dissocier sol et bâti lorsque cela garantit une accessibilité durable. Publier acquisitions, prix, attributions et conflits d'intérêts ; associer les habitants au contrôle. Financer entretien et nouvelles capacités, pas seulement l'achat du terrain.
+
+**Droit au logement sain.** Retenir une garantie constitutionnelle mise en œuvre par une loi précisant responsable, financement, critères et recours. Elle ne signifie ni attribution immédiate d'un bien déterminé ni logement standard imposé. Mobiliser vacant habitable, rénovation et construction là où besoins, réseaux et protection des sols le permettent ; offrir une solution digne pendant l'attente.
+
+**Risques et révision.** Examiner bureaucratie foncière, éviction ou gentrification, recul de l'offre, capture des offices et atteinte disproportionnée à la propriété. Réviser les instruments selon logements sains réellement accessibles, délais et coût complet ; le seul nombre de logements publics ne prouve pas la réussite.
+
+### Alimentation, eau et sols
+
+**Liste alimentaire.** Retenir une liste publique de catégories nutritives et substituables, avec plusieurs paniers adaptés aux besoins et cultures. Réviser selon prix, disponibilité, données nutritionnelles et empreinte écologique ; ne pas réserver la liste à des marques ou fournisseurs. Inclure les adaptations médicalement nécessaires sans imposer à tous un régime unique.
+
+**Quotas d'eau.** Retenir des plafonds de prélèvement par bassin, saison et usage, avec priorité légale aux usages vitaux et procédure de restriction graduée. L'expertise établit disponibilité, besoins des écosystèmes et incertitudes ; la décision publique répartit l'effort et les compensations. La hiérarchie du chapitre 17 place l'alimentation avant les écosystèmes critiques : sa lecture mécanique entrerait en tension avec la préservation du vivant. Retenir explicitement son application contextuelle : ne pas promettre des prélèvements agricoles qui détruiraient durablement les capacités hydriques ; rechercher substitutions, réduction des usages non essentiels et secours alimentaires avant un arbitrage dommageable. Un dommage résiduel doit être déclaré et contrôlé, jamais rendu invisible par le classement des usages.
+
+**Aides agricoles.** Conditionner progressivement les aides de production et d'investissement à des trajectoires vérifiables sur sols, eau, biodiversité et bien-être animal, avec conseil et financement de transition. Distinguer ces aides du secours immédiat aux personnes, qui ne peut attendre une performance écologique. Combiner pratiques contrôlables et résultats ajustés aux conditions initiales et aux aléas ; ne pas retirer mécaniquement une aide pour une sécheresse hors du contrôle du producteur.
+
+**Risques et révision.** Surveiller complexité des contrôles, précarité alimentaire et agricole, baisse des capacités utiles, captation par les grands opérateurs et intrusion dans les choix alimentaires. Simplifier ou réviser les conditions si elles excluent les petits producteurs ou déplacent les dommages sans amélioration de l'eau et des sols.
+
+### Indicateurs et droit de saisine
+
+**Tableau public.** Retenir une page de synthèse d'environ vingt indicateurs, comme objectif de lisibilité à tester, avec accès aux huit familles et données détaillées du chapitre 18. Chaque famille doit rester visible. Ajouter désagrégations territoriales et sociales lorsque les données le permettent, incertitudes et retours qualitatifs ; aucun score unique de société ou de citoyen.
+
+**Seuils opposables.** Rendre opposables des garanties d'accès et des obligations de correction associées aux seuils écologiques ou de continuité. La norme doit préciser mesure, responsable, délai et recours ; un chiffre isolé ne prononce pas une sanction automatique. Un dépassement déclenche instruction, protection et réponse, même si le tableau national moyen reste favorable.
+
+**Déclenchement citoyen d'audit.** Ouvrir une saisine gratuite, individuelle ou collective, sans exigence de diplôme ni de signatures pour signaler une atteinte. Retenir un examen motivé de recevabilité sous trente jours, plus rapide en cas de danger ; ouvrir l'audit si des éléments crédibles indiquent erreur, seuil franchi ou conflit d'intérêts. Le refus doit être motivé et contestable. Regrouper les demandes identiques sans fermer l'accès aux nouveaux éléments.
+
+**Risques et révision.** Rechercher pilotage aveugle par chiffre, invisibilité des minorités, coût excessif des mesures, manipulation des données et atteinte à la vie privée. Revoir indicateurs et délai d'essai selon compréhension, audits utiles et corrections réalisées ; une saisine ne garantit pas qu'une objection soit fondée.
+
+### Continuité civile
+
+**Niveaux minimaux de stocks.** Retenir une obligation légale de continuité par fonction, traduite en stocks et capacités de secours sectoriels. Calculer la réserve utilisable comme le besoin essentiel pendant un délai prudent de réapprovisionnement, augmenté d'une marge d'incertitude, moins les apports de secours réellement assurés pendant ce même délai. Tester simultanément ruptures de fournisseur, transport et énergie ; ne pas compter plusieurs fois une réserve mutualisée. Publier unités, durée couverte, hypothèses et institution responsable.
+
+La quantité ne peut être identique pour eau, médicaments et électricité. Pour cette dernière, tester surtout puissance disponible, autonomie et rétablissement ; pour les produits périssables, organiser rotation et distribution. Les inventaires, besoins et délais locaux restent à vérifier : `[source à vérifier]`. Une norme de stockage sans budget de renouvellement et sans exercice d'accès ne suffit pas.
+
+**Droit à la continuité minimale.** Retenir un droit opposable à la préparation, à la distribution équitable du disponible, à une solution de secours et à un recours rapide. La pénurie physique peut empêcher une prestation complète ; elle ne dispense pas de justifier les priorités, rechercher l'assistance et réparer les manquements établis. Les besoins et la vulnérabilité déterminent l'accès, jamais le patrimoine, la loyauté ou l'utilité économique supposée des personnes.
+
+**Fonctionnement sans système central.** Imposer un plan dégradé à chaque service vital : procédures humaines, listes locales limitées, sauvegardes isolées, communications de secours et exercice annuel de panne. L'autonomie attendue dépend du délai de rétablissement démontré. Protéger et détruire à échéance les copies de données sensibles. Un plan non testé n'est pas une capacité acquise.
+
+**Risques et révision.** Contrôler confusion de commandement, inégalités territoriales, péremption et coût des réserves, contrats capturés et extension des pouvoirs d'exception. Réviser quantités et protocoles après exercice ou incident ; la préparation n'autorise ni surveillance générale ni urgence permanente.
+
+---
+
+## Correspondance avec les chapitres
+
+Cette carte couvre les listes de questions ouvertes repérées dans les chapitres. Les réponses sont centralisées ici pour éviter leur duplication ; les cas d'épreuve sont traités dans les [études de cas](../research/case-studies.md).
+
+| Questions d'origine | Réponses de travail |
+| --- | --- |
+| [01 — Vision](01-vision.md#questions-ouvertes) | Réponses 3, 5, 13, 20 et [auditeurs](#expertise-et-contrôle) |
+| [03 — Institutions](03-institutions.md#questions-ouvertes) | Réponses 1, 2, 6 à 11 et 17 à 21 |
+| [04 — Socle et critiques](04-socle-vital.md#critiques) | [Socle vital](#socle-vital), [financement](#finance-et-investissement) |
+| [06 — Énergie](06-energie.md#questions-ouvertes) | [Énergie](#énergie) |
+| [07 — Environnement](07-environnement.md#questions-ouvertes) | [Budgets et précaution](#budgets-écologiques-et-précaution) |
+| [08 — IA](08-ia.md#questions-ouvertes) | [IA et données](#ia-publique-et-données) |
+| [09 — Démocratie](09-democratie.md#questions-ouvertes) | Réponses 1 à 5, 11 à 16 et 22 |
+| [10 — International](10-international.md#questions-ouvertes) | [Dépendances](#coopération-et-dépendances-critiques), [stocks](#continuité-civile) |
+| [11 — Transition](11-transition.md#questions-ouvertes) | Réponse 10 et [pilotes](#pilotes-et-transition) |
+| [15 — Finance](15-finance-dette-investissement.md#questions-ouvertes) | [Finance et investissement](#finance-et-investissement) |
+| [16 — Logement](16-logement-foncier-urbanisme.md#questions-ouvertes) | [Logement et foncier](#logement-et-foncier) |
+| [17 — Alimentation](17-alimentation-eau-sols.md#questions-ouvertes) | [Alimentation, eau et sols](#alimentation-eau-et-sols) |
+| [18 — Indicateurs](18-indicateurs-audits.md#questions-ouvertes) | [Indicateurs et saisine](#indicateurs-et-droit-de-saisine) |
+| [19 — Crises](19-securite-civile-crises.md#questions-ouvertes) | Réponses 7 et 8, [continuité](#continuité-civile) |
+
+Les chapitres 02 et 05 contiennent déjà des pistes de mise en œuvre ; leurs paramètres de financement et d'expérimentation sont complétés ici. Les chapitres 12 à 14 déclarent ne pas avoir de question bloquante. Le README et la FAQ disposent déjà de réponses de synthèse. Les questions méthodologiques de recherche restent des invitations à tester les propositions, pas des choix renvoyés au propriétaire.
+
+---
+
 ## Utilisation des réponses
 
-Les réponses peuvent être consignées sous la forme `1A, 2C, 3A…`, accompagnées d'une justification lorsque le choix dépend d'une condition ou combine plusieurs options.
+Ces réponses constituent la base de travail retenue pour poursuivre la conception. Leur inscription ici ne modifie pas silencieusement les engagements de `.blueprint/decisions.md` et ne leur confère aucune force juridique. Les sources institutionnelles conservées sous les réponses 1 à 22 servent à la comparaison ; elles ne démontrent pas que les délais, seuils ou dispositifs proposés fonctionneront dans un territoire donné.
 
-Avant de transformer une réponse en décision structurante, il faut vérifier :
+Pour chaque proposition institutionnelle, l'évaluation doit couvrir les cinq risques suivants, en complément des limites propres à chaque réponse :
 
-- sa compatibilité avec les droits fondamentaux et les décisions déjà inscrites dans `.blueprint/decisions.md` ;
-- la séparation entre expertise, décision démocratique, exécution, audit et recours ;
-- les risques institutionnels, sociaux, économiques, de capture et d'atteinte aux libertés ;
-- les éléments qui nécessitent une source complémentaire ou une analyse juridique locale ;
-- les conditions d'évaluation, de révision et, si nécessaire, d'abandon.
+| Risque | Vérification et correction attendues |
+| --- | --- |
+| Institutionnel | Délais, responsabilité, blocages ; corriger mandat ou procédure |
+| Social | Accès réel, exclusion, coûts supportés ; financer l'accessibilité |
+| Économique | Coût complet et capacités ; redimensionner sans retirer les droits |
+| Capture | Nominations, financeurs, prestataires ; récusation et audit externe |
+| Libertés | Proportionnalité, données, recours ; suspendre l'atteinte et réparer |
+
+Les points encore non vérifiés sont des travaux précis : recueillir les données locales, chiffrer les capacités et recettes, vérifier le droit applicable, puis confronter les mécanismes aux résultats. L'absence de ces éléments interdit de présenter un seuil comme validé, mais n'empêche pas de retenir la règle de conception, la méthode de calcul et les conditions de révision.

@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.6"
+version: "0.7"
 last_updated: "2026-09-07"
 confidence: "draft"
 ---
@@ -32,7 +32,7 @@ Ce fichier sert de carte d'entrée pour Société, équité et vivant.
 - `17-alimentation-eau-sols.md` : relie alimentation, eau, sols, agriculture et résilience alimentaire.
 - `18-indicateurs-audits.md` : définit les indicateurs, audits et mécanismes de correction.
 - `19-securite-civile-crises.md` : traite de la sécurité civile, des crises et de la continuité du socle vital.
-- `20-questions-structurantes.md` : répond provisoirement aux questions transversales du README.
+- [`20-questions-structurantes.md`](20-questions-structurantes.md) : rassemble les réponses de travail aux questions du README et des chapitres.
 - `glossary.md` : centralise les définitions.
 - `faq.md` : répond aux objections courantes.
 
@@ -55,7 +55,7 @@ Les chapitres `12`, `13` et `14` complètent les angles morts prioritaires : inf
 
 Les chapitres `15` à `19` ajoutent les conditions matérielles et opérationnelles : financement, logement, alimentation, mesure des résultats et continuité civile en crise.
 
-Le chapitre `20` consolide les réponses provisoires aux questions structurantes : expertise, lobbies, IA, socle vital, économie, relocalisation et démocratie sous contrainte de réalité.
+Le chapitre `20` consolide les réponses de travail aux questions institutionnelles et sectorielles. Sa [carte de correspondance](20-questions-structurantes.md#correspondance-avec-les-chapitres) relie les listes de questions encore présentes dans les chapitres à leurs réponses, méthodes de vérification et conditions de révision. Les vingt-deux arbitrages institutionnels y sont explicitement proposés ; les seuils nécessitant des données locales restent à chiffrer selon une méthode définie.
 
 ---
 
@@ -64,7 +64,7 @@ Le chapitre `20` consolide les réponses provisoires aux questions structurantes
 - `research/bibliography.md` : sources à consulter et références.
 - `research/inspirations.md` : projets, auteurs et institutions inspirantes.
 - `research/criticisms.md` : critiques externes et objections fortes.
-- `research/case-studies.md` : cas historiques ou contemporains à étudier.
+- [`research/case-studies.md`](../research/case-studies.md) : réponses proposées pour dix cas et protocole de mise à l'épreuve ; les simulations restent à réaliser.
 
 ---
 
