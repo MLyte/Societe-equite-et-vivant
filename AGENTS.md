@@ -1,4 +1,4 @@
-# Agent instructions for Project Horizon
+# Agent instructions for Société, équité et vivant
 
 These instructions apply to the whole repository.
 
@@ -35,7 +35,7 @@ If the task targets a specific chapter, read only the relevant chapter and the f
 
 ## Project doctrine
 
-Project Horizon is not a political party, not a manifesto and not an authoritarian model.
+Société, équité et vivant is not a political party, not a manifesto and not an authoritarian model.
 
 It is a governance design project exploring how science, AI, democratic legitimacy and basic social guarantees can coexist under ecological constraints.
 

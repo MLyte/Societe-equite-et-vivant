@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.7"
-last_updated: "2026-07-03"
+version: "0.8"
+last_updated: "2026-09-07"
 confidence: "draft"
 ---
 
@@ -11,7 +11,7 @@ confidence: "draft"
 
 Non.
 
-Project Horizon est un projet de recherche et de conception institutionnelle. Il peut inspirer des acteurs politiques, mais il n'est pas conçu comme un parti.
+Société, équité et vivant est un projet de recherche et de conception institutionnelle. Il peut inspirer des acteurs politiques, mais il n'est pas conçu comme un parti.
 
 ## Est-ce un parti unique ?
 
@@ -45,7 +45,7 @@ Le modèle ne supprime pas le marché ni la propriété privée. Il garantit un 
 
 ## Quelle place pour les religions ?
 
-Project Horizon protège la liberté de conscience : croire, ne pas croire, douter, changer de conviction ou n'en revendiquer aucune.
+Société, équité et vivant protège la liberté de conscience : croire, ne pas croire, douter, changer de conviction ou n'en revendiquer aucune.
 
 Le modèle ne donne cependant aucun pouvoir institutionnel aux religions. Les décisions publiques doivent être justifiées par des raisons partageables, vérifiables et compatibles avec les droits fondamentaux.
 

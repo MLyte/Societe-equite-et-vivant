@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.1"
-last_updated: "2026-07-03"
+version: "0.2"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document précise la place du logement, du foncier et de l'urbanisme dans Project Horizon.
+Ce document précise la place du logement, du foncier et de l'urbanisme dans Société, équité et vivant.
 
 Le logement fait partie du socle vital. Il ne peut donc pas être traité comme un actif financier ordinaire lorsque son prix, sa rareté ou sa mauvaise qualité empêchent l'accès à une vie digne.
 
@@ -51,7 +51,7 @@ Le modèle doit :
 
 ## Proposition
 
-Project Horizon retient une doctrine de logement comme besoin vital et foncier comme ressource limitée.
+Société, équité et vivant retient une doctrine de logement comme besoin vital et foncier comme ressource limitée.
 
 La propriété privée d'usage reste légitime. La rente immobilière ou foncière devient révisable lorsqu'elle bloque l'accès au logement, accroît les inégalités, capte une valeur produite collectivement ou aggrave les contraintes écologiques.
 
@@ -143,7 +143,7 @@ Toute régulation des prix doit être accompagnée d'une politique d'offre, de r
 
 ### Urbanisme des proximités
 
-Project Horizon retient l'objectif d'un urbanisme des proximités.
+Société, équité et vivant retient l'objectif d'un urbanisme des proximités.
 
 Chaque territoire devrait viser un accès raisonnable à :
 

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.1"
-last_updated: "2026-07-03"
+version: "0.2"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document définit la place de la sécurité civile et de la gestion de crise dans Project Horizon.
+Ce document définit la place de la sécurité civile et de la gestion de crise dans Société, équité et vivant.
 
 Il ne traite pas de doctrine militaire ou policière. Il traite de la continuité des besoins fondamentaux face aux crises : pandémies, canicules, inondations, sécheresses, ruptures d'approvisionnement, cyberattaques, pannes énergétiques, accidents industriels ou tensions alimentaires.
 
@@ -51,7 +51,7 @@ Le modèle doit :
 
 ## Proposition
 
-Project Horizon retient une doctrine de résilience civile.
+Société, équité et vivant retient une doctrine de résilience civile.
 
 La gestion de crise doit être conçue comme une capacité ordinaire de continuité, pas comme une suspension exceptionnelle de l'État de droit.
 
@@ -209,7 +209,7 @@ La résilience civile est une condition de liberté réelle.
 
 Une société qui dépend de flux tendus, de plateformes uniques, d'infrastructures non réparables ou de décisions improvisées peut perdre ses droits pratiques sans changer formellement de régime.
 
-Project Horizon retient donc une préparation civile forte, mais strictement bornée par les droits, les recours et la transparence.
+Société, équité et vivant retient donc une préparation civile forte, mais strictement bornée par les droits, les recours et la transparence.
 
 ---
 

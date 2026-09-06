@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.1"
-last_updated: "2026-07-03"
+version: "0.2"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document définit comment Project Horizon mesure ses résultats, détecte ses erreurs et corrige ses politiques.
+Ce document définit comment Société, équité et vivant mesure ses résultats, détecte ses erreurs et corrige ses politiques.
 
 Un modèle fondé sur la science, l'IA publique, les audits et la démocratie d'arbitrage doit préciser ce qu'il mesure, qui mesure, qui contrôle les mesures et comment une mesure peut être contestée.
 
@@ -53,7 +53,7 @@ Le modèle doit :
 
 ## Proposition
 
-Project Horizon retient une doctrine de mesure pluraliste et contestable.
+Société, équité et vivant retient une doctrine de mesure pluraliste et contestable.
 
 Aucun indicateur unique ne peut résumer la qualité d'une société. Le modèle doit utiliser un tableau d'indicateurs limité, public, stable mais révisable, complété par des audits qualitatifs et des retours de terrain.
 
@@ -192,7 +192,7 @@ Une politique peut atteindre ses indicateurs tout en produisant une injustice co
 
 ### Risque de manipulation des indicateurs
 
-Project Horizon reconnaît un risque classique de pilotage par indicateur : lorsqu'une mesure devient un objectif rigide, elle peut cesser de mesurer correctement la réalité.
+Société, équité et vivant reconnaît un risque classique de pilotage par indicateur : lorsqu'une mesure devient un objectif rigide, elle peut cesser de mesurer correctement la réalité.
 
 Pour limiter ce risque :
 

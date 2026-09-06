@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.1"
-last_updated: "2026-07-03"
+version: "0.2"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document définit la place de l'alimentation, de l'eau et des sols dans Project Horizon.
+Ce document définit la place de l'alimentation, de l'eau et des sols dans Société, équité et vivant.
 
 Ces trois domaines forment une même chaîne vitale : une société ne peut garantir ni santé, ni dignité, ni stabilité sociale si elle perd l'accès à l'eau potable, aux sols fertiles ou à une alimentation saine.
 
@@ -49,7 +49,7 @@ Le modèle doit :
 
 ## Proposition
 
-Project Horizon retient une doctrine de sécurité alimentaire écologique.
+Société, équité et vivant retient une doctrine de sécurité alimentaire écologique.
 
 L'alimentation, l'eau et les sols sont traités comme des communs stratégiques. Le marché peut organiser une partie de la diversité alimentaire, mais les fonctions vitales doivent être protégées par des règles publiques, des stocks, une planification minimale et des budgets écologiques.
 

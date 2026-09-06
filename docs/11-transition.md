@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.4"
-last_updated: "2026-07-03"
+version: "0.5"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document décrit comment passer d'institutions actuelles à un modèle inspiré de Project Horizon.
+Ce document décrit comment passer d'institutions actuelles à un modèle inspiré de Société, équité et vivant.
 
 Il ne suppose pas une rupture brutale.
 

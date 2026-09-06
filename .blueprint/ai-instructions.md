@@ -1,4 +1,4 @@
-# Instructions IA pour Project Horizon
+# Instructions IA pour Société, équité et vivant
 
 Ces instructions guident les assistants IA qui travaillent sur ce dépôt.
 
@@ -28,7 +28,7 @@ Il ne doit pas agir comme :
 
 L'assistant IA doit rechercher l'impartialité dans l'examen des solutions, sans se présenter comme intrinsèquement neutre. Une capacité de réflexion accrue ne dispense pas d'expliciter les objectifs qui orientent ses analyses et ses propositions.
 
-Pour Project Horizon, ces orientations sont :
+Pour Société, équité et vivant, ces orientations sont :
 
 - préserver les conditions de vie des humains et du vivant non humain ;
 - réduire les souffrances évitables ;
@@ -62,7 +62,7 @@ L'assistant doit prendre en charge le travail de proposition dans le périmètre
 
 Une question au propriétaire n'est justifiée que si une information indispensable ne peut pas être obtenue autrement, ou si une autorisation nécessaire manque pour une action engageante ou irréversible. Dans ce cas, achever d'abord le travail indépendant de cette réponse et poser une seule question précise. Une incertitude théorique ou plusieurs options raisonnables ne suffisent pas à interrompre le travail.
 
-Cette autonomie concerne l'analyse, la rédaction et les choix de conception autorisés. Elle ne confère pas de souveraineté à l'IA dans le modèle Horizon et ne permet pas de modifier silencieusement un engagement du projet.
+Cette autonomie concerne l'analyse, la rédaction et les choix de conception autorisés. Elle ne confère pas de souveraineté à l'IA dans le modèle du projet et ne permet pas de modifier silencieusement un engagement du projet.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.2"
-last_updated: "2026-09-06"
+version: "0.3"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Comparer les principales familles politiques et institutionnelles expérimentées dans le monde au cours des deux derniers siècles, afin de mieux concevoir Project Horizon. L'objectif est d'identifier des mécanismes utiles, leurs conditions de fonctionnement et les erreurs à éviter, sans copier un régime entier.
+Comparer les principales familles politiques et institutionnelles expérimentées dans le monde au cours des deux derniers siècles, afin de mieux concevoir Société, équité et vivant. L'objectif est d'identifier des mécanismes utiles, leurs conditions de fonctionnement et les erreurs à éviter, sans copier un régime entier.
 
 Le « juste milieu » désigne ici une combinaison cohérente de libertés, de garanties sociales, de capacité d'action et de contrôle du pouvoir. Il ne signifie ni moyenne entre toutes les idéologies, ni compromis entre démocratie et répression. Une capacité administrative observée sous une dictature ne démontre pas que cette dictature était nécessaire pour l'obtenir.
 
@@ -17,7 +17,7 @@ Le « juste milieu » désigne ici une combinaison cohérente de libertés, de g
 
 ### Périmètre et méthode de lecture
 
-Cette synthèse couvre **1826–2026**, avec des exemples historiques datés plutôt qu'un classement des gouvernements en fonction aujourd'hui. Les origines de certaines traditions sont antérieures à cette période. La sélection privilégie leur diffusion, leur importance historique et leur pertinence pour Horizon ; elle n'est pas exhaustive.
+Cette synthèse couvre **1826–2026**, avec des exemples historiques datés plutôt qu'un classement des gouvernements en fonction aujourd'hui. Les origines de certaines traditions sont antérieures à cette période. La sélection privilégie leur diffusion, leur importance historique et leur pertinence pour Société, équité et vivant ; elle n'est pas exhaustive.
 
 Les fiches distinguent trois objets qui se recoupent :
 
@@ -35,7 +35,7 @@ Les exemples couvrent l'Europe, l'Afrique, les Amériques, l'Asie, le Moyen-Orie
 
 - **Faits documentés** : événements et dispositifs associés à une source dans les fiches. Un texte constitutionnel décrit une règle formelle, pas nécessairement son application.
 - **Analyses** : mécanismes possibles expliquant un résultat ; leur importance relative peut être débattue.
-- **Hypothèses pour Horizon** : idées à tester, sans validation automatique par le précédent historique.
+- **Hypothèses pour Société, équité et vivant** : idées à tester, sans validation automatique par le précédent historique.
 - **Questions ouvertes** : transférabilité, causalité ou données encore insuffisantes.
 
 Un échec peut être une atteinte aux droits, une incapacité à remplir une promesse, une crise ou un effondrement. Ces situations ne sont pas équivalentes. La survie d'un régime ne prouve pas sa qualité ; sa chute ne prouve pas que chacune de ses institutions était mauvaise. Guerre, colonisation, sanctions, ressources disponibles, démographie et contexte international doivent entrer dans l'analyse causale.
@@ -49,7 +49,7 @@ Un échec peut être une atteinte aux droits, une incapacité à remplir une pro
 
 ## Proposition
 
-Les rubriques « apports » et « pour Horizon » sont des analyses de conception. Les rubriques historiques identifient les faits qui les motivent. Certaines fiches décrivent des dispositifs complémentaires, sans prétendre constituer un régime complet.
+Les rubriques « apports » et « pour Société, équité et vivant » sont des analyses de conception. Les rubriques historiques identifient les faits qui les motivent. Certaines fiches décrivent des dispositifs complémentaires, sans prétendre constituer un régime complet.
 
 ### 1. Libéralisme constitutionnel et représentation censitaire
 
@@ -59,7 +59,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** La restriction du suffrage constitue une exclusion institutionnelle, même lorsqu'un pouvoir se présente comme représentatif. L'égalité juridique peut aussi rester peu effective sans moyens matériels de défendre ses droits.
 
-**Pour Horizon — hypothèse.** Conserver les garanties constitutionnelles et l'accès au recours ; exclure tout cens économique, scolaire ou scientifique pour exercer les droits politiques. La compétence technique ne fonde pas une supériorité civique.
+**Pour Société, équité et vivant — hypothèse.** Conserver les garanties constitutionnelles et l'accès au recours ; exclure tout cens économique, scolaire ou scientifique pour exercer les droits politiques. La compétence technique ne fonde pas une supériorité civique.
 
 ### 2. Démocratie parlementaire, républicaine ou monarchique
 
@@ -69,7 +69,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et épisode critique.** Majorité disciplinée qui contrôle insuffisamment son gouvernement, coalitions opaques, pouvoirs d'arbitrage ambigus. En Australie, le blocage budgétaire de 1975 conduit à la destitution controversée du Premier ministre Whitlam par le gouverneur général. Ce cas révèle une tension institutionnelle, pas l'échec de toutes les monarchies parlementaires. [National Museum of Australia][australie]
 
-**Pour Horizon — hypothèse.** Retenir la responsabilité parlementaire ; préciser les procédures de crise et la continuité du socle vital. La continuité de l'État n'exige pas de fonction héréditaire.
+**Pour Société, équité et vivant — hypothèse.** Retenir la responsabilité parlementaire ; préciser les procédures de crise et la continuité du socle vital. La continuité de l'État n'exige pas de fonction héréditaire.
 
 ### 3. Démocratie présidentielle et semi-présidentielle
 
@@ -79,7 +79,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et épisode critique.** Deux légitimités électorales peuvent se bloquer ; un président dominant peut au contraire marginaliser le Parlement. Aux États-Unis, l'interruption budgétaire de 2013 perturbe des services publics, selon le GAO. Elle illustre un coût du blocage, sans démontrer l'infériorité de tout présidentialisme. Dans les systèmes semi-présidentiels, la cohabitation ajoute une difficulté d'attribution des responsabilités. [GAO][shutdown]
 
-**Pour Horizon — hypothèse.** Identifier clairement qui décide, qui exécute et qui peut sanctionner. Éviter de superposer présidence, gouvernement et consortium scientifique sans procédure explicite de résolution des conflits.
+**Pour Société, équité et vivant — hypothèse.** Identifier clairement qui décide, qui exécute et qui peut sanctionner. Éviter de superposer présidence, gouvernement et consortium scientifique sans procédure explicite de résolution des conflits.
 
 ### 4. Fédéralisme et décentralisation
 
@@ -89,7 +89,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et limites.** Inégalités de moyens, compétences concurrentes, vetos et responsabilité diluée. Les arrangements fédéraux peuvent gérer des divisions sans les faire disparaître. Leur bilan ne se déduit pas du nombre de niveaux administratifs, et aucun effondrement particulier n'est attribué ici au seul fédéralisme.
 
-**Pour Horizon — hypothèse.** Distinguer garantie commune du socle vital et modalités locales de fourniture. Pour chaque droit : une autorité responsable, un financement, un audit et un recours identifiables, conformément à la décision 0015.
+**Pour Société, équité et vivant — hypothèse.** Distinguer garantie commune du socle vital et modalités locales de fourniture. Pour chaque droit : une autorité responsable, un financement, un audit et un recours identifiables, conformément à la décision 0015.
 
 ### 5. Démocratie de consensus et partage communautaire du pouvoir
 
@@ -99,7 +99,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** Les représentants peuvent transformer une protection collective en rente personnelle et figer les appartenances. Dans son diagnostic de la crise libanaise de 2021, la Banque mondiale attribue un rôle central à la capture de l'État par les élites. Cela n'établit pas que le partage communautaire explique à lui seul la crise. [Banque mondiale][liban]
 
-**Pour Horizon — hypothèse.** Garantir les minorités sans réserver durablement les institutions à leurs intermédiaires autoproclamés. Préserver la liberté de ne pas être assigné à une communauté.
+**Pour Société, équité et vivant — hypothèse.** Garantir les minorités sans réserver durablement les institutions à leurs intermédiaires autoproclamés. Préserver la liberté de ne pas être assigné à une communauté.
 
 ### 6. Démocratie directe et semi-directe
 
@@ -109,7 +109,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** Question binaire sur un problème complexe, financement inégal des campagnes, droits d'une minorité dépendant de la majorité. En Suisse, les femmes n'obtiennent les droits politiques fédéraux qu'en 1971, après un vote des seuls hommes. [Archives fédérales suisses][suffrage]
 
-**Pour Horizon — hypothèse.** Prévoir information contradictoire, contrôle des financements et examen des droits fondamentaux. Un vote peut fixer une priorité sociale ou un risque acceptable ; il ne transforme pas une affirmation factuelle fausse en fait établi.
+**Pour Société, équité et vivant — hypothèse.** Prévoir information contradictoire, contrôle des financements et examen des droits fondamentaux. Un vote peut fixer une priorité sociale ou un risque acceptable ; il ne transforme pas une affirmation factuelle fausse en fait établi.
 
 ### 7. Démocratie participative et délibérative
 
@@ -119,7 +119,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et limites documentaires.** Dépendance au cadrage des organisateurs, choix des experts et suivi politique. Un panel n'est pas toute la population. La synthèse de l'OCDE ne démontre pas qu'une assemblée puisse remplacer durablement les autres institutions ; les effets à long terme restent à mieux évaluer.
 
-**Pour Horizon — hypothèse.** Annoncer le mandat, indemniser la participation et imposer une réponse publique motivée aux recommandations. Évaluer l'inclusion, l'influence réelle et le coût ; éviter une consultation qui ne peut rien changer.
+**Pour Société, équité et vivant — hypothèse.** Annoncer le mandat, indemniser la participation et imposer une réponse publique motivée aux recommandations. Évaluer l'inclusion, l'influence réelle et le coût ; éviter une consultation qui ne peut rien changer.
 
 ### 8. Social-démocratie et État social universaliste
 
@@ -129,7 +129,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et épisode critique.** Financement durable, qualité effective des services et adaptation aux transformations du travail restent nécessaires. La Suède traverse une grave crise au début des années 1990 et abandonne son change fixe en novembre 1992. Ce fait ne démontre pas que l'universalité des prestations aurait causé la crise. [Riksbank][suede]
 
-**Pour Horizon — hypothèse.** Retenir la garantie universelle ; la tester contre une récession, le vieillissement et des pénuries physiques. Un droit annoncé sans personnel ni capacité de production n'assure pas son exercice.
+**Pour Société, équité et vivant — hypothèse.** Retenir la garantie universelle ; la tester contre une récession, le vieillissement et des pénuries physiques. Un droit annoncé sans personnel ni capacité de production n'assure pas son exercice.
 
 ### 9. Économie sociale de marché et concertation sociale
 
@@ -141,7 +141,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Échec à examiner.** La condamnation de Volkswagen en 2017 pour fraude aux tests d'émissions rappelle qu'un grand acteur industriel allemand peut contourner une réglementation environnementale. Elle ne prouve pas que la codétermination cause la fraude ; elle impose de ne pas confondre représentation interne et contrôle de l'intérêt général. [Department of Justice][volkswagen]
 
-**Pour Horizon — hypothèse.** Associer travailleurs et usagers aux communs stratégiques, avec publicité des intérêts et contrôle externe. Ne pas donner aux partenaires d'un secteur un droit de veto sur ses obligations écologiques.
+**Pour Société, équité et vivant — hypothèse.** Associer travailleurs et usagers aux communs stratégiques, avec publicité des intérêts et contrôle externe. Ne pas donner aux partenaires d'un secteur un droit de veto sur ses obligations écologiques.
 
 ### 10. Libéralisme économique et réformes néolibérales
 
@@ -151,7 +151,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échecs documentés.** Monopoles, externalités et exclusion par les prix ; volatilité financière. Ostry, Loungani et Furceri, dans une analyse publiée par le FMI en 2016, contestent certains bénéfices attendus de l'ouverture financière et de l'austérité et soulignent leurs coûts distributifs. Ce n'est pas une réfutation générale des marchés. [FMI][neoliberal]
 
-**Pour Horizon — hypothèse.** Conserver le marché pour les choix non essentiels ; garantir séparément l'accès vital, contrôler les rentes et intégrer les limites écologiques.
+**Pour Société, équité et vivant — hypothèse.** Conserver le marché pour les choix non essentiels ; garantir séparément l'accès vital, contrôler les rentes et intégrer les limites écologiques.
 
 ### 11. État développeur et politique industrielle
 
@@ -161,7 +161,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** Favoritisme, soutien prolongé à des entreprises inefficaces et risques financiers. La crise asiatique de 1997–1998 associe notamment fragilités bancaires, endettement et facteurs internationaux ; elle n'invalide pas toute politique industrielle. [FMI][crise-asie]
 
-**Pour Horizon — hypothèse.** Retenir des objectifs publics mesurables et révisables, avec conditions de retrait des aides. Les résultats économiques de certains régimes autoritaires ne démontrent pas que la suppression du pluralisme en était une condition nécessaire.
+**Pour Société, équité et vivant — hypothèse.** Retenir des objectifs publics mesurables et révisables, avec conditions de retrait des aides. Les résultats économiques de certains régimes autoritaires ne démontrent pas que la suppression du pluralisme en était une condition nécessaire.
 
 ### 12. Socialisme d'État à parti unique et planification centralisée
 
@@ -171,7 +171,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échecs documentés.** Objectifs imposés, remontée d'information dégradée, absence de contradiction indépendante. Une étude de Meng, Qian et Yared analyse le rôle des prélèvements et de la rigidité institutionnelle dans la famine chinoise de 1959–1961. Elle éclaire un mécanisme, sans épuiser les causes de la catastrophe. [NBER][famine]
 
-**Pour Horizon — hypothèse.** Planifier certains besoins, avec données contradictoires, alertes protégées et révision obligatoire. Aucun indicateur de production ne justifie la coercition contre les personnes ni la dissimulation d'un échec.
+**Pour Société, équité et vivant — hypothèse.** Planifier certains besoins, avec données contradictoires, alertes protégées et révision obligatoire. Aucun indicateur de production ne justifie la coercition contre les personnes ni la dissimulation d'un échec.
 
 ### 13. Socialismes postcoloniaux et autonomie de développement
 
@@ -181,7 +181,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** La réorganisation peut devenir coercitive : les regroupements de population dans les villages Ujamaa, d'abord volontaires, deviennent forcés. Le bilan implique aussi les structures coloniales et les intérêts des nouvelles élites ; il ne se réduit pas à une erreur de doctrine.
 
-**Pour Horizon — hypothèse.** Développer une résilience civile sans déplacement imposé ni autarcie générale. Partir des pratiques et connaissances locales ; garantir que les bénéficiaires puissent contester les moyens choisis en leur nom.
+**Pour Société, équité et vivant — hypothèse.** Développer une résilience civile sans déplacement imposé ni autarcie générale. Partir des pratiques et connaissances locales ; garantir que les bénéficiaires puissent contester les moyens choisis en leur nom.
 
 ### 14. Autogestion, coopération et traditions socialistes libertaires
 
@@ -193,7 +193,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Échec documenté.** La Yougoslavie connaît une accélération de l'inflation qui devient hyperinflation fin 1989. L'analyse citée examine une dynamique de salaires, de prix, de change et de monnaie ; elle ne permet pas d'attribuer toute la crise à la participation des travailleurs. [FMI, 1991][yougoslavie]
 
-**Pour Horizon — hypothèse.** Tester des opérateurs coopératifs avec droit de sortie, audit et obligations de service. Le bilan comparé des collectivités libertaires espagnoles de 1936–1939 demande une étude dédiée : `[source à vérifier]`.
+**Pour Société, équité et vivant — hypothèse.** Tester des opérateurs coopératifs avec droit de sortie, audit et obligations de service. Le bilan comparé des collectivités libertaires espagnoles de 1936–1939 demande une étude dédiée : `[source à vérifier]`.
 
 ### 15. Gouvernance des communs et polycentrisme
 
@@ -203,17 +203,17 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et limites.** Exclusion de nouveaux venus, rapports de force locaux, effets sur les non-membres et difficultés de coordination à grande échelle. Les succès étudiés ne garantissent pas qu'un commun national ou numérique fonctionnera de la même manière.
 
-**Pour Horizon — hypothèse.** Préciser les usagers, obligations, sanctions et recours de chaque commun stratégique. Conserver une garantie publique de dernier ressort : l'échec local d'une coopération ne doit pas supprimer un droit vital.
+**Pour Société, équité et vivant — hypothèse.** Préciser les usagers, obligations, sanctions et recours de chaque commun stratégique. Conserver une garantie publique de dernier ressort : l'échec local d'une coopération ne doit pas supprimer un droit vital.
 
 ### 16. Fascismes et national-socialisme
 
 **Principe et repères.** Chef, ultranationalisme, mobilisation et suppression du pluralisme. L'Italie fasciste et l'Allemagne nazie constituent les principaux cas historiques ; le nazisme possède notamment une dimension raciale et génocidaire centrale. [USHMM][fascisme]
 
-**Apports pour Horizon.** Aucun principe fasciste à reprendre. Coordination, infrastructures ou continuité administrative sont des fonctions disponibles dans d'autres architectures ; les qualifier de bénéfices propres au fascisme serait trompeur.
+**Apports pour Société, équité et vivant.** Aucun principe fasciste à reprendre. Coordination, infrastructures ou continuité administrative sont des fonctions disponibles dans d'autres architectures ; les qualifier de bénéfices propres au fascisme serait trompeur.
 
 **Faiblesses et échecs documentés.** Destruction des droits, violence politique et persécution. En Allemagne, la loi des pleins pouvoirs de 1933 détruit le contrôle parlementaire ; la politique nazie mène à des crimes de masse et au génocide. [USHMM][nazisme]
 
-**Pour Horizon — hypothèse.** Traiter la désignation de groupes comme obstacles à éliminer et l'abolition des contre-pouvoirs comme des lignes de rupture. Une urgence écologique ne légitime ni chef incontestable ni suspension durable des libertés.
+**Pour Société, équité et vivant — hypothèse.** Traiter la désignation de groupes comme obstacles à éliminer et l'abolition des contre-pouvoirs comme des lignes de rupture. Une urgence écologique ne légitime ni chef incontestable ni suspension durable des libertés.
 
 ### 17. Dictatures militaires et autoritarismes de sécurité
 
@@ -223,7 +223,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** Confusion entre opposition et menace, secret et impunité. La Bibliothèque nationale du Chili documente les violations systématiques des droits par les organismes de la dictature. [Memoria Chilena][chili]
 
-**Pour Horizon — hypothèse.** Autorités de sécurité soumises au contrôle civil, au juge et à des mandats limités. La protection des infrastructures ne doit pas devenir un moyen de réprimer la contestation d'une politique.
+**Pour Société, équité et vivant — hypothèse.** Autorités de sécurité soumises au contrôle civil, au juge et à des mandats limités. La protection des infrastructures ne doit pas devenir un moyen de réprimer la contestation d'une politique.
 
 ### 18. Pouvoir personnel, bonapartisme et autoritarisme électoral
 
@@ -233,7 +233,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** Des élections peuvent subsister sans contrôle effectif. V-Dem distingue ainsi les autocraties électorales des démocraties selon des critères dépassant l'existence d'un scrutin. Cette classification comporte des incertitudes. [V-Dem, rapport 2025][vdem]
 
-**Pour Horizon — hypothèse.** Protéger la compétition politique, les médias et les recours. Aucun gouvernement ne doit pouvoir réserver le label « scientifiquement compatible » à ses alliés.
+**Pour Société, équité et vivant — hypothèse.** Protéger la compétition politique, les médias et les recours. Aucun gouvernement ne doit pouvoir réserver le label « scientifiquement compatible » à ses alliés.
 
 ### 19. Monarchies absolues ou exécutives
 
@@ -243,7 +243,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec institutionnel.** Absence de remplacement électoral du souverain, dépendance à la succession et risque de confusion entre patrimoine dynastique et intérêts publics. La persistance du régime ne résout pas ce défaut de contrôle ; elle n'est pas un indicateur suffisant de réussite.
 
-**Pour Horizon — hypothèse.** Construire la continuité par des administrations professionnelles, des mandats échelonnés et des budgets publics, sans conférer un droit personnel ou familial au pouvoir.
+**Pour Société, équité et vivant — hypothèse.** Construire la continuité par des administrations professionnelles, des mandats échelonnés et des budgets publics, sans conférer un droit personnel ou familial au pouvoir.
 
 ### 20. Théocraties et tutelle religieuse de l'État
 
@@ -253,17 +253,17 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** Réduction de la liberté de conscience et de l'égalité civile. En 2024, la mission d'établissement des faits de l'ONU décrit des discriminations et des violations graves liées à la répression du mouvement « Femme, Vie, Liberté », dont certaines qualifiées de crimes contre l'humanité. [ONU][iran-onu]
 
-**Pour Horizon — hypothèse.** Maintenir la liberté de conscience et la laïcité de méthode de la décision 0013. Une doctrine religieuse, politique ou prétendument scientifique ne doit pas devenir incontestable.
+**Pour Société, équité et vivant — hypothèse.** Maintenir la liberté de conscience et la laïcité de méthode de la décision 0013. Une doctrine religieuse, politique ou prétendument scientifique ne doit pas devenir incontestable.
 
 ### 21. Empires coloniaux et régimes de domination raciale
 
 **Principe et repères.** Pouvoir inégal selon territoire, origine ou catégorie raciale imposée. La colonisation et l'apartheid ne sont pas identiques, mais posent directement la question des personnes exclues de la communauté politique.
 
-**Apports pour Horizon.** Aucun principe de domination à reprendre. Des infrastructures ou savoir-faire produits dans ces contextes doivent être évalués avec leurs bénéficiaires, leurs coûts et les contraintes imposées, sans transformer leur existence en justification du régime.
+**Apports pour Société, équité et vivant.** Aucun principe de domination à reprendre. Des infrastructures ou savoir-faire produits dans ces contextes doivent être évalués avec leurs bénéficiaires, leurs coûts et les contraintes imposées, sans transformer leur existence en justification du régime.
 
 **Faiblesses et échecs documentés.** En Nouvelle-Zélande, les conflits de souveraineté après le traité de Waitangi de 1840 débouchent sur des guerres et confiscations de terres. En Afrique du Sud, l'apartheid institutionnalisé à partir de 1948 maintient l'inégalité politique jusqu'à la transition démocratique de 1994. [NZ History][colonisation] ; [gouvernement sud-africain][apartheid]
 
-**Pour Horizon — hypothèse.** Vérifier systématiquement qui bénéficie d'une règle, qui supporte son coût et qui peut réellement la contester, y compris hors des frontières.
+**Pour Société, équité et vivant — hypothèse.** Vérifier systématiquement qui bénéficie d'une règle, qui supporte son coût et qui peut réellement la contester, y compris hors des frontières.
 
 ### 22. Autonomies autochtones et pluralisme institutionnel
 
@@ -273,7 +273,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échecs à distinguer.** Les conflits et confiscations montrent notamment l'échec du respect d'engagements par un pouvoir dominant ; ils ne démontrent pas l'échec de l'autonomie autochtone. À l'intérieur d'un dispositif autonome, les droits individuels et la représentativité des porte-parole restent également à garantir.
 
-**Pour Horizon — hypothèse.** Organiser une participation effective aux décisions territoriales sans idéaliser les traditions ni imposer une expertise extérieure comme seule connaissance légitime. Prévoir des recours accessibles à chaque personne.
+**Pour Société, équité et vivant — hypothèse.** Organiser une participation effective aux décisions territoriales sans idéaliser les traditions ni imposer une expertise extérieure comme seule connaissance légitime. Prévoir des recours accessibles à chaque personne.
 
 ### 23. Technocratie, administration professionnelle et autorités indépendantes
 
@@ -283,7 +283,7 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échec documenté.** Conformisme, capture, modèles trop confiants et dilution de responsabilité. L'évaluation indépendante du FMI de 2016 relève, pour les programmes européens, des projections trop optimistes en Grèce et au Portugal ainsi que des problèmes de transparence et de pression politique. [Bureau indépendant d'évaluation du FMI][expertise]
 
-**Pour Horizon — hypothèse.** Appliquer la séparation entre expertise, audit, décision et recours. L'indépendance n'est pas l'infaillibilité. L'IA publique hérite de choix de données et d'objectifs : sa complexité ne crée aucune légitimité souveraine.
+**Pour Société, équité et vivant — hypothèse.** Appliquer la séparation entre expertise, audit, décision et recours. L'indépendance n'est pas l'infaillibilité. L'IA publique hérite de choix de données et d'objectifs : sa complexité ne crée aucune légitimité souveraine.
 
 ### 24. Coopération supranationale et souveraineté partagée
 
@@ -293,13 +293,13 @@ Les rubriques « apports » et « pour Horizon » sont des analyses de conceptio
 
 **Faiblesses et échecs documentés.** Responsabilités difficiles à attribuer et légitimité inégalement construite. L'histoire européenne comporte des projets constitutionnels avortés, dont certains influencent ensuite les réformes. Ces échecs ne constituent pas un effondrement de toute coopération. [Service de recherche du Parlement européen][europe-reformes]
 
-**Pour Horizon — hypothèse.** Articuler autonomie vitale et coopération sur les problèmes transfrontaliers. Toute compétence transférée doit avoir un mandat, un contrôle démocratique, des règles de solidarité et une procédure de révision identifiables.
+**Pour Société, équité et vivant — hypothèse.** Articuler autonomie vitale et coopération sur les problèmes transfrontaliers. Toute compétence transférée doit avoir un mandat, un contrôle démocratique, des règles de solidarité et une procédure de révision identifiables.
 
 ## Justification
 
 ### Enseignements transversaux
 
-La comparaison suggère les mécanismes suivants ; leur application à Horizon reste à tester :
+La comparaison suggère les mécanismes suivants ; leur application à Société, équité et vivant reste à tester :
 
 | Risque récurrent | Réponse à tester |
 | --- | --- |
@@ -312,7 +312,7 @@ La comparaison suggère les mécanismes suivants ; leur application à Horizon r
 | Responsabilité dispersée | Autorité et budget identifiables |
 | Expérimentation généralisée trop vite | Essai limité et conditions d'arrêt |
 
-### Combinaison provisoire pour Horizon
+### Combinaison provisoire pour Société, équité et vivant
 
 L'orientation cohérente avec les décisions existantes associe démocratie constitutionnelle, socle vital universel, marché encadré, coordination des secteurs stratégiques, autonomie locale et expertise publique contestable. Les mécanismes de participation complètent le Parlement et les recours. Cette combinaison est une **hypothèse institutionnelle**, pas une formule historiquement démontrée.
 
@@ -322,7 +322,7 @@ Il faut vérifier les tensions entre ses composantes : une garantie nationale pe
 
 Les décisions 0006, 0010 et 0011 protègent les contraintes scientifiques tout en réservant aux citoyens les finalités et les arbitrages. La frontière reste délicate : **un modèle peut inclure à la fois connaissances établies, hypothèses discutables et choix de valeur**. Le coût acceptable, la répartition des efforts ou le niveau de risque consenti ne se déduisent pas intégralement d'un résultat scientifique.
 
-Si le consortium pouvait choisir seul les options admissibles, retarder indéfiniment leur validation ou assimiler un désaccord politique à une erreur scientifique, il disposerait d'un pouvoir politique indirect. L'histoire des autorités techniques rend ce risque particulièrement pertinent pour Horizon. Les décisions existantes ne sont pas modifiées ici ; les modalités du contrôle de ce pouvoir restent à préciser.
+Si le consortium pouvait choisir seul les options admissibles, retarder indéfiniment leur validation ou assimiler un désaccord politique à une erreur scientifique, il disposerait d'un pouvoir politique indirect. L'histoire des autorités techniques rend ce risque particulièrement pertinent pour Société, équité et vivant. Les décisions existantes ne sont pas modifiées ici ; les modalités du contrôle de ce pouvoir restent à préciser.
 
 ## Alternatives étudiées
 
@@ -383,7 +383,7 @@ Les humains futurs et le vivant non humain devraient avoir une représentation i
 
 ### Principe directeur
 
-Garantir les conditions d'une vie digne, préserver les écosystèmes dont elle dépend et maintenir la capacité de corriger les décisions sans sacrifier les personnes qui les subissent. Cette orientation donne à Horizon une direction exigeante, tout en laissant les moyens ouverts à la preuve et à la révision.
+Garantir les conditions d'une vie digne, préserver les écosystèmes dont elle dépend et maintenir la capacité de corriger les décisions sans sacrifier les personnes qui les subissent. Cette orientation donne à Société, équité et vivant une direction exigeante, tout en laissant les moyens ouverts à la preuve et à la révision.
 
 ## Ce qui pourrait nous faire changer d'avis
 

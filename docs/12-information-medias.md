@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.2"
-last_updated: "2026-07-03"
+version: "0.3"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document définit la place de l'information dans Project Horizon.
+Ce document définit la place de l'information dans Société, équité et vivant.
 
 Le modèle dépend d'une démocratie capable d'arbitrer les valeurs, les priorités sociales et le contrôle des institutions. Cette capacité devient fragile si l'espace public est dominé par la concentration économique, les plateformes opaques, le financement politique masqué ou la manipulation de masse.
 
@@ -56,7 +56,7 @@ Le modèle doit :
 
 ## Proposition
 
-Project Horizon retient une doctrine de transparence informationnelle.
+Société, équité et vivant retient une doctrine de transparence informationnelle.
 
 Les institutions publiques ne doivent pas décider quelles opinions politiques sont vraies. Elles doivent contrôler les conditions de production, de financement, de diffusion et d'audit de l'information lorsque celles-ci affectent l'intérêt public.
 
@@ -64,7 +64,7 @@ Les institutions publiques ne doivent pas décider quelles opinions politiques s
 
 La liberté d'expression reste la règle.
 
-Les opinions politiques, critiques institutionnelles, controverses scientifiques, convictions personnelles, erreurs de bonne foi et propos minoritaires ne doivent pas être censurés par le modèle Horizon.
+Les opinions politiques, critiques institutionnelles, controverses scientifiques, convictions personnelles, erreurs de bonne foi et propos minoritaires ne doivent pas être censurés par le modèle du projet.
 
 Les limites relèvent du droit commun : menace, harcèlement, diffamation, incitation directe à la violence, fraude, usurpation, atteinte à la vie privée, manipulation électorale illégale ou violation des droits fondamentaux. Ces limites doivent rester contrôlées par des procédures judiciaires ou administratives contestables.
 
@@ -181,7 +181,7 @@ L'éducation doit inclure une culture de l'information : distinction entre fait,
 
 ## Justification
 
-Le modèle Horizon donne un rôle important aux citoyens dans l'arbitrage des valeurs et le contrôle des institutions. Cette fonction devient artificielle si l'information disponible est massivement dépendante d'intérêts opaques ou d'architectures algorithmiques incontrôlables.
+Le modèle du projet donne un rôle important aux citoyens dans l'arbitrage des valeurs et le contrôle des institutions. Cette fonction devient artificielle si l'information disponible est massivement dépendante d'intérêts opaques ou d'architectures algorithmiques incontrôlables.
 
 La solution retenue évite deux dérives : laisser l'espace public entièrement gouverné par des intérêts privés opaques, ou créer une autorité publique chargée de dire le vrai. Elle concentre l'action publique sur la transparence, les conflits d'intérêts, l'auditabilité, les recours et la limitation des manipulations organisées.
 

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.1"
-last_updated: "2026-07-03"
+version: "0.2"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document précise la place du droit, de la justice et des garanties judiciaires dans Project Horizon.
+Ce document précise la place du droit, de la justice et des garanties judiciaires dans Société, équité et vivant.
 
 Il répond à une question centrale : comment transformer certains mécanismes institutionnels sans créer de vide juridique, d'arbitraire ou de gouvernement par expertise.
 
@@ -52,7 +52,7 @@ Le chapitre fixe six objectifs.
 
 ### Continuité juridique par défaut
 
-Project Horizon ne suspend pas le droit existant.
+Société, équité et vivant ne suspend pas le droit existant.
 
 Une règle reste applicable tant qu'elle n'a pas été classée, publiquement et contradictoirement, comme incompatible avec le modèle ou avec une norme supérieure.
 
@@ -80,7 +80,7 @@ Cela inclut notamment :
 - la responsabilité civile, la réparation des dommages, les contrats ordinaires et la protection des personnes vulnérables ;
 - les garanties judiciaires, dont la présomption d'innocence, les droits de la défense, le juge indépendant, le recours, la proportionnalité et la non-rétroactivité pénale.
 
-Ces règles peuvent être améliorées, mais elles ne sont pas remises en cause par l'architecture Horizon.
+Ces règles peuvent être améliorées, mais elles ne sont pas remises en cause par l'architecture du projet.
 
 ### Droit à réviser en priorité
 
@@ -103,7 +103,7 @@ La révision de ces domaines ne signifie pas interdiction générale. Elle signi
 
 ### Cartographie de compatibilité
 
-Toute mesure Horizon doit recevoir un classement juridique explicite.
+Toute mesure proposée par le projet doit recevoir un classement juridique explicite.
 
 | Classement | Effet |
 | --- | --- |
@@ -118,7 +118,7 @@ Il ne peut pas être produit par une seule institution intéressée par le résu
 
 ### Séparation des pouvoirs
 
-Project Horizon maintient une séparation stricte des rôles.
+Société, équité et vivant maintient une séparation stricte des rôles.
 
 Le consortium scientifique peut établir des contraintes, modéliser des effets et signaler des incohérences.
 
@@ -147,7 +147,7 @@ Le juge doit pouvoir suspendre une mesure si elle repose sur un modèle non publ
 
 Le droit pénal doit rester strictement encadré.
 
-Project Horizon retient les garanties suivantes :
+Société, équité et vivant retient les garanties suivantes :
 
 - aucune infraction sans texte préalable ;
 - aucune peine rétroactive ;
@@ -179,7 +179,7 @@ L'urgence ne doit pas devenir une méthode ordinaire de gouvernement.
 
 ### Transition juridique
 
-La transition vers des institutions inspirées de Project Horizon commence par une cartographie juridique.
+La transition vers des institutions inspirées de Société, équité et vivant commence par une cartographie juridique.
 
 Cette cartographie doit distinguer :
 
@@ -252,4 +252,4 @@ Aucune question bloquante à ce stade.
 
 ## Ce qui pourrait nous faire changer d'avis
 
-Ce chapitre devrait être révisé si la cartographie de compatibilité devient un instrument politique opaque, si les recours sont trop lents pour protéger les droits, si la justice indépendante manque de moyens, ou si une incompatibilité majeure avec une norme supérieure rend certaines propositions Horizon inapplicables dans le cadre actuel.
+Ce chapitre devrait être révisé si la cartographie de compatibilité devient un instrument politique opaque, si les recours sont trop lents pour protéger les droits, si la justice indépendante manque de moyens, ou si une incompatibilité majeure avec une norme supérieure rend certaines propositions du projet inapplicables dans le cadre actuel.

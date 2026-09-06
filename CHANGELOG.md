@@ -1,10 +1,16 @@
 # Changelog
 
-All notable changes to Project Horizon should be documented in this file.
+All notable changes to Société, équité et vivant should be documented in this file.
 
 The format is inspired by Keep a Changelog, but adapted for a research and governance-design project.
 
 ---
+
+## 2026-09-07 — Identité du projet
+
+- Adoption du nom « Société, équité et vivant » dans les documents et consignes.
+- Remplacement des anciens visuels par les logos SVG validés, en couleur et en blanc.
+- Mise à jour du menu du README et du glossaire.
 
 ## Working Draft 0.1 — 2026-07-03
 

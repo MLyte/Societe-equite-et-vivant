@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.8"
-last_updated: "2026-09-06"
+version: "0.9"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -127,7 +127,7 @@ Chaque proposition importante doit pouvoir être révisée.
 
 Une idée qui ne peut jamais être corrigée devient un dogme.
 
-Project Horizon doit rester un modèle vivant.
+Société, équité et vivant doit rester un modèle vivant.
 
 ---
 
@@ -199,7 +199,7 @@ L'intervention publique n'est justifiée que lorsqu'une pratique ou organisation
 
 ## Principe 15 — La continuité du droit est le point de départ
 
-Project Horizon ne part pas d'une table rase juridique.
+Société, équité et vivant ne part pas d'une table rase juridique.
 
 Le droit existant reste applicable par défaut, en particulier lorsqu'il protège directement les personnes, les biens, la sécurité publique, les contrats ordinaires, la responsabilité civile, les garanties judiciaires et les droits de la défense.
 

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.3"
-last_updated: "2026-07-03"
+version: "0.4"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document définit la direction générale de Project Horizon.
+Ce document définit la direction générale de Société, équité et vivant.
 
 Il ne détaille pas encore les institutions ni les politiques publiques. Il décrit le problème de départ et l'objectif de conception.
 
@@ -34,7 +34,7 @@ Ce décalage crée une tension majeure : les sociétés savent de plus en plus p
 
 ## Objectifs
 
-Project Horizon cherche à concevoir un modèle de gouvernance capable de :
+Société, équité et vivant cherche à concevoir un modèle de gouvernance capable de :
 
 - protéger durablement le climat, le vivant et les ressources ;
 - garantir un socle de vie digne à chaque personne ;

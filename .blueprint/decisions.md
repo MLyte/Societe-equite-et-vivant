@@ -10,7 +10,7 @@ Le but est de garder la mémoire des choix et d'éviter de changer d'architectur
 
 Date : 2026-07-03
 
-Project Horizon commence comme un dépôt GitHub composé de fichiers Markdown.
+Société, équité et vivant commence comme un dépôt GitHub composé de fichiers Markdown.
 
 Le site web viendra plus tard, lorsque le contenu sera plus stable.
 
@@ -122,7 +122,7 @@ Pour la v0.1, les critiques principales ne doivent pas rester de simples objecti
 
 ### Raison
 
-Un modèle qui reconnaît les risques sans choisir de mécanismes de contrôle reste trop théorique. Ces garde-fous donnent une direction vérifiable sans transformer Project Horizon en technocratie ou en gouvernement par IA.
+Un modèle qui reconnaît les risques sans choisir de mécanismes de contrôle reste trop théorique. Ces garde-fous donnent une direction vérifiable sans transformer Société, équité et vivant en technocratie ou en gouvernement par IA.
 
 ---
 
@@ -130,7 +130,7 @@ Un modèle qui reconnaît les risques sans choisir de mécanismes de contrôle r
 
 Date : 2026-07-03
 
-Project Horizon ne supprime pas les partis politiques et ne valide pas les idéologies.
+Société, équité et vivant ne supprime pas les partis politiques et ne valide pas les idéologies.
 
 Le modèle contrôle la compatibilité des mesures proposées avec :
 
@@ -153,7 +153,7 @@ Sans pluralisme, le modèle dériverait vers un parti unique. Sans contrôle de 
 
 Date : 2026-07-03
 
-Project Horizon distingue les arbitrages démocratiques des paramètres techniques complexes.
+Société, équité et vivant distingue les arbitrages démocratiques des paramètres techniques complexes.
 
 Les domaines présentant une forte complexité, un risque irréversible, des effets systémiques, une forte asymétrie d'information ou un risque élevé de capture doivent relever d'une expertise publique pluraliste, contradictoire, auditée et révocable.
 
@@ -171,7 +171,7 @@ Un vote direct sur des paramètres techniques complexes peut être vulnérable �
 
 Date : 2026-07-03
 
-Project Horizon retient une mondialisation ralentie et sélective pour les secteurs vitaux.
+Société, équité et vivant retient une mondialisation ralentie et sélective pour les secteurs vitaux.
 
 Les chaînes critiques doivent être plus courtes, diversifiées, réparables, stockées et moins dépendantes d'États, entreprises ou coalitions d'intérêts capables de bloquer le socle vital.
 
@@ -191,7 +191,7 @@ Un modèle dépendant de chaînes mondiales fragiles ou d'États hostiles peut p
 
 Date : 2026-07-03
 
-Project Horizon ne tranche pas les questions religieuses, spirituelles ou métaphysiques.
+Société, équité et vivant ne tranche pas les questions religieuses, spirituelles ou métaphysiques.
 
 Le modèle protège la liberté de croire, de ne pas croire, de douter, de changer de conviction ou de n'en revendiquer aucune.
 
@@ -213,7 +213,7 @@ Un modèle qui ignore les convictions réelles des citoyens devient socialement 
 
 Date : 2026-07-03
 
-Project Horizon ne remplace pas automatiquement le droit en vigueur.
+Société, équité et vivant ne remplace pas automatiquement le droit en vigueur.
 
 Le droit existant reste valide par défaut, notamment lorsqu'il protège directement les personnes, sanctionne les abus concrets, garantit les recours, organise la responsabilité civile ou protège les droits de la défense.
 
@@ -235,7 +235,7 @@ Un modèle qui prétend tout remplacer immédiatement crée un risque d'arbitrai
 
 Date : 2026-07-03
 
-Project Horizon retient une architecture en couches : droits fondamentaux et justice, citoyens et Parlement, consortium scientifique, autorité d'audit, gouvernement, administrations territoriales, puis recours et contre-pouvoirs.
+Société, équité et vivant retient une architecture en couches : droits fondamentaux et justice, citoyens et Parlement, consortium scientifique, autorité d'audit, gouvernement, administrations territoriales, puis recours et contre-pouvoirs.
 
 Le modèle ne recherche pas des scientifiques supposés neutres par nature. Il construit une neutralité de procédure : compétence vérifiable, pluralisme, contradiction, transparence, audit séparé, publication des désaccords et révocation possible pour faute documentée.
 
@@ -253,7 +253,7 @@ Des mandats trop courts peuvent démotiver ou empêcher le travail sérieux. Des
 
 Date : 2026-07-03
 
-Project Horizon retient l'éducation comme condition matérielle de la démocratie d'arbitrage. L'école, la formation continue et la culture scientifique doivent donner aux citoyens les moyens de comprendre, contester et contrôler les décisions publiques.
+Société, équité et vivant retient l'éducation comme condition matérielle de la démocratie d'arbitrage. L'école, la formation continue et la culture scientifique doivent donner aux citoyens les moyens de comprendre, contester et contrôler les décisions publiques.
 
 Le modèle retient aussi la validation des compétences comme règle logique pour les fonctions techniques ou sensibles : santé, sûreté, énergie, justice, audit, infrastructures critiques, IA publique, données sensibles et expertise scientifique.
 
@@ -271,7 +271,7 @@ Un modèle qui ignore les compétences réelles devient vulnérable à l'amateur
 
 Date : 2026-07-03
 
-Project Horizon retient que les mandats scientifiques, d'audit et d'expertise sont des fonctions publiques rémunérées. Le socle vital réduit la dépendance matérielle de base, mais ne remplace pas la rémunération du travail, du temps, de la responsabilité et des compétences.
+Société, équité et vivant retient que les mandats scientifiques, d'audit et d'expertise sont des fonctions publiques rémunérées. Le socle vital réduit la dépendance matérielle de base, mais ne remplace pas la rémunération du travail, du temps, de la responsabilité et des compétences.
 
 La rémunération doit être publique, transparente, suffisante, plafonnée et indépendante du sens des conclusions. Les revenus externes, avantages, cadeaux, promesses d'emploi, liens économiques ou familiaux significatifs et conflits d'intérêts doivent être déclarés. Les acteurs directement concernés par une décision ne peuvent pas financer les personnes qui l'instruisent, l'auditent ou l'appliquent.
 
@@ -287,7 +287,7 @@ Si les experts ne sont pas correctement rémunérés, ils restent vulnérables a
 
 Date : 2026-09-06
 
-Project Horizon attend de l'IA des recommandations concrètes fondées sur ses engagements explicites : dignité, droits fondamentaux, protection des humains et du vivant, réduction des souffrances et équité. L'incertitude doit conduire à une hypothèse de travail argumentée et révisable, plutôt qu'à un renvoi systématique des choix au propriétaire du projet.
+Société, équité et vivant attend de l'IA des recommandations concrètes fondées sur ses engagements explicites : dignité, droits fondamentaux, protection des humains et du vivant, réduction des souffrances et équité. L'incertitude doit conduire à une hypothèse de travail argumentée et révisable, plutôt qu'à un renvoi systématique des choix au propriétaire du projet.
 
 Le modèle explore une boucle entre savoirs scientifiques, propositions de l'IA, expérimentation humaine et correction à partir des résultats. La capacité à générer une solution ne vaut pas validation de ses effets.
 
@@ -303,7 +303,7 @@ Un outil qui se limite à poser des questions ne remplit pas la fonction de conc
 
 Date : 2026-09-06
 
-Project Horizon fait du partage des richesses une obligation institutionnelle, indépendante de la philanthropie. Revenus, patrimoines et gains économiques, scientifiques et technologiques doivent contribuer au socle vital et à la préservation du vivant. Les différences de rémunération et de patrimoine restent possibles dans des limites empêchant la domination institutionnelle et la privation de ressources essentielles.
+Société, équité et vivant fait du partage des richesses une obligation institutionnelle, indépendante de la philanthropie. Revenus, patrimoines et gains économiques, scientifiques et technologiques doivent contribuer au socle vital et à la préservation du vivant. Les différences de rémunération et de patrimoine restent possibles dans des limites empêchant la domination institutionnelle et la privation de ressources essentielles.
 
 La piste économique associe fiscalité progressive, contribution des rentes, participation des travailleurs aux bénéfices et aux décisions, formes publiques ou coopératives pertinentes et contrôle des monopoles. Les modalités et barèmes restent des hypothèses à évaluer.
 
@@ -330,3 +330,15 @@ Les protections et capacités de remplacement doivent être organisées avant le
 ### Raison
 
 Réduire les échanges sans examiner leurs effets peut déplacer les dommages ou fragiliser le socle vital. La résilience doit servir la dignité et la soutenabilité, sans devenir une fermeture économique en soi.
+
+---
+
+## Decision 0021 — Nom et identité visuelle du projet
+
+Date : 2026-09-07
+
+Le nom retenu est « Société, équité et vivant ». L'identité visuelle associe le symbole validé à la typographie Fraunces SemiBold. La composition horizontale conserve le nom sur une seule ligne, avec un symbole réduit et un centrage optique du texte.
+
+### Raison
+
+Rendre le nom plus distinctif et expliciter les dimensions sociales, distributives et écologiques du projet. Ce changement d'identité ne modifie pas les engagements institutionnels ni la licence CC BY 4.0.

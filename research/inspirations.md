@@ -1,6 +1,6 @@
 # Inspirations
 
-Ce fichier recense les idées, institutions, auteurs et projets qui peuvent inspirer Project Horizon.
+Ce fichier recense les idées, institutions, auteurs et projets qui peuvent inspirer Société, équité et vivant.
 
 Une inspiration n'est pas une adhésion totale.
 
@@ -20,7 +20,7 @@ Une inspiration n'est pas une adhésion totale.
 - RFC techniques : documents ouverts, versionnés, critiquables.
 - Architecture Decision Records : documentation des décisions structurantes.
 - Gouvernance open source : transparence, contributions, historique.
-- Pilotage sectoriel : le PTEF traite séparément énergie, emploi, industrie, logement, agriculture, mobilité, fret, santé, culture, administration publique, numérique, territoires et finance, ce qui peut inspirer une architecture Horizon par domaines de contraintes plutôt qu'un modèle unique trop abstrait ([source](https://ilnousfautunplan.fr/)).
+- Pilotage sectoriel : le PTEF traite séparément énergie, emploi, industrie, logement, agriculture, mobilité, fret, santé, culture, administration publique, numérique, territoires et finance, ce qui peut inspirer une architecture du projet par domaines de contraintes plutôt qu'un modèle unique trop abstrait ([source](https://ilnousfautunplan.fr/)).
 - Registres de transparence, déclarations d'intérêts et règles de portes tournantes : inspiration partielle pour rendre l'influence traçable, sans supposer qu'un registre déclaratif suffit.
 - Pare-feux sectoriels contre l'influence d'une industrie directement concernée, par exemple dans la santé publique : inspiration à étudier à partir de la Convention-cadre de l'OMS pour la lutte antitabac, article 5.3 `[source à vérifier]`.
 - Séparation entre production d'expertise, audit, arbitrage politique et recours : principe inspiré des systèmes critiques où celui qui conçoit, valide, exploite et contrôle ne doit pas être le même acteur.
@@ -68,7 +68,7 @@ Une inspiration n'est pas une adhésion totale.
 
 ## Principe d'importation
 
-Project Horizon ne doit pas copier un pays ou une doctrine.
+Société, équité et vivant ne doit pas copier un pays ou une doctrine.
 
 Chaque inspiration étrangère doit être traduite en brique institutionnelle testable : problème traité, mécanisme utile, garde-fous nécessaires, risques de capture, conditions d'abandon.
 

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.2"
-last_updated: "2026-07-03"
+version: "0.3"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document précise la place de la santé publique, de la bioéthique, de l'éducation, de la formation continue et de la culture scientifique dans Project Horizon.
+Ce document précise la place de la santé publique, de la bioéthique, de l'éducation, de la formation continue et de la culture scientifique dans Société, équité et vivant.
 
 Ces domaines ne sont pas secondaires. Ils conditionnent l'accès réel au socle vital, la capacité des citoyens à contrôler les institutions et la possibilité de traverser une économie transformée par l'IA.
 
@@ -34,7 +34,7 @@ Les sociétés contemporaines dépendent de systèmes de santé, d'éducation et
 
 ## Objectifs
 
-Le modèle Horizon retient les objectifs suivants :
+Le modèle du projet retient les objectifs suivants :
 
 - garantir un accès effectif aux soins essentiels et aux médicaments essentiels ;
 - renforcer la prévention sans créer de contrôle social sanitaire ;
@@ -155,11 +155,11 @@ Le modèle retient un tronc commun fort :
 - compétences manuelles, techniques, domestiques et de réparation ;
 - coopération, médiation et résolution non violente des conflits.
 
-L'école publique doit rester pluraliste et non doctrinale. Elle transmet des connaissances, des méthodes et des droits ; elle ne doit pas imposer une adhésion idéologique au modèle Horizon.
+L'école publique doit rester pluraliste et non doctrinale. Elle transmet des connaissances, des méthodes et des droits ; elle ne doit pas imposer une adhésion idéologique au modèle du projet.
 
 ### Validation des compétences
 
-Project Horizon doit distinguer trois choses :
+Société, équité et vivant doit distinguer trois choses :
 
 - l'éducation générale, qui donne à chaque citoyen les moyens de comprendre le monde commun ;
 - la formation spécialisée, qui prépare à des rôles techniques ou professionnels ;
@@ -227,7 +227,7 @@ La santé et l'éducation sont des conditions de liberté réelle.
 
 Une personne malade sans soin, psychiquement isolée, mal informée ou incapable de comprendre les institutions possède des droits formels, mais peu de capacité effective à les exercer.
 
-Project Horizon doit donc traiter santé et éducation comme deux infrastructures du socle vital et de la démocratie, tout en évitant deux dérives : la technocratie sanitaire et l'école doctrinale.
+Société, équité et vivant doit donc traiter santé et éducation comme deux infrastructures du socle vital et de la démocratie, tout en évitant deux dérives : la technocratie sanitaire et l'école doctrinale.
 
 ---
 
@@ -243,7 +243,7 @@ Cette option peut renforcer l'égalité et la planification, mais elle risque la
 
 ### Expertise médicale et pédagogique souveraine
 
-Cette option peut améliorer certaines décisions techniques, mais elle devient incompatible avec Project Horizon si elle réduit les droits, les recours, le pluralisme et le contrôle démocratique.
+Cette option peut améliorer certaines décisions techniques, mais elle devient incompatible avec Société, équité et vivant si elle réduit les droits, les recours, le pluralisme et le contrôle démocratique.
 
 ### Responsabilisation individuelle forte
 

@@ -1,19 +1,19 @@
 ---
 status: draft
-version: "0.3"
-last_updated: "2026-07-03"
+version: "0.4"
+last_updated: "2026-09-07"
 confidence: "draft"
 ---
 
 # Glossaire
 
-## Project Horizon
+## Société, équité et vivant
 
 Projet de conception institutionnelle visant à imaginer un modèle de gouvernance adapté au XXIe siècle.
 
-## Modèle Horizon
+## Modèle du projet
 
-Nom provisoire du modèle de gouvernance exploré par le projet.
+Modèle de gouvernance exploré par le projet « Société, équité et vivant ».
 
 ## Socle vital
 

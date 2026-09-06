@@ -1,13 +1,13 @@
 ---
 status: draft
-version: "0.3"
-last_updated: "2026-07-12"
+version: "0.4"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
 # Questions structurantes
 
-Ce document répond provisoirement aux questions que Project Horizon doit résoudre pour devenir un modèle de gouvernance cohérent.
+Ce document répond provisoirement aux questions que Société, équité et vivant doit résoudre pour devenir un modèle de gouvernance cohérent.
 
 Il ne remplace pas les chapitres spécialisés. Il sert de synthèse : chaque réponse devra ensuite être testée, sourcée et précisée dans les documents concernés.
 
@@ -15,7 +15,7 @@ Il ne remplace pas les chapitres spécialisés. Il sert de synthèse : chaque r�
 
 ## Position générale
 
-Project Horizon ne cherche pas à produire une liste de mesures isolées. Il cherche à définir une architecture dans laquelle :
+Société, équité et vivant ne cherche pas à produire une liste de mesures isolées. Il cherche à définir une architecture dans laquelle :
 
 - les faits établis ne sont pas traités comme de simples opinions ;
 - les choix de valeurs restent démocratiques ;
@@ -29,7 +29,7 @@ Les réponses ci-dessous sont donc des décisions de conception provisoires. Ell
 
 ## Architecture institutionnelle en couches
 
-Le modèle Horizon ne doit pas mélanger expertise, décision politique, exécution et contrôle.
+Le modèle du projet ne doit pas mélanger expertise, décision politique, exécution et contrôle.
 
 Il retient une organisation en couches :
 
@@ -116,7 +116,7 @@ Décision provisoire :
 - toute décision fondée sur une analyse algorithmique doit être assumée par une institution humaine ;
 - les citoyens, journalistes, chercheurs, juges et contre-pouvoirs doivent pouvoir contester les données, hypothèses, biais, conflits d'intérêts ou opacités.
 
-L'IA Horizon doit être comprise comme une machine publique à expliciter les conséquences. Elle éclaire les arbitrages ; elle ne les tranche pas.
+L'IA du projet doit être comprise comme une machine publique à expliciter les conséquences. Elle éclaire les arbitrages ; elle ne les tranche pas.
 
 Interdits de conception :
 
@@ -152,7 +152,7 @@ Risques à surveiller :
 
 ## 5. Organiser une économie moins dépendante de la croissance matérielle
 
-Project Horizon ne doit pas viser la décroissance administrative ni la suppression du marché. Il doit réduire la dépendance de la dignité, des finances publiques et de la stabilité sociale à l'augmentation permanente de la consommation matérielle.
+Société, équité et vivant ne doit pas viser la décroissance administrative ni la suppression du marché. Il doit réduire la dépendance de la dignité, des finances publiques et de la stabilité sociale à l'augmentation permanente de la consommation matérielle.
 
 Décision provisoire :
 
@@ -215,7 +215,7 @@ Décision provisoire :
 - maintenir la contestation scientifique et citoyenne par procédure : nouvelles données, erreur méthodologique, conflit d'intérêts, hypothèse abusive, biais ou effet social non documenté ;
 - garantir un recours juridictionnel lorsque l'expertise est opaque, non contestable, biaisée ou disproportionnée au regard des droits.
 
-La démocratie Horizon ne décide pas si la réalité existe. Elle décide comment vivre dignement et librement dans une réalité rendue publique, auditée et contestable.
+La démocratie dans le modèle proposé ne décide pas si la réalité existe. Elle décide comment vivre dignement et librement dans une réalité rendue publique, auditée et contestable.
 
 Risques à surveiller :
 

@@ -1,4 +1,4 @@
-# Project Horizon — contexte de travail
+# Société, équité et vivant — contexte de travail
 
 Ce fichier est la mémoire courte du projet.
 
@@ -8,15 +8,15 @@ Il doit être lu par tout assistant IA avant une modification substantielle du d
 
 ## Nom du projet
 
-Le dépôt s'appelle **Project Horizon**.
+Le projet s'appelle **Société, équité et vivant**.
 
-Le nom évoque le long terme, la capacité à regarder au-delà des cycles électoraux, et l'idée d'une direction collective sans tonalité partisane.
+Le nom associe la conception des institutions, l'équité dans l'accès aux ressources et la préservation du vivant. Il ne constitue pas une affiliation partisane.
 
 ---
 
 ## Nature du projet
 
-Project Horizon est un projet de conception institutionnelle.
+Société, équité et vivant est un projet de conception institutionnelle.
 
 Il n'est pas :
 
@@ -37,7 +37,7 @@ Il cherche à concevoir un modèle de gouvernance robuste face aux défis du XXI
 
 Les institutions actuelles sont mal adaptées aux enjeux longs, complexes et physiques : climat, énergie, biodiversité, automatisation, IA, démographie, logement, santé publique.
 
-Project Horizon explore un modèle où les contraintes scientifiques ne peuvent pas être réécrites par intérêt électoral ou privé.
+Société, équité et vivant explore un modèle où les contraintes scientifiques ne peuvent pas être réécrites par intérêt électoral ou privé.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.9"
-last_updated: "2026-07-12"
+version: "0.10"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -44,7 +44,7 @@ Le modèle institutionnel doit :
 
 ### Architecture en couches
 
-Le modèle Horizon doit être compris comme une architecture en couches, et non comme un transfert global du pouvoir vers les scientifiques ou l'IA.
+Le modèle du projet doit être compris comme une architecture en couches, et non comme un transfert global du pouvoir vers les scientifiques ou l'IA.
 
 Les couches retenues sont les suivantes :
 
@@ -110,7 +110,7 @@ Pour éviter la démotivation, le mandat doit donner du temps, des moyens, une r
 
 Un mandat scientifique ou d'audit ne doit pas dépendre du bénévolat, d'une faveur privée ou d'une carrière parallèle financée par les acteurs concernés.
 
-Dans le modèle Horizon, les scientifiques vivent d'abord comme les autres citoyens : le socle vital garantit les besoins fondamentaux. Leur mandat public ajoute une rémunération transparente, suffisante et plafonnée, justifiée par le temps de travail, la responsabilité, la rareté des compétences et les contraintes d'indépendance.
+Dans le modèle du projet, les scientifiques vivent d'abord comme les autres citoyens : le socle vital garantit les besoins fondamentaux. Leur mandat public ajoute une rémunération transparente, suffisante et plafonnée, justifiée par le temps de travail, la responsabilité, la rareté des compétences et les contraintes d'indépendance.
 
 Cette rémunération doit respecter plusieurs règles :
 
@@ -209,7 +209,7 @@ L'objectif réaliste n'est pas de rendre les décideurs impossibles à influence
 
 ### Simplification d'un État institutionnellement complexe
 
-Dans un État très fragmenté, par exemple un État fédéral comme la Belgique, le modèle Horizon ne doit pas conserver une couche institutionnelle uniquement parce qu'elle existe historiquement. Il doit attribuer chaque fonction publique à un niveau responsable clair.
+Dans un État très fragmenté, par exemple un État fédéral comme la Belgique, le modèle du projet ne doit pas conserver une couche institutionnelle uniquement parce qu'elle existe historiquement. Il doit attribuer chaque fonction publique à un niveau responsable clair.
 
 Décision provisoire :
 
@@ -250,7 +250,7 @@ Les recours doivent être possibles de manière individuelle et collective lorsq
 
 ### Continuité juridique et révision ciblée
 
-Project Horizon ne suspend pas le droit en vigueur par principe.
+Société, équité et vivant ne suspend pas le droit en vigueur par principe.
 
 Le droit civil, pénal, administratif et judiciaire reste le cadre de départ. Les règles qui protègent directement les personnes, sanctionnent les abus concrets ou garantissent un procès équitable doivent être conservées, sauf contradiction documentée avec les droits fondamentaux.
 

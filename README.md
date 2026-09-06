@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="assets/projet-horizon-visual.png" alt="Project Horizon" width="500">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/societe-equite-vivant-blanc.svg">
+    <img src="assets/societe-equite-vivant.svg" alt="Société, équité et vivant" width="800">
+  </picture>
 </p>
 
 <details>
 <summary><strong>Menu du README</strong></summary>
 
-- [Project Horizon](#project-horizon)
+- [Société, équité et vivant](#société-équité-et-vivant)
 - [Hypothèse centrale](#hypothèse-centrale)
 - [Ce que le projet cherche à produire](#ce-que-le-projet-cherche-à-produire)
 - [Méthode](#méthode)
@@ -53,9 +56,9 @@
 
 </details>
 
-# Project Horizon
+# Société, équité et vivant
 
-**Project Horizon** est un **projet de conception institutionnelle**.
+**Société, équité et vivant** est un **projet de conception institutionnelle**.
 
 Son objectif est de construire, critiquer et améliorer un **modèle de gouvernance** capable de répondre aux **grands défis du XXIe siècle** : climat, limites planétaires, automatisation, intelligence artificielle, énergie, logement, alimentation, santé, démocratie et stabilité sociale.
 
@@ -69,7 +72,7 @@ C'est une **base de travail versionnée**.
 
 Les sociétés modernes prennent trop souvent leurs décisions selon des **cycles courts** : élections, sondages, intérêts économiques immédiats, arbitrages budgétaires annuels.
 
-Project Horizon part d'une autre hypothèse :
+Société, équité et vivant part d'une autre hypothèse :
 
 > Une société durable doit séparer plus clairement les **contraintes objectives du réel**, les **modèles scientifiquement validés**, les **arbitrages démocratiques** et la **mise en œuvre politique**.
 
@@ -87,7 +90,7 @@ Le projet explore donc un modèle où :
 
 ## Ce que le projet cherche à produire
 
-Project Horizon vise à produire un **modèle cohérent de gouvernance**, pas une liste de mesures isolées.
+Société, équité et vivant vise à produire un **modèle cohérent de gouvernance**, pas une liste de mesures isolées.
 
 Le dépôt doit progressivement répondre à des questions comme :
 
@@ -202,7 +205,7 @@ Voir `LICENSE` pour plus de détails.
 
 ## Statut
 
-Project Horizon est actuellement un **working draft**.
+Société, équité et vivant est actuellement un **working draft**.
 
 La priorité n'est pas encore de publier, convaincre ou fédérer. La priorité est de **construire un modèle assez clair** pour pouvoir être critiqué sérieusement.
 
@@ -210,7 +213,7 @@ La priorité n'est pas encore de publier, convaincre ou fédérer. La priorité 
 
 ## Pourquoi ce projet ?
 
-J'ai eu envie de créer Project Horizon parce que **je ne me reconnais pas vraiment dans l'offre politique actuelle**, notamment en Belgique, lorsqu'il s'agit de penser le **court, le moyen et le long terme** ensemble.
+J'ai eu envie de créer Société, équité et vivant parce que **je ne me reconnais pas vraiment dans l'offre politique actuelle**, notamment en Belgique, lorsqu'il s'agit de penser le **court, le moyen et le long terme** ensemble.
 
 J'ai souvent le sentiment que les décisions publiques restent enfermées dans l'**horizon d'une législature** : gagner les prochaines élections, préserver une image, éviter une mesure impopulaire, répondre au conflit immédiat. Cette logique peut faire passer le **calcul électoral avant les besoins humains**, alors que les problèmes les plus importants dépassent largement un mandat.
 
@@ -218,10 +221,10 @@ Une autre motivation vient du sentiment que la **parole scientifique** est trop 
 
 Je ne pars pas non plus d'un rejet total du marché, mais d'une inquiétude face à un **capitalisme insuffisamment borné**. Lorsqu'il accepte des inégalités très dures, externalise les coûts écologiques ou dépend trop fortement des **lobbies**, il ne sert plus durablement l'ensemble des personnes. Les lobbies posent ici un problème particulier : ils peuvent nourrir les décisions publiques avec les intérêts du capital plutôt qu'avec les besoins humains, les limites physiques et l'intérêt général.
 
-Project Horizon vient de cette insatisfaction. Le projet cherche un cadre qui parte **moins des doctrines et davantage des conditions de vie** : garantir la dignité, préserver les libertés, écouter les sciences sans leur donner tout le pouvoir, empêcher la capture des institutions, rendre les décisions vérifiables, et éviter qu'un parti, un marché, une IA ou une élite fermée puisse décider seul.
+Société, équité et vivant vient de cette insatisfaction. Le projet cherche un cadre qui parte **moins des doctrines et davantage des conditions de vie** : garantir la dignité, préserver les libertés, écouter les sciences sans leur donner tout le pouvoir, empêcher la capture des institutions, rendre les décisions vérifiables, et éviter qu'un parti, un marché, une IA ou une élite fermée puisse décider seul.
 
 Le projet est **open source** parce qu'un tel modèle ne devrait pas dépendre d'une intuition privée ou d'un cercle restreint. Il doit pouvoir être lu, critiqué, corrigé, sourcé et contredit par des personnes qui ne partagent pas forcément les mêmes hypothèses de départ.
 
 La rédaction initiale de ce dépôt est entièrement réalisée avec l'aide de **ChatGPT 5.5**. Cette collaboration ne vise pas à déléguer le jugement politique à une IA, ni à présenter l'IA comme neutre par nature. Elle sert à accélérer la rédaction, structurer les idées, rechercher une formulation plus neutre, vérifier les incohérences et faire émerger plus rapidement les objections possibles.
 
-Project Horizon n'est donc **pas une réponse définitive**. C'est une tentative de construire un espace de travail rigoureux autour d'une question simple : comment organiser une société qui serve d'abord les **besoins humains**, sans nier le réel, sans abandonner les libertés, et sans laisser les décisions longues aux seuls intérêts de court terme ?
+Société, équité et vivant n'est donc **pas une réponse définitive**. C'est une tentative de construire un espace de travail rigoureux autour d'une question simple : comment organiser une société qui serve d'abord les **besoins humains**, sans nier le réel, sans abandonner les libertés, et sans laisser les décisions longues aux seuls intérêts de court terme ?

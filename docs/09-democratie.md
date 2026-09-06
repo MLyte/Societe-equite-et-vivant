@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.9"
-last_updated: "2026-07-12"
+version: "0.10"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -11,7 +11,7 @@ confidence: "hypothesis"
 
 Ce document définit la place de la démocratie dans le modèle.
 
-Project Horizon ne cherche pas à supprimer la démocratie, mais à clarifier ce qui doit relever du vote et ce qui doit relever de contraintes scientifiques.
+Société, équité et vivant ne cherche pas à supprimer la démocratie, mais à clarifier ce qui doit relever du vote et ce qui doit relever de contraintes scientifiques.
 
 ---
 
@@ -42,7 +42,7 @@ Les citoyens choisissent entre des trajectoires politiques compatibles avec des 
 
 Cette validation ne remplace pas la démocratie. Elle fixe le périmètre des trajectoires compatibles avec les contraintes établies.
 
-Project Horizon protège le pluralisme politique. Les institutions ne valident pas les idéologies des partis ; elles contrôlent la compatibilité des mesures proposées avec les droits fondamentaux, le socle vital, les contraintes physiques, la transparence et les procédures de recours.
+Société, équité et vivant protège le pluralisme politique. Les institutions ne valident pas les idéologies des partis ; elles contrôlent la compatibilité des mesures proposées avec les droits fondamentaux, le socle vital, les contraintes physiques, la transparence et les procédures de recours.
 
 Un parti peut donc défendre une orientation plus libérale, sociale, locale, centralisée, sobre ou industrialiste, à condition que ses mesures restent dans ce corridor commun.
 
@@ -75,7 +75,7 @@ En revanche, les citoyens et leurs représentants arbitrent les valeurs publique
 
 ### Mécanismes comparatifs à tester
 
-Project Horizon peut s'inspirer de modèles étrangers sans les importer comme blocs idéologiques.
+Société, équité et vivant peut s'inspirer de modèles étrangers sans les importer comme blocs idéologiques.
 
 Les pistes à tester sont des fonctions démocratiques précises :
 
@@ -162,7 +162,7 @@ Les lobbies ne doivent pas participer à la validation des contraintes, modèles
 
 ### Religions et convictions
 
-Project Horizon protège la liberté de conscience.
+Société, équité et vivant protège la liberté de conscience.
 
 Les religions et convictions relèvent d'abord de la vie privée, associative et communautaire volontaire.
 

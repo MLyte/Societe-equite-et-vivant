@@ -1,13 +1,13 @@
 ---
 status: draft
-version: "0.5"
-last_updated: "2026-07-03"
+version: "0.6"
+last_updated: "2026-09-07"
 confidence: "draft"
 ---
 
 # Index
 
-Ce fichier sert de carte d'entrée pour Project Horizon.
+Ce fichier sert de carte d'entrée pour Société, équité et vivant.
 
 ---
 

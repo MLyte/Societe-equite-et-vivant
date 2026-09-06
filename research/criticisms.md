@@ -1,6 +1,6 @@
 # Critiques
 
-Ce fichier documente les objections fortes contre Project Horizon.
+Ce fichier documente les objections fortes contre Société, équité et vivant.
 
 L'objectif n'est pas de se défendre trop vite. L'objectif est de comprendre les failles possibles du modèle.
 
@@ -139,7 +139,7 @@ Le Plan de transformation de l'économie française du Shift Project est un exem
 
 ### Décision retenue pour v0.1
 
-Project Horizon retient la planification sectorielle comme méthode de diagnostic, mais pas comme source suffisante de légitimité. Chaque plan sectoriel doit être accompagné d'une délibération sur ses effets sociaux, territoriaux et professionnels.
+Société, équité et vivant retient la planification sectorielle comme méthode de diagnostic, mais pas comme source suffisante de légitimité. Chaque plan sectoriel doit être accompagné d'une délibération sur ses effets sociaux, territoriaux et professionnels.
 
 ### Mécanismes retenus
 

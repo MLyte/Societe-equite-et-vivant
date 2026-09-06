@@ -1,6 +1,6 @@
 # Contributing
 
-Project Horizon is a governance design project. Contributions should improve clarity, internal consistency, empirical grounding or criticism.
+Société, équité et vivant is a governance design project. Contributions should improve clarity, internal consistency, empirical grounding or criticism.
 
 ---
 

@@ -99,8 +99,8 @@ Ne pas mettre de longues phrases dans les tables.
 
 Utiliser de préférence :
 
-- Project Horizon ;
-- modèle Horizon ;
+- Société, équité et vivant ;
+- modèle du projet ;
 - socle vital ;
 - consortium scientifique ;
 - IA publique ;

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.1"
-last_updated: "2026-07-03"
+version: "0.2"
+last_updated: "2026-09-07"
 confidence: "hypothesis"
 ---
 
@@ -9,7 +9,7 @@ confidence: "hypothesis"
 
 ## Pourquoi ce document existe
 
-Ce document précise comment Project Horizon finance le socle vital, la transition écologique, la résilience civile et les investissements de long terme.
+Ce document précise comment Société, équité et vivant finance le socle vital, la transition écologique, la résilience civile et les investissements de long terme.
 
 Sans doctrine financière, le modèle risque de rester moralement cohérent mais matériellement flou.
 
@@ -42,7 +42,7 @@ Le modèle financier doit :
 
 ## Proposition
 
-Project Horizon retient une doctrine de finance orientée.
+Société, équité et vivant retient une doctrine de finance orientée.
 
 L'argent public, la fiscalité, la dette, l'épargne réglementée et les garanties d'État doivent être orientés en priorité vers les fonctions vitales, les infrastructures durables et la réduction des dépendances critiques.
 
@@ -80,7 +80,7 @@ Cette fiscalité ne doit pas être punitive par principe. Elle vise à déplacer
 
 La dette publique n'est ni bonne ni mauvaise en soi.
 
-Project Horizon distingue :
+Société, équité et vivant distingue :
 
 - dette utile : investissement qui augmente la capacité future de la société à satisfaire le socle vital, réduire les risques, réparer les écosystèmes ou produire durablement ;
 - dette de dépendance : dette contractée pour repousser une réforme nécessaire, soutenir une rente, compenser une fiscalité trop faible ou financer une consommation incompatible avec les limites physiques.
