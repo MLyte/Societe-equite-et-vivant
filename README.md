@@ -225,6 +225,6 @@ Société, équité et vivant vient de cette insatisfaction. Le projet cherche u
 
 Le projet est **open source** parce qu'un tel modèle ne devrait pas dépendre d'une intuition privée ou d'un cercle restreint. Il doit pouvoir être lu, critiqué, corrigé, sourcé et contredit par des personnes qui ne partagent pas forcément les mêmes hypothèses de départ.
 
-La rédaction initiale de ce dépôt est entièrement réalisée avec l'aide de **ChatGPT 5.5**. Cette collaboration ne vise pas à déléguer le jugement politique à une IA, ni à présenter l'IA comme neutre par nature. Elle sert à accélérer la rédaction, structurer les idées, rechercher une formulation plus neutre, vérifier les incohérences et faire émerger plus rapidement les objections possibles.
+La rédaction de ce dépôt s'appuie sur l'aide d'**outils d'intelligence artificielle**. Cette collaboration ne vise pas à déléguer le jugement politique à une IA, ni à présenter l'IA comme neutre par nature. Elle sert à accélérer la rédaction, structurer les idées, rechercher une formulation plus neutre, vérifier les incohérences et faire émerger plus rapidement les objections possibles.
 
 Société, équité et vivant n'est donc **pas une réponse définitive**. C'est une tentative de construire un espace de travail rigoureux autour d'une question simple : comment organiser une société qui serve d'abord les **besoins humains**, sans nier le réel, sans abandonner les libertés, et sans laisser les décisions longues aux seuls intérêts de court terme ?
