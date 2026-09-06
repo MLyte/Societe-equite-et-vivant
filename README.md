@@ -9,6 +9,7 @@
 <summary><strong>Menu du README</strong></summary>
 
 - [Société, équité et vivant](#société-équité-et-vivant)
+- [La vision concrète du projet](#la-vision-concrète-du-projet)
 - [Hypothèse centrale](#hypothèse-centrale)
 - [Ce que le projet cherche à produire](#ce-que-le-projet-cherche-à-produire)
 - [Méthode](#méthode)
@@ -65,6 +66,27 @@ Son objectif est de construire, critiquer et améliorer un **modèle de gouverna
 Ce dépôt **n'est pas un programme électoral**. Ce n'est pas un parti politique. Ce n'est pas un manifeste figé.
 
 C'est une **base de travail versionnée**.
+
+---
+
+## La vision concrète du projet
+
+La société visée doit permettre à chacun de vivre dignement, même sans emploi, de choisir son mode de vie et de participer aux décisions collectives, tout en préservant les conditions de vie des humains et du vivant.
+
+Pour y parvenir, le projet retient les choix suivants :
+
+- **Garantir un socle vital à chaque personne.** Logement sain, alimentation de base, eau, énergie minimale, soins et médicaments essentiels, internet et mobilité de base deviennent des droits effectifs, avec une autorité responsable et un recours. Leur accès ne dépend ni d'un emploi ni d'une activité imposée.
+- **Organiser le partage des richesses.** Revenus, patrimoines et rentes contribuent au socle vital et à la préservation du vivant. Les pistes retenues associent fiscalité progressive et participation des travailleurs aux bénéfices et aux décisions. Les marchés restent possibles ; les secteurs essentiels relèvent de communs stratégiques ou d'une régulation forte.
+- **Partager les gains de l'automatisation.** Les gains de productivité vérifiés contribuent à la sécurité matérielle, à la réduction du temps de travail et à la transition écologique. Le financement du socle doit rester viable même si les gains de l'IA sont faibles ou tardifs.
+- **Inscrire l'économie dans les limites écologiques.** Production, consommation et investissement doivent respecter les contraintes liées au climat, à l'eau, aux sols et à la biodiversité. Pour l'énergie, l'orientation provisoire combine sobriété, efficacité, électrification, nucléaire et renouvelables, sous évaluation des coûts et des risques.
+- **Organiser une démocratie d'arbitrage.** Les citoyens et leurs représentants choisissent les priorités et la répartition des efforts. Une expertise publique pluraliste établit les contraintes et valide les modèles ; les responsables politiques les mettent en œuvre, sans en modifier les paramètres fondamentaux sans nouvelle validation.
+- **Donner à l'IA publique un rôle de proposition sous contrôle humain.** Elle analyse, simule et recommande des solutions argumentées. Ses objectifs, ses biais et ses résultats doivent pouvoir être examinés et contestés ; une autorité humaine identifiable reste responsable de la décision.
+- **Protéger les libertés et contrôler les pouvoirs.** Pluralisme politique, liberté de conscience, justice indépendante et recours individuels et collectifs font partie du modèle. Audits séparés de l'expertise, rotation des mandats et transparence des financements doivent limiter la capture des institutions. La surveillance sociale généralisée et le scoring citoyen sont exclus.
+- **Sécuriser les approvisionnements essentiels.** Relocaliser sélectivement, diversifier les fournisseurs et prévoir des stocks ou des capacités de secours pour les secteurs vitaux. Ces choix doivent tenir compte de leur empreinte écologique complète et des populations affectées, en maintenant les coopérations utiles.
+
+Ces orientations constituent des **choix de conception retenus**. Leurs modalités, leur financement et leurs effets restent à évaluer : elles ne décrivent pas un modèle déjà validé en pratique.
+
+Pour approfondir : [les principes](docs/02-principes.md), [les réponses concrètes aux questions structurantes](docs/20-questions-structurantes.md) et [le registre des décisions](.blueprint/decisions.md).
 
 ---
 
