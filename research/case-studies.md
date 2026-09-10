@@ -170,6 +170,56 @@ Publier niveaux de confiance, hypothèses concurrentes, conséquences de l'erreu
 
 ---
 
+## Quartiers intégrés sous maîtrise publique
+
+Comparaison documentaire réalisée le 11 septembre 2026 pour le [projet de quartier intégré](../docs/16-logement-foncier-urbanisme.md#piste-de-travail-habitats-publics-bas-carbone-et-accession-abordable). Elle cherche des réalisations combinant production publique de logements, accession sous conditions, transports et services de proximité. Les sources des opérateurs décrivent les dispositifs ; elles ne constituent pas à elles seules une évaluation indépendante de leurs effets.
+
+### Vue comparative
+
+| Cas | Correspondance principale | Écart avec notre proposition |
+| --- | --- | --- |
+| HDB et Tengah, Singapour | Logements publics vendus, prêts, quartiers équipés | Droits limités dans le temps ; critères d'accès spécifiques |
+| Tivoli GreenCity, Bruxelles | Quartier durable, accession conventionnée, commerces | Crédit public intégré et halle agricole non établis |
+| Aspern Seestadt, Vienne | Logements, métro, activités et services coordonnés | Pas de vente publique réservée aux non-propriétaires établie |
+
+**Conclusion de la comparaison.** Des assemblages proches existent. Parmi les cas examinés, Singapour est le rapprochement le plus direct pour la chaîne construction publique–vente–financement–services. Tivoli est un rapprochement belge particulièrement concret pour le quartier mixte et l'accession sous conditions. Aucun cas étudié ne démontre l'ensemble « production publique, neutralité carbone, transports, halle de producteurs locaux et crédit aux seuls ménages sans logement en propriété » avec des résultats établis sur tous ces critères.
+
+### Singapour : HDB et la ville nouvelle de Tengah
+
+**Dispositifs documentés.** Le Housing & Development Board (HDB) vend des logements publics et accorde une priorité aux familles primo-accédantes dans l'attribution des logements neufs. Il propose aussi des prêts immobiliers sous conditions, notamment de citoyenneté, de revenus, de détention de biens et de solvabilité. Le crédit public n'est donc pas une suppression des critères financiers. Sources : [priorités d'attribution, HDB — page en anglais](https://www.hdb.gov.sg/buying-a-flat/bto-sbf-and-open-booking-of-flats/process-for-buying-a-new-flat/application/priority-schemes) et [prêts HDB — page en anglais](https://www.hdb.gov.sg/buying-a-flat/flat-grant-and-loan-eligibility/housing-loan/housing-loan-from-hdb).
+
+Le gouvernement précise que les acquéreurs d'un logement neuf HDB typique détiennent des droits pour une durée de 99 ans. Ce n'est pas une pleine propriété perpétuelle du foncier. Source : [nature des droits acquis — page en anglais](https://www.gov.sg/explainers/do-hdb-flat-buyers-own-their-flat/).
+
+Tengah ajoute une ambition environnementale à ce système de logement public : HDB y développe notamment une solution optionnelle de refroidissement collectif et la présente comme une ville durable. Le contrat annoncé en avril 2026 concerne neuf projets à venir ; il décrit une réalisation programmée, pas un bilan carbone démontré de la ville. Source : [refroidissement collectif à Tengah, HDB, 16 avril 2026 — page en anglais](https://www.hdb.gov.sg/hdb-pulse/news/2026/hdb-awards-new-centralised-cooling-system-contract-to-keppel-for-9-bto-projects-in-tengah).
+
+**Limite observée par l'opérateur.** HDB reconnaît que les grands ensembles neufs disposent initialement de moins de services existants. En mars 2026, il annonce une meilleure synchronisation des commerces, de l'accueil des enfants et des bus avec les emménagements, dont au moins une ligne de bus prévue dès les premières remises de clés. Cette correction montre qu'une planification intégrée peut malgré tout laisser des habitants attendre les services. Source : [calendrier des équipements, HDB, 3 mars 2026 — page en anglais](https://www.hdb.gov.sg/sitecore/content/hdbinfoweb/home/hdb-pulse/news/2026/residents-in-new-large-scale-bto-estates-to-enjoy-earlier-access-to-amenities).
+
+**Transposition proposée.** Retenir pour étude la coordination entre logements, prêts, équipements et desserte ; contractualiser les dates d'ouverture et une solution transitoire en cas de retard. Les critères d'accès singapouriens ne sont pas adoptés par le projet. Les sources consultées ne démontrent ni neutralité carbone complète ni présence d'une halle réservée à des agriculteurs locaux. Le contexte de cité-État et les droits fonciers diffèrent du cadre européen.
+
+### Bruxelles : Tivoli GreenCity et l'accession citydev
+
+**Réalisation documentée.** À son inauguration en 2019, citydev.brussels décrit 397 logements, dont 271 logements moyens vendus et 126 logements sociaux acquis par la SLRB, ainsi que deux crèches, des commerces, des voiries et une place. C'est un projet porté par un opérateur public régional, avec plusieurs partenaires, et non une gestion de toutes les fonctions par l'État central. Source : [inauguration de Tivoli GreenCity, citydev](https://www.citydev.brussels/fr/actualites/inauguration-officielle-du-quartier-tivoli-greencity-pressenti-pour-devenir-le-projet-le).
+
+Les conditions citydev consultées prévoient notamment de ne pas être propriétaire ou usufruitier d'un bien principalement résidentiel en Belgique, un plafond de revenus et une obligation de résidence sur vingt ans, avec possibilités encadrées de location ou de revente. Ce périmètre ne correspond pas exactement à l'absence de tout logement en propriété dans le monde. Les règles dépendent du régime applicable à l'achat ; la page rappelle que seuls les textes légaux font foi. Source : [conditions et obligations citydev](https://www.citydev.brussels/fr/conditions-et-obligations-pour-%C3%AAtre-propri%C3%A9taire).
+
+**Évaluation et limites.** L'étude d'impact publiée par citydev, issue d'un travail avec l'École urbaine de Sciences Po, examine les usages et les écarts aux ambitions. Elle décrit à proximité Be-Here, avec une offre biologique ou locale, mais relève que les prix freinent son usage, particulièrement pour des locataires sociaux. La proximité géographique ne garantit donc pas l'accès économique. Le questionnaire habitants comporte 60 réponses, sans échantillon représentatif, et sous-représente les locataires sociaux ; ses résultats éclairent les mécanismes sans établir un effet causal généralisable. Source : [étude d'impact, méthode p. 8–9 et alimentation p. 35–36 du PDF](https://www.citydev.brussels/sites/default/files/2025-03/Etude%20Impact%20TivoliGreenCity_Rapport%20de%20synth%C3%A8se.pdf).
+
+**Transposition proposée.** Étudier l'association accession conventionnée–location sociale–activités de proximité. Prévoir une halle dont le panier courant soit abordable pour les locataires comme pour les propriétaires, et mesurer les achats effectifs. Ne pas présenter Be-Here comme une halle agricole créée à l'intérieur de Tivoli. Les sources retenues n'établissent pas une desserte de transport créée et gérée par citydev ni un crédit public automatiquement joint à la vente. Il faut examiner séparément ces articulations avant d'en faire un modèle complet.
+
+### Vienne : Aspern Seestadt
+
+**Dispositif documenté.** La Ville de Vienne présente Seestadt comme un quartier multifonctionnel comprenant logements, emplois, commerces, équipements éducatifs et espaces publics. Elle indique que deux stations de métro U2 ont assuré la desserte dès le début et décrit une gestion organisée des rez-de-chaussée commerciaux. Il s'agit d'une coordination urbaine associant plusieurs acteurs, pas de la preuve que l'État construit, possède et exploite seul tous les équipements. Source : [présentation municipale — page en allemand](https://www.wien.gv.at/stadtplanung/aspern-seestadt).
+
+Le site du quartier distingue logements locatifs subventionnés, logements locatifs privés et logements en propriété. Cette diversité ne prouve pas l'existence d'un dispositif public de vente à crédit réservé aux non-propriétaires. Source : [formes de logement — page en anglais](https://www.aspern-seestadt.at/en/live/housing/rental-and-owner-occupied-apartments).
+
+**Transposition proposée.** Retenir la desserte structurante au début de l'opération et la programmation active des commerces. Évaluer séparément coût public, charges des ménages, fréquentation et accès des personnes modestes. Les pages consultées décrivent l'aménagement ; elles ne fournissent pas une évaluation causale de tous ses bénéfices et ne permettent pas de conclure à une neutralité carbone.
+
+### Épreuve commune avant transposition
+
+Comparer chaque mécanisme dans le territoire envisagé avec une rénovation diffuse accompagnée de transports et avec une offre publique locative. Vérifier bénéficiaires réellement admis, besoin d'apport familial, charges complètes, temps de trajet, panier alimentaire et clauses de sortie. Distinguer les performances annoncées des mesures après occupation. Une réussite architecturale ne suffit pas si les services tardent, les charges excluent les ménages ou la revente privatise intégralement l'aide publique.
+
+---
+
 ## Protocole commun de vérification
 
 Pour chaque cas, reconstruire les seules informations disponibles au moment de décider, puis comparer la proposition avec les mesures effectivement prises et au moins une alternative. Distinguer simulation, observation historique et causalité démontrée ; les résultats rétrospectifs ne sont pas tenus pour acquis.

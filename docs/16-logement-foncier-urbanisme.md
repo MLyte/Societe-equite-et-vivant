@@ -1,6 +1,6 @@
 ---
 status: draft
-version: "0.3"
+version: "0.4"
 last_updated: "2026-09-11"
 confidence: "hypothesis"
 ---
@@ -12,6 +12,8 @@ confidence: "hypothesis"
 Ce document précise la place du logement, du foncier et de l'urbanisme dans Société, équité et vivant.
 
 Le logement fait partie du socle vital. Il ne peut donc pas être traité comme un actif financier ordinaire lorsque son prix, sa rareté ou sa mauvaise qualité empêchent l'accès à une vie digne.
+
+**Projet concret à l'étude : un quartier intégré sous maîtrise publique**, réunissant logements bas-carbone, accession abordable pour les ménages sans logement en propriété, location, transports collectifs et halles de producteurs. Sa [fiche de conception](#piste-de-travail-habitats-publics-bas-carbone-et-accession-abordable) rassemble le fonctionnement d'ensemble, les bénéfices recherchés et les conditions d'essai. Les [réalisations comparables](../research/case-studies.md#quartiers-intégrés-sous-maîtrise-publique) permettent de confronter cette proposition à l'expérience.
 
 ---
 
@@ -165,9 +167,56 @@ Chaque territoire devrait viser un accès raisonnable à :
 
 Cet objectif n'impose pas un modèle urbain unique. Il doit être adapté aux villes, villages, zones rurales et territoires dispersés.
 
+<a id="piste-de-travail-habitats-publics-bas-carbone-et-accession-abordable"></a>
+
 ### Piste de travail : habitats publics bas-carbone et accession abordable
 
 **Statut : hypothèse à instruire et à expérimenter, sans efficacité ni équilibre financier présumés.** L'objectif est de traiter ensemble logement, énergie, déplacements et accès aux produits essentiels. Cette piste précise l'offre publique évoquée plus haut, sans remplacer le droit au logement par une obligation d'achat.
+
+#### Le projet d'ensemble : un quartier intégré sous maîtrise publique
+
+L'unité du projet est un quartier ouvert sur la ville et les communes voisines. L'État et les autorités territoriales compétentes en organiseraient le foncier, l'investissement et les services publics dans un programme commun. Ce programme pourrait transformer un quartier existant ou créer un ensemble sur un site approprié. L'intérêt recherché est de rendre compatibles, dès le départ, des décisions souvent traitées séparément : où habiter, comment se déplacer, combien coûte la vie quotidienne et quels services restent accessibles.
+
+Le programme associerait cinq composantes indissociables :
+
+1. **Habiter** : des appartements et logements de tailles variées, sobres en énergie, dont une partie vendue à crédit sous conditions à des occupants sans logement en propriété et une partie maintenue en location abordable.
+2. **Se déplacer** : une desserte publique vers les villes et pôles d'emploi, des cheminements accessibles et sûrs, des équipements pour le vélo et les besoins de livraison, de secours ou de mobilité adaptée.
+3. **S'approvisionner et travailler** : une halle accueillant producteurs agricoles, artisans, réparation et commerces indépendants, avec une logistique mutualisable et des prix accessibles.
+4. **Vivre au quotidien** : des espaces verts, lieux de rencontre et services dimensionnés aux besoins, notamment accueil de la petite enfance, accès aux soins et activités intergénérationnelles, sur place ou réellement accessibles à proximité.
+5. **Entretenir et transmettre** : des responsabilités durables pour les réseaux, les parties communes, les services et les logements vendus, avec budget de maintenance, règles de revente et représentation des habitants.
+
+La maîtrise publique porterait sur les objectifs, les actifs conservés et les engagements de service. Elle pourrait recourir à des entreprises pour construire ou entretenir, sans leur transférer le contrôle du programme. Après les ventes, les habitants posséderaient les droits prévus au contrat ; copropriétés, opérateur public et exploitants auraient des responsabilités distinctes et publiées. L'État ne resterait donc pas propriétaire de tous les appartements pour gérer le quartier.
+
+#### Problèmes visés et intérêts attendus
+
+Les effets ci-dessous sont des **hypothèses de bénéfice**, à mesurer par rapport à une alternative réaliste. La présence d'un équipement ne prouve ni son usage ni son efficacité.
+
+| Problème visé | Mécanisme proposé | Résultat à vérifier |
+| --- | --- | --- |
+| Accès dépendant du patrimoine familial | Prix encadré, crédit adapté, location | Accès sans donation ni caution familiale |
+| Budget contraint du ménage | Logement, énergie et mobilité coordonnés | Dépenses cumulées et reste à vivre |
+| Froid, humidité, chaleur et bruit | Conception saine et entretien suivi | Confort réel, qualité de l'air, santé |
+| Dépendance automobile | Services proches et desserte fiable | Voitures nécessaires, temps et coût des trajets |
+| Émissions et consommation de ressources | Réhabilitation, sobriété et mutualisation | Bilan de cycle de vie, y compris chantier |
+| Isolement et difficultés d'autonomie | Espaces partagés et parcours accessibles | Liens choisis, autonomie, usages par âge |
+| Obstacles à l'emploi ou à la formation | Transports, petite enfance, locaux d'activité | Accès effectif aux emplois et formations |
+| Faibles débouchés pour les petits producteurs | Halles, loyers maîtrisés, logistique commune | Revenu des vendeurs et prix des produits |
+| Vulnérabilité aux chocs énergétiques | Besoins réduits et équipements maintenables | Factures en crise et continuité de service |
+| Artificialisation et chaleur urbaine | Sites déjà urbanisés, ombre, sols perméables | Sols préservés, températures, ruissellement |
+| Dégradation différée des bâtiments | Réserves et maintenance programmée | Coût d'entretien, pannes, durée de vie |
+| Action publique fragmentée | Programme et calendrier partagés | Services ouverts à temps et coût public net |
+
+**Pourquoi les réunir ?** Une desserte fiable pourrait permettre de réduire les dépenses automobiles, et donc améliorer l'accessibilité réelle du logement. Une population présente et des travailleurs de proximité pourraient soutenir l'activité de la halle ; celle-ci pourrait réduire certains déplacements et faciliter les rencontres. Des équipements communs pourraient répartir les coûts fixes entre davantage d'usagers. Ces complémentarités doivent être testées : densité, horaires, prix et habitudes peuvent empêcher leur réalisation.
+
+**Pour les habitants**, le gain recherché associe stabilité résidentielle, patrimoine d'usage et moindre exposition aux dépenses contraintes. **Pour les producteurs et artisans**, il s'agit de débouchés et de locaux accessibles. **Pour la collectivité**, il s'agit d'une capacité d'investissement, de services et de maintenance mieux coordonnée. Aucun de ces gains n'implique automatiquement un bénéfice financier pour l'État ou une baisse des prix dans toute la région.
+
+**Les tensions à traiter ensemble.** Une halle locale trop chère peut exclure les résidents modestes ; un logement performant éloigné des emplois peut accroître les trajets ; un équipement collectif complexe peut alourdir les charges et concentrer le risque de panne. La valorisation du quartier peut déplacer les difficultés vers les riverains par hausse des prix. L'étude doit donc inclure les non-bénéficiaires, les loyers voisins, les coûts de sortie et les effets sur les commerces existants. Le choix reste révisable si une rénovation dispersée et une meilleure desserte apportent davantage de bénéfices pour le même budget.
+
+#### Enseignements de réalisations existantes
+
+Les [études de cas comparées](../research/case-studies.md#quartiers-intégrés-sous-maîtrise-publique) documentent trois rapprochements : HDB et Tengah à Singapour pour l'articulation logement public, accession et services ; Tivoli GreenCity à Bruxelles pour un quartier durable avec accession conventionnée et activités ; Aspern Seestadt à Vienne pour la coordination urbanisme-transports-services. Aucun n'est présenté comme une reproduction exacte ni comme une validation globale du projet.
+
+Deux enseignements guident l'essai proposé : contractualiser le calendrier des services dès la première occupation, et vérifier l'accessibilité économique de la halle autant que sa proximité. Prévoir un comité de gestion associant habitants propriétaires et locataires, commerçants et services publics, sans lui confier l'attribution des logements ni l'audit indépendant. Évaluer après une première année complète d'occupation, puis à trois et cinq ans, avant toute extension importante.
 
 #### Maîtrise publique et implantation
 
