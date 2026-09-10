@@ -8,6 +8,10 @@ Les documents rédigés en français doivent utiliser les accents, apostrophes e
 
 Les noms de fichiers restent simples, en minuscules, sans accents lorsque c'est préférable pour la compatibilité.
 
+En prose française, utiliser systématiquement une espace insécable avant `;`, `:`, `!`, `?` et `%` pour garder la ponctuation ou le symbole avec le mot ou le nombre précédent. Écrire `&nbsp;` en HTML ou utiliser le caractère U+00A0 en Markdown. Préserver la syntaxe des URL, du code et des métadonnées.
+
+La vitrine convertit automatiquement ces espaces à la génération, dans les textes et les titres issus des synthèses. Appliquer aussi cette convention aux textes HTML écrits directement dans le gabarit.
+
 ---
 
 ## Ton

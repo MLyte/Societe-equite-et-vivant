@@ -1,44 +1,73 @@
-# Contributing
+# Contribuer au projet
 
-Société, équité et vivant is a governance design project. Contributions should improve clarity, internal consistency, empirical grounding or criticism.
+Société, équité et vivant est un projet de conception institutionnelle. Vos contributions peuvent améliorer sa clarté, sa cohérence, ses sources ou la prise en compte de ses limites. Une expertise professionnelle, un travail de recherche ou une expérience de terrain peuvent faire apparaître des effets oubliés.
 
----
+## Comment participer
 
-## What contributions are useful
+### Signaler une contradiction, apporter une source ou proposer une piste
 
-Useful contributions include:
+Vous pouvez contribuer **sans modifier les fichiers du dépôt**. Un compte GitHub est nécessaire pour envoyer une proposition.
 
-- rewriting unclear sections;
-- identifying contradictions;
-- adding sources;
-- proposing alternative institutional designs;
-- documenting objections;
-- testing the model against historical or hypothetical scenarios;
-- improving definitions in the glossary.
+1. Consultez les [échanges existants](https://github.com/MLyte/Societe-equite-et-vivant/issues) pour vérifier si le sujet est déjà discuté.
+2. [Ouvrez une proposition](https://github.com/MLyte/Societe-equite-et-vivant/issues/new). Sur GitHub, cet espace de discussion s’appelle une *issue*.
+3. Indiquez le chapitre et le passage concernés, votre constat et les sources disponibles. Expliquez la correction ou l’alternative envisagée, ses limites et ses effets possibles sur d’autres parties du modèle.
 
----
+Une proposition précise peut suffire : « Dans ce passage, l’hypothèse X semble incompatible avec Y. Voici une source et une formulation à discuter. » Une question argumentée est également utile lorsqu’une solution n’est pas encore identifiée.
 
-## What contributions should avoid
+### Proposer directement une modification du texte
 
-Avoid contributions that:
+Une *pull request* est une proposition de modification soumise à examen avant son intégration.
 
-- turn the project into a political campaign;
-- present personal intuition as established fact;
-- add unsourced factual claims;
-- rewrite multiple unrelated files at once;
-- make the model more authoritarian without explicit safeguards;
-- remove open questions merely because they are uncomfortable.
+1. Créez votre copie du dépôt sur GitHub, appelée *fork*, puis une branche pour votre modification.
+2. Modifiez le ou les fichiers concernés, en conservant leur structure et en citant les sources.
+3. Ouvrez une pull request vers la branche `main` de ce dépôt. Présentez le problème, le changement proposé, ses raisons et les vérifications effectuées.
+
+Privilégiez une modification ciblée. Lorsqu’un chapitre change sur le fond, mettez aussi à jour sa synthèse dans `vitrine.md` si elle est concernée. Incrémentez la version et actualisez la date des fichiers Markdown modifiés sur le fond lorsqu’ils possèdent ces métadonnées. Pour la vitrine, lancez `npm test` et `npm run build`.
+
+Les propositions sont discutées avant intégration ; leur publication n’implique pas leur adoption par le projet.
 
 ---
 
-## Writing format
+## Contributions utiles
 
-Most chapters should follow this structure:
+Vous pouvez notamment :
+
+- reformuler un passage peu clair ;
+- identifier une contradiction ;
+- ajouter ou vérifier une source ;
+- proposer une autre organisation institutionnelle ;
+- documenter une objection ;
+- tester le modèle face à un scénario historique ou hypothétique ;
+- améliorer une définition du glossaire.
+
+---
+
+## Ce qu’il faut éviter
+
+Évitez les contributions qui :
+
+- transforment le projet en campagne politique ;
+- présentent une intuition personnelle comme un fait établi ;
+- ajoutent des affirmations factuelles sans source ;
+- réécrivent plusieurs fichiers sans lien entre eux ;
+- renforcent un pouvoir sans en examiner les risques et les contre-pouvoirs ;
+- suppriment une incertitude simplement parce qu’elle est inconfortable.
+
+---
+
+## Format de rédaction
+
+Écrivez en français, avec un ton sobre et précis. Lisez les [principes du projet](docs/02-principes.md) et le [guide de style](.blueprint/style-guide.md) avant une modification substantielle. La plupart des chapitres suivent cette structure :
 
 ```md
-# Title
+---
+status: draft
+version: "0.1"
+last_updated: "YYYY-MM-DD"
+confidence: "hypothesis"
+---
 
-## Metadata
+# Titre
 
 ## Pourquoi ce document existe
 
@@ -61,23 +90,24 @@ Most chapters should follow this structure:
 
 ---
 
-## Certainty labels
+## Niveaux de certitude
 
-Use one of the following labels when making substantive claims:
+Pour une affirmation importante, distinguez :
 
-- **Établi**
-- **Probable**
-- **Hypothèse**
-- **Question ouverte**
+- **Établi** : consensus solide ou résultat vérifié ;
+- **Probable** : conclusion appuyée, mais encore discutée ;
+- **Hypothèse** : proposition à mettre à l’épreuve ;
+- **Question ouverte** : point non résolu.
+
+N’inventez jamais de source. Si une référence nécessaire manque, signalez `[source à vérifier]`. La capacité de l’IA à formuler une proposition ne démontre ni sa neutralité ni la validité de ses effets.
 
 ---
 
-## Commit message examples
+## Exemples de messages de commit
 
-```bash
-docs: add initial vision chapter
-docs: clarify role of scientific consortium
-research: add critique of technocratic capture
-fix: remove unsupported claim about AI neutrality
-chore: update changelog
+```text
+docs: clarifier le rôle du consortium scientifique
+research: documenter une critique de la capture institutionnelle
+fix: retirer une affirmation non étayée sur la neutralité de l’IA
+docs: préciser les conditions d’une expérimentation
 ```

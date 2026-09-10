@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.10"
-last_updated: "2026-09-07"
+version: "0.11"
+last_updated: "2026-09-09"
 confidence: "hypothesis"
 ---
 
@@ -120,6 +120,30 @@ Toute expérimentation territoriale ou numérique doit définir avant son lancem
 
 Une absence de résultat probant ne justifie pas une prolongation automatique. Les mécanismes conservés doivent faire l'objet d'une révision périodique portant sur leur représentativité, leur influence réelle, leur coût administratif, leur compréhension par les citoyens, les recours déposés et les risques de capture constatés.
 
+### De la contribution citoyenne à la décision exécutée
+
+**Appui documentaire.** Democracy International [défend notamment des assemblées citoyennes régulières](https://democracy-international.org/ambitious-final-proposals-adopted-conference-future-europe-concludes) ; cette position associative ne constitue pas une preuve d'efficacité. Les [principes OCDE de 2020](https://www.oecd.org/en/publications/innovative-citizen-participation-and-new-democratic-institutions_339306da-en/full-report/component-9.html) recommandent un engagement de réponse, un suivi public et l'accès à des expertises diversifiées. Les [lignes directrices de 2022](https://www.oecd.org/en/publications/oecd-guidelines-for-citizen-participation-processes_f765caf6-en/full-report/component-6.html), étapes 8 et 9, insistent sur le retour aux participants et la distinction entre qualité du processus et effets obtenus. L'adaptation suivante reste une **hypothèse du projet**.
+
+Avant une consultation, publier la question, les options réellement ouvertes, l'autorité qui décide, les moyens d'instruction et l'engagement de réponse. Les participants peuvent proposer un recadrage motivé, demander l'audition d'une expertise contradictoire et faire instruire une alternative. Le refus doit préciser l'obstacle invoqué : droit, contrainte physique, données insuffisantes, budget ou priorité politique. Ces motifs ne sont pas interchangeables et restent contestables selon les recours du projet.
+
+Le dossier préparatoire sépare connaissances établies, hypothèses de scénario et choix de valeur. Une équipe indépendante facilite la délibération ; les participants ont le dernier mot sur la formulation de leurs recommandations. Les opinions minoritaires peuvent être jointes au compte rendu. L'IA peut assister la synthèse, sous contrôle humain et avec correction des reformulations infidèles.
+
+Un registre public suit chaque recommandation, avec un identifiant stable :
+
+- formulation originale et éventuelles rectifications approuvées par ses auteurs ;
+- réponse motivée : retenue, partiellement retenue, refusée ou instruction complémentaire datée ;
+- décision compétente, responsable de mise en œuvre et financement voté, demandé ou encore absent ;
+- échéances, état d'exécution, résultat observé et écarts par rapport à l'engagement ;
+- contrôle prévu et voie de contestation.
+
+La consultation n'autorise pas automatiquement sa proposition. La [documentation de l'initiative citoyenne européenne](https://citizens-initiative.europa.eu/how-it-works/faq_en) illustre cette distinction : même une initiative réussie n'oblige pas la Commission à proposer une loi. Le projet doit donc annoncer clairement la portée de chaque mécanisme et ne pas confondre réponse, acceptation, financement et réalisation.
+
+Pour une demande de réexamen, conserver les [paramètres de travail déjà retenus](20-questions-structurantes.md#protection-du-long-terme) : saisine possible par pétition ou signalement documenté, demande du panel aux trois cinquièmes et réponse de l'autorité sous soixante jours. Ces paramètres ne sont ni des délais légaux existants ni des valeurs validées par l'OCDE. Les recours individuels et les alertes urgentes ne dépendent pas du vote du panel. Si une instruction complémentaire est nécessaire, la réponse dans ce délai en précise les motifs et le calendrier. Le registre rend visibles les retards, sans acceptation tacite ni report automatique de l'obligation de réponse.
+
+L'évaluation annuelle et le réexamen tous les quatre ans déjà proposés dans les [réponses structurantes](20-questions-structurantes.md#participation-citoyenne) examinent inclusion, compréhension, coût, réponses et changements effectivement réalisés. Une recommandation refusée avec une justification solide peut témoigner d'un examen réel ; un taux élevé d'acceptation suivi d'inaction peut masquer une participation décorative. L'audit doit pouvoir entendre les participants sans l'intermédiaire de l'équipe organisatrice.
+
+Le registre décrit les décisions et les intérêts organisés, sans publier les données personnelles des participants. L'accès non numérique, l'indemnisation et l'aide à l'instruction limitent les inégalités de participation. L'administration regroupe les demandes identiques sans écarter les nouveaux arguments ou les alertes minoritaires.
+
 ### Domaines à compétence technique renforcée
 
 Certains domaines ne doivent pas être décidés par vote direct lorsqu'ils combinent forte complexité, risque irréversible, dépendance à des données spécialisées et vulnérabilité aux campagnes médiatiques ou informationnelles.
@@ -230,6 +254,9 @@ Peut donner des exemples concrets, mais risque de copier aussi les angles morts 
 - Une infrastructure publique de participation peut rester capturable par ses administrateurs, ses prestataires, ses règles de classement ou ses données d'entraînement.
 - L'indemnisation et l'évaluation régulière de la participation ont un coût qui peut devenir disproportionné si le mécanisme n'influence pas réellement la décision.
 - La collecte d'informations destinées à mesurer la représentativité peut porter atteinte à la vie privée si elle devient trop détaillée ou insuffisamment protégée.
+- Le dispositif peut répondre à toutes les contributions sans leur donner d'effet. La distinction documentée pour l'initiative citoyenne européenne oblige à évaluer séparément droit de proposer, qualité de la réponse et réalisation.
+- La validation préalable peut fermer trop tôt l'espace de délibération si le cadrage, les hypothèses et les alternatives restent contrôlés par les seuls concepteurs. Les principes de l'OCDE sur l'information contradictoire justifient l'accès des participants à d'autres expertises, sans rendre les faits négociables.
+- Le registre peut favoriser les propositions faciles à compter ou encourager des acceptations de façade. L'audit doit examiner un échantillon de suites concrètes, les refus et les effets distributifs, plutôt que récompenser un taux d'acceptation.
 
 ---
 
@@ -244,8 +271,8 @@ Peut donner des exemples concrets, mais risque de copier aussi les angles morts 
 - Frontière pratique entre expression convictionnelle légitime et capture institutionnelle.
 - Part exacte du budget pouvant relever d'une décision participative locale.
 - Conditions de représentativité minimales pour une consultation numérique.
-- Effet juridique exact des avis de long terme et seuil permettant à une assemblée citoyenne de demander un réexamen.
-- Périodicité et critères de suppression des mécanismes participatifs devenus inefficaces ou décoratifs.
+- Transposition juridique des avis de long terme et du réexamen : les réponses structurantes retiennent l'avis sans veto, une réponse motivée et un recours ; la compatibilité avec le droit du territoire reste à vérifier avant expérimentation.
+- Évaluation des paramètres de renouvellement : conserver provisoirement l'examen annuel et la décision tous les quatre ans, puis les réviser selon les effets observés, sans interrompre les droits de participation et de recours.
 
 ---
 

@@ -15,6 +15,11 @@ Thumbs.db
 /dist/
 /build/
 /site/
+node_modules/
+.env
+.env.*
+!.env.example
+.qa/
 
 # Local notes
 .local/

@@ -1,0 +1,56 @@
+name: Vitrine — vérifier et publier
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: vitrine-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: vitrine
+          path: dist/
+          if-no-files-found: error
+
+  publish:
+    needs: build
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request' && vars.VITRINE_DEPLOY_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    environment: vitrine
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci --omit=dev
+      - uses: actions/download-artifact@v4
+        with:
+          name: vitrine
+          path: dist/
+      - run: npm run deploy
+        env:
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+          DEPLOY_PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
+          DEPLOY_REMOTE_DIR: ${{ secrets.DEPLOY_REMOTE_DIR }}
+          DEPLOY_HOST_SHA256: ${{ secrets.DEPLOY_HOST_SHA256 }}

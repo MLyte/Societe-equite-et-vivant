@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.10"
-last_updated: "2026-09-07"
+version: "0.11"
+last_updated: "2026-09-09"
 confidence: "hypothesis"
 ---
 
@@ -84,6 +84,14 @@ Il doit être :
 - protégé des conflits d'intérêts.
 
 Il ne décide pas seul des priorités collectives. Il établit les contraintes, les incertitudes et les trajectoires compatibles.
+
+### Une expertise transversale et des conclusions traçables
+
+Le projet propose une évaluation croisée des politiques, au-delà de la juxtaposition d’études spécialisées. Des équipes de disciplines différentes doivent examiner les interactions entre santé, économie, énergie, alimentation, climat et biodiversité, les effets différés et les conséquences pour les différents groupes sociaux. Elles rendent explicites les contradictions entre modèles, les hypothèses communes, les effets de rebond et les interactions encore mal connues. L’IA peut aider à cette comparaison, sans tenir lieu de validation scientifique.
+
+Les responsables politiques ne peuvent pas réécrire les conclusions d’une expertise ni en présenter un extrait comme sa conclusion générale. Le dossier scientifique, ses versions, ses réserves et les avis minoritaires restent accessibles ; toute sélection de résultats doit être justifiée face aux éléments contradictoires. Une modification politique touchant une hypothèse technique ou l’équilibre d’un scénario déclenche une réévaluation indépendante de ses effets croisés avant de pouvoir être présentée comme validée.
+
+Cette protection ne rend pas les études intangibles : une erreur, une nouvelle donnée ou une contre-expertise peut justifier leur révision selon une procédure contradictoire et traçable. Les citoyens et leurs représentants conservent l’arbitrage des finalités, des droits, des priorités et de la répartition des efforts, dans les contraintes établies. L’audit et la justice contrôlent le respect des procédures ; le périmètre des réévaluations et leurs délais restent à éprouver pour éviter le blocage institutionnel.
 
 ### Sélection et mandat des scientifiques
 
