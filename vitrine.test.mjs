@@ -16,9 +16,9 @@ test('Le HTML contient les sept sections, les sources et la date éditoriale san
   assert.equal(content.sections.length, 7);
   assert.match(html, /id="ia"/);
   assert.match(content.sections[3].intro, /sans biais/);
-  assert.match(content.sections[2].cards, /autorité humaine/);
-  assert.ok(countPageWords(html) >= 650 && countPageWords(html) <= 1400);
-  assert.equal((html.match(/<article /g) ?? []).length, 12);
+  assert.match(content.sections[2].cards, /responsable humain/);
+  assert.ok(countPageWords(html) >= 650 && countPageWords(html) <= 2200);
+  assert.equal((html.match(/<article /g) ?? []).length, 17);
   assert.equal((html.match(/class="explanation explanation-why"/g) ?? []).length, 14);
   assert.equal((html.match(/class="explanation explanation-how"/g) ?? []).length, 14);
   assert.doesNotMatch(content.sections[0].context, /explanation-|(?:Pourquoi|Comment|Quoi)&nbsp;\?/);
@@ -48,7 +48,7 @@ test('Le budget compte toute la page, y compris les contributions et inspiration
   assert.throws(() => renderPage(template, source.replace('Garantir une vie digne,', `${moreWords}Garantir une vie digne,`)), /Longueur de la page/);
   assert.equal(countPageWords(html.replace('</main>', '<p>Deux mots</p></main>')), countPageWords(html) + 2);
   assert.equal(countPageWords(html.replace('</main>', '<!-- commentaire ignoré --><svg><title>Icône ignorée</title></svg></main>')), countPageWords(html));
-  assert.equal(countPageWords(html.replace('</footer>', '<p>Footer hors budget</p></footer>')), countPageWords(html));
+  assert.equal(countPageWords(html.replace('</main>', '</main><footer>Footer hors budget</footer>')), countPageWords(html));
   assert.throws(() => countPageWords('<p>Sans contenu principal</p>'), /principal/);
 });
 
@@ -171,4 +171,20 @@ test('Le workflow exige les tests et la compilation avant publication, jamais de
   assert.match(workflow.jobs.publish.if, /github.event_name != 'pull_request'/);
   const steps = workflow.jobs.build.steps.map((s) => s.run).filter(Boolean);
   assert.deepEqual(steps, ['npm ci', 'npm test', 'npm run build']);
+});
+
+test('Le constat regroupe les cinq repères avant les propositions sans doublons', () => {
+  const content = renderVitrine(source);
+  const html = renderPage(template, source);
+  assert.ok(html.indexOf('id="constat"') < html.indexOf('id="propositions"'));
+  assert.match(content.constat, /ExxonMobil/);
+  assert.match(content.constat, /GenCast/);
+  assert.match(content.constat, /travailleur sur quatre/);
+  assert.equal((content.constat.match(/class="constat-card /g) ?? []).length, 5);
+  assert.match(content.constat, /Donald Trump/);
+  assert.match(content.constat, /constat-politique-unsplash\.webp/);
+  assert.doesNotMatch(content.sections[1].cards, /ExxonMobil|objectifs d’Aichi/);
+  const withoutSourceLabels = html.replace(/<footer class="constat-sources">[\s\S]*?<\/footer>/g, '');
+  assert.equal((withoutSourceLabels.match(/ExxonMobil/g) ?? []).length, 1);
+  assert.throws(() => renderVitrine(source.replace('## Constat actuel', '## Autre constat')), /Constat actuel/);
 });

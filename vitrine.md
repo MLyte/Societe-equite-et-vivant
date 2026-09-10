@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.31"
-last_updated: "2026-09-09"
+version: "0.52"
+last_updated: "2026-09-11"
 confidence: hypothesis
 # Appel à contribution complémentaire, placé après les trois étapes de conception.
 contribution: |
@@ -42,7 +42,7 @@ inspirations:
 ---
 
 <!-- Synthèses éditoriales : revoir les blocs concernés lors d'une modification
-de fond de leurs sources. Garder les sept sections et leur ordre. Les liens
+de fond de leurs sources. Garder le constat initial et les sept sections du projet dans leur ordre. Les liens
 relatifs sont vérifiés et transformés en liens GitHub à la compilation.
 Les propositions, responsabilités, usages de l'IA et étapes de conception conservent
 un Pourquoi ? et un Comment ? brefs, avec leurs réserves. L'origine et l'invitation
@@ -58,6 +58,44 @@ défendu, sans attribuer automatiquement ce constat à une cause unique. -->
 
 [En savoir plus : la vision](docs/01-vision.md)
 
+## Constat actuel
+
+Comprendre les défis d’aujourd’hui pour mieux préparer notre avenir.
+
+### Signer des accords ne suffit manifestement pas à protéger notre avenir.
+
+L’objectif de ralentir la perte de biodiversité d’ici **2010 n’a pas été atteint**. En **2020, aucun des vingt objectifs d’Aichi n’était pleinement réalisé à l’échelle mondiale** ; six l’étaient partiellement. En **2025**, dix ans après l’accord de Paris, le PNUE estimait que les politiques en place conduisaient à un réchauffement d’environ **2,8 °C au cours du siècle**, au-delà de l’objectif de rester nettement sous 2 °C et de poursuivre les efforts vers 1,5 °C. Cette projection peut encore être infléchie par le renforcement des politiques.
+
+[Biodiversité : bilan 2010](https://www.cbd.int/doc/publications/gbo/gbo3-final-en.pdf#page=5) · [Objectifs d’Aichi : bilan 2020](https://www.cbd.int/article/2020-the-year-that-was) · [Climat : rapport 2025](https://www.unep.org/fr/resources/rapport-2025-sur-lecart-entre-les-besoins-et-les-perspectives-en-matiere-de-reduction-des)
+
+### Des milliards de dividendes fossiles. Au Soudan, l’équivalent de 0,7 % financerait six mois d’aide alimentaire du PAM.
+
+En 2025, Saudi Aramco a versé **85,5 milliards de dollars de dividendes**, issus d’une activité centrée sur les énergies fossiles. La même année, **ExxonMobil a versé 17,2 milliards de dollars** et **Chevron, 12,8 milliards** de dividendes. Ces trois groupes tirent leurs revenus principalement du pétrole et du gaz, dont l’utilisation contribue au réchauffement et à la dégradation des écosystèmes. **Seulement 0,7 % environ des dividendes du premier cité auraient suffi à couvrir les 600 millions de dollars demandés en octobre 2025 par le Programme alimentaire mondial pour six mois d’assistance au Soudan**, afin d’étendre son aide à environ **8 millions de personnes par mois**.
+
+Cette comparaison porte sur le financement ; l’acheminement de l’aide reste tributaire du conflit et de l’accès aux populations.
+
+[Dividendes : Saudi Aramco](https://www.saudiexchange.sa/Resources/fsPdf/27472_1541_2026-03-10_08-08-09_en.pdf#page=1) · [Dividendes : ExxonMobil](https://corporate.exxonmobil.com/news/news-releases/2026/0130-exxonmobil-announces-2025-results) · [Dividendes : Chevron](https://chevroncorp.gcs-web.com/news-releases/news-release-details/chevron-reports-fourth-quarter-2025-results) · [Besoins au Soudan : PAM](https://www.wfp.org/stories/funding-cuts-six-critical-wfp-operations-risk) · [Impacts des fossiles : GIEC](https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/)
+
+### Penser dès maintenant l’avenir du travail pour prévenir une crise sociale.
+
+En 2025, l’Organisation internationale du travail estimait qu’**un travailleur sur quatre dans le monde** exerce une profession présentant un certain degré d’exposition à l’IA générative. Cette exposition **ne signifie pas la disparition de ces emplois** : l’OIT envisage davantage leur transformation que leur remplacement intégral. Le projet propose d’anticiper les conséquences sur les métiers, les revenus et les conditions de travail : **organiser la formation**, **sécuriser les transitions professionnelles** et débattre du **partage des gains de productivité**, y compris sous forme de **temps libéré**, lorsqu’ils se concrétisent.
+
+[Lire l’étude de l’OIT](https://www.ilo.org/fr/publications/intelligence-artificielle-generative-et-emploi-revision-2025)
+
+### Utiliser la puissance de l’IA pour prendre des décisions plus réfléchies.
+
+L’IA permet déjà de mobiliser de vastes ensembles de données pour explorer plusieurs futurs possibles. En météorologie, GenCast a été entraîné sur **quarante ans de données** et simule **plus de 80 variables** à l’échelle mondiale. Il produit une prévision sur quinze jours en **environ huit minutes**, et peut calculer plusieurs scénarios en parallèle avec les ressources nécessaires. Le projet propose de mettre cette puissance d’analyse au service des besoins de la population : croiser les données, comparer les solutions et confronter leurs effets au terrain pour améliorer les décisions.
+
+[Lire l’étude sur GenCast : Nature](https://www.nature.com/articles/s41586-024-08252-9)
+
+### Les intérêts personnels d’un chef d’État ne devraient pas décider de l’avenir de tous.
+
+Aux États-Unis, **Donald Trump a engagé un nouveau retrait de l’accord de Paris**, effectif le **27 janvier 2026**. En Allemagne, l’**AfD est passée de 10,4 % à 20,8 % des secondes voix** entre les élections fédérales de 2021 et 2025. Dans ses rapports de **2025**, la Commission européenne constatait des **menaces non corrigées sur le pluralisme des médias en Hongrie** et rapportait des **inquiétudes sur l’indépendance des médias publics en Italie**, malgré des progrès sur leur financement. Ces évolutions nourrissent une inquiétude à l’origine du projet : la place accordée au climat, aux droits et aux contre-pouvoirs dans les priorités politiques. Le projet propose d’**évaluer toute politique selon ses effets sur les droits, l’équité et le vivant, y compris non humain, à l’échelle mondiale et sur plusieurs générations**, au-delà des intérêts d’un dirigeant, d’un parti ou d’un seul pays.
+
+Un résultat électoral n’est pas un bilan de gouvernement ; ces exemples ne démontrent ni un échec global de ces courants ni une diffusion causée par Trump. Le projet recherche une méthode impartiale, avec des finalités explicites soumises au débat démocratique, plutôt que des objectifs supposés neutres.
+
+[Décision américaine : Maison-Blanche](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/) · [Retrait effectif : ONU](https://treaties.un.org/doc/Publication/CN/2025/CN.71.2025-Frn.pdf) · [Élections allemandes : résultats officiels](https://www.bundeswahlleiterin.de/en/info/presse/mitteilungen/bundestagswahl-2025/29_25_endgueltiges-ergebnis.html) · [Médias en Hongrie : Commission européenne, 2025](https://commission.europa.eu/document/download/524bd8d4-33ba-4802-891f-d8959831ed5a_en?filename=2025+Rule+of+Law+Report+-+Country+Chapter+Hungary.pdf) · [Médias en Italie : Commission européenne, 2025](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52025SC0912)
+
 ## Ce que le projet propose
 
 > Quatre priorités de conception · modalités à éprouver
@@ -68,7 +106,7 @@ défendu, sans attribuer automatiquement ce constat à une cause unique. -->
 
 **Comment ?** Comparer les effets à court, moyen et long terme et **publier les coûts différés**.
 
-**Quoi ?** **Des études scientifiques des effets à long terme**, publiées et auditées. Gouvernement et Parlement devraient justifier leurs choix ; une assemblée citoyenne pourrait demander un réexamen.
+**Quoi ?** **Des études d’impact à long terme**, publiées et auditées avant les décisions majeures.
 
 [En savoir plus : le long terme](docs/03-institutions.md#fonction-distribuée-de-protection-du-long-terme)
 
@@ -110,45 +148,51 @@ défendu, sans attribuer automatiquement ce constat à une cause unique. -->
 
 > Architecture proposée · responsabilités séparées
 
-### Les citoyens et leurs représentants
+Ces orientations supposent **cinq fonctions aux pouvoirs distincts**.
+
+### Les citoyens et le Parlement choisissent les priorités
 
 **Pourquoi ?** En 2025, dans 33 pays de l’OCDE, **52 % des adultes estimaient ne pas avoir voix au chapitre** en moyenne ([OCDE](https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2026-results_9eb63fec-en/full-report/political-voice-barriers-to-participation-and-implications-for-trust-in-government_08533950.html)). Le projet veut **ouvrir d’autres choix politiques face aux enjeux présents et futurs**.
 
-**Comment ?** Élections, assemblées citoyennes et contre-propositions permettraient de **fixer les priorités et la répartition des efforts**. Les élus auraient mandat de choisir parmi les scénarios scientifiquement validés, sans réécrire les études. Une contre-expertise pourrait conduire à leur révision.
+**Comment ?** Le vote et les assemblées citoyennes fixeraient **les priorités et le partage des efforts**. Le Parlement voterait lois et budgets parmi les solutions validées scientifiquement. Les propositions citoyennes recevraient **une réponse justifiée et un suivi public**.
 
 [En savoir plus : la démocratie](docs/09-democratie.md)
 
-### Une expertise scientifique pluraliste
+### Une expertise pluraliste évalue les scénarios
 
-**Pourquoi ?** Pour **évaluer les effets croisés** des propositions, sans confondre expertise et choix de justice.
+**Pourquoi ?** Pour **éclairer la faisabilité des choix**, sans confondre expertise et arbitrage démocratique.
 
-**Comment ?** Établir les contraintes, hypothèses et incertitudes des scénarios. La validation porterait sur **leur compatibilité avec les contraintes établies** ; elle ne garantirait pas leurs résultats. Méthodes et désaccords resteraient publics.
+**Comment ?** Examiner les effets croisés et différés, publier hypothèses, incertitudes et désaccords. La validation porterait sur **la compatibilité avec les contraintes établies** ; elle ne garantirait ni les résultats ni la justesse des choix politiques. Une contre-expertise pourrait conduire à réviser un scénario.
 
 **Quoi ?** **Un consortium scientifique indépendant**, réunissant plusieurs disciplines et pays, validerait les scénarios. Rotation des mandats, déclaration des conflits d’intérêts et audit externe encadreraient son travail.
 
 [En savoir plus : les institutions](docs/03-institutions.md)
 
-### Une IA sous responsabilité humaine
+### Une IA conseille sous responsabilité humaine
 
 **Pourquoi ?** Pour disposer d’une aide à l’analyse **sans lui déléguer le pouvoir**.
 
-**Comment ?** Une infrastructure publique assisterait l’expertise. **Une autorité humaine identifiable répondrait de chaque décision** appuyée sur ses recommandations.
+**Comment ?** Les recommandations de l’IA seraient **vérifiables et contestables**. **Un responsable humain expliquerait et assumerait chaque décision**. L’IA ne pourrait ni gouverner ni attribuer une note générale aux citoyens.
 
 [En savoir plus : l’IA publique](docs/08-ia.md)
 
-### Des responsables politiques comptables de leurs actes
+[Découvrir le rôle de l’IA](#ia)
 
-**Pourquoi ?** Empêcher la **sélection des conclusions politiquement commodes**.
+### Le gouvernement et les administrations mettent en œuvre
 
-**Comment ?** Les élus assumeraient budgets et mise en œuvre. **Modifier les hypothèses ou les effets attendus d’un scénario** exigerait une réévaluation indépendante. Contacts avec les lobbies tracés, conflits d’intérêts contrôlés et influences dissimulées sanctionnées protégeraient cette séparation.
+**Pourquoi ?** Traduire les décisions en **actes vérifiables**, sans sélectionner les conclusions politiquement commodes.
+
+**Comment ?** Le gouvernement ferait appliquer les décisions sous contrôle du Parlement. **Responsables, budgets, délais et résultats seraient publics**. Modifier un scénario demanderait une nouvelle expertise indépendante. Les contacts avec les lobbies seraient déclarés, les influences cachées sanctionnées.
 
 [En savoir plus : la mise en œuvre](docs/03-institutions.md)
 
-### Une justice et des contrôles indépendants
+### L’audit et la justice exercent des contrôles distincts
 
 **Pourquoi ?** Pour protéger les droits et **limiter les abus de pouvoir**.
 
-**Comment ?** **Recours individuels ou collectifs** devant une justice indépendante, pouvant suspendre une mesure. Une autorité d’audit séparée de l’expertise et de l’exécution contrôlerait données, méthodes et conflits d’intérêts.
+**Comment ?** **L’audit contrôlerait données, méthodes et conflits d’intérêts**, séparément de l’expertise et de l’exécution. Il pourrait demander la suspension d’un modèle défaillant. **La justice protégerait les droits** : recours individuels ou collectifs, y compris en urgence, et possibilité de suspendre une mesure, même scientifiquement validée.
+
+[En savoir plus : l’audit indépendant](docs/03-institutions.md#autorité-daudit-scientifique-et-algorithmique)
 
 [En savoir plus : les droits et les recours](docs/13-droit-justice.md)
 

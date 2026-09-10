@@ -31,6 +31,8 @@ const githubSvg = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16
 export const root = fileURLToPath(new URL('.', import.meta.url));
 export const repository = 'https://github.com/MLyte/Societe-equite-et-vivant';
 const externalSources = new Set([
+  'https://www.ilo.org/fr/publications/intelligence-artificielle-generative-et-emploi-revision-2025',
+  'https://www.nature.com/articles/s41586-024-08252-9',
   'https://theshiftproject.org/qui-sommes-nous/',
   'https://doughnuteconomics.org/doughnut',
   'https://futuregenerations.wales/do/get-in-touch/faqs/',
@@ -38,14 +40,36 @@ const externalSources = new Set([
   'https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2026-results_9eb63fec-en/full-report/political-voice-barriers-to-participation-and-implications-for-trust-in-government_08533950.html',
   'https://energy.ec.europa.eu/topics/markets-and-consumers/energy-consumers-and-prosumers/energy-poverty_en',
   'https://www.unep.org/resources/emissions-gap-report-2025',
+  'https://www.unep.org/fr/resources/rapport-2025-sur-lecart-entre-les-besoins-et-les-perspectives-en-matiere-de-reduction-des',
+  'https://www.cbd.int/doc/publications/gbo/gbo3-final-en.pdf#page=5',
+  'https://www.cbd.int/article/2020-the-year-that-was',
+  'https://corporate.exxonmobil.com/news/news-releases/2026/0130-exxonmobil-announces-2025-results',
+  'https://www.saudiexchange.sa/Resources/fsPdf/27472_1541_2026-03-10_08-08-09_en.pdf#page=1',
+  'https://chevroncorp.gcs-web.com/news-releases/news-release-details/chevron-reports-fourth-quarter-2025-results',
+  'https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/',
+  'https://www.wfp.org/stories/funding-cuts-six-critical-wfp-operations-risk',
+  'https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/',
+  'https://treaties.un.org/doc/Publication/CN/2025/CN.71.2025-Frn.pdf',
+  'https://www.bundeswahlleiterin.de/en/info/presse/mitteilungen/bundestagswahl-2025/29_25_endgueltiges-ergebnis.html',
+  'https://commission.europa.eu/document/download/524bd8d4-33ba-4802-891f-d8959831ed5a_en?filename=2025+Rule+of+Law+Report+-+Country+Chapter+Hungary.pdf',
+  'https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52025SC0912',
 ]);
+// Photos d’illustration sous licence Unsplash : https://unsplash.com/license.
+// Les lieux et personnes photographiés n’identifient pas les cas cités dans le texte.
+const currentStatePhotos = [
+  { file: 'constat-foret-unsplash.webp', width: 900, height: 1350, alt: 'Des arbres morts se dressent dans une forêt sous un ciel bleu.', author: 'Rob Wingate', id: '2x7gFGkMwME' },
+  { file: 'constat-raffinerie-unsplash.webp', width: 1100, height: 733, alt: 'Tours et installations d’une raffinerie de pétrole.', author: 'Ali Mucci', id: 'gZbjx2K7s9I' },
+  { file: 'constat-travail-unsplash.webp', width: 1100, height: 733, alt: 'Des mains travaillent sur le clavier d’un ordinateur portable.', author: 'Alicia Christin Gerald', id: '45ry4Md83aw' },
+  { file: 'constat-recherche-unsplash.webp', width: 1100, height: 733, alt: 'La Terre et ses formations nuageuses vues depuis l’espace.', author: 'NASA', id: 'yZygONrUBe8' },
+  { file: 'constat-politique-unsplash.webp', width: 1100, height: 619, alt: 'Le dôme du Capitole des États-Unis et un drapeau américain, à Washington.', author: 'Ian Hutchinson', id: 'P8rgDtEFn7s' },
+];
 export const sectionIds = ['presentation', 'propositions', 'decisions', 'ia', 'limites', 'demarche', 'approfondir'];
 const titles = [null, 'Ce que le projet propose', 'Comment les décisions seraient prises', 'Une IA pour éclairer le long terme', 'Les prochaines étapes de conception', 'D’où vient cette démarche', 'Construisons la suite'];
 export const escapeHtml = (text) => text.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 const nonBreakingPunctuation = (text) => text.replace(/[ \t\u00a0\u202f]+(?=[;:!?%])/g, '&nbsp;');
 
 export function sourceUrl(href) {
-  if (href.startsWith('#') && sectionIds.includes(href.slice(1))) return href;
+  if (href.startsWith('#') && [...sectionIds, 'constat'].includes(href.slice(1))) return href;
   if (externalSources.has(href)) return href;
   if (href.startsWith(`${repository}/`) || href === repository) return href;
   const [path, anchor] = href.split('#');
@@ -105,6 +129,17 @@ export function renderVitrine(source = readFileSync(resolve(root, 'vitrine.md'),
       return { title, body: lines.join('\n') };
     }) };
   });
+  if (sections.length !== 8 || sections[1].title !== 'Constat actuel' || sections[1].cards.length !== 5) throw new Error('La section Constat actuel doit suivre la présentation avec cinq repères sourcés.');
+  const [currentState] = sections.splice(1, 1);
+  if (currentState.cards.some((card) => !/\[[^\]]+\]\([^)]+\)/.test(card.body))) throw new Error('Chaque constat doit citer sa source.');
+  const currentCards = currentState.cards.map((card, index) => {
+    const blocks = card.body.trim().split(/\n\s*\n/);
+    if (![2, 3].includes(blocks.length) || !blocks.at(-1).startsWith('[')) throw new Error('Chaque constat doit contenir une explication, une note facultative puis ses sources.');
+    const note = blocks.length === 3 ? `<p class="constat-note"><small>${markdown.parseInline(blocks[1])}</small></p>` : '';
+    const photo = currentStatePhotos[index];
+    return `<article class="constat-card bg-white border rounded-xl"><figure class="constat-photo"><img src="./assets/${photo.file}" alt="${escapeHtml(photo.alt)}" width="${photo.width}" height="${photo.height}" loading="lazy" decoding="async"><figcaption><a href="https://unsplash.com/photos/${photo.id}" target="_blank" rel="noopener noreferrer" aria-label="Source de la photo d’illustration : ${escapeHtml(photo.author)} / Unsplash">${externalLinkSvg}<span>Source</span></a></figcaption></figure><div class="constat-content"><h3 class="constat-lead">${nonBreakingPunctuation(escapeHtml(card.title)).replace(/\bPAM\b/g, '<button type="button" class="acronym-trigger" title="Programme alimentaire mondial" aria-label="PAM : Programme alimentaire mondial">PAM</button>')}</h3><div class="constat-explanation">${markdown.parse(blocks[0])}${note}</div><footer class="constat-sources">${markdown.parse(blocks.at(-1))}</footer></div></article>`;
+  }).join('');
+  const constat = `<div class="section-heading"><p class="section-index">00 / Les repères</p><h2 id="constat-title">Constat actuel</h2>${markdown.parse(currentState.intro)}</div><div class="constat-grid grid">${currentCards}</div>`;
   if (sections.length !== 7 || sections.some((s, i) => titles[i] && s.title !== titles[i])) throw new Error('Les sept sections éditoriales doivent conserver leur ordre.');
   const expectedCards = [0, 4, 5, 0, 3, 0, 0];
   if (sections.some((s, i) => s.cards.length !== expectedCards[i])) throw new Error('Structure des blocs éditoriaux invalide.');
@@ -134,7 +169,7 @@ export function renderVitrine(source = readFileSync(resolve(root, 'vitrine.md'),
   rendered[0].lead = rendered[0].intro.slice(0, leadEnd);
   rendered[0].context = rendered[0].intro.slice(leadEnd);
   const formattedDate = new Intl.DateTimeFormat('fr-BE', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(date));
-  return { sections: rendered, date, formattedDate };
+  return { sections: rendered, constat, date, formattedDate };
 }
 
 export function countPageWords(html) {
@@ -181,6 +216,7 @@ export function renderPage(template, source = readFileSync(resolve(root, 'vitrin
   const inspirations = `<div class="page-width"><p class="section-index">07 / Les inspirations et initiatives</p><h2 id="inspirations-title">${referenceText(references.title)}</h2><p class="inspirations-intro">${referenceText(references.intro)}</p><ul class="inspirations-grid grid md:grid-cols-2">${references.cards.map((card, i) => `<li class="inspiration-card p-6 bg-white border rounded-xl"><div class="inspiration-logo" aria-hidden="true">${referenceLogos[i] ? `<img src="./assets/${referenceLogos[i]}" alt="" loading="lazy" decoding="async">` : `<span class="inspiration-name">Doughnut Economics</span>`}</div><p class="inspiration-category">${referenceText(card.category)}</p><h3>${referenceText(card.title)}</h3><p>${referenceText(card.text)}</p><a class="source-link" href="${escapeHtml(sourceUrl(card.url))}" hreflang="${card.language}" target="_blank" rel="noopener noreferrer">${externalLinkSvg}&nbsp;<span>${referenceText(card.link)}${card.language === 'en' ? `&nbsp;${englishFlag}` : ''}</span></a></li>`).join('')}</ul><p class="inspirations-reserve">${referenceText(references.reserve)}</p></div>`;
   let html = template.replace(/\{\{([\w.]+)\}\}/g, (_, key) => {
     if (key === 'inspirations') return inspirations;
+    if (key === 'constat') return content.constat;
     if (key === 'externalLinkIcon') return externalLinkSvg;
     if (key === 'date') return content.date;
     if (key === 'formattedDate') return content.formattedDate;
@@ -193,6 +229,6 @@ export function renderPage(template, source = readFileSync(resolve(root, 'vitrin
   const reading = estimateReadingTime(html);
   html = html.replaceAll('{{readingQuick}}', String(reading.quickMinutes)).replaceAll('{{readingFull}}', String(reading.fullMinutes));
   const words = countPageWords(html);
-  if (words < 650 || words > 1400) throw new Error(`Longueur de la page : ${words} mots (650–1400 attendus, blocs complémentaires compris).`);
+  if (words < 650 || words > 2200) throw new Error(`Longueur de la page : ${words} mots (650–2200 attendus, blocs complémentaires compris).`);
   return html;
 }

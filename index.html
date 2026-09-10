@@ -7,6 +7,8 @@
   <meta name="description" content="Société, équité et vivant explore un modèle de société durable pour répondre aux besoins présents, anticiper les défis futurs et préserver le vivant.">
   <link rel="canonical" href="https://mathieuluyten.be/societe-equite-vivant/">
   <title>Société, équité et vivant — Découvrir le projet</title>
+  <link rel="icon" href="./assets/pictogramme-main-feuille.ico" sizes="16x16 24x24 32x32 48x48 64x64 128x128 256x256">
+  <link rel="icon" type="image/svg+xml" href="./assets/pictogramme-main-feuille.svg" sizes="any">
   <link rel="stylesheet" href="./vitrine.css">
 </head>
 <body>
@@ -17,12 +19,26 @@
       <button type="button" class="menu-toggle hs-collapse-toggle py-2 px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-line bg-white shadow-2xs hover:bg-mist" id="menu-toggle" aria-expanded="false" aria-controls="navigation" data-hs-collapse="#navigation" aria-label="Afficher ou masquer la navigation" hidden>Menu <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
       <div id="navigation" class="hs-collapse overflow-hidden transition-[height] duration-300 basis-full grow lg:basis-auto lg:grow-0 lg:block" aria-labelledby="menu-toggle">
         <div class="nav-links flex flex-col gap-1 lg:flex-row lg:items-center lg:gap-5">
-          <a href="#propositions">Les propositions</a><a href="#decisions">Les décisions</a><a href="#ia">L’IA</a><a href="#limites">Les étapes</a><a href="#demarche">La démarche</a>
+          <a href="#constat">Le constat</a><a href="#propositions">Les propositions</a><a href="#decisions">Les décisions</a><a href="#ia">L’IA</a><a href="#limites">Les étapes</a><a href="#demarche">La démarche</a>
           <a class="nav-repo" href="https://github.com/MLyte/Societe-equite-et-vivant" target="_blank" rel="noopener noreferrer">{{externalLinkIcon}}<span>Le dépôt</span></a>
         </div>
       </div>
     </nav>
   </header>
+  <nav class="section-nav" aria-labelledby="section-nav-title">
+    <p id="section-nav-title">Sur cette page</p>
+    <ul>
+      <li><a href="#presentation">Le projet</a></li>
+      <li><a href="#constat">Le constat</a></li>
+      <li><a href="#propositions">Les propositions</a></li>
+      <li><a href="#decisions">Les décisions</a></li>
+      <li><a href="#ia">L’IA</a></li>
+      <li><a href="#limites">Les étapes</a></li>
+      <li><a href="#demarche">La démarche</a></li>
+      <li><a href="#approfondir">Participer</a></li>
+      <li><a href="#inspirations">Les inspirations</a></li>
+    </ul>
+  </nav>
   <main id="contenu">
     <section id="presentation" class="hero page-width" aria-labelledby="titre">
       <div class="hero-copy">
@@ -66,6 +82,7 @@
       </figure>
     </section>
     <div class="page-width">
+      <section id="constat" class="editorial-section constat-section" aria-labelledby="constat-title">{{constat}}</section>
       <section id="propositions" class="editorial-section" aria-labelledby="propositions-title">
         <div class="section-heading"><p class="section-index">01 / Les orientations</p><h2 id="propositions-title">{{1.title}}</h2>{{1.intro}}</div>
         <div class="proposal-grid grid md:grid-cols-2">{{1.cards}}</div>
@@ -78,6 +95,15 @@
         <div class="section-heading"><p class="section-index">03 / L’intelligence artificielle</p><h2 id="ia-title">{{3.title}}</h2></div>
         <div class="origin-copy">{{3.intro}}</div>
       </section>
+    </div>
+    <figure class="cinematic-band" aria-label="Montage de fiction vers 2250 : forêt régénérée, ville habitable, accès à l’eau, atelier de réparation, rivière préservée et vie collective. Visuels générés par IA puis animés.">
+      <video id="hemicycle-film" muted loop playsinline preload="none" poster="./assets/habitable-poster.webp" aria-hidden="true" tabindex="-1" disablepictureinpicture></video>
+      <button class="film-toggle" type="button" aria-label="Mettre l’animation en pause" aria-controls="hemicycle-film" aria-pressed="false" hidden>
+        <svg class="film-pause-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg>
+        <svg class="film-play-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" hidden><path d="m8 5 11 7-11 7Z"/></svg>
+      </button>
+    </figure>
+    <div class="page-width">
       <section id="limites" class="editorial-section" aria-labelledby="limites-title">
         <div class="section-heading"><p class="section-index">04 / La suite du travail</p><h2 id="limites-title">{{4.title}}</h2>{{4.intro}}</div>
         <div class="limits-grid grid md:grid-cols-3">{{4.cards}}</div>

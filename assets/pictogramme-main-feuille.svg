@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Société, équité et vivant — main et feuille</title>
+  <desc id="desc">Une main ouverte cuivrée se tend vers une feuille vert sauge. Fond transparent.</desc>
+  <defs>
+    <mask id="leaf-vein" maskUnits="userSpaceOnUse" x="60" y="25" width="120" height="115">
+      <path fill="white" d="M60 25H180V140H60Z"/>
+      <path fill="none" stroke="black" stroke-width="6" stroke-linecap="round" d="M91 57C106 74 120 89 134 99"/>
+    </mask>
+  </defs>
+  <path fill="#536459" mask="url(#leaf-vein)" d="M69 35C113 32 153 43 164 72C173 96 158 119 135 124C107 130 79 110 73 84C69 66 73 51 69 35Z"/>
+  <path fill="none" stroke="#536459" stroke-width="9" stroke-linecap="round" d="M143 106C155 115 163 124 167 136"/>
+  <path fill="#93634E" d="M215 174C197 167 182 155 166 148L129 132C119 128 109 132 106 140C103 148 107 155 115 159L144 173C146 174 146 177 143 178L123 178C107 178 94 172 84 160L65 132C60 124 51 122 45 127C39 132 40 140 44 148L63 184C68 194 77 202 88 206L145 226C153 229 162 230 171 230H215C221 230 225 226 225 220V188C225 182 221 177 215 174Z"/>
+</svg>
