@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.2"
-last_updated: "2026-09-07"
+version: "0.3"
+last_updated: "2026-09-11"
 confidence: "hypothesis"
 ---
 
@@ -32,6 +32,14 @@ Le logement concentre plusieurs tensions :
 Une politique du logement qui ignore l'écologie aggrave l'artificialisation, les émissions et la dépendance automobile. Une politique écologique qui ignore le logement peut produire une sobriété injuste, vécue comme une contrainte imposée aux ménages les plus exposés.
 
 ---
+
+### Point de départ de la piste d'habitat public
+
+La réflexion part d'un constat rapporté par le porteur du projet : l'accès à l'achat paraît particulièrement difficile pour les jeunes sans patrimoine, donation, héritage ou garantie familiale. La location peut elle aussi devenir inaccessible lorsque les revenus sont irréguliers ou que les garanties demandées sont difficiles à fournir. L'ampleur de ces obstacles et le rôle exact de l'aide familiale restent à documenter selon les territoires et les revenus : [source à vérifier]. Il ne s'agit pas d'affirmer qu'aucun jeune ne peut se loger sans ses parents.
+
+Le [Conseil de l'Union européenne, le 29 juin 2026](https://skribi.consilium.europa.eu/en/press/press-releases/2026/06/29/council-highlights-demographic-dimension-of-europe-s-housing-crisis/), reconnaît un effet disproportionné de la crise du logement sur plusieurs groupes, dont les jeunes et les ménages à revenus faibles ou moyens. Ce constat général ne valide pas à lui seul le dispositif proposé ci-dessous.
+
+La piste associe cet accès difficile à trois problèmes à examiner localement : bâtiments coûteux à chauffer, rénovations techniquement ou patrimonialement contraintes, et déplacements dépendants de la voiture faute de transports collectifs adaptés. Leur fréquence et leur gravité nécessitent un diagnostic territorial : [source à vérifier].
 
 ## Objectifs
 
@@ -156,6 +164,54 @@ Chaque territoire devrait viser un accès raisonnable à :
 - lieux d'activité utile, réparation, culture et vie associative.
 
 Cet objectif n'impose pas un modèle urbain unique. Il doit être adapté aux villes, villages, zones rurales et territoires dispersés.
+
+### Piste de travail : habitats publics bas-carbone et accession abordable
+
+**Statut : hypothèse à instruire et à expérimenter, sans efficacité ni équilibre financier présumés.** L'objectif est de traiter ensemble logement, énergie, déplacements et accès aux produits essentiels. Cette piste précise l'offre publique évoquée plus haut, sans remplacer le droit au logement par une obligation d'achat.
+
+#### Maîtrise publique et implantation
+
+La proposition consiste à confier à un opérateur public la réalisation ou la réhabilitation d'ensembles d'habitation, avec une responsabilité publique identifiée pour les logements, les équipements communs et leur articulation avec les transports. L'État apporte capacité d'investissement et continuité ; les autorités territoriales compétentes organisent la mise en œuvre et la participation des habitants. La répartition exacte des compétences reste à instruire selon le pays.
+
+Privilégier les bâtiments réutilisables, les friches appropriées et les quartiers déjà desservis. Comparer rénovation, transformation et construction neuve avant de choisir. Si une rénovation ne permet pas une performance satisfaisante à un coût soutenable, instruire les solutions techniques alternatives et le relogement volontaire avant toute démolition. Un mauvais classement énergétique ne suffit pas à justifier la destruction.
+
+#### Logements, énergie et transports conçus ensemble
+
+- Viser des logements sobres en énergie, bien isolés, ventilés, accessibles et adaptés aux fortes chaleurs, avec production locale d'électricité lorsque sa pertinence est démontrée.
+- Évaluer séparément consommations réelles, factures et émissions sur le cycle de vie : matériaux, chantier, entretien, énergie et fin de vie. La neutralité carbone reste une ambition à démontrer sur un périmètre explicite ; une production électrique annuelle équivalente à la consommation ne suffit pas à l'établir.
+- Financer la desserte collective vers les autres villes, emplois, écoles et soins dès la conception, avec horaires, fréquence, tarifs et accessibilité vérifiables. Prévoir son exploitation avant l'arrivée des habitants, ainsi que marche et vélo dans le quartier.
+- Préserver mixité sociale, diversité architecturale et liberté de déplacement ; éviter des ensembles isolés où les ménages seraient assignés par leur revenu.
+
+#### Halles et circuits courts
+
+Prévoir des halles ou marchés accessibles à des commerçants, artisans et agriculteurs indépendants, avec équipements et gestion sous responsabilité publique. L'objectif est de faciliter les circuits courts, la réparation, les débouchés agricoles et une relocalisation sélective, sans imposer un monopole commercial public.
+
+L'attribution des emplacements suivrait des critères transparents, proportionnés et contestables, avec loyers compatibles avec de petites activités et prévention de la captation par quelques enseignes. Étudier une place pour les produits biologiques en tenant compte de leur prix et de leur disponibilité. Conformément à la décision 0020, l'origine locale ou le label ne dispenseraient pas d'évaluer production, saisonnalité, stockage, transport et accessibilité alimentaire. Les règles de sélection et leur compatibilité juridique restent à vérifier avant expérimentation.
+
+#### Vente à crédit pour habiter
+
+L'opérateur proposerait une partie des logements à prix encadré à des ménages ne possédant pas de logement et souhaitant en faire leur résidence principale. Le prix découlerait d'un coût publié et d'une aide explicite, avec l'objectif d'être inférieur aux offres comparables du territoire. Cet avantage doit être vérifié, et non supposé du seul fait du caractère public.
+
+La piste privilégiée est une vente avec crédit public amortissable, donnant accès à la propriété dès l'acte de vente et remboursée progressivement. Une location-accession pourrait être comparée pour les ménages ayant besoin d'une phase transitoire. Taux, durée, apport, garanties et transfert des responsabilités seraient précisés avant tout engagement.
+
+L'évaluation de la capacité de remboursement prendrait en compte les ressources régulières au-delà du seul salaire, les charges d'entretien et un reste à vivre protecteur. L'absence d'aide familiale ne devrait pas exclure automatiquement un candidat. Maintenir parallèlement une offre locative abordable pour les personnes ne pouvant pas ou ne souhaitant pas emprunter, avec garanties adaptées et accompagnement.
+
+Prévoir dès le contrat : occupation principale, limitation de la revente spéculative, récupération proportionnée de l'aide publique et possibilité de rachat par l'opérateur. Les conditions de départ, séparation, décès ou mobilité professionnelle doivent permettre de sortir du dispositif sans enfermement résidentiel. Comparer également la propriété du logement avec maintien public du foncier pour préserver l'accessibilité des reventes, en explicitant les droits plus limités transmis au ménage.
+
+Le logement pourrait ainsi constituer un patrimoine pour ses occupants. Son utilisation ultérieure comme garantie hypothécaire dépendrait toutefois des droits acquis, des restrictions de revente et de la capacité d'emprunt ; elle ne serait ni automatique ni une promesse d'accès à une autre maison. La compatibilité juridique du crédit et de ces clauses reste à vérifier dans le pays concerné.
+
+#### Conditions d'essai et garde-fous
+
+Commencer par un programme limité sur un territoire où les besoins sont documentés. Comparer son coût et ses effets à la rénovation diffuse, au logement public locatif et au soutien aux coopératives. Le [chapitre financier](15-finance-dette-investissement.md#financer-un-programme-public-dhabitat-abordable) précise les flux et les risques à chiffrer.
+
+- **Risque institutionnel et de capture** : publier coûts, contrats et bénéficiaires, séparer attribution, réalisation et audit, contrôler les conflits d'intérêts et ouvrir des recours indépendants.
+- **Risque social** : vérifier que le crédit ne sélectionne pas seulement les ménages déjà solvables ; protéger l'offre locative et prévoir médiation, adaptation des échéances et solution digne en cas de difficulté durable.
+- **Risque économique** : financer entretien, renouvellement des équipements et transports ; éprouver le budget face aux surcoûts, retards, vacances et impayés.
+- **Risque pour les libertés** : maintenir le choix du lieu de vie, limiter les données collectées au nécessaire et exclure tout critère politique ou score de comportement.
+
+Avant le lancement, publier les seuils de réussite et de révision : coût total pour le ménage, accès sans aide familiale, délais d'attribution, émissions de cycle de vie, consommation mesurée, usage des transports, sols mobilisés et coût public net. Suspendre l'extension si le dispositif accroît la ségrégation, manque sa desserte, dépasse durablement son budget ou n'améliore pas l'accès au logement par rapport aux alternatives.
+
+Cette proposition conserve propriété individuelle, activités privées et pluralisme. Elle est formulée comme une intervention publique dans une économie mixte, sans nationalisation générale du logement ni affiliation à une doctrine partisane. Son intérêt doit être jugé sur ses effets et ses garanties.
 
 ### Gouvernance territoriale
 

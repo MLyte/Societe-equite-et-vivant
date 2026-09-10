@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.2"
-last_updated: "2026-09-07"
+version: "0.3"
+last_updated: "2026-09-11"
 confidence: "hypothesis"
 ---
 
@@ -113,6 +113,25 @@ Ils doivent financer prioritairement :
 - production, maintenance et réparation de biens vitaux.
 
 Les aides publiques aux entreprises doivent être conditionnées à des critères vérifiables : utilité sociale, trajectoire écologique, absence d'optimisation fiscale agressive, transparence des bénéficiaires, maintien des capacités critiques, partage raisonnable des gains et respect du droit du travail.
+
+### Financer un programme public d'habitat abordable
+
+**Hypothèse de travail.** Le [programme d'habitat public](16-logement-foncier-urbanisme.md#piste-de-travail-habitats-publics-bas-carbone-et-accession-abordable) explore un État disposant de davantage de moyens économiques pour produire des biens utiles, financer leur accès et réinvestir les remboursements. L'objectif est une capacité publique durable au service de la population ; augmenter le volume des transferts monétaires ne constitue pas, à lui seul, un résultat social ou un enrichissement collectif.
+
+Il faut distinguer dette accumulée, déficit annuel, patrimoine public et trésorerie. L'affirmation selon laquelle tous les États européens seraient « en perte » est trop générale : selon la [notification Eurostat du 22 avril 2026](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-22042026-ap), cinq États membres de l'UE ont enregistré un excédent public en 2025, dont le Danemark et le Portugal. L'UE ne couvre pas tous les États européens, et un excédent annuel peut coexister avec une dette.
+
+La piste retient un financement initial combinant dotation budgétaire et emprunt public de long terme, à dimensionner après chiffrage. Un opérateur public porterait les opérations et, directement ou par un organisme public de crédit, les créances sur les acquéreurs. Il publierait séparément :
+
+- les dépenses initiales : foncier, études, dépollution éventuelle, travaux, réseaux et équipements ;
+- les coûts récurrents : financement, gestion, entretien restant public, exploitation des transports et provision pour risques ;
+- les recettes encaissées : apports, échéances des acquéreurs, loyers et redevances des halles ;
+- les aides budgétaires nécessaires pour réduire les prix, soutenir les ménages et assurer les services non couverts par les recettes.
+
+Les remboursements pourraient alimenter de nouvelles opérations après couverture des engagements et réserves nécessaires. Le capital remboursé reconstitue une avance : il ne constitue pas un bénéfice. Vendre un logement transforme un actif immobilier en liquidités ou en créance ; cela n'enrichit pas automatiquement l'État. Les remboursements étalés ne financent pas immédiatement un nouveau chantier, et une garantie publique comporte un risque de dépense future.
+
+Le budget doit rendre visible qui finance l'écart entre coût complet et prix abordable. Les économies sociales ou énergétiques attendues seraient évaluées séparément, sans être comptées comme des recettes certaines. Le programme ne serait pas présenté comme une solution automatique à la dette publique.
+
+Avant expérimentation, comparer le coût public net sur toute la durée, la trésorerie annuelle et les actifs restant publics dans plusieurs scénarios : hausse des taux, surcoûts, retards, impayés, entretien plus élevé et recettes commerciales faibles. Vérifier la qualification comptable, les compétences institutionnelles et la conformité des prêts, aides et marchés au droit applicable. L'opérateur ne doit pas servir à masquer des engagements hors du budget public.
 
 ### Contrôle des niches et subventions
 
