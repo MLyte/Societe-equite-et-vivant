@@ -17,8 +17,12 @@ test('Le HTML contient les sept sections, les sources et la date éditoriale san
   assert.match(html, /id="ia"/);
   assert.match(content.sections[3].intro, /sans biais/);
   assert.match(content.sections[2].cards, /responsable humain/);
-  assert.ok(countPageWords(html) >= 650 && countPageWords(html) <= 2200);
-  assert.equal((html.match(/<article /g) ?? []).length, 17);
+  assert.ok(countPageWords(html) >= 650 && countPageWords(html) <= 2500);
+  assert.match(html, /id="documents"/);
+  const documents = html.match(/<section id="documents"[\s\S]*?<\/section>/)?.[0] ?? '';
+  assert.equal((documents.match(/github\.com\/MLyte\/Societe-equite-et-vivant\/blob\/main\/docs\/(?:0[1-9]|1[0-9])-/g) ?? []).length, 19);
+  assert.match(html, /Une trame commune pour examiner chaque proposition/);
+  assert.equal((html.match(/<article /g) ?? []).length, 18);
   assert.equal((html.match(/class="explanation explanation-why"/g) ?? []).length, 14);
   assert.equal((html.match(/class="explanation explanation-how"/g) ?? []).length, 14);
   assert.doesNotMatch(content.sections[0].context, /explanation-|(?:Pourquoi|Comment|Quoi)&nbsp;\?/);
@@ -116,7 +120,7 @@ test('La typographie lie la ponctuation aux mots sans modifier les liens, le cod
   assert.deepEqual([...html.matchAll(/href="([^"]+)"/g)].map((m) => m[1]), [...original.matchAll(/href="([^"]+)"/g)].map((m) => m[1]));
 });
 test('Sources, ancres, HTML et structure invalides arrêtent la génération', () => {
-  assert.throws(() => renderVitrine(source.replace('docs/01-vision.md', 'docs/absent.md')), /Source/);
+  assert.throws(() => renderVitrine(source.replace('[En savoir plus : la vision](docs/01-vision.md)', '[En savoir plus : la vision](docs/absent.md)')), /Source/);
   assert.throws(() => sourceUrl('README.md#inexistant'), /Ancre/);
   assert.throws(() => sourceUrl('../private.md'), /Source/);
   assert.throws(() => sourceUrl('javascript:alert(1)'), /Source/);
@@ -173,14 +177,14 @@ test('Le workflow exige les tests et la compilation avant publication, jamais de
   assert.deepEqual(steps, ['npm ci', 'npm test', 'npm run build']);
 });
 
-test('Le constat regroupe les cinq repères avant les propositions sans doublons', () => {
+test('Le constat regroupe les six repères avant les propositions sans doublons', () => {
   const content = renderVitrine(source);
   const html = renderPage(template, source);
   assert.ok(html.indexOf('id="constat"') < html.indexOf('id="propositions"'));
   assert.match(content.constat, /ExxonMobil/);
   assert.match(content.constat, /GenCast/);
   assert.match(content.constat, /travailleur sur quatre/);
-  assert.equal((content.constat.match(/class="constat-card /g) ?? []).length, 5);
+  assert.equal((content.constat.match(/class="constat-card /g) ?? []).length, 6);
   assert.match(content.constat, /Donald Trump/);
   assert.match(content.constat, /constat-politique-unsplash\.webp/);
   assert.doesNotMatch(content.sections[1].cards, /ExxonMobil|objectifs d’Aichi/);

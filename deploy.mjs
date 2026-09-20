@@ -30,7 +30,7 @@ async function filesUnder(directory) {
   return files;
 }
 
-export async function deploy({ env = process.env, directory = fileURLToPath(new URL('./dist', import.meta.url)), client = new SftpClient() } = {}) {
+export async function deploy({ env = process.env, directory = fileURLToPath(new URL('./vitrine', import.meta.url)), client = new SftpClient() } = {}) {
   const config = deploymentConfig(env);
   const index = resolve(directory, 'index.html');
   const html = await readFile(index, 'utf8');
@@ -43,7 +43,7 @@ export async function deploy({ env = process.env, directory = fileURLToPath(new 
     await client.mkdir(`${config.directory}/assets`, true);
     for (const file of files) {
       const name = relative(directory, file).split(sep).join('/');
-      if (!/^assets\/[\w.-]+$/.test(name)) throw new Error(`Fichier de sortie inattendu : ${name}`);
+      if (!/^assets\/[\w.-]+$/.test(name) && !['robots.txt', 'sitemap.xml'].includes(name)) throw new Error(`Fichier de sortie inattendu : ${name}`);
       await client.put(file, `${config.directory}/${name}`);
     }
     await client.put(index, `${config.directory}/index.next.html`);

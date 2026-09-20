@@ -1,8 +1,33 @@
 ---
 status: draft
-version: "0.52"
-last_updated: "2026-09-11"
+version: "0.54"
+last_updated: "2026-09-20"
 confidence: hypothesis
+corpus:
+  topics:
+    - [Vision, docs/01-vision.md]
+    - [Principes, docs/02-principes.md]
+    - [Institutions, docs/03-institutions.md]
+    - [Socle vital, docs/04-socle-vital.md]
+    - [Économie, docs/05-economie.md]
+    - [Énergie, docs/06-energie.md]
+    - [Environnement, docs/07-environnement.md]
+    - [Intelligence artificielle, docs/08-ia.md]
+    - [Démocratie, docs/09-democratie.md]
+    - [International, docs/10-international.md]
+    - [Transition, docs/11-transition.md]
+    - [Information et médias, docs/12-information-medias.md]
+    - [Droit et justice, docs/13-droit-justice.md]
+    - [Santé et éducation, docs/14-sante-education.md]
+    - [Finance et investissement, docs/15-finance-dette-investissement.md]
+    - [Logement et urbanisme, docs/16-logement-foncier-urbanisme.md]
+    - ["Alimentation, eau et sols", docs/17-alimentation-eau-sols.md]
+    - ["Indicateurs et audits", docs/18-indicateurs-audits.md]
+    - ["Sécurité civile et crises", docs/19-securite-civile-crises.md]
+  resources:
+    - [Questions structurantes, docs/20-questions-structurantes.md]
+    - [FAQ, docs/faq.md]
+    - [Glossaire, docs/glossary.md]
 # Appel à contribution complémentaire, placé après les trois étapes de conception.
 contribution: |
   **Vos compétences peuvent faire avancer le modèle.**
@@ -87,6 +112,14 @@ En 2025, l’Organisation internationale du travail estimait qu’**un travaille
 L’IA permet déjà de mobiliser de vastes ensembles de données pour explorer plusieurs futurs possibles. En météorologie, GenCast a été entraîné sur **quarante ans de données** et simule **plus de 80 variables** à l’échelle mondiale. Il produit une prévision sur quinze jours en **environ huit minutes**, et peut calculer plusieurs scénarios en parallèle avec les ressources nécessaires. Le projet propose de mettre cette puissance d’analyse au service des besoins de la population : croiser les données, comparer les solutions et confronter leurs effets au terrain pour améliorer les décisions.
 
 [Lire l’étude sur GenCast : Nature](https://www.nature.com/articles/s41586-024-08252-9)
+
+### Développer une IA utile exige de faire primer la sécurité sur la course au profit.
+
+En septembre 2026, **Dario Amodei, dirigeant d’Anthropic, appelle à ralentir la progression des capacités de l’IA** pour mieux en maîtriser les risques. La concurrence commerciale peut inciter à accélérer pour arriver premier ; le plan américain porté par **l’administration Trump revendique la domination mondiale en IA**. Le projet propose de **faire primer les besoins humains, la sécurité et les limites écologiques sur le rendement financier** : financer les usages utiles, imposer des évaluations indépendantes et permettre la suspension des développements à risque. La puissance d’analyse doit servir des choix humains éclairés et contestables.
+
+Cette alerte ne prouve pas qu’une catastrophe est certaine. Le profit n’explique pas tous les risques, et une IA publique n’est ni automatiquement sûre ni intrinsèquement neutre.
+
+[L’alerte : Dario Amodei](https://darioamodei.com/post/we-must-pace-the-frontier) · [La stratégie américaine : Maison-Blanche](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf) · [La réponse du projet : une IA utile et contrôlée](docs/08-ia.md)
 
 ### Les intérêts personnels d’un chef d’État ne devraient pas décider de l’avenir de tous.
 

@@ -8,7 +8,7 @@ référence. La publication est automatique ; la rédaction des synthèses reste
 
 Avec Node.js 24 : `npm ci`, puis `npm run dev`. Pour contrôler la version publiée :
 `npm test`, `npm run build`, puis `npm run preview`. La page est disponible sous
-`/societe-equite-vivant/`. Le dossier `dist/` contient seulement les fichiers à
+`/societe-equite-vivant/`. Le dossier `vitrine/` contient seulement les fichiers à
 héberger. Tailwind, Preline UI et la police Fraunces sont compilés et servis
 localement ; le serveur public n'a pas besoin de Node.js.
 
@@ -23,7 +23,7 @@ localement ; le serveur public n'a pas besoin de Node.js.
 - Revoir les synthèses concernées quand les chapitres sources changent sur le fond.
 - Maintenir les liens relatifs vers les sources : ils deviennent des liens GitHub
   sur `main`. Le générateur vérifie les fichiers et les ancres locales.
-- Publier les chapitres révisés et le guide `CONTRIBUTING.md` sur `main` avec les changements de la vitrine. Transférer seulement `dist/` ne met pas à jour les documents consultés sur GitHub.
+- Publier les chapitres révisés et le guide `CONTRIBUTING.md` sur `main` avec les changements de la vitrine. Transférer seulement `vitrine/` ne met pas à jour les documents consultés sur GitHub.
 - Les liens internes vers les sections restent dans la page ; les liens GitHub et les sources externes s’ouvrent dans un nouvel onglet.
 - Pour un constat externe, dater la donnée, distinguer observation et interprétation,
   puis enregistrer la référence vérifiée dans `externalSources` de `vitrine.mjs`.

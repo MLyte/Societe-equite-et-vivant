@@ -13,6 +13,7 @@ Thumbs.db
 
 # Generated outputs
 /dist/
+/vitrine/
 /build/
 /site/
 node_modules/

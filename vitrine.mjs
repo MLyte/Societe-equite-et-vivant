@@ -31,6 +31,8 @@ const githubSvg = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16
 export const root = fileURLToPath(new URL('.', import.meta.url));
 export const repository = 'https://github.com/MLyte/Societe-equite-et-vivant';
 const externalSources = new Set([
+  'https://darioamodei.com/post/we-must-pace-the-frontier',
+  'https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf',
   'https://www.ilo.org/fr/publications/intelligence-artificielle-generative-et-emploi-revision-2025',
   'https://www.nature.com/articles/s41586-024-08252-9',
   'https://theshiftproject.org/qui-sommes-nous/',
@@ -61,6 +63,7 @@ const currentStatePhotos = [
   { file: 'constat-raffinerie-unsplash.webp', width: 1100, height: 733, alt: 'Tours et installations d’une raffinerie de pétrole.', author: 'Ali Mucci', id: 'gZbjx2K7s9I' },
   { file: 'constat-travail-unsplash.webp', width: 1100, height: 733, alt: 'Des mains travaillent sur le clavier d’un ordinateur portable.', author: 'Alicia Christin Gerald', id: '45ry4Md83aw' },
   { file: 'constat-recherche-unsplash.webp', width: 1100, height: 733, alt: 'La Terre et ses formations nuageuses vues depuis l’espace.', author: 'NASA', id: 'yZygONrUBe8' },
+  { file: 'constat-securite-ia.png', width: 1024, height: 1536, alt: 'Illustration générée par IA : une personne inspecte les équipements d’une salle de serveurs.', generated: true },
   { file: 'constat-politique-unsplash.webp', width: 1100, height: 619, alt: 'Le dôme du Capitole des États-Unis et un drapeau américain, à Washington.', author: 'Ian Hutchinson', id: 'P8rgDtEFn7s' },
 ];
 export const sectionIds = ['presentation', 'propositions', 'decisions', 'ia', 'limites', 'demarche', 'approfondir'];
@@ -129,7 +132,7 @@ export function renderVitrine(source = readFileSync(resolve(root, 'vitrine.md'),
       return { title, body: lines.join('\n') };
     }) };
   });
-  if (sections.length !== 8 || sections[1].title !== 'Constat actuel' || sections[1].cards.length !== 5) throw new Error('La section Constat actuel doit suivre la présentation avec cinq repères sourcés.');
+  if (sections.length !== 8 || sections[1].title !== 'Constat actuel' || sections[1].cards.length !== 6) throw new Error('La section Constat actuel doit suivre la présentation avec six repères sourcés.');
   const [currentState] = sections.splice(1, 1);
   if (currentState.cards.some((card) => !/\[[^\]]+\]\([^)]+\)/.test(card.body))) throw new Error('Chaque constat doit citer sa source.');
   const currentCards = currentState.cards.map((card, index) => {
@@ -137,6 +140,7 @@ export function renderVitrine(source = readFileSync(resolve(root, 'vitrine.md'),
     if (![2, 3].includes(blocks.length) || !blocks.at(-1).startsWith('[')) throw new Error('Chaque constat doit contenir une explication, une note facultative puis ses sources.');
     const note = blocks.length === 3 ? `<p class="constat-note"><small>${markdown.parseInline(blocks[1])}</small></p>` : '';
     const photo = currentStatePhotos[index];
+    if (photo.generated) return `<article class="constat-card bg-white border rounded-xl"><figure class="constat-photo"><img src="./assets/${photo.file}" alt="${escapeHtml(photo.alt)}" width="${photo.width}" height="${photo.height}" loading="lazy" decoding="async"></figure><div class="constat-content"><h3 class="constat-lead">${nonBreakingPunctuation(escapeHtml(card.title))}</h3><div class="constat-explanation">${markdown.parse(blocks[0])}${note}<p class="constat-note"><small>Illustration générée par IA.</small></p></div><footer class="constat-sources">${markdown.parse(blocks.at(-1))}</footer></div></article>`;
     return `<article class="constat-card bg-white border rounded-xl"><figure class="constat-photo"><img src="./assets/${photo.file}" alt="${escapeHtml(photo.alt)}" width="${photo.width}" height="${photo.height}" loading="lazy" decoding="async"><figcaption><a href="https://unsplash.com/photos/${photo.id}" target="_blank" rel="noopener noreferrer" aria-label="Source de la photo d’illustration : ${escapeHtml(photo.author)} / Unsplash">${externalLinkSvg}<span>Source</span></a></figcaption></figure><div class="constat-content"><h3 class="constat-lead">${nonBreakingPunctuation(escapeHtml(card.title)).replace(/\bPAM\b/g, '<button type="button" class="acronym-trigger" title="Programme alimentaire mondial" aria-label="PAM : Programme alimentaire mondial">PAM</button>')}</h3><div class="constat-explanation">${markdown.parse(blocks[0])}${note}</div><footer class="constat-sources">${markdown.parse(blocks.at(-1))}</footer></div></article>`;
   }).join('');
   const constat = `<div class="section-heading"><p class="section-index">00 / Les repères</p><h2 id="constat-title">Constat actuel</h2>${markdown.parse(currentState.intro)}</div><div class="constat-grid grid">${currentCards}</div>`;
@@ -203,7 +207,15 @@ export function estimateReadingTime(html) {
 export function renderPage(template, source = readFileSync(resolve(root, 'vitrine.md'), 'utf8')) {
   const content = renderVitrine(source);
   // Ces références complètent le parcours éditorial sans modifier ses sept sections.
-  const references = parse(source.match(/^---\r?\n([\s\S]*?)\r?\n---/)[1]).inspirations;
+  const metadata = parse(source.match(/^---\r?\n([\s\S]*?)\r?\n---/)[1]);
+  const references = metadata.inspirations;
+  const corpus = metadata.corpus;
+  if (!corpus || corpus.topics?.length !== 19 || corpus.resources?.length !== 3) throw new Error('Le corpus documentaire attendu est incomplet.');
+  const corpusLink = ([label, url]) => {
+    if (typeof label !== 'string' || typeof url !== 'string') throw new Error('Entrée documentaire invalide.');
+    return `<li><a class="source-link" href="${escapeHtml(sourceUrl(url))}" target="_blank" rel="noopener noreferrer">${externalLinkSvg}&nbsp;<span>${nonBreakingPunctuation(escapeHtml(label))}</span></a></li>`;
+  };
+  const corpusSection = `<div class="section-heading"><p class="section-index">07 / Explorer les documents</p><h2 id="documents-title">Les thèmes déjà abordés</h2><p>Le projet documente déjà les thèmes suivants. Chaque lien ouvre le chapitre correspondant dans le dépôt public.</p></div><ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3 mt-8">${corpus.topics.map(corpusLink).join('')}</ul><div class="content-card mt-8"><h3>Une trame commune pour examiner chaque proposition</h3><p>Les chapitres thématiques présentent généralement&nbsp;: pourquoi le document existe, le constat actuel, les objectifs, la proposition, sa justification, les alternatives étudiées, les critiques, les questions ouvertes et ce qui pourrait faire changer le projet d’avis.</p><p>Des ressources transversales complètent cette lecture&nbsp;:</p><ul class="flex flex-wrap gap-x-6 gap-y-3">${corpus.resources.map(corpusLink).join('')}</ul></div>`;
   if (!references || references.cards?.length !== 4) throw new Error('Quatre références sont attendues.');
   const referenceText = (value) => {
     if (typeof value !== 'string' || !value.trim()) throw new Error('Texte de référence absent.');
@@ -213,9 +225,10 @@ export function renderPage(template, source = readFileSync(resolve(root, 'vitrin
   // SVG intégré pour conserver un drapeau visible, y compris sans police emoji.
   const englishFlag = '<svg class="language-flag" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 60 30" preserveAspectRatio="none" role="img" aria-label="Page en anglais" focusable="false"><title>Page en anglais</title><path fill="#012169" d="M0 0h60v30H0z"/><path stroke="#fff" stroke-width="6" d="m0 0 60 30M60 0 0 30"/><path stroke="#C8102E" stroke-width="2" d="m0 0 60 30M60 0 0 30"/><path stroke="#fff" stroke-width="10" d="M30 0v30M0 15h60"/><path stroke="#C8102E" stroke-width="6" d="M30 0v30M0 15h60"/></svg>';
   if (references.cards.some((card) => !['fr', 'en'].includes(card.language))) throw new Error('Langue de référence absente ou non prise en charge.');
-  const inspirations = `<div class="page-width"><p class="section-index">07 / Les inspirations et initiatives</p><h2 id="inspirations-title">${referenceText(references.title)}</h2><p class="inspirations-intro">${referenceText(references.intro)}</p><ul class="inspirations-grid grid md:grid-cols-2">${references.cards.map((card, i) => `<li class="inspiration-card p-6 bg-white border rounded-xl"><div class="inspiration-logo" aria-hidden="true">${referenceLogos[i] ? `<img src="./assets/${referenceLogos[i]}" alt="" loading="lazy" decoding="async">` : `<span class="inspiration-name">Doughnut Economics</span>`}</div><p class="inspiration-category">${referenceText(card.category)}</p><h3>${referenceText(card.title)}</h3><p>${referenceText(card.text)}</p><a class="source-link" href="${escapeHtml(sourceUrl(card.url))}" hreflang="${card.language}" target="_blank" rel="noopener noreferrer">${externalLinkSvg}&nbsp;<span>${referenceText(card.link)}${card.language === 'en' ? `&nbsp;${englishFlag}` : ''}</span></a></li>`).join('')}</ul><p class="inspirations-reserve">${referenceText(references.reserve)}</p></div>`;
+  const inspirations = `<div class="page-width"><p class="section-index">08 / Les inspirations et initiatives</p><h2 id="inspirations-title">${referenceText(references.title)}</h2><p class="inspirations-intro">${referenceText(references.intro)}</p><ul class="inspirations-grid grid md:grid-cols-2">${references.cards.map((card, i) => `<li class="inspiration-card p-6 bg-white border rounded-xl"><div class="inspiration-logo" aria-hidden="true">${referenceLogos[i] ? `<img src="./assets/${referenceLogos[i]}" alt="" loading="lazy" decoding="async">` : `<span class="inspiration-name">Doughnut Economics</span>`}</div><p class="inspiration-category">${referenceText(card.category)}</p><h3>${referenceText(card.title)}</h3><p>${referenceText(card.text)}</p><a class="source-link" href="${escapeHtml(sourceUrl(card.url))}" hreflang="${card.language}" target="_blank" rel="noopener noreferrer">${externalLinkSvg}&nbsp;<span>${referenceText(card.link)}${card.language === 'en' ? `&nbsp;${englishFlag}` : ''}</span></a></li>`).join('')}</ul><p class="inspirations-reserve">${referenceText(references.reserve)}</p></div>`;
   let html = template.replace(/\{\{([\w.]+)\}\}/g, (_, key) => {
     if (key === 'inspirations') return inspirations;
+    if (key === 'corpus') return corpusSection;
     if (key === 'constat') return content.constat;
     if (key === 'externalLinkIcon') return externalLinkSvg;
     if (key === 'date') return content.date;
@@ -229,6 +242,6 @@ export function renderPage(template, source = readFileSync(resolve(root, 'vitrin
   const reading = estimateReadingTime(html);
   html = html.replaceAll('{{readingQuick}}', String(reading.quickMinutes)).replaceAll('{{readingFull}}', String(reading.fullMinutes));
   const words = countPageWords(html);
-  if (words < 650 || words > 2200) throw new Error(`Longueur de la page : ${words} mots (650–2200 attendus, blocs complémentaires compris).`);
+  if (words < 650 || words > 2500) throw new Error(`Longueur de la page : ${words} mots (650–2500 attendus, blocs complémentaires compris).`);
   return html;
 }
