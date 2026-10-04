@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.6"
-last_updated: "2026-09-06"
+version: "0.8"
+last_updated: "2026-10-04"
 confidence: "hypothesis"
 ---
 
@@ -26,6 +26,14 @@ L'économie contemporaine combine plusieurs tensions :
 - inflation sur les biens essentiels.
 
 L'ampleur des gains futurs de l'IA et des pertes d'emplois reste incertaine. L'OIT distingue l'exposition des tâches à l'IA de la suppression effective des emplois et estime, dans son étude de 2025, que leur transformation est plus probable que leur remplacement complet. Cette étude sur l'IA générative ne démontre pas une automatisation générale des secteurs essentiels. [OIT, 2025](https://www.ilo.org/resource/news/one-four-jobs-risk-being-transformed-genai-new-ilo%E2%80%93nask-global-index-shows)
+
+La croissance du PIB et les émissions de gaz à effet de serre ne sont pas liées par une proportion fixe dans chaque pays et chaque période. Le GIEC relève des cas de découplage absolu, y compris pour des émissions calculées selon la consommation, mais souligne que ces résultats varient dans le temps et que le découplage observé ne suffit pas à garantir le respect des budgets carbone mondiaux. Le projet ne postule donc ni que la croissance garantit la transition, ni qu'une baisse du PIB est une condition universelle démontrée : les trajectoires doivent être évaluées sur les émissions absolues, l'empreinte, les ressources et les résultats sociaux. [GIEC, AR6, groupe III, chapitre 2](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-2/).
+
+Pour la Belgique, l'OCDE constate un découplage des émissions de CO₂ liées à la combustion d'énergie et de la croissance économique, associé notamment à l'efficacité énergétique, à l'évolution du mix et à la structure de l'économie. Cette observation porte sur ce périmètre et ne prouve ni un découplage de toutes les pressions écologiques, ni une trajectoire suffisante de l'empreinte de consommation. [OCDE, Environment at a Glance: Belgium](https://www.oecd.org/en/publications/environment-at-a-glance-country-notes_59ce6fe6-en/belgium_72dc2ddb-en.html).
+
+Les objectifs de report modal doivent être établis à partir des distances, motifs de déplacement, alternatives et capacités propres à chaque Région et territoire. Dans sa variante haute, le PREF estime que le vélo pourrait atteindre 25 % des kilomètres de la mobilité quotidienne en France en 2050 ; ses variantes intermédiaire et basse retiennent 12 % et 6 %. Le rapport précise qu'il s'agit d'un potentiel conditionné par les hypothèses de déplacements et, pour la variante haute, par des infrastructures massives et de fortes restrictions à l'usage de la voiture. Le facteur de multiplication dépend aussi de l'année de référence : le rapport compare le potentiel au niveau d'environ 1 % des kilomètres en 2019, mais cite une part de 3 à 4 % dans son état des lieux plus récent. Ce n'est donc ni une prévision certaine ni un objectif belge directement transposable. Le rapport signale aussi environ 200 000 vélos de fonction en Belgique, exemple d'un levier déjà présent dont les effets et l'accès selon les revenus et statuts d'emploi pourraient être évalués. Pour le train de voyageurs, il compare également des variantes de croissance de 1,5, 2 ou 3 fois les voyageurs-kilomètres, ce qui cadre le chiffre de la vidéo comme variante haute, pas comme résultat assuré. [The Shift Project, PREF, fichier de juillet 2026, chantiers vélo, train et variantes](https://theshiftproject.org/app/uploads/2026/07/Reussir-dans-lincertitude-Integral-vjuillet-bis.pdf) ; [Belgium.be, compétences des Régions](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/regions/competences).
+
+Le PREF estime qu'une réduction d'environ 30 % du trafic aérien français pourrait être nécessaire dans une variante intermédiaire combinant un niveau précis de carburants durables et 70 TWh d'électricité bas-carbone affectés aux carburants de synthèse. Il évoque comme leviers possibles la fiscalité du kérosène et des billets, une taxation progressive selon la fréquence et la distance, des quotas ou la fermeture de lignes lorsque le train constitue une alternative acceptable. Ces leviers sont des options discutées dans un scénario français ; ils ne constituent ni un paquet belge chiffré ni une mesure dont les effets seraient évalués ici. [The Shift Project, PREF, fichier de juillet 2026, chantier aérien](https://theshiftproject.org/app/uploads/2026/07/Reussir-dans-lincertitude-Integral-vjuillet-bis.pdf).
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.3"
-last_updated: "2026-07-03"
+version: "0.5"
+last_updated: "2026-10-04"
 confidence: "hypothesis"
 ---
 
@@ -19,6 +19,8 @@ Les décisions publiques sont souvent évaluées selon des critères économique
 
 Les impacts sur le climat, les sols, l'eau, l'air et le vivant restent parfois secondaires ou traités comme des coûts externes.
 
+Le suivi climatique doit distinguer les émissions territoriales de l'empreinte carbone liée à la demande finale, qui inclut les émissions incorporées dans les importations. Pour la Belgique, l'OCDE relève que les émissions par habitant fondées sur la demande dépassent celles fondées sur la production : la Belgique est donc importatrice nette d'émissions incorporées dans sa demande finale. Les deux séries ont baissé depuis 1995, mais cela ne permet pas de conclure à une baisse suffisante au regard des budgets carbone mondiaux. Les empreintes sont estimées par modélisation et leurs résultats dépendent des méthodes. [OCDE, Environment at a Glance: Belgium](https://www.oecd.org/en/publications/environment-at-a-glance-country-notes_59ce6fe6-en/belgium_72dc2ddb-en.html) ; [Eurostat, empreintes environnementales FIGARO](https://ec.europa.eu/eurostat/web/environment/database?node_code=t_env_chm).
+
 ---
 
 ## Objectifs
@@ -34,6 +36,12 @@ Chaque décision majeure doit être évaluée selon plusieurs dimensions :
 - santé publique ;
 - résilience alimentaire ;
 - cohésion sociale.
+
+Pour le climat, publier séparément l'inventaire territorial belge, les comptes d'émissions selon le principe de résidence et l'empreinte de consommation, en documentant leurs périmètres, méthodes et incertitudes. Ces grandeurs ne sont pas interchangeables. La neutralité carbone territoriale est un indicateur nécessaire, mais ne démontre pas à elle seule une neutralité de l'empreinte, ni une baisse suffisante des émissions mondiales. Les objectifs du projet doivent donc examiner aussi les chaînes de valeur, les importations et les effets de déplacement de production. [Bureau fédéral du Plan, comptes d'émissions atmosphériques](https://www.plan.be/fr/donnees/comptes-des-emissions-atmospheriques-2008-2023).
+
+La simulation énergie-climat du PREF 2026 précise qu'elle raisonne sur les émissions territoriales françaises et l'énergie consommée sur le territoire, sans modéliser l'empreinte carbone ni l'énergie incorporée aux biens et services importés, faute de capacité de son outil. Cette réserve méthodologique confirme que ses résultats ne décrivent pas l'empreinte complète de la consommation française, encore moins celle de la Belgique. Il faut conserver cette limite lorsqu'on compare ses scénarios aux objectifs du projet. [The Shift Project, PREF, fichier de juillet 2026, périmètre de la simulation](https://theshiftproject.org/app/uploads/2026/07/Reussir-dans-lincertitude-Integral-vjuillet-bis.pdf).
+
+Le PREF propose d'allouer la part française d'un budget carbone mondial au prorata des émissions actuelles, tout en mentionnant d'autres clés possibles, dont la population et la responsabilité historique. Le choix d'une clé de répartition n'est pas une simple conclusion scientifique : il engage un arbitrage de justice. Pour la Belgique et dans les comparaisons internationales du projet, rendre explicites les critères retenus et leurs effets distributifs avant de transformer une part nationale en objectif. La capacité économique et les besoins fondamentaux peuvent également éclairer cet arbitrage. [The Shift Project, PREF, fichier de juillet 2026, objectifs carbone et clés d'allocation](https://theshiftproject.org/app/uploads/2026/07/Reussir-dans-lincertitude-Integral-vjuillet-bis.pdf).
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.3"
-last_updated: "2026-07-03"
+version: "0.5"
+last_updated: "2026-10-04"
 confidence: "hypothesis"
 ---
 
@@ -54,6 +54,14 @@ La stratégie initiale repose sur cinq piliers :
 5. renouvelables en complément.
 
 Cette proposition n'est pas dogmatique. Elle doit être révisée si une alternative démontre une meilleure combinaison de sécurité, coût, empreinte carbone, pilotabilité et acceptabilité.
+
+Les chiffres d'un scénario électrique doivent toujours être rattachés à leur source, leur date et leurs hypothèses de consommation. Ils ne constituent pas une prévision ni un objectif retenu par le projet. Pour la Belgique, l'étude d'Elia sur 2035–2050 compare plusieurs scénarios et sensibilités ; elle souligne le rôle de l'électrification de la demande, de la flexibilité, du stockage, des interconnexions et des capacités pilotables dans l'adéquation. Les résultats d'un scénario particulier ne doivent pas être présentés comme une prédiction. [Elia, Belgian Electricity System Blueprint 2035–2050](https://www.elia.be/-/media/project/elia/shared/documents/press-releases/2024/20240924_elia-publishes-blueprint-for-the-belgian-electricity-system-2035-2050_v2_en.pdf).
+
+Les données nationales rappellent l'ampleur de la transition belge : en 2023, 69 % de la consommation finale d'énergie provenait des combustibles fossiles et la dépendance énergétique était estimée à 76 %. Ces indicateurs concernent l'énergie totale, pas uniquement l'électricité. [SPF Santé publique, Baromètre climat 2025](https://climat.be/doc/barometre-2025-fr.pdf).
+
+Les versions successives du Shift Project doivent également être distinguées : le PTEF publié en 2022 et le Plan robuste pour l'économie française (PREF) de 2026 ne sont pas un scénario unique et immuable. Dans le PREF, les hypothèses nucléaires et renouvelables varient séparément selon des trajectoires basse, intermédiaire et haute ; la variante haute inclut 14 EPR2 d'ici 2050 et dépend explicitement de délais, de financement, de recrutement et de capacité industrielle. Toute reprise d'un chiffre doit nommer le document, l'année, le périmètre et la variante. Ces résultats sont français et ne déterminent pas le mix belge. [The Shift Project, PTEF](https://theshiftproject.org/publications/plan-transformation-economie-francaise/) ; [The Shift Project, PREF, fichier de juillet 2026](https://theshiftproject.org/app/uploads/2026/07/Reussir-dans-lincertitude-Integral-vjuillet-bis.pdf).
+
+En Belgique, la planification doit en outre préciser l'autorité responsable de chaque levier. Les Régions exercent notamment des compétences en énergie, environnement et transports, à l'exception du rail national (SNCB) ; les leviers fédéraux et les engagements européens exigent une coordination entre niveaux de pouvoir. Une trajectoire nationale doit donc attribuer les décisions, budgets, données et mécanismes de recours plutôt que supposer un exécutif unitaire. [Belgium.be, compétences des Régions](https://www.belgium.be/fr/la_belgique/pouvoirs_publics/regions/competences).
 
 L'énergie est traitée comme un plan sectoriel technique, validé par expertise publique contradictoire et soumis à contrôle démocratique sur ses conséquences sociales.
 

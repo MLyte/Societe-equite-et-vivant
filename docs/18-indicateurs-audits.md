@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.3"
-last_updated: "2026-09-09"
+version: "0.5"
+last_updated: "2026-10-04"
 confidence: "hypothesis"
 ---
 
@@ -125,6 +125,44 @@ La version actuelle retient huit familles d'indicateurs.
    - dépendance aux lobbies ;
    - opacité des bénéficiaires ;
    - concentration de pouvoir administratif, économique ou algorithmique.
+
+### Du tableau de bord aux décisions exécutables
+
+Le tableau de bord sert à décider et à corriger, pas seulement à décrire. Chaque politique faisant l'objet d'un choix public important est accompagnée d'une fiche de décision qui relie le besoin, les options comparées, les moyens disponibles et les résultats observables. Elle distingue quatre familles de variables :
+
+1. **Pressions et limites** : émissions territoriales et empreinte de consommation, prélèvements d'eau, état des sols et habitats, pollutions, matériaux et énergie mobilisés.
+2. **Capacités et prérequis** : puissance et énergie disponibles, réseaux, bâtiments, équipements, personnel qualifié, délais, intrants, maintenance et capacité de production ou d'importation.
+3. **Résultats pour les personnes et le vivant** : accès effectif au socle, santé et confort, qualité des services, continuité, état écologique et dommages évités ou déplacés.
+4. **Répartition et soutenabilité** : effets selon revenus, âge, handicap et territoire, coût d'investissement et d'exploitation, recettes récurrentes, emplois et compétences, dépendances et risques de concentration.
+
+Pour chacune, la fiche indique l'unité, le périmètre, l'année de référence, la source, la fréquence, l'incertitude et la personne publique responsable. Elle présente une valeur de départ, une trajectoire attendue datée et des seuils d'alerte lorsqu'une base juridique ou scientifique les justifie. Si la donnée manque, la variable est inscrite au registre des lacunes avec l'organisme chargé de la produire et une échéance de réexamen ; l'absence de chiffre n'est pas assimilée à un résultat nul.
+
+| Domaine à instruire | Variables calculables à relier aux chapitres sectoriels | Décision ou correction à instruire |
+| --- | --- | --- |
+| Socle vital | Besoins non satisfaits, couverture, non-recours, coût pour le ménage, délai et continuité | Garantir l'accès, corriger l'offre et financer la réponse prioritaire |
+| Climat et ressources | Émissions territoriales et empreinte, budgets temporels, eau, sols, habitats, matières et pollutions | Comparer réduction à la source, substitution et protection des limites propres à chaque milieu |
+| Énergie et réseaux | Demande par usage, puissance de pointe, disponibilité, importations, stockage, flexibilité, délais et coûts complets | Séquencer sobriété, efficacité, électrification, production, réseaux et solutions de secours |
+| Mobilité et fret | Distances par mode et motif, accessibilité, occupation, coûts, émissions et capacités ferroviaires/collectives | Combiner proximité, marche/vélo, transports collectifs, rail, fret et véhicules adaptés au besoin |
+| Logement et bâtiments | Logements sains accessibles, rénovation réalisée et vérifiée, consommation corrigée de la météo, loyers et artificialisation | Prioriser les rénovations apportant confort et économies mesurées, sans éviction ni report de précarité |
+| Alimentation, eau et agriculture | Accès nutritionnel, prix, prélèvements saisonniers, état des sols, rendements et dépendance aux intrants | Protéger besoins vitaux et écosystèmes, puis arbitrer les usages avec les personnes concernées |
+| Industrie et dépendances | Production et consommation par filière, émissions de cycle de vie, importations critiques, capacités, délais et compétences | Choisir les capacités à maintenir, transformer ou créer selon utilité, empreinte complète et résilience |
+| Numérique et IA | Électricité, eau, matériel, durée de vie, capacité réseau, bénéfice d'usage et dépendance fournisseur | Comparer solutions sobres et externalités territoriales; différer ou refuser un projet sans utilité démontrée ou ressource disponible |
+| Économie et finances | Coût complet, dépenses d'exploitation, recettes pérennes, dette, emploi, salaires, distribution des gains et sensibilité aux taux | Financer la transition sans compter deux fois les recettes ni rendre le socle dépendant d'hypothèses optimistes |
+| Institutions et droits | Délais de décision/recours, suites d'audit, conflits d'intérêts, accès aux données et atteintes constatées | Corriger la procédure, ouvrir un audit indépendant et garantir recours et réparation |
+
+Cette liste complète les huit familles d'indicateurs sans ajouter un score agrégé. Elle reprend notamment les chantiers énergie, mobilité, logement, industrie, agriculture, compétences et matières analysés par le PREF du Shift Project. Ce rapport français construit des variantes basses, intermédiaires et hautes, puis examine des vulnérabilités et prérequis; ses résultats chiffrés et son périmètre territorial ne valent pas prévision pour la Belgique. [The Shift Project, *Réussir la transition dans l'incertitude*, rapport publié en avril 2026, fichier diffusé en juillet 2026](https://theshiftproject.org/app/uploads/2026/07/Reussir-dans-lincertitude-Integral-vjuillet-bis.pdf).
+
+Dans ce dépôt, **Plan de transformation de l'économie belge (PTEB)** désigne le cadre belge de scénarios, de leviers et d'arbitrages que le projet propose de construire. Ce nom ne désigne pas un programme partisan ni un plan déjà établi ou validé; il reste distinct du PTEF et du PREF français cités comme sources. Le PTEB devra être alimenté par les données belges, préciser les compétences publiques concernées et être révisé à la lumière des résultats observés.
+
+### Scénarios, arbitrage et déclencheurs
+
+Pour les décisions de long terme ou irréversibles, l'instruction compare au minimum une variante basse, une intermédiaire et une haute pour les leviers incertains, ainsi qu'un ou plusieurs scénarios de stress pertinents : demande, prix et approvisionnement énergétique, aléas climatiques, délais d'infrastructure, disponibilité des métiers, coûts et taux d'intérêt. Ces variantes sont des hypothèses cohérentes, pas des probabilités ni des prédictions. Une trajectoire centrale est comparée aux observations à chaque révision; les écarts et leurs causes sont publiés.
+
+La fiche examine d'abord la compatibilité avec les droits, le socle vital et les contraintes physiques établies. Parmi les options compatibles, elle expose les arbitrages démocratiques sur la répartition, le calendrier et le niveau de risque; les compare ensuite selon résultats attendus, effets hors territoire, robustesse aux scénarios de stress, ressources et coût complet. Les critères restent séparés : un bon résultat financier ne compense pas une atteinte aux droits, une privation essentielle ou une destruction écologique irréversible. La décision motivée nomme l'autorité compétente, l'exécutant, le financeur, les groupes affectés et les recours.
+
+Chaque décision précise à l'avance les signaux qui entraînent une action : protection immédiate lorsqu'un droit ou un besoin essentiel est en cause; instruction et correction lorsqu'un seuil critique est franchi; réexamen du calendrier ou du moyen si un prérequis manque; nouvel arbitrage public si plusieurs trajectoires restent compatibles mais répartissent différemment coûts et bénéfices. Toute correction conserve une solution transitoire pour les personnes dépendantes du service. Un seuil d'alerte n'entraîne donc pas automatiquement une sanction individuelle.
+
+Pour la Belgique, les données et les compétences sont suivies à l'échelle pertinente : fédérale, régionale, communautaire, provinciale, communale ou européenne. La fiche nomme le niveau juridiquement responsable et les accords de coopération nécessaires; une moyenne nationale ne masque pas les écarts entre Régions ou bassins. Quand plusieurs niveaux partagent une compétence, l'action désigne un chef de file et les contributions attendues des autres autorités, sans leur attribuer un pouvoir qu'elles n'ont pas.
 
 ### Lecture conjointe du socle vital et des limites écologiques
 

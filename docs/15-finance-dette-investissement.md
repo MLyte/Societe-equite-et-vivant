@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.3"
-last_updated: "2026-09-11"
+version: "0.4"
+last_updated: "2026-10-04"
 confidence: "hypothesis"
 ---
 
@@ -152,6 +152,10 @@ Une aide qui ne prouve plus son utilité publique doit être supprimée ou réor
 ### Monnaie, inflation et biens essentiels
 
 Le modèle ne suppose pas que la création monétaire puisse financer sans limite les besoins collectifs.
+
+Les propositions de financement par la banque centrale doivent être examinées selon le droit applicable et distinguées des achats de titres déjà détenus sur les marchés. L'article 123 du TFUE interdit les découverts ou autres facilités de crédit de la BCE et des banques centrales nationales au bénéfice des autorités publiques, ainsi que l'achat direct de leurs titres de dette. Il n'interdit pas indistinctement toute intervention monétaire : les achats sur le marché secondaire relèvent de la politique monétaire et doivent respecter l'interdiction de contourner le financement direct. La BCE est indépendante dans l'exercice de ses missions (article 130). Une modification des traités suit la procédure de l'article 48 TUE ; la procédure ordinaire requiert l'accord commun des États membres et une ratification par chacun selon ses règles constitutionnelles. [TFUE, articles 123 et 130](https://eur-lex.europa.eu/eli/treaty/tfeu_2016/2025-03-15/eng) ; [TUE, article 48 et révision des traités](https://eur-lex.europa.eu/EN/legal-content/summary/revision-of-eu-treaties.html).
+
+En conséquence, un programme ne peut pas présumer qu'une règle de financement direct par la BCE, par exemple un plafond annuel exprimé en pourcentage du PIB, est disponible sous le droit actuel. Une proposition de réforme doit préciser son instrument juridique, les accords et ratifications nécessaires, ainsi que ses effets possibles sur l'inflation, les taux, le change, les prix des actifs et la répartition des coûts. Les financements fiscaux, l'emprunt public, les prêts bancaires et les achats d'actifs par la banque centrale ne sont pas des mécanismes interchangeables.
 
 Toute dépense doit être confrontée aux capacités réelles : énergie, travail disponible, matériaux, compétences, foncier, eau, délais industriels et acceptabilité sociale.
 
