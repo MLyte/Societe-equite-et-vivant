@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.6"
-last_updated: "2026-09-09"
+version: "0.7"
+last_updated: "2026-10-08"
 confidence: "hypothesis"
 ---
 
@@ -71,6 +71,8 @@ Ajouter deux simulations prioritaires :
 
 - rupture volontaire d'approvisionnement par un État ou fournisseur stratégique ;
 - baisse rapide de l'emploi dans un secteur automatisé par l'IA.
+
+Pour ce second scénario, simuler un décalage où l'emploi et les cotisations reculent avant l'arrivée de nouvelles recettes : chiffrer, période par période, les protections à maintenir, les recettes déjà constatées et le besoin de financement transitoire. Si un écart apparaît, l'exécutif soumet au Parlement des options fondées sur des ressources vérifiées, avec leurs effets distributifs et écologiques ; les gains d'IA anticipés ne sont pas inscrits en recettes et l'accès au socle vital est maintenu pendant l'arbitrage.
 
 #### Cohérence entre plans et ressources disponibles
 

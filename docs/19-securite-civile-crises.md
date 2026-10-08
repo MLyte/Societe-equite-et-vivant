@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.2"
-last_updated: "2026-09-07"
+version: "0.3"
+last_updated: "2026-10-08"
 confidence: "hypothesis"
 ---
 
@@ -72,6 +72,8 @@ Les plans de crise doivent prioriser les fonctions suivantes :
 
 Ces fonctions doivent être testées régulièrement par simulations, exercices et audits.
 
+Leur continuité minimale doit constituer un droit opposable en crise. Ce droit n'est pas une promesse d'alimentation électrique ininterrompue à chaque domicile : si une coupure ne peut être évitée, l'autorité responsable doit organiser à temps une solution de substitution qui maintient effectivement les fonctions vitales, informer les personnes concernées et permettre un signalement et un recours rapides. Les seuils de service, les responsabilités et les délais d'intervention doivent être publics, testés et révisables.
+
 ### Cartographie des risques
 
 Chaque territoire doit disposer d'une cartographie civile des risques :
@@ -108,6 +110,8 @@ Le modèle retient :
 - listes publiques des fonctions vitales à maintenir, sans détail technique dangereux.
 
 Ces stocks doivent être audités, renouvelés et testés. Un stock affiché mais inutilisable est une fausse sécurité.
+
+Les hôpitaux doivent disposer de batteries assurant la continuité immédiate des fonctions vitales, relayées par une source de secours et un approvisionnement adaptés à la durée plausible de la rupture. Les autres services critiques doivent disposer d'une alimentation de secours indépendante et régulièrement testée. Les personnes utilisant à domicile un équipement médical indispensable doivent disposer d'un plan individualisé de continuité, élaboré avec elles et les professionnels concernés, sans classement général des citoyens. Ces plans prévoient une alimentation de secours ou un accès rapide à un lieu de prise en charge adapté.
 
 ### Pouvoirs d'urgence
 
@@ -248,7 +252,6 @@ Peut accélérer certains arbitrages, mais risque d'ignorer les réalités terri
 ## Questions ouvertes
 
 - Faut-il définir un niveau minimal légal de stocks pour chaque fonction vitale ?
-- Faut-il créer un droit opposable à la continuité minimale du socle vital en crise ?
 - Faut-il imposer à chaque service public vital un plan de fonctionnement sans dépendance numérique centrale ?
 
 ---

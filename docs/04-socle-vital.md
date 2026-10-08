@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.3"
-last_updated: "2026-09-06"
+version: "0.4"
+last_updated: "2026-10-08"
 confidence: "hypothesis"
 ---
 
@@ -60,6 +60,8 @@ L'accès universel aux besoins ne signifie pas que chacun reçoit une allocation
 Au-delà de ce socle, chacun peut consommer davantage, à condition d'en assumer les coûts économiques et écologiques.
 
 Le socle vital doit être conçu comme un droit opposable, non comme une aide discrétionnaire. Une personne ou un territoire doit pouvoir contester une insuffisance d'accès.
+
+En fonctionnement normal, les capacités de production, les réseaux et les services doivent être dimensionnés pour couvrir l'intégralité des besoins énergétiques prévus, avec des marges, de la maintenance et des solutions de secours. Cet objectif de continuité n'implique pas qu'aucune panne ne puisse survenir. En cas de crise, le droit opposable porte sur la continuité effective des fonctions vitales, y compris par des moyens de substitution accessibles lorsque l'alimentation du domicile est temporairement interrompue. Il exige une protection renforcée des personnes dont la santé dépend d'un équipement électrique.
 
 ### Garde-fous de dignité
 

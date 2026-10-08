@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.4"
-last_updated: "2026-09-11"
+version: "0.5"
+last_updated: "2026-10-08"
 confidence: "hypothesis"
 ---
 
@@ -241,11 +241,11 @@ L'attribution des emplacements suivrait des critères transparents, proportionn�
 
 L'opérateur proposerait une partie des logements à prix encadré à des ménages ne possédant pas de logement et souhaitant en faire leur résidence principale. Le prix découlerait d'un coût publié et d'une aide explicite, avec l'objectif d'être inférieur aux offres comparables du territoire. Cet avantage doit être vérifié, et non supposé du seul fait du caractère public.
 
-La piste privilégiée est une vente avec crédit public amortissable, donnant accès à la propriété dès l'acte de vente et remboursée progressivement. Une location-accession pourrait être comparée pour les ménages ayant besoin d'une phase transitoire. Taux, durée, apport, garanties et transfert des responsabilités seraient précisés avant tout engagement.
+La piste privilégiée est une acquisition du logement avec crédit public amortissable, donnant accès aux droits de propriété définis par le contrat dès l'acte et remboursée progressivement. Le terrain resterait public ou coopératif afin de préserver l'accessibilité des reventes. Une location-accession pourrait être comparée pour les ménages ayant besoin d'une phase transitoire. Taux, durée, apport, garanties et transfert des responsabilités seraient précisés avant tout engagement.
 
 L'évaluation de la capacité de remboursement prendrait en compte les ressources régulières au-delà du seul salaire, les charges d'entretien et un reste à vivre protecteur. L'absence d'aide familiale ne devrait pas exclure automatiquement un candidat. Maintenir parallèlement une offre locative abordable pour les personnes ne pouvant pas ou ne souhaitant pas emprunter, avec garanties adaptées et accompagnement.
 
-Prévoir dès le contrat : occupation principale, limitation de la revente spéculative, récupération proportionnée de l'aide publique et possibilité de rachat par l'opérateur. Les conditions de départ, séparation, décès ou mobilité professionnelle doivent permettre de sortir du dispositif sans enfermement résidentiel. Comparer également la propriété du logement avec maintien public du foncier pour préserver l'accessibilité des reventes, en explicitant les droits plus limités transmis au ménage.
+Prévoir dès le contrat : occupation principale, limitation de la revente spéculative, récupération proportionnée de l'aide publique et possibilité de rachat par l'opérateur. Les conditions de départ, séparation, décès ou mobilité professionnelle doivent permettre de sortir du dispositif sans enfermement résidentiel. Le maintien public ou coopératif du terrain doit être expliqué au ménage avant l'achat : il limite les droits transmis et la hausse possible de la valeur patrimoniale. Sa forme juridique, la durée des droits et la formule de revente doivent être vérifiées avant expérimentation.
 
 Le logement pourrait ainsi constituer un patrimoine pour ses occupants. Son utilisation ultérieure comme garantie hypothécaire dépendrait toutefois des droits acquis, des restrictions de revente et de la capacité d'emprunt ; elle ne serait ni automatique ni une promesse d'accès à une autre maison. La compatibilité juridique du crédit et de ces clauses reste à vérifier dans le pays concerné.
 

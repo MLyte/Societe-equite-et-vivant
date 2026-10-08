@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="atelier-token" content="__ATELIER_TOKEN__">
+  <title>Atelier de décisions — Société, équité et vivant</title>
+  <style>
+    :root { color-scheme: light; font-family: "Segoe UI", Arial, sans-serif; background: #f5f4ef; color: #1f302d; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    button, textarea, input { font: inherit; }
+    button { cursor: pointer; }
+    button:focus-visible, textarea:focus-visible, input:focus-visible { outline: 3px solid #bd772c; outline-offset: 3px; }
+    .shell { max-width: 1260px; margin: auto; padding: 28px 24px 64px; }
+    header { display: flex; align-items: end; justify-content: space-between; gap: 24px; border-bottom: 1px solid #cbd2cb; padding-bottom: 24px; }
+    .eyebrow { color: #466a60; font-size: .76rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+    h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; font-weight: 500; line-height: 1.15; }
+    h1 { font-size: clamp(2rem, 4vw, 3.4rem); margin: 8px 0 6px; }
+    h2 { font-size: 1.65rem; margin: 0 0 12px; }
+    h3 { font-size: 1.18rem; margin: 0 0 10px; }
+    p { line-height: 1.55; }
+    .lede { max-width: 650px; margin: 0; color: #4d5c57; }
+    .header-action { flex: none; }
+    .button { border: 1px solid #2b5147; border-radius: 8px; padding: 10px 14px; background: #fff; color: #193b32; font-weight: 650; min-height: 44px; }
+    .button:hover { background: #eaf0eb; }
+    .button.primary { background: #214a3e; color: #fff; }
+    .button.primary:hover { background: #153a30; }
+    .button.muted { border-color: #b7c2ba; color: #39564d; }
+    .layout { display: grid; grid-template-columns: minmax(250px, 300px) minmax(0, 1fr); gap: 26px; margin-top: 28px; align-items: start; }
+    .panel { background: #fff; border: 1px solid #d7ddd5; border-radius: 13px; box-shadow: 0 8px 24px #163d3010; }
+    aside { padding: 18px; position: sticky; top: 16px; }
+    .count { margin: 0 0 15px; font-size: .9rem; color: #58645e; }
+    .case-list { display: grid; gap: 8px; }
+    .case-tab { display: block; text-align: left; width: 100%; border: 1px solid transparent; border-radius: 9px; padding: 12px; background: #f6f7f3; color: inherit; }
+    .case-tab[aria-current="true"] { border-color: #2d6b57; background: #ecf3ed; }
+    .case-tab strong { display: block; font-size: .96rem; margin-bottom: 6px; }
+    .case-tab small { color: #52685d; }
+    .sidebar-note { border-top: 1px solid #dde2db; margin: 18px 0 0; padding-top: 16px; font-size: .88rem; color: #52625a; }
+    main { min-width: 0; }
+    .card { padding: clamp(20px, 3vw, 34px); }
+    .topline { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+    .pill { display: inline-block; border-radius: 100px; padding: 5px 10px; background: #eef3ed; color: #28513f; font-size: .78rem; font-weight: 700; }
+    .pill.review { background: #fff1dd; color: #70470b; }
+    .pill.ready { background: #e7edf7; color: #294c7b; }
+    .summary { font-size: 1.06rem; color: #344740; margin: 0 0 20px; }
+    .section { border-top: 1px solid #e0e5dd; padding-top: 22px; margin-top: 22px; }
+    .section p { margin: 0 0 12px; }
+    .files { display: flex; gap: 7px; flex-wrap: wrap; }
+    .file { font-family: Consolas, monospace; background: #f2f4ef; border-radius: 5px; padding: 5px 7px; font-size: .8rem; overflow-wrap: anywhere; }
+    .option { display: block; border: 1px solid #d5dcd4; border-radius: 9px; padding: 14px 15px; margin: 8px 0; cursor: pointer; }
+    .option:has(input:checked) { border-color: #276c52; background: #edf5ed; }
+    .option-head { display: flex; align-items: start; gap: 10px; font-weight: 700; }
+    .option input { margin: 3px 0 0; accent-color: #276c52; }
+    .option-detail { display: block; padding-left: 25px; margin-top: 6px; color: #4b5d55; line-height: 1.45; }
+    .recommendation { background: #f2f6ed; border-left: 4px solid #668a63; padding: 14px 16px; border-radius: 0 8px 8px 0; }
+    label.field-label { display: block; font-weight: 700; margin-bottom: 8px; }
+    textarea { width: 100%; min-height: 92px; border: 1px solid #aebdb0; border-radius: 8px; padding: 11px; resize: vertical; background: #fff; color: #243b31; }
+    .actions { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 15px; }
+    .hint { font-size: .88rem; color: #59675e; margin: 9px 0 0; }
+    .report { white-space: pre-wrap; overflow-wrap: anywhere; background: #f6f7f3; padding: 13px; border-radius: 8px; }
+    .workflow { margin-top: 25px; padding: 22px; }
+    .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 13px; margin-top: 15px; }
+    .step { border: 1px solid #e0e5dd; border-radius: 9px; padding: 14px; }
+    .step b { display: block; margin-bottom: 7px; }
+    .step p { font-size: .9rem; margin: 0; color: #4c5c53; }
+    details { margin-top: 24px; }
+    summary { cursor: pointer; font-weight: 700; }
+    .import-controls { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 10px; }
+    #toast { position: fixed; bottom: 20px; right: 20px; max-width: min(360px, calc(100vw - 40px)); background: #204a3e; color: white; padding: 12px 16px; border-radius: 8px; box-shadow: 0 6px 24px #0002; opacity: 0; transition: opacity .2s; pointer-events: none; }
+    #toast.show { opacity: 1; }
+    @media (max-width: 760px) {
+      .shell { padding: 20px 15px 46px; }
+      header { display: block; }
+      .header-action { margin-top: 18px; }
+      .layout { display: block; }
+      aside { position: static; margin-bottom: 16px; }
+      .steps { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <div>
+        <div class="eyebrow">Société, équité et vivant · outil local</div>
+        <h1>Atelier de décisions</h1>
+        <p class="lede">Un lieu pour examiner les choix du modèle, répondre quand un arbitrage est nécessaire et garder la trace des raisons.</p>
+      </div>
+      <div class="header-action actions">
+        <button class="button primary" id="scan-button" type="button">Lancer une analyse avec Codex</button>
+        <button class="button" id="copy-scan-button" type="button">Copier la consigne</button>
+      </div>
+    </header>
+    <p class="hint" id="run-status" role="status" aria-live="polite">Codex local est appelé par cette page. Les choix sont enregistrés dans ce navigateur.</p>
+
+    <div class="layout">
+      <aside class="panel" aria-label="Dossiers">
+        <h2>Dossiers</h2>
+        <p class="count" id="case-count"></p>
+        <nav class="case-list" id="case-list" aria-label="Choisir un dossier"></nav>
+        <p class="sidebar-note">Une analyse lit le dépôt sans le modifier. L'intégration commence seulement quand tu lances l'action depuis une fiche.</p>
+      </aside>
+
+      <main>
+        <article class="panel card" id="case-detail" aria-live="polite"></article>
+
+        <section class="panel workflow" aria-labelledby="workflow-title">
+          <h2 id="workflow-title">Comment jouer le ping-pong</h2>
+          <div class="steps">
+            <div class="step"><b>1 · Analyser</b><p>Codex lit les chapitres utiles sans modifier le dépôt et prépare une fiche.</p></div>
+            <div class="step"><b>2 · Arbitrer</b><p>Tu réponds seulement si les principes existants ne suffisent pas.</p></div>
+            <div class="step"><b>3 · Intégrer</b><p>Après ton action, Codex applique le choix et la page conserve son compte rendu.</p></div>
+          </div>
+          <details>
+            <summary>Importer une fiche produite dans une autre conversation Codex</summary>
+            <p class="hint">Coller ici le JSON généré par la demande d'analyse. Une fiche doit contenir un titre, un résumé et les fichiers concernés.</p>
+            <label class="field-label" for="import-text">Fiche JSON</label>
+            <textarea id="import-text" spellcheck="false" placeholder='{ "id": "nouveau-sujet", "title": "…", "kind": "decision", "summary": "…", "files": ["docs/…"], "options": [{"id":"A","label":"…","detail":"…"}], "recommendation": "A", "reason": "…" }'></textarea>
+            <div class="import-controls">
+              <button class="button" id="import-button" type="button">Ajouter cette fiche</button>
+              <button class="button muted" id="export-button" type="button">Exporter mes dossiers</button>
+            </div>
+          </details>
+        </section>
+      </main>
+    </div>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <script>
+    const STORAGE_KEY = "sev-ping-pong-v1";
+    const seed = [
+      {
+        id: "energie-crise", title: "Crise énergétique", kind: "decision", stage: "done",
+        summary: "Garantir les fonctions vitales pendant une coupure sans promettre une alimentation ininterrompue à chaque domicile.",
+        files: ["docs/04-socle-vital.md", "docs/19-securite-civile-crises.md"],
+        options: [
+          { id: "A", label: "Courant continu à domicile", detail: "Protection ambitieuse, mais impossible à garantir dans toute crise." },
+          { id: "B", label: "Continuité des fonctions vitales", detail: "Secours adaptés, batteries hospitalières, plan pour les personnes dépendantes d'un équipement médical." },
+          { id: "C", label: "Objectif sans droit opposable", detail: "Plus de souplesse, mais une garantie trop faible pour les personnes touchées." }
+        ],
+        recommendation: "B", choice: "B", reason: "Le risque zéro n'existe pas. Prévoir la couverture intégrale des besoins en fonctionnement normal et des secours crédibles en crise.",
+        origin: "Premier cycle · décision intégrée localement"
+      },
+      {
+        id: "logement-foncier", title: "Logement public abordable", kind: "decision", stage: "done",
+        summary: "Décider qui conserve le terrain lorsqu'un ménage acquiert un logement aidé.",
+        files: ["docs/16-logement-foncier-urbanisme.md"],
+        options: [
+          { id: "A", label: "Terrain public ou coopératif", detail: "Préserve l'accessibilité des reventes, avec des droits patrimoniaux plus limités pour le ménage." },
+          { id: "B", label: "Terrain vendu au ménage", detail: "Propriété plus complète, avec un risque de remontée de la rente foncière." }
+        ],
+        recommendation: "A", choice: "A", reason: "Préserver l'accès durable au logement tout en permettant l'acquisition du logement.",
+        origin: "Test 1 · choix du propriétaire intégré localement"
+      },
+      {
+        id: "automatisation-gains-faibles", title: "Automatisation sans gains rapides", kind: "application", stage: "done",
+        summary: "Une baisse de l'emploi précède les recettes promises par l'IA. Le cadre du projet impose déjà de maintenir le socle vital sans compter sur des gains futurs hypothétiques.",
+        files: ["docs/05-economie.md", "docs/11-transition.md"],
+        recommendation: "Préserver immédiatement les droits et financer le budget de base sur des ressources vérifiables ; tester séparément les aides, la formation volontaire et les effets sur l'emploi.",
+        reason: "Les deux chapitres répondent déjà au choix de valeur. L'essai vérifie que l'assistant évite une consultation inutile.",
+        origin: "Test 2 · cadre déjà présent, aucune modification nécessaire"
+      }
+    ];
+
+    let cards = loadCards();
+    let selectedId = cards[0].id;
+    let toastTimer;
+    let running = false;
+
+    function loadCards() {
+      try {
+        const saved = JSON.parse(localStorage.getItem(STORAGE_KEY));
+        if (!Array.isArray(saved)) return seed;
+        const byId = new Map(saved.map(card => [card.id, card]));
+        for (const card of seed) if (!byId.has(card.id)) byId.set(card.id, card);
+        return [...byId.values()];
+      } catch { return seed; }
+    }
+    function persist() {
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(cards)); }
+      catch { toast("Enregistrement local indisponible : exportez vos dossiers."); }
+    }
+    function el(tag, className, content) {
+      const node = document.createElement(tag);
+      if (className) node.className = className;
+      if (content !== undefined) node.textContent = content;
+      return node;
+    }
+    function toast(message) {
+      const node = document.getElementById("toast");
+      node.textContent = message;
+      node.classList.add("show");
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => node.classList.remove("show"), 3400);
+    }
+    function stageLabel(card) {
+      if (card.stage === "done") return card.kind === "decision" ? "Décision intégrée" : "Cadre vérifié";
+      if (card.stage === "blocked") return "À reprendre";
+      return card.kind === "decision" ? "À arbitrer" : "À vérifier";
+    }
+    function render() {
+      const list = document.getElementById("case-list");
+      list.replaceChildren();
+      document.getElementById("case-count").textContent = cards.length + " dossiers · " + cards.filter(card => card.stage !== "done").length + " à traiter";
+      for (const card of cards) {
+        const tab = el("button", "case-tab");
+        tab.type = "button";
+        tab.setAttribute("aria-current", String(card.id === selectedId));
+        tab.append(el("strong", "", card.title), el("small", "", stageLabel(card)));
+        tab.addEventListener("click", () => { selectedId = card.id; render(); });
+        list.append(tab);
+      }
+      const card = cards.find(item => item.id === selectedId) || cards[0];
+      if (card) renderDetail(card);
+    }
+    function renderDetail(card) {
+      const root = document.getElementById("case-detail");
+      root.replaceChildren();
+      const top = el("div", "topline");
+      const status = el("span", "pill " + (card.stage === "done" ? "" : card.kind === "decision" ? "review" : "ready"), stageLabel(card));
+      top.append(status, el("span", "pill", card.kind === "decision" ? "Arbitrage" : "Cadre existant"));
+      root.append(top, el("h2", "", card.title), el("p", "summary", card.summary));
+      const files = el("div", "files");
+      for (const file of card.files) files.append(el("span", "file", file));
+      root.append(files);
+
+      if (card.kind === "decision") {
+        const section = el("section", "section");
+        section.append(el("h3", "", "Les choix"));
+        for (const option of card.options) {
+          const label = el("label", "option");
+          const head = el("span", "option-head");
+          const radio = document.createElement("input");
+          radio.type = "radio"; radio.name = "choice"; radio.value = option.id;
+          radio.checked = card.choice === option.id;
+          head.append(radio, el("span", "", option.id + " · " + option.label));
+          label.append(head, el("span", "option-detail", option.detail));
+          section.append(label);
+        }
+        const recommendation = el("p", "recommendation");
+        recommendation.append(el("strong", "", "Recommandation : " + card.recommendation + ". "), document.createTextNode(card.reason || ""));
+        section.append(recommendation);
+        root.append(section);
+      } else {
+        const section = el("section", "section");
+        section.append(el("h3", "", "Suite proposée"), el("p", "recommendation", card.recommendation));
+        section.append(el("p", "hint", card.reason || ""));
+        root.append(section);
+      }
+
+      const response = el("section", "section");
+      const label = el("label", "field-label", card.kind === "decision" ? "Motif ou précision de ton choix" : "Note pour l'intégration");
+      label.htmlFor = "choice-note";
+      const note = el("textarea");
+      note.id = "choice-note"; note.value = card.note || "";
+      note.placeholder = "Facultatif : raison, réserve, condition de révision…";
+      const actions = el("div", "actions");
+      if (card.kind === "decision") {
+        const save = el("button", "button", "Enregistrer mon choix");
+        save.type = "button";
+        save.addEventListener("click", () => {
+          const checked = root.querySelector('input[name="choice"]:checked');
+          if (!checked) return toast("Choisissez une option.");
+          card.choice = checked.value; card.note = note.value.trim(); card.stage = "ready";
+          persist(); render(); toast("Choix enregistré dans ce navigateur.");
+        });
+        actions.append(save);
+      }
+      const apply = el("button", "button primary", card.kind === "decision" ? "Intégrer avec Codex" : "Vérifier avec Codex");
+      apply.type = "button";
+      apply.addEventListener("click", async () => {
+        const checked = root.querySelector('input[name="choice"]:checked');
+        if (card.kind === "decision" && !checked) return toast("Choisissez une option.");
+        if (card.kind === "decision") card.choice = checked.value;
+        card.note = note.value.trim();
+        persist();
+        await runApply(card);
+      });
+      actions.append(apply);
+      const copy = el("button", "button", card.kind === "decision" ? "Copier mon choix" : "Copier la vérification");
+      copy.type = "button";
+      copy.addEventListener("click", async () => {
+        const checked = root.querySelector('input[name="choice"]:checked');
+        if (card.kind === "decision" && !checked) return toast("Choisissez une option.");
+        if (card.kind === "decision") card.choice = checked.value;
+        card.note = note.value.trim();
+        persist();
+        const message = integrationPrompt(card);
+        await copyText(message);
+      });
+      actions.append(copy);
+      response.append(label, note, actions);
+      response.append(el("p", "hint", card.origin || "Fiche importée"));
+      if (card.lastReport) {
+        const report = el("section", "section");
+        report.append(el("h3", "", "Dernier compte rendu"), el("div", "report", card.lastReport));
+        response.append(report);
+      }
+      root.append(response);
+    }
+    function integrationPrompt(card) {
+      const choice = card.kind === "decision"
+        ? "Choix retenu : " + card.choice + " — " + card.options.find(item => item.id === card.choice)?.label + ".\nPrécision : " + (card.note || card.reason || "aucune")
+        : "Aucun arbitrage supplémentaire demandé : applique le cadre déjà retenu.\nPrécision : " + (card.note || card.reason || "aucune");
+      return "Société, équité et vivant — fiche de ping-pong\nDossier : " + card.title
+        + "\nContexte : " + card.summary + "\n" + choice
+        + "\nFichiers concernés : " + card.files.join(", ")
+        + "\nLis les quatre fichiers .blueprint requis et uniquement les chapitres utiles. Vérifie les faits nouveaux avec des sources primaires. "
+        + (card.kind === "decision" ? "Intègre ce choix dans au plus trois fichiers du projet. " : "Vérifie que les fichiers appliquent déjà ce cadre et ne modifie que si une lacune concrète apparaît. ")
+        + "Incrémente les versions Markdown modifiées sur le fond, "
+        + "cherche une contradiction créée par le changement, puis résume les modifications et les limites. "
+        + "Ne publie pas sans demande explicite.";
+    }
+    function scanPrompt() {
+      return "Société, équité et vivant — nouveau cycle de ping-pong. Lis .blueprint/context.md, .blueprint/ai-instructions.md, .blueprint/style-guide.md et .blueprint/decisions.md, "
+        + "puis seulement les chapitres pertinents. Cherche le prochain point concret qui met le modèle à l'épreuve. "
+        + "Vérifie d'abord si une décision existante suffit. Consulte-moi uniquement pour un arbitrage de valeur réellement ouvert. "
+        + "Ne modifie aucun fichier pendant cette analyse. Réponds uniquement avec un objet JSON valide, sans bloc de code, contenant : "
+        + "id (texte court unique), title, kind ('decision' ou 'application'), summary, files (tableau de chemins), "
+        + "recommendation (identifiant d'option pour decision, texte pour application), reason (motif), "
+        + "et, seulement pour decision, options (tableau de 2 ou 3 objets {id,label,detail}). "
+        + "Pour application, explique dans reason pourquoi aucune consultation n'est nécessaire. "
+        + "Distingue les faits établis, les hypothèses et les choix de valeur.";
+    }
+    async function callAgent(action, payload = {}) {
+      const token = document.querySelector('meta[name="atelier-token"]').content;
+      const response = await fetch("/api/" + action, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "X-Atelier-Token": token },
+        body: JSON.stringify(payload)
+      });
+      const result = await response.json();
+      if (!response.ok) throw Error(result.error || "Codex n'a pas répondu.");
+      return result;
+    }
+    function showElapsed(label) {
+      const started = Date.now();
+      const update = () => {
+        const seconds = Math.floor((Date.now() - started) / 1000);
+        document.getElementById("run-status").textContent = label + " · " + seconds + " s écoulées";
+      };
+      update();
+      const timer = setInterval(update, 1000);
+      return () => clearInterval(timer);
+    }
+    async function runScan() {
+      if (running) return;
+      running = true;
+      const button = document.getElementById("scan-button");
+      button.disabled = true;
+      button.textContent = "Analyse en cours…";
+      const stopClock = showElapsed("Codex lit les documents pertinents. Vous pouvez changer de fenêtre");
+      try {
+        const result = await callAgent("scan", { existing: cards.map(card => card.title) });
+        const card = parseCard(JSON.stringify(result.card));
+        if (cards.some(existing => existing.id === card.id)) throw Error("Codex a proposé un identifiant déjà utilisé. Relancez l'analyse.");
+        card.origin = "Analyse Codex locale";
+        cards.unshift(card); selectedId = card.id; persist(); render();
+        toast("Nouvelle fiche préparée.");
+        document.getElementById("run-status").textContent = "Analyse terminée. Examinez la fiche avant toute intégration.";
+      } catch (error) {
+        document.getElementById("run-status").textContent = "Analyse interrompue : " + error.message;
+        toast("Analyse non terminée.");
+      } finally {
+        stopClock();
+        button.disabled = false;
+        button.textContent = "Lancer une analyse avec Codex";
+        running = false;
+      }
+    }
+    async function runApply(card) {
+      if (running) return;
+      running = true;
+      const stopClock = showElapsed("Codex vérifie le dossier. Vous pouvez changer de fenêtre");
+      try {
+        const result = await callAgent("apply", { card });
+        card.lastReport = result.report;
+        card.stage = ["applied", "already_covered"].includes(result.outcome) ? "done" : "blocked";
+        persist(); render();
+        document.getElementById("run-status").textContent = result.outcome === "applied"
+          ? "Intégration terminée : " + result.changedFiles.join(", ")
+          : result.outcome === "already_covered" ? "Cadre vérifié, aucun changement nécessaire."
+          : "Vérification impossible. Le dossier reste à reprendre.";
+        toast(result.outcome === "blocked" ? "Aucun résultat validé." : "Vérification terminée.");
+      } catch (error) {
+        card.stage = "blocked";
+        card.lastReport = error.message;
+        persist(); render();
+        document.getElementById("run-status").textContent = "Intégration interrompue : " + error.message;
+        toast("Intégration non terminée.");
+      } finally { stopClock(); running = false; }
+    }
+    async function copyText(value) {
+      try { await navigator.clipboard.writeText(value); toast("Texte copié. Collez-le dans Codex."); }
+      catch {
+        const area = document.createElement("textarea");
+        area.value = value; document.body.append(area); area.select();
+        const copied = document.execCommand("copy"); area.remove();
+        toast(copied ? "Texte copié. Collez-le dans Codex." : "Copie indisponible dans ce navigateur.");
+      }
+    }
+    function parseCard(raw) {
+      const clean = raw.trim().replace(/^\x60\x60\x60(?:json)?\s*/i, "").replace(/\s*\x60\x60\x60$/, "");
+      const card = JSON.parse(clean);
+      if (!card || typeof card !== "object" || !["decision", "application"].includes(card.kind)) throw Error("Type de fiche invalide.");
+      if (![card.id, card.title, card.summary, card.recommendation, card.reason].every(value => typeof value === "string" && value.trim())) throw Error("Champs obligatoires manquants.");
+      if (!Array.isArray(card.files) || !card.files.length || !card.files.every(file => typeof file === "string" && file.trim())) throw Error("Liste des fichiers invalide.");
+      if (card.kind === "decision" && (!Array.isArray(card.options) || card.options.length < 2 || card.options.length > 3 || !card.options.every(option => ["id", "label", "detail"].every(key => typeof option[key] === "string" && option[key].trim())) || !card.options.some(option => option.id === card.recommendation))) throw Error("Options ou recommandation invalides.");
+      return { id: card.id, title: card.title, kind: card.kind, stage: "ready", summary: card.summary, files: card.files, options: card.kind === "decision" ? card.options : undefined, recommendation: card.recommendation, reason: card.reason, origin: "Fiche importée de Codex" };
+    }
+    document.getElementById("scan-button").addEventListener("click", runScan);
+    document.getElementById("copy-scan-button").addEventListener("click", () => copyText(scanPrompt()));
+    document.getElementById("import-button").addEventListener("click", () => {
+      try {
+        const card = parseCard(document.getElementById("import-text").value);
+        if (cards.some(existing => existing.id === card.id)) throw Error("Cet identifiant existe déjà.");
+        cards.unshift(card); selectedId = card.id; persist(); render();
+        document.getElementById("import-text").value = "";
+        toast("Fiche ajoutée.");
+      } catch (error) { toast(error.message || "Fiche illisible."); }
+    });
+    document.getElementById("export-button").addEventListener("click", () => {
+      const blob = new Blob([JSON.stringify(cards, null, 2)], { type: "application/json" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "societe-equite-vivant-decisions.json";
+      link.click();
+      setTimeout(() => URL.revokeObjectURL(link.href), 1000);
+    });
+    render();
+  </script>
+</body>
+</html>
