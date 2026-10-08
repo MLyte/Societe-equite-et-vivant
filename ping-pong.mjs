@@ -7,10 +7,18 @@ import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const port = 4175;
+const port = Number(process.env.ATELIER_PORT || 4175);
+if (!Number.isInteger(port) || port < 1024 || port > 65535) throw Error('Port invalide.');
 const root = dirname(fileURLToPath(import.meta.url));
 const page = join(root, 'ping-pong.html');
 const token = randomBytes(24).toString('hex');
+const localOrigin = `http://127.0.0.1:${port}`;
+const publicOrigin = process.env.ATELIER_PUBLIC_ORIGIN || localOrigin;
+const username = process.env.ATELIER_USER;
+const password = process.env.ATELIER_PASSWORD;
+if (publicOrigin !== localOrigin && (!/^https:\/\/[^/]+$/.test(publicOrigin) || !username || !password)) {
+  throw Error('Accès distant : origine HTTPS, identifiant et mot de passe requis.');
+}
 let busy = false;
 const contextFiles = [
   '.blueprint/context.md',
@@ -23,6 +31,22 @@ const toolFailure = /helper_unknown_error|setup refresh had errors|Failed to cre
 function sendJson(response, status, data) {
   response.writeHead(status, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store' });
   response.end(JSON.stringify(data));
+}
+
+function authorized(request) {
+  if (!username || !password) return publicOrigin === localOrigin;
+  const header = request.headers.authorization || '';
+  if (!header.startsWith('Basic ')) return false;
+  let supplied;
+  try { supplied = Buffer.from(header.slice(6), 'base64').toString('utf8'); }
+  catch { return false; }
+  const expected = createHash('sha256').update(`${username}:${password}`).digest();
+  const received = createHash('sha256').update(supplied).digest();
+  return expected.equals(received);
+}
+
+function requestPath(url) {
+  return url.startsWith('/atelier/') ? url.slice('/atelier'.length) : url;
 }
 
 async function readBody(request) {
@@ -51,7 +75,9 @@ function runCodex(prompt, sandbox) {
   const outputFile = join(tmpdir(), 'sev-atelier-' + randomUUID() + '.txt');
   const args = ['exec', '--ephemeral', '--sandbox', sandbox, '--output-last-message', outputFile, '-'];
   return new Promise((resolve, reject) => {
-    const child = spawn('codex.exe', args, { cwd: root, windowsHide: true, stdio: ['pipe', 'pipe', 'pipe'] });
+    const { ATELIER_PASSWORD, OPENAI_API_KEY, ...childEnv } = process.env;
+    const codexCommand = process.platform === 'win32' ? 'codex.exe' : 'codex';
+    const child = spawn(codexCommand, args, { cwd: root, env: childEnv, windowsHide: true, stdio: ['pipe', 'pipe', 'pipe'] });
     let errorOutput = '';
     let settled = false;
     const timer = setTimeout(() => {
@@ -136,8 +162,19 @@ Réponds uniquement par un objet JSON valide : {"outcome":"applied|already_cover
 }
 
 createServer(async (request, response) => {
-  if (request.method === 'POST' && ['/api/scan', '/api/apply'].includes(request.url)) {
-    if (request.headers['x-atelier-token'] !== token || request.headers.origin !== `http://127.0.0.1:${port}`) {
+  const path = requestPath(request.url);
+  if (!authorized(request)) {
+    response.writeHead(401, { 'WWW-Authenticate': 'Basic realm="Atelier Societe equite et vivant", charset="UTF-8"', 'Cache-Control': 'no-store' });
+    response.end('Authentification requise.');
+    return;
+  }
+  if (request.method === 'GET' && request.url === '/atelier') {
+    response.writeHead(308, { Location: '/atelier/', 'Cache-Control': 'no-store' });
+    response.end();
+    return;
+  }
+  if (request.method === 'POST' && ['/api/scan', '/api/apply'].includes(path)) {
+    if (request.headers['x-atelier-token'] !== token || request.headers.origin !== publicOrigin) {
       sendJson(response, 403, { error: 'Accès local refusé.' });
       return;
     }
@@ -148,7 +185,7 @@ createServer(async (request, response) => {
     busy = true;
     try {
       const body = await readBody(request);
-      if (request.url === '/api/scan') {
+      if (path === '/api/scan') {
         const existing = Array.isArray(body.existing) ? body.existing.filter(value => typeof value === 'string').slice(0, 30) : [];
         const card = parseJsonAnswer(await runWithRetry(scanPrompt(existing), 'read-only'));
         if (!validCard(card)) throw Error('Codex a produit une fiche incomplète. Relancez l’analyse.');
@@ -182,7 +219,7 @@ createServer(async (request, response) => {
     } finally { busy = false; }
     return;
   }
-  if (request.method !== 'GET' || !['/', '/ping-pong.html'].includes(request.url)) {
+  if (request.method !== 'GET' || !['/', '/ping-pong.html'].includes(path)) {
     response.writeHead(404);
     response.end();
     return;

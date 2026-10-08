@@ -327,7 +327,7 @@
     }
     async function callAgent(action, payload = {}) {
       const token = document.querySelector('meta[name="atelier-token"]').content;
-      const response = await fetch("/api/" + action, {
+      const response = await fetch("api/" + action, {
         method: "POST",
         headers: { "Content-Type": "application/json", "X-Atelier-Token": token },
         body: JSON.stringify(payload)
