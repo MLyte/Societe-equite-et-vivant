@@ -22,7 +22,7 @@ test('Le HTML contient les sept sections, les sources et la date éditoriale san
   const documents = html.match(/<section id="documents"[\s\S]*?<\/section>/)?.[0] ?? '';
   assert.equal((documents.match(/github\.com\/MLyte\/Societe-equite-et-vivant\/blob\/main\/docs\/(?:0[1-9]|1[0-9])-/g) ?? []).length, 19);
   assert.match(html, /Une trame commune pour examiner chaque proposition/);
-  assert.equal((html.match(/<article /g) ?? []).length, 18);
+  assert.equal((html.match(/<article /g) ?? []).length, 17);
   assert.equal((html.match(/class="explanation explanation-why"/g) ?? []).length, 14);
   assert.equal((html.match(/class="explanation explanation-how"/g) ?? []).length, 14);
   assert.doesNotMatch(content.sections[0].context, /explanation-|(?:Pourquoi|Comment|Quoi)&nbsp;\?/);
@@ -177,14 +177,27 @@ test('Le workflow exige les tests et la compilation avant publication, jamais de
   assert.deepEqual(steps, ['npm ci', 'npm test', 'npm run build']);
 });
 
-test('Le constat regroupe les six repères avant les propositions sans doublons', () => {
+test('Le constat regroupe les volets IA dans une carte avant les propositions sans doublons', () => {
   const content = renderVitrine(source);
   const html = renderPage(template, source);
   assert.ok(html.indexOf('id="constat"') < html.indexOf('id="propositions"'));
   assert.match(content.constat, /ExxonMobil/);
   assert.match(content.constat, /GenCast/);
   assert.match(content.constat, /travailleur sur quatre/);
-  assert.equal((content.constat.match(/class="constat-card /g) ?? []).length, 6);
+  assert.equal((content.constat.match(/class="constat-card /g) ?? []).length, 5);
+  const aiCard = [...content.constat.matchAll(/<article\b[\s\S]*?<\/article>/g)].map((match) => match[0]).find((card) => card.includes('GenCast'));
+  assert.ok(aiCard);
+  assert.match(aiCard, /Développer une IA utile/);
+  assert.match(aiCard, /Croiser les connaissances/);
+  assert.equal((aiCard.match(/class="constat-ia-row/g) ?? []).length, 3);
+  assert.equal((aiCard.match(/<img /g) ?? []).length, 3);
+  assert.match(aiCard, /constat-securite-ia\.png/);
+  assert.match(aiCard, /hero-main-vivant-unsplash\.webp/);
+  assert.match(aiCard, /constat-ia-conclusion/);
+  assert.ok(aiCard.indexOf('GenCast') < aiCard.indexOf('Développer une IA utile'));
+  assert.ok(aiCard.indexOf('Développer une IA utile') < aiCard.indexOf('Croiser les connaissances'));
+  assert.match(aiCard, /destination-earth/);
+  assert.match(aiCard, /research\/inspirations\.md#/);
   assert.match(content.constat, /Donald Trump/);
   assert.match(content.constat, /constat-politique-unsplash\.webp/);
   assert.doesNotMatch(content.sections[1].cards, /ExxonMobil|objectifs d’Aichi/);

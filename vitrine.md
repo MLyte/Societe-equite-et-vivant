@@ -1,7 +1,7 @@
 ---
 status: draft
-version: "0.54"
-last_updated: "2026-09-20"
+version: "0.56"
+last_updated: "2026-10-08"
 confidence: hypothesis
 corpus:
   topics:
@@ -109,17 +109,25 @@ En 2025, l’Organisation internationale du travail estimait qu’**un travaille
 
 ### Utiliser la puissance de l’IA pour prendre des décisions plus réfléchies.
 
-L’IA permet déjà de mobiliser de vastes ensembles de données pour explorer plusieurs futurs possibles. En météorologie, GenCast a été entraîné sur **quarante ans de données** et simule **plus de 80 variables** à l’échelle mondiale. Il produit une prévision sur quinze jours en **environ huit minutes**, et peut calculer plusieurs scénarios en parallèle avec les ressources nécessaires. Le projet propose de mettre cette puissance d’analyse au service des besoins de la population : croiser les données, comparer les solutions et confronter leurs effets au terrain pour améliorer les décisions.
+En météorologie, GenCast, entraîné sur **quarante ans de données** et **plus de 80 variables** mondiales, produit une prévision sur quinze jours en **environ huit minutes**. Appliquer cette capacité aux décisions collectives exige des validations spécifiques.
 
 [Lire l’étude sur GenCast : Nature](https://www.nature.com/articles/s41586-024-08252-9)
 
-### Développer une IA utile exige de faire primer la sécurité sur la course au profit.
+#### Développer une IA utile exige de faire primer la sécurité sur la course au profit.
 
-En septembre 2026, **Dario Amodei, dirigeant d’Anthropic, appelle à ralentir la progression des capacités de l’IA** pour mieux en maîtriser les risques. La concurrence commerciale peut inciter à accélérer pour arriver premier ; le plan américain porté par **l’administration Trump revendique la domination mondiale en IA**. Le projet propose de **faire primer les besoins humains, la sécurité et les limites écologiques sur le rendement financier** : financer les usages utiles, imposer des évaluations indépendantes et permettre la suspension des développements à risque. La puissance d’analyse doit servir des choix humains éclairés et contestables.
+En septembre 2026, **Dario Amodei, dirigeant d’Anthropic, appelle à ralentir la progression des capacités de l’IA** pour maîtriser les risques. La concurrence commerciale peut inciter à accélérer ; le plan de **l’administration Trump revendique la domination mondiale en IA**. Le projet propose de **faire primer les besoins humains, la sécurité et les limites écologiques** : financer les usages utiles, imposer des évaluations indépendantes et permettre la suspension des développements à risque.
 
 Cette alerte ne prouve pas qu’une catastrophe est certaine. Le profit n’explique pas tous les risques, et une IA publique n’est ni automatiquement sûre ni intrinsèquement neutre.
 
 [L’alerte : Dario Amodei](https://darioamodei.com/post/we-must-pace-the-frontier) · [La stratégie américaine : Maison-Blanche](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf) · [La réponse du projet : une IA utile et contrôlée](docs/08-ia.md)
+
+#### Croiser les connaissances pour mieux éclairer les décisions collectives.
+
+L’IA peut aider à rapprocher les **connaissances scientifiques**, les **données sur le vivant** et les **besoins exprimés par la population**. Dans un cadre explicite, elle peut contribuer à comparer plusieurs solutions et à rendre leurs conséquences plus visibles : effets attendus, ressources nécessaires, impacts écologiques et incertitudes. Les objectifs et les garanties doivent être débattus ; les résultats doivent pouvoir être **vérifiés, contestés et confrontés au terrain**. La décision reste sous responsabilité humaine et contrôle démocratique.
+
+Ces initiatives documentent des fonctions complémentaires, sans valider un modèle complet ni soutenir le projet.
+
+[Destination Earth](https://digital-strategy.ec.europa.eu/en/policies/destination-earth) · [Polis](https://compdemocracy.org/polis/) · [AI Economist](https://arxiv.org/abs/2108.02755) · [InVEST](https://naturalcapitalalliance.stanford.edu/invest/models) · [Comparaison des initiatives](research/inspirations.md#initiatives-proches--ia-modélisation-et-décision-collective)
 
 ### Les intérêts personnels d’un chef d’État ne devraient pas décider de l’avenir de tous.
 
@@ -188,6 +196,8 @@ Ces orientations supposent **cinq fonctions aux pouvoirs distincts**.
 **Pourquoi ?** En 2025, dans 33 pays de l’OCDE, **52 % des adultes estimaient ne pas avoir voix au chapitre** en moyenne ([OCDE](https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2026-results_9eb63fec-en/full-report/political-voice-barriers-to-participation-and-implications-for-trust-in-government_08533950.html)). Le projet veut **ouvrir d’autres choix politiques face aux enjeux présents et futurs**.
 
 **Comment ?** Le vote et les assemblées citoyennes fixeraient **les priorités et le partage des efforts**. Le Parlement voterait lois et budgets parmi les solutions validées scientifiquement. Les propositions citoyennes recevraient **une réponse justifiée et un suivi public**.
+
+L’initiative française [Un commun accord](https://www.uncommunaccord.fr/) réunit depuis septembre 2026 **150 citoyens tirés au sort** pour délibérer sur des dilemmes collectifs avant l’élection présidentielle de 2027. Ses propositions visent à éclairer le débat public, sans mécanisme de suivi parlementaire prévu ici.
 
 [En savoir plus : la démocratie](docs/09-democratie.md)
 

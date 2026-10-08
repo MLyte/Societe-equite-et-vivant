@@ -31,6 +31,11 @@ const githubSvg = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16
 export const root = fileURLToPath(new URL('.', import.meta.url));
 export const repository = 'https://github.com/MLyte/Societe-equite-et-vivant';
 const externalSources = new Set([
+  'https://www.uncommunaccord.fr/',
+  'https://digital-strategy.ec.europa.eu/en/policies/destination-earth',
+  'https://compdemocracy.org/polis/',
+  'https://arxiv.org/abs/2108.02755',
+  'https://naturalcapitalalliance.stanford.edu/invest/models',
   'https://darioamodei.com/post/we-must-pace-the-frontier',
   'https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf',
   'https://www.ilo.org/fr/publications/intelligence-artificielle-generative-et-emploi-revision-2025',
@@ -63,8 +68,12 @@ const currentStatePhotos = [
   { file: 'constat-raffinerie-unsplash.webp', width: 1100, height: 733, alt: 'Tours et installations d’une raffinerie de pétrole.', author: 'Ali Mucci', id: 'gZbjx2K7s9I' },
   { file: 'constat-travail-unsplash.webp', width: 1100, height: 733, alt: 'Des mains travaillent sur le clavier d’un ordinateur portable.', author: 'Alicia Christin Gerald', id: '45ry4Md83aw' },
   { file: 'constat-recherche-unsplash.webp', width: 1100, height: 733, alt: 'La Terre et ses formations nuageuses vues depuis l’espace.', author: 'NASA', id: 'yZygONrUBe8' },
-  { file: 'constat-securite-ia.png', width: 1024, height: 1536, alt: 'Illustration générée par IA : une personne inspecte les équipements d’une salle de serveurs.', generated: true },
   { file: 'constat-politique-unsplash.webp', width: 1100, height: 619, alt: 'Le dôme du Capitole des États-Unis et un drapeau américain, à Washington.', author: 'Ian Hutchinson', id: 'P8rgDtEFn7s' },
+];
+const aiCardPhotos = [
+  currentStatePhotos[3],
+  { file: 'constat-securite-ia.png', width: 1024, height: 1536, alt: 'Illustration générée par IA : une personne inspecte les équipements d’une salle de serveurs.', generated: true },
+  { file: 'hero-main-vivant-unsplash.webp', width: 1400, height: 2100, alt: 'Une main touche délicatement une jeune pousse de conifère.', author: 'Aarón Blanco Tejedor', id: '4KxmD_60lfI' },
 ];
 export const sectionIds = ['presentation', 'propositions', 'decisions', 'ia', 'limites', 'demarche', 'approfondir'];
 const titles = [null, 'Ce que le projet propose', 'Comment les décisions seraient prises', 'Une IA pour éclairer le long terme', 'Les prochaines étapes de conception', 'D’où vient cette démarche', 'Construisons la suite'];
@@ -78,12 +87,12 @@ export function sourceUrl(href) {
   const [path, anchor] = href.split('#');
   const full = resolve(root, path);
   const rel = relative(root, full);
-  if (!path || isAbsolute(path) || rel.startsWith('..') || !/^(docs\/[^/]+\.md|README\.md|CONTRIBUTING\.md)$/.test(path) || !existsSync(full)) {
+  if (!path || isAbsolute(path) || rel.startsWith('..') || !/^(docs\/[^/]+\.md|research\/inspirations\.md|README\.md|CONTRIBUTING\.md)$/.test(path) || !existsSync(full)) {
     throw new Error(`Source absente ou non autorisée : ${href}`);
   }
   if (anchor) {
     const headings = readFileSync(full, 'utf8').match(/^#{1,6} .+$/gm) ?? [];
-    const anchors = headings.map((h) => h.replace(/^#+ /, '').toLowerCase().replace(/[^\p{L}\p{N}\s_-]/gu, '').replace(/ /g, '-'));
+    const anchors = headings.map((h) => h.replace(/^#+ /, '').toLowerCase().replace(/[^\p{L}\p{N}\s_-]/gu, '').replace(/\s/g, '-'));
     if (!anchors.includes(anchor)) throw new Error(`Ancre source absente : ${href}`);
   }
   return `${repository}/blob/main/${path}${anchor ? `#${anchor}` : ''}`;
@@ -132,10 +141,26 @@ export function renderVitrine(source = readFileSync(resolve(root, 'vitrine.md'),
       return { title, body: lines.join('\n') };
     }) };
   });
-  if (sections.length !== 8 || sections[1].title !== 'Constat actuel' || sections[1].cards.length !== 6) throw new Error('La section Constat actuel doit suivre la présentation avec six repères sourcés.');
+  if (sections.length !== 8 || sections[1].title !== 'Constat actuel' || sections[1].cards.length !== 5) throw new Error('La section Constat actuel doit suivre la présentation avec cinq cartes sourcées.');
   const [currentState] = sections.splice(1, 1);
   if (currentState.cards.some((card) => !/\[[^\]]+\]\([^)]+\)/.test(card.body))) throw new Error('Chaque constat doit citer sa source.');
   const currentCards = currentState.cards.map((card, index) => {
+    const parts = card.body.trim().split(/^#### /m);
+    if (parts.length > 1) {
+      if (parts.length !== aiCardPhotos.length) throw new Error('La carte IA doit contenir trois volets illustrés.');
+      const rows = parts.map((part, partIndex) => {
+        const [title, ...lines] = part.split('\n');
+        const heading = partIndex ? title : card.title;
+        const blocks = (partIndex ? lines.join('\n') : part).trim().split(/\n\s*\n/);
+        if (![2, 3].includes(blocks.length) || !blocks.at(-1).startsWith('[')) throw new Error('Chaque volet du constat doit contenir une explication, une note facultative puis ses sources.');
+        const note = blocks.length === 3 ? `<p class="constat-note"><small>${markdown.parseInline(blocks[1])}</small></p>` : '';
+        const tag = partIndex ? 'h4' : 'h3';
+        const photo = aiCardPhotos[partIndex];
+        const credit = photo.generated ? '<p class="constat-note"><small>Illustration générée par IA.</small></p>' : `<figcaption><a href="https://unsplash.com/photos/${photo.id}" target="_blank" rel="noopener noreferrer" aria-label="Source de la photo d’illustration : ${escapeHtml(photo.author)} / Unsplash">${externalLinkSvg}<span>Source</span></a></figcaption>`;
+        return `<section class="constat-ia-row${partIndex === 2 ? ' constat-ia-conclusion' : ''}"><figure class="constat-photo"><img src="./assets/${photo.file}" alt="${escapeHtml(photo.alt)}" width="${photo.width}" height="${photo.height}" loading="lazy" decoding="async">${photo.generated ? '' : credit}</figure><div class="constat-content"><${tag} class="constat-lead">${nonBreakingPunctuation(escapeHtml(heading))}</${tag}><div class="constat-explanation">${markdown.parse(blocks[0])}${note}${photo.generated ? credit : ''}</div><footer class="constat-sources">${markdown.parse(blocks.at(-1))}</footer></div></section>`;
+      }).join('');
+      return `<article class="constat-card constat-card-ia bg-white border rounded-xl">${rows}</article>`;
+    }
     const blocks = card.body.trim().split(/\n\s*\n/);
     if (![2, 3].includes(blocks.length) || !blocks.at(-1).startsWith('[')) throw new Error('Chaque constat doit contenir une explication, une note facultative puis ses sources.');
     const note = blocks.length === 3 ? `<p class="constat-note"><small>${markdown.parseInline(blocks[1])}</small></p>` : '';

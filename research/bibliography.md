@@ -18,6 +18,12 @@ Les références doivent être ajoutées avec prudence. Ne pas utiliser ce fichi
   Usage : mise à jour du cadre des limites planétaires et clarification des interactions entre limites.
 - Richardson, K. et al., 2023, [*Earth beyond six of nine planetary boundaries*](https://doi.org/10.1126/sciadv.adh2458), *Science Advances*.
   Usage : état récent du dépassement des limites planétaires.
+- Commission européenne, [*Destination Earth*](https://digital-strategy.ec.europa.eu/en/policies/destination-earth).
+  Usage : architecture des observations et simulations climatiques ; présentation institutionnelle, sans évaluation indépendante des effets sur les décisions.
+- Destination Earth / ECMWF, [*Pilot Service Urban Heat*](https://destine.ecmwf.int/use-case/urban-heat-pilot-service-bringing-climate-insights-to-the-neighbourhood-scale/).
+  Usage : exemple de scénarios de chaleur urbaine à l'échelle des quartiers ; service pilote dont les bénéfices annoncés restent à vérifier localement.
+- Natural Capital Alliance, [*InVEST Urban Cooling*](https://naturalcapitalalliance.stanford.edu/invest/urban-cooling).
+  Usage : paramètres et portée d'un modèle de refroidissement urbain, à confronter à des mesures locales et à d'autres indicateurs écologiques.
 
 ### Énergie
 
@@ -74,6 +80,8 @@ Les références doivent être ajoutées avec prudence. Ne pas utiliser ce fichi
   Usage : comparaison budgétaire et distributive du revenu de base dans les pays de l'OCDE.
 - ILO, 2023, [*Working Time and Work-Life Balance Around the World*](https://www.ilo.org/publications/working-time-and-work-life-balance-around-world).
   Usage : réduction du temps de travail, horaires flexibles, équilibre vie privée-vie professionnelle et effets sur travailleurs et employeurs.
+- Zheng, S. et al., 2021, [*The AI Economist: Optimal Economic Policy Design via Two-level Deep Reinforcement Learning*](https://arxiv.org/abs/2108.02755).
+  Usage : méthode expérimentale de simulation fiscale et limites explicites de sa transposition aux économies réelles.
 
 ### Démocratie et participation
 
@@ -85,6 +93,10 @@ Les références doivent être ajoutées avec prudence. Ne pas utiliser ce fichi
   Usage : théorie et méthode du sondage délibératif.
 - Landemore, H., 2020, [*Open Democracy: Reinventing Popular Rule for the Twenty-First Century*](https://press.princeton.edu/books/hardcover/9780691181998/open-democracy).
   Usage : théorie démocratique sur tirage au sort, mini-publics et participation ouverte ; à discuter avec ses critiques institutionnelles.
+- Computational Democracy Project, [*Polis Methods Guide*](https://compdemocracy.org/polis/book/introduction/).
+  Usage : cadrage, recrutement, modération et interprétation d'une consultation ; guide de l'équipe du dispositif, à confronter à une évaluation indépendante.
+- Computational Democracy Project, [*Open Polis Data: vTaiwan UberX*](https://github.com/compdemocracy/openData/tree/master/vtaiwan.uberx).
+  Usage : données ouvertes d'un cas de consultation, avec attribution ; elles ne prouvent pas à elles seules la représentativité ni l'effet sur la décision.
 
 ---
 

@@ -79,6 +79,13 @@
   .constat-grid { grid-template-columns: minmax(0, 1fr); gap: 1.5rem; }
   .constat-card { min-width: 0; display: grid; grid-template-columns: minmax(0, .52fr) minmax(0, 1fr); overflow: hidden; border-color: var(--color-sage-line); box-shadow: 0 2px 6px rgb(37 42 45 / 3%); }
   .constat-card:nth-child(even) { border-color: var(--color-copper-line); }
+  .constat-card-ia { display: block; }
+  .constat-ia-row { display: grid; grid-template-columns: minmax(0, .52fr) minmax(0, 1fr); }
+  .constat-ia-row + .constat-ia-row { border-top: 1px solid var(--color-line); }
+  .constat-ia-conclusion { border-top: 2px solid var(--color-sage-line) !important; background: var(--color-sage-soft); }
+  .constat-ia-conclusion .constat-lead { color: var(--color-sage) !important; }
+  .constat-ia-row:nth-child(2) .constat-photo img { object-position: center 44%; }
+  .constat-ia-conclusion .constat-photo img { object-position: center 48%; }
   .constat-photo { position: relative; min-width: 0; margin: 0; overflow: hidden; background: var(--color-mist); }
   .constat-photo img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; filter: url(#hero-isohelie); }
   .constat-card:nth-child(2) .constat-photo img { object-position: 72% center; }
@@ -241,7 +248,9 @@
   .editorial-section { padding-block: 40px; }
   .content-card { padding: 1.3rem; }
   .constat-card { grid-template-columns: minmax(0, 1fr); }
+  .constat-ia-row { grid-template-columns: minmax(0, 1fr); }
   .constat-photo { aspect-ratio: 16 / 9; }
+  .constat-ia-row .constat-photo { aspect-ratio: 16 / 9; }
   .constat-card:first-child .constat-photo img { object-position: center 70%; }
   .constat-card:last-child .constat-photo img { object-position: center 45%; }
   .constat-content { padding: 1.25rem; }

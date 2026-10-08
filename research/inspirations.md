@@ -59,6 +59,96 @@ L'[examen comparatif des quatre références de la vitrine](#examen-comparatif-d
 - Infrastructures numériques publiques.
 - Estonie : État plateforme, identité numérique, interopérabilité administrative et principe de non-redemande des informations déjà fournies. Inspiration à encadrer fortement par la protection de la vie privée et l'auditabilité.
 
+## Initiatives proches : IA, modélisation et décision collective
+
+Examen ciblé du 8 octobre 2026. Ces initiatives documentent certaines fonctions envisagées par Société, équité et vivant. Leur existence ne valide ni leur combinaison ni le modèle du projet. Les liens renvoient à des sources primaires ; les rapprochements et limites de conception ci-dessous relèvent de notre analyse. Aucune affiliation ni aucun soutien n’est présumé.
+
+### Destination Earth — Commission européenne
+
+**Dispositif documenté.** Destination Earth associe observations, modèles scientifiques, calcul intensif et outils d’IA pour simuler les interactions entre phénomènes naturels et activités humaines. Son périmètre initial concerne les événements extrêmes et l’adaptation au changement climatique. La Commission coordonne l’initiative, mise en œuvre par l’ESA, EUMETSAT et le Centre européen pour les prévisions météorologiques à moyen terme.
+
+**Intérêt pour le projet.** Explorer plusieurs scénarios à partir de données environnementales et socio-économiques, afin de rendre leurs conséquences plus visibles.
+
+**Limites.** Un jumeau numérique est une représentation partielle, pas une reproduction exhaustive de la Terre. La qualité des données, les hypothèses et les incertitudes doivent être examinées. Une simulation ne détermine pas les priorités sociales ni la justice d’une décision.
+
+**Source primaire :** [présentation de Destination Earth par la Commission européenne](https://digital-strategy.ec.europa.eu/en/policies/destination-earth). Cette présentation décrit le dispositif et ses objectifs ; elle ne constitue pas une évaluation indépendante de ses effets sur les décisions publiques.
+
+### Polis et vTaiwan — participation citoyenne à Taïwan
+
+**Dispositif documenté.** Polis est un logiciel ouvert qui utilise les statistiques et l’apprentissage automatique pour analyser les réactions à des propositions formulées par les participants. Il aide à rendre visibles les groupes d’opinions et les points d’accord entre groupes. Le processus vTaiwan, auquel ont contribué Audrey Tang et les communautés civiques g0v, l’a utilisé dans des consultations publiques, notamment sur UberX en 2015.
+
+**Intérêt pour le projet.** Recueillir les besoins et les désaccords directement auprès des personnes, en complément des données administratives et scientifiques. Le [guide d'articulation avec les assemblées citoyennes](https://compdemocracy.org/polis/book/lottery-selected-assemblies/) propose de l'utiliser en amont pour cadrer les sujets et pendant la délibération pour examiner les opinions, sans lui confier l'approbation finale. Cette articulation pourrait compléter les panels déjà prévus par le projet.
+
+**Limites.** Les participants ne représentent pas automatiquement toute la population. Le recrutement, la formulation des questions, la modération et les suites institutionnelles influencent le résultat. Un accord entre participants ne suffit pas à protéger les droits des minorités.
+
+**Sources primaires :** [fonctionnement de Polis](https://compdemocracy.org/polis/) et [consultation vTaiwan sur UberX](https://compdemocracy.org/case-studies/2015-vtaiwan-uberx/), documentés par le Computational Democracy Project. Ces sources présentent la méthode et un cas d’usage, sans démontrer son efficacité dans tous les contextes.
+
+### AI Economist — Stephan Zheng et l’équipe Salesforce Research
+
+**Recherche documentée.** AI Economist utilise l’apprentissage par renforcement à deux niveaux pour explorer des politiques économiques dans des simulations où agents économiques et concepteur de politiques adaptent leurs comportements. Les travaux étudient notamment la fiscalité et les compromis entre égalité et productivité.
+
+**Intérêt pour le projet.** Comparer des politiques selon des objectifs explicites et étudier leurs interactions avec les comportements des acteurs.
+
+**Limites.** Les résultats dépendent de la représentation de l’économie, des comportements simulés et de la définition du bien-être retenue. Les expériences ne prouvent pas qu’une politique fonctionnerait à l’échelle d’un pays. Le choix des objectifs demeure un choix de valeur soumis au débat.
+
+**Source primaire :** [The AI Economist: Optimal Economic Policy Design via Two-level Deep Reinforcement Learning](https://arxiv.org/abs/2108.02755), article de recherche de Zheng et ses coauteurs, initialement déposé en 2021. Il documente une méthode et des résultats dans un périmètre expérimental.
+
+### InVEST — Natural Capital Project / Natural Capital Alliance
+
+**Outil documenté.** InVEST est une suite de modèles permettant de cartographier des services rendus par les écosystèmes, les populations qui en bénéficient et les effets de scénarios d’aménagement. Les modèles sont modulaires ; leur utilisation n’exige pas de réduire tous les effets à une valeur monétaire.
+
+**Intérêt pour le projet.** Examiner les conséquences écologiques et humaines des options territoriales. Il s’agit d’une brique de modélisation, et non d’une IA générale.
+
+**Limites.** Les services modélisés ne couvrent pas toute la valeur du vivant. Les données disponibles, les échelles et les simplifications peuvent masquer des effets locaux ou des dommages non quantifiés. Préserver le vivant ne peut pas dépendre uniquement d’un bénéfice mesuré pour les humains.
+
+**Source primaire :** [catalogue des modèles InVEST](https://naturalcapitalalliance.stanford.edu/invest/models), publié par l’équipe du programme à Stanford. Cette documentation décrit les fonctions des modèles, sans valider chaque application locale.
+
+### Organismes d’évaluation et de données à articuler
+
+Ces organismes peuvent documenter les contraintes et nourrir les scénarios examinés plus haut. Ils n’emploient pas tous l’IA et n’ont pas le même rôle : évaluation des connaissances, production de données ou analyse de risques.
+
+- **IPBES** : évalue les connaissances sur la biodiversité et les services écosystémiques, notamment leurs liens avec l’eau, l’alimentation et la santé ([présentation de l’IPBES](https://www.ipbes.net/about)).
+- **Panel international des ressources (IRP)** : évalue l’utilisation des ressources naturelles, ses empreintes et ses conséquences environnementales et sociales ([présentation par ONU Environnement](https://www.unep.org/explore-topics/resource-efficiency/what-we-do/international-resource-panel)).
+- **Agence internationale de l’énergie (AIE)** : fournit des statistiques et des analyses sur l’offre et la demande d’énergie, les investissements, l’efficacité et les émissions ([présentation des données de l’AIE](https://www.iea.org/data-and-statistics/about)).
+- **Agence européenne pour l’environnement (AEE)** : suit l’état de l’environnement et du climat en Europe ainsi que les progrès vers les objectifs européens ([rapport sur l’environnement européen](https://www.eea.europa.eu/en/topics/at-a-glance/state-of-europes-environment)).
+- **Copernicus Climate Change Service** : met à disposition des données et des outils climatiques utiles à l’observation et à l’étude de scénarios d’adaptation ([présentation du service](https://climate.copernicus.eu/about-us)).
+- **CERAC** : analyse les risques climatiques et environnementaux à moyen et long termes pour la Belgique ([présentation du centre](https://www.cerac.be/fr/propos-de-nous)).
+
+**Limite commune.** Une évaluation scientifique, une série statistique ou une projection éclaire les possibilités et les risques ; elle ne fixe pas à elle seule les priorités sociales ni la décision démocratique. Chaque usage doit préciser la date, le périmètre géographique, les hypothèses et les incertitudes de la publication citée.
+
+### Hypothèse d’articulation pour Société, équité et vivant
+
+Le rapprochement proposé associe connaissances scientifiques, besoins exprimés, comparaison de scénarios et contrôle démocratique. Il reste une **hypothèse de conception à tester**. Aucun des exemples ci-dessus ne démontre qu’un système pourrait intégrer toutes les données de l’humanité et du vivant ni déterminer seul une décision juste.
+
+Un démonstrateur limité pourrait porter sur l’adaptation d’une commune aux fortes chaleurs : comparer plusieurs mesures selon leurs coûts, délais, besoins en eau, effets sur les personnes vulnérables et la biodiversité. Ce cas ne remplace pas les autres sujets dégagés par la comparaison. Les contraintes physiques, les moyens disponibles et les droits à protéger seraient explicités séparément. Les estimations seraient confrontées au terrain avant toute généralisation.
+
+Les contrôles doivent prévenir la concentration de l’expertise et la capture des données ou des objectifs ; protéger les personnes absentes des consultations et leur vie privée ; rendre visibles les coûts économiques, énergétiques et les dépendances aux fournisseurs ; garantir une possibilité de contestation. La combinaison serait révisée ou abandonnée si elle produit des résultats non fiables, exclut des populations, porte atteinte aux droits ou ne permet pas un contrôle indépendant.
+
+### Rouages à étudier dans le projet
+
+| Initiative | Déjà traité | Sujet encore peu instruit |
+| --- | --- | --- |
+| Destination Earth | Scénarios climatiques | Exposition locale et validation des projections |
+| Polis | Consultation et représentativité | Désaccords minoritaires et suites données |
+| AI Economist | Politiques et effets distributifs | Réactions comportementales vérifiées empiriquement |
+| InVEST | Protection du vivant | Effets locaux et répartition des bénéfices |
+
+Leur mise en relation reste à construire : elle demanderait des échelles, des données et des hypothèses compatibles, ainsi qu'une évaluation indépendante de chaque résultat.
+
+### Travaux réutilisables pour les sujets encore peu instruits
+
+Les sources suivantes servent à formuler des études du projet, pas à importer leurs conclusions comme des politiques déjà validées. Chaque usage proposé est une **hypothèse de recherche** : il faut vérifier la disponibilité des données, les hypothèses des modèles et les personnes laissées hors de l'analyse.
+
+**Chaleur urbaine et adaptation.** La [Commission européenne décrit](https://digital-strategy.ec.europa.eu/en/policies/destination-earth) une infrastructure associant observations et simulations climatiques ; le [service pilote de chaleur urbaine de Destination Earth](https://destine.ecmwf.int/use-case/urban-heat-pilot-service-bringing-climate-insights-to-the-neighbourhood-scale/) présente des indicateurs de chaleur à l'échelle des quartiers et des scénarios d'adaptation. Ces pages décrivent un dispositif et des usages visés, pas une réduction déjà mesurée des dommages. Pour étudier un territoire, reprendre la distinction entre aléa climatique, exposition des habitants et effets attendus des mesures, puis confronter les scénarios aux observations locales. Le projet doit encore préciser comment comparer la chaleur dans les logements, la santé des personnes exposées, le coût d'entretien et les besoins en eau ; la résolution d'une carte ne garantit pas la précision de ces effets.
+
+**Effets écologiques des aménagements.** La [documentation du modèle Urban Cooling d'InVEST](https://naturalcapitalalliance.stanford.edu/invest/urban-cooling) explicite un indice fondé notamment sur l'ombre, l'évapotranspiration, l'albédo et la distance aux espaces rafraîchissants. C'est une méthode réutilisable pour comparer des variantes de végétalisation, de désimperméabilisation ou d'aménagement d'un quartier, sous réserve de données d'occupation du sol adaptées. Les résultats doivent être confrontés à des mesures locales et complétés par des indicateurs distincts de biodiversité, d'accès aux espaces verts et de besoins en eau : un indice de refroidissement ne mesure ni tous les effets écologiques ni la répartition des bénéfices.
+
+**Expression des désaccords et suites données aux avis.** Le [guide méthodologique de Polis](https://compdemocracy.org/polis/book/introduction/) distingue quatre tâches : cadrer la question, atteindre les participants, modérer et interpréter les résultats. Le [jeu de données ouvert de la consultation vTaiwan sur UberX](https://github.com/compdemocracy/openData/tree/master/vtaiwan.uberx) permet d'étudier concrètement les propositions et les votes, sans déduire de leur seule publication la représentativité des participants ni l'effet causal de Polis sur la réglementation. Pour le projet, analyser une consultation comme une chaîne allant du recrutement à la réponse publique, en vérifiant les groupes absents, les désaccords minoritaires et les recommandations effectivement reprises. L'étude des données publiées doit respecter leur attribution et éviter de réidentifier les participants.
+
+**Réactions aux règles économiques.** L'[article AI Economist](https://arxiv.org/abs/2108.02755) expérimente une fiscalité dans des économies simulées où les agents adaptent leurs comportements. Il montre une méthode pour tester les effets d'une règle et les stratégies qu'elle peut susciter, mais ses auteurs précisent que leurs conclusions ne s'appliquent pas à une économie réelle donnée. Pour approfondir le financement du socle vital, comparer d'abord des scénarios transparents de recettes, de dépenses et d'effets distributifs ; une simulation d'agents ne deviendrait utile que si ses comportements, ses données et ses résultats pouvaient être confrontés à des observations indépendantes. L'objectif d'égalité ou de productivité ne peut pas être fixé par le modèle seul.
+
+**Suites de travail.** Ces quatre initiatives ouvrent plusieurs dossiers distincts : Destination Earth pour la traduction locale des scénarios climatiques ; InVEST pour les effets des aménagements sur les écosystèmes et les populations ; Polis pour l'expression des désaccords et le suivi des avis ; AI Economist pour les réactions possibles aux règles de redistribution. La chaleur urbaine n'est qu'un exemple de croisement entre les deux premiers, auquel une consultation pourrait être associée. Aucun de ces dossiers n'a de territoire pilote ni de résultat acquis ; la simulation économique exigerait en particulier une validation empirique adaptée avant d'éclairer une politique réelle.
+
 ---
 
 ## Inspirations de planification et prospective
